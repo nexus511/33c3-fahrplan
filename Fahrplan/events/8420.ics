@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T171500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T164500
+DTSTAMP;VALUE=DATE-TIME:20161218T165842Z
+UID:450d2481-6606-40fe-ba8b-7117d4724155@frab.cccv.de
+DESCRIPTION:I would like to present my project called Anthropology for ki
+ ds and a specific book\, that I am working on in the larger framework of
+  this project.  \nThis book will look like an ordinary school notebook i
+ n which a teacher checks a student if the lesson had been learnt. But it
+  is actually not! I gathered this collection of historical and anthropol
+ ogical notes\, so that together with school kids we can think about how 
+ the very idea of privacy was developed in different countries and in dif
+ ferent historical epochs. In ancient Babylon wealthy women were allowed 
+ to cover their faces and their bodies\, but the poor ones were not. In t
+ he Soviet Union during Stalin times it was dangerous to tell a political
+  joke even in the group of close friends. One of them may report a joke 
+ to the authorities. Punishment for a political joke could be a prison se
+ ntence. \nToday more or less all our online communication is watched or 
+ recorded by authorities.\nHow does our present relate to other times in 
+ history\, how is the western notion of privacy related to the ideas in o
+ ther cultures.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8420.html
+SUMMARY:Anthropology for kids - What is privacy?
+LOCATION:33c3 - Saal 6
+END:VEVENT
+END:VCALENDAR

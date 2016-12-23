@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T231500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T224500
+DTSTAMP;VALUE=DATE-TIME:20161213T214609Z
+UID:8270c91a-d6e2-4f1c-9ebb-cdf10708d921@frab.cccv.de
+DESCRIPTION:Imagine\, there is this huge data center but your user privil
+ eges allow you to access only 5% of the data. That is the exact same sit
+ uation physicists face when trying to study the cosmos. 95% of our unive
+ rse is made out of something that cannot be seen or touched. We generall
+ y call this unknown substance "dark matter" / "dark energy". The recent 
+ discovery of gravitational waves gives us a handle on the dark cosmos. W
+ e can now listen to invisible events in our universe. But there may also
+  be other methods to shed light on the dark side.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8245.html
+SUMMARY:Eavesdropping on the Dark Cosmos
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

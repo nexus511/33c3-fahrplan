@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T000000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T233000
+DTSTAMP;VALUE=DATE-TIME:20161217T145150Z
+UID:562ced0e-1be5-4912-b9a1-d79709ad324a@frab.cccv.de
+DESCRIPTION:This talk presents the idea that ethics as logic that can be 
+ programmed into machines doesn’t seem to work\; perhaps\, ethics is some
+ thing else. This talk is about what that something else may be – power. 
+ (This talk is not about the Trolley Problem! But it will mention why it 
+ shouldn’t apply to the driverless car.)
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8214.html
+SUMMARY:Ethics in the data society
+LOCATION:33c3 - Saal 6
+END:VEVENT
+END:VCALENDAR

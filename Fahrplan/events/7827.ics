@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T193000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T183000
+DTSTAMP;VALUE=DATE-TIME:20161214T160608Z
+UID:7ef9172a-e2c7-4e78-9316-08449bd582c6@frab.cccv.de
+DESCRIPTION:<p>Many web sites allow users to log in with their Facebook o
+ r Google account. This so-called Web single sign-on (SSO) often uses the
+  standard protocols OAuth and OpenID Connect. How secure are these proto
+ cols?  What can go wrong?</p>\n\n<p>OAuth and OpenID Connect do not prot
+ ect your privacy at all\, i.e.\, your identity provider (e.g.\, Facebook
+  or Google) can always track\, where you log in. Mozilla tried to create
+  an authentication protocol that aimed to prevent tracking: BrowserID (a
+ .k.a. Persona). Did their proposition really solve the privacy issue? Wh
+ at are the lessons learned and can we do better?</p>
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7827.html
+SUMMARY:On the Security and Privacy of Modern Single Sign-On in the Web
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T181500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T171500
+DTSTAMP;VALUE=DATE-TIME:20161215T184849Z
+UID:4ef69e6a-026f-4b30-888d-af654b220a3d@frab.cccv.de
+DESCRIPTION:Blockchain ist die Technologie welche moderne Kryptowährungen
+  ermöglicht. In dem Vortrag wird die Funktionsweise von Blockchains ganz
+  allgemein erklärt. Anhand der Bitcoin Blockchain wird ausserdem gezeigt
+ \, wie diese Funktionen in einem echten System umgesetzt werden können.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7824.html
+SUMMARY:Einführung zu Blockchains
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

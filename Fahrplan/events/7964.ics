@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T224500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T214500
+DTSTAMP;VALUE=DATE-TIME:20161214T203456Z
+UID:530f0400-e4e8-4d99-909d-4cfc8121c0b0@frab.cccv.de
+DESCRIPTION:Travel booking systems are among the oldest global IT infrast
+ ructures\, and have changed surprisingly little since the 80s. The perso
+ nal information contained in these systems is hence not well secured by 
+ today's standards. This talk shows real-world hacking risks from trackin
+ g travelers to stealing flights. 
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7964.html
+SUMMARY:Where in the World Is Carmen Sandiego?
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

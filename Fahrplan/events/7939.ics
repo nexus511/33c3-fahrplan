@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T163000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T160000
+DTSTAMP;VALUE=DATE-TIME:20161213T213908Z
+UID:56537f49-c8f0-4d73-bdba-d4d8307fc170@frab.cccv.de
+DESCRIPTION:Polizeibehörden und Geheimdienste sammeln Daten der Bürger – 
+ mehr als je zuvor. Der Bestand an unterschiedlichen Datenbanken ist enor
+ m gewachsen und geradezu unübersichtlich geworden. Aufgrund datenschutzr
+ echtlicher Regelungen gibt es für etliche dieser Datenbanken einen geset
+ zlichen Auskunftsanspruch des Bürgers.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7939.html
+SUMMARY:Check Your Police Record!
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

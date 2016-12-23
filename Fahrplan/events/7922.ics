@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T181500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T171500
+DTSTAMP;VALUE=DATE-TIME:20161215T102414Z
+UID:0a3b7891-6446-4ef7-afc4-e95c21193c68@frab.cccv.de
+DESCRIPTION:Yosys is a free and open source Verilog synthesis tool and mo
+ re. It gained prominence last year because of its role as synthesis tool
+  in the Project IceStorm FOSS Verilog-to-bitstream flow for iCE40 FPGAs.
+  This presentation however dives into the Yosys-SMTBMC formal verificati
+ on flow that can be used for verifying formal properties using bounded m
+ odel checks and/or temporal induction.\n
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7922.html
+SUMMARY:Formal Verification of Verilog HDL with Yosys-SMTBMC
+LOCATION:33c3 - Saal 6
+END:VEVENT
+END:VCALENDAR

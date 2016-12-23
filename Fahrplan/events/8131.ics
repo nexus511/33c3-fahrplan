@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T193000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T190000
+DTSTAMP;VALUE=DATE-TIME:20161217T195752Z
+UID:378cdf23-350b-4a05-afd0-6360139a7a06@frab.cccv.de
+DESCRIPTION:At 32C3 we gave an overview on the organizational and technic
+ al aspects of Dieselgate that had just broken public three months before
+ . In the last year we have learned a lot and spoken to hundreds of peopl
+ e. Daniel gives an update on what is known and what is still to be revea
+ led.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8131.html
+SUMMARY:Dieselgate – A year later
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

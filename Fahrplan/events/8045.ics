@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T180000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T173000
+DTSTAMP;VALUE=DATE-TIME:20161213T214213Z
+UID:3eadf072-8762-461d-a210-a3ea4df66e8a@frab.cccv.de
+DESCRIPTION:Die Dynamik der globalen Agrarmärkte hat sich in den letzten 
+ Jahren verstärkt und birgt neue Herausforderungen für die Landwirte. Hof
+ fnungsträger sind ähnlich wie in anderen Branchen auch Sensor- & Datenve
+ rarbeitungstechnik sowie das Internet: Produktionsprozesse steuern sich 
+ selbst\, Anhänger werden halbautomatisch mittels Bilderkennung beladen\,
+  Maschinen kommunizieren mittels Maschinen und Fahrzeuge steuern sich we
+ itestgehend schon jetzt autonom.\n
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8045.html
+SUMMARY:0en & 1en auf dem Acker
+LOCATION:33c3 - Saal 6
+END:VEVENT
+END:VCALENDAR

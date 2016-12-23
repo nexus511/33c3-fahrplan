@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T134500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T124500
+DTSTAMP;VALUE=DATE-TIME:20161213T213810Z
+UID:798573a8-f544-48f0-abaf-ebc405f03f4a@frab.cccv.de
+DESCRIPTION:PHP-7 is a new version of the most prevalent server-side lang
+ uage in use today. Like previous version\, this version is also vulnerab
+ le to memory corruptions.\nHowever\, the language has gone through exten
+ sive changes and none of previous exploitation techniques are relevant.\
+ nIn this talk\, we explore the new memory internals of the language from
+  exploiters and vulnerability researchers point of view. We will explain
+  newly found vulnerabilities in the 'unserialize' mechanism of the langu
+ age and present re-usable primitives for remote exploitation of these vu
+ lnerabilities.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7858.html
+SUMMARY:Exploiting PHP7 unserialize
+LOCATION:33c3 - Saal 6
+END:VEVENT
+END:VCALENDAR

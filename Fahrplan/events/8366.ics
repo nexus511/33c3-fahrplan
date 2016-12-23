@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T120000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T113000
+DTSTAMP;VALUE=DATE-TIME:20161219T214115Z
+UID:10253100-7788-4aae-9479-c0cddf282d9d@frab.cccv.de
+DESCRIPTION:Even though the Snowden revelations for the first time clearl
+ y show that mass surveillance of communications is carried out on a glob
+ al level\, little knowledge seems to be available to the general public 
+ as well as the hacker community how these so-called COMINT operations ac
+ tually work. The talk focuses on mass surveillance based on methods know
+ n from research of the interdiscplinary field of Computationanal Linguis
+ tics (or Natural Language Processing) and demonstrates how generation of
+  selectors for mass surveilling text messages can occur.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8366.html
+SUMMARY:Mass Surveillance through Computational Linguistics and Human Lan
+ guage Technology
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

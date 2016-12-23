@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T214500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T211500
+DTSTAMP;VALUE=DATE-TIME:20161215T160954Z
+UID:c4211c94-7cea-457d-9214-7ccf5d7c89cc@frab.cccv.de
+DESCRIPTION:The long term survival of the human species requires that we 
+ become an interplanetary species. But we must answer two big questions: 
+ where are we going\, and how do we get there? We explore what scientists
+  know (and don’t know) about humanity’s potential future homes both insi
+ de and outside the solar system\, and then we’ll dive into the technolog
+ ical challenges of (and potential solutions for) getting humans to and c
+ olonizing a new planet.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7942.html
+SUMMARY:Interplanetary Colonization
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

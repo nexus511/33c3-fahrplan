@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T141500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T134500
+DTSTAMP;VALUE=DATE-TIME:20161213T213821Z
+UID:1a6657a2-b6c2-4acc-b8fc-5ec081c0877f@frab.cccv.de
+DESCRIPTION:<p>More and more businesses are moving away from monolithic s
+ ervers and turning to event-driven microservices powered by cloud functi
+ on providers like AWS Lambda. So\, how do we hack in to a server that on
+ ly exists for <i>60 milliseconds</i>?</p>\n\n<p>This talk will show nove
+ l attack vectors using cloud event sources\,  exploitabilities in common
+  server-less patterns and frameworks\, abuse of undocumented features in
+  AWS Lambda for persistent malware injection\, identifying valuable targ
+ ets for pilfering\, and\, of course\, how to exfiltrate juicy data out o
+ f a secure Virtual Private Cloud. </p>
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7865.html
+SUMMARY:Gone in 60 Milliseconds
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

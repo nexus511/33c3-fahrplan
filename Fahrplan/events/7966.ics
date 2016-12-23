@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T180000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T173000
+DTSTAMP;VALUE=DATE-TIME:20161213T214005Z
+UID:dd070191-1d1c-4b9c-a887-e4950a688cdb@frab.cccv.de
+DESCRIPTION:This talk presents the results of the technical analysis for 
+ the German Parliamentary Committee investigating the NSA spying scandal 
+ on geolocation methods in mobile networks.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7966.html
+SUMMARY:Geolocation methods in mobile networks
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

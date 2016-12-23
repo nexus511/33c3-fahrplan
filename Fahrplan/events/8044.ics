@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T113000
+DTSTAMP;VALUE=DATE-TIME:20161213T214205Z
+UID:1aa7a4c5-1a3f-444f-99fb-e9c7b4744794@frab.cccv.de
+DESCRIPTION:Hardware is often considered as an abstract layer that behave
+ s correctly\, just executing instructions and outputting a result. Howev
+ er\, the internal state of the hardware leaks information about the prog
+ rams that are executing. In this talk\, we focus on how to extract infor
+ mation from the execution of simple x86 instructions that do not require
+  any privileges. Beyond classical cache-based side-channel attacks\, we 
+ demonstrate how to perform cache attacks without a single memory access\
+ , as well as how to bypass kernel ASLR. This talk does not require any k
+ nowledge about assembly. We promise.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8044.html
+SUMMARY:What could possibly go wrong with <insert x86 instruction here>?
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

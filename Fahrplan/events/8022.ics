@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T134500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T124500
+DTSTAMP;VALUE=DATE-TIME:20161213T214109Z
+UID:4c92b3f4-e32a-483b-9e5f-4e8201849284@frab.cccv.de
+DESCRIPTION:We are 4 security researchers who have collectively worked on
+  3 different attack techniques that all (ab)use memory deduplication in 
+ one way or another. There is a cross-vm data leak attack\, a cross-vm da
+ ta write attack\, and an in-sandbox (MS Edge) Javascript data leak + ful
+ l memory read/write attack based in MS Edge.\n\nIn this talk we detail h
+ ow memory deduplication works and the many different ways it is exploite
+ d in our attacks.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8022.html
+SUMMARY:Memory Deduplication: The Curse that Keeps on Giving
+LOCATION:33c3 - Saal 6
+END:VEVENT
+END:VCALENDAR

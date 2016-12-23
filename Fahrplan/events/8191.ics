@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T231500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T224500
+DTSTAMP;VALUE=DATE-TIME:20161213T214531Z
+UID:34ea8f1f-9fad-41aa-8424-e833f10e5e8b@frab.cccv.de
+DESCRIPTION:In *The 12 Networking Truths* Swedish artist Jonas Lund will 
+ discuss how he has attempted to subvert the contemporary art world syste
+ m by using different types of exploits to gain an upper hand against the
+  competition. \n\nFrom designing an algorithm for art production to data
+  mining art world personalities\, the artist will describe how he has in
+ corporated a classic programming mindset in an otherwise logic-free envi
+ ronment. \n\nThe 12 Networking Truths refers to RFC 1925 - The Twelve Ne
+ tworking Truths\, a memo posted on the 1st of April 1996\, positioned as
+  revealing the fundamental truths underlying all network protocol design
+ s. The truths include statements such as ‘It Has To Work.’ and ‘Good\, F
+ ast\, Cheap: Pick any two (you can’t have all three).’. This memo will b
+ e the underlying story line throughout the talk\, as each truths has a c
+ orresponding position within the artist’s artistic practice. \n
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8191.html
+SUMMARY:The 12 Networking Truths
+LOCATION:33c3 - Saal 6
+END:VEVENT
+END:VCALENDAR

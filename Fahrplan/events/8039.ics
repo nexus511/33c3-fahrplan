@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T223000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T220000
+DTSTAMP;VALUE=DATE-TIME:20161213T214150Z
+UID:56ec19c0-9844-46d6-b728-7a8217b8ed38@frab.cccv.de
+DESCRIPTION:For the past three years we studied the world’s largest 3D pr
+ inting community “Thingiverse”. We explored the remix-relationships—acce
+ ssible due the community’s use of open licenses—of more than 200.000 ind
+ ividual designs\, tracked an entire week’s new designs for half a year\,
+  interviewed more than 80 creators and surveyed over 200 more. This allo
+ wed us to develop a deep understanding of the creative processes that ta
+ ke place on the platform.\nIn this talk we would like to present our fin
+ dings. This is of interest to people who care about 3D printing as we ca
+ n give sort of a behind the scenes view on how ideas come to life here. 
+ But it is also interesting to people that care about creativity in gener
+ al. As what we have found has merit outside of 3D printing\, too. In thi
+ s talk we would like to cover the following: (1) Introduce our research 
+ setting and explain why it is useful to study this\, (2) provide a conso
+ lidated overview on our most interesting findings\, and (3) give real li
+ fe examples for how these findings are transferable to other settings.\n
+ We have presented primary results of the studies at various academic con
+ ferences and have a comprehensive paper on the project currently under r
+ evision at the Journal of Information Technology (see attached file). We
+  are a group of three university professors and a Ph.D. student. We work
+  on the intersection of information systems\, innovation management\, pr
+ oduct development\, and creativity. We believe that many of the people w
+ e studied either attend 33C3 or watch talks online and we therefore thin
+ k that our results would be of interest to this community. Further\, we 
+ feel that a well structured talk is better and more entertaining than ma
+ iling around our academic journal publications to those who are interest
+ ed. And lastly\, we are eager to receive feedback from a more hands-on a
+ udience (than what we deal with at academic conferences). It would be es
+ pecially useful for us to hear of new developments\, discuss ideas for f
+ ollow-up research projects\, and get access to creators that would like 
+ to work with us in the future.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8039.html
+SUMMARY:What We Can Learn about Creativity from 3D Printing
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

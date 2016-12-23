@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T134500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T124500
+DTSTAMP;VALUE=DATE-TIME:20161213T214816Z
+UID:48e016a4-5683-4bda-8976-98f1dbf62787@frab.cccv.de
+DESCRIPTION:Software Defined Radios (SDRs) became a mainstream tool for w
+ ireless engineers and security researches and there are plenty of them a
+ vailable on the market. Most if not all SDRs in the affordable price ran
+ ge are using USB2/USB3 as a transport\, because of implementation simpli
+ city. While being so popular\, USB has limited bandwidth\, high latency 
+ and is not really suitable for embedded applications. PCIe/miniPCIe is t
+ he only widespread bus which is embedded friendly\, low latency and high
+  bandwidth at the same time. But implementing PCIe/miniPCIe is not for t
+ he faint of heart - you have to write your own FPGA code\, write your ow
+ n Linux kernel driver and ensure compatibility with different chipsets\,
+  each with its own quirks. In this talk we will look at the requirements
+  for a high performance SDR like XTRX\, how this leads to certain design
+  decisions and share pitfalls and gotchas we encountered (and solved).
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8338.html
+SUMMARY:Building a high throughput low-latency PCIe based SDR
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

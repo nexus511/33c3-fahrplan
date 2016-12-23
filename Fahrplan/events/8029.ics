@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T160000
+DTSTAMP;VALUE=DATE-TIME:20161213T214123Z
+UID:1c75e6a1-e586-4b91-abce-92a4561d0181@frab.cccv.de
+DESCRIPTION:The 8-bit Game Boy was sold between 1989 and 2003\, but its a
+ rchitecture more closely resembles machines from the early 1980s\, like 
+ the Commodore 64 or the NES. This talk attempts to communicate "everythi
+ ng about the Game Boy" to the listener\, including its internals and qui
+ rks\, as well as the tricks that have been used by games and modern demo
+ s\, reviving once more the spirit of times when programmers counted cloc
+ k cycles and hardware limitations were seen as a challenge.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8029.html
+SUMMARY:The Ultimate Game Boy Talk
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

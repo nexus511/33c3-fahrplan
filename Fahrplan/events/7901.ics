@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T180000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T173000
+DTSTAMP;VALUE=DATE-TIME:20161213T213839Z
+UID:cb67ad7f-7e12-4f34-aec0-748a61f3f958@frab.cccv.de
+DESCRIPTION:This talk will take an in-depth look at the technical capabil
+ ities and vulnerabilities used by Pegasus. We will focus on Pegasus’s fe
+ atures and the exploit chain Pegasus used called Trident. Attendees will
+  learn about Pegasus’s use of 0-days\, obfuscation\, encryption\, functi
+ on hooking\, and its ability to go unnoticed. We will present our detail
+ ed technical analysis that covers each payload stage of Pegasus includin
+ g its exploit chain and the various 0-day vulnerabilities that the toolk
+ it was using to jailbreak a device. After this talk attendees will have 
+ learned all of the technical details about Pegasus and Trident and how t
+ he vulnerabilities we found were patched.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7901.html
+SUMMARY:Pegasus internals
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

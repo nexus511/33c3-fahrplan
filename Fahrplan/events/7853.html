@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Schedule 33. Chaos Communication Congress</title>
+<link rel="stylesheet" media="screen" href="/congress/2016/Fahrplan/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/congress/2016/Fahrplan/style.css">
+<link rel="stylesheet" media="print" href="/congress/2016/Fahrplan/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Schedule 33. Chaos Communication Congress</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/congress/2016/Fahrplan/schedule.html">Overview</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/0.html">
+Tuesday
+ - 
+<span class="small-font">2016-12-27</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/1.html">
+Wednesday
+ - 
+<span class="small-font">2016-12-28</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/2.html">
+Thursday
+ - 
+<span class="small-font">2016-12-29</span>
+</a>
+</li>
+<li class="selected">
+<a href="/congress/2016/Fahrplan/schedule/3.html">
+Friday
+ - 
+<span class="small-font">2016-12-30</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/speakers.html">Speakers</a>
+</li>
+<li class="selected">
+<a href="/congress/2016/Fahrplan/events.html">Events</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/qrcode.html">QR-Code</a>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version INTERIM VERSION
+</p>
+<h2>lecture: Do as I Say not as I Do: Stealth Modification of Programmable Logic Controllers I/O by Pin Control Attack</h2>
+<h3 class="title"></h3>
+<div class="column left" id="basic">
+<div class="image large"><img src="/congress/2016/Fahrplan/system/events/logos/000/007/853/large/Logo2.png" alt="Logo2"></div>
+<p class="abstract">Input/Output is the mechanisms through which embedded systems interact and control the outside world. Particularly when employed in mission critical systems, the I/O of embedded systems has to be both reliable and secure. Embedded system’s I/O is controlled by a pin based approach. In this work, we investigate the security implications of embedded system’s pin control. In particular, we show how an attacker can tamper with the integrity and availability of an embedded system’s I/O by exploiting cerain pin control operations and the lack of hardware interrupts associated to them. </p>
+<p class="description">Embedded systems are widely used today in a variety of applications, such as consumer, industrial, automotive, medical, commercial and military. As such, they are often employed in mission critical systems that have to be both reliable and secure. In particular, it is important that their I/O (Input/Output) be stable and secure, as this is the way they interact with the outside world. </p>
+
+<p class="description">Digging into their architecture, we know that the I/O interfaces of embedded systems (e.g., GPIO, SCI, USB, etc.), are usually controlled by a so-called System on a Chip (SoC), an integrated circuit that combines multiple I/O interfaces. In turn, the pins in a SoC are managed by a pin controller, a subsystem of SoC, through which one can configure pin multiplexing or the input or output mode of pins. One of the most peculiar aspects of a pin controller is that its behavior is determined by a set of registers: by altering these registers one can change the behavior of the chip in a dramatic way. This feature is exploitable by attackers, who can tamper with the integrity or the availability of legitimate I/O operations, factually changing how an embedded system interacts with the outside world. Based on these observations, in this research, we introduce a novel attack technique against embedded systems, which we call pin control attack. As we will demonstrate in the work, the salient features of this new class of attacks are:
+<br>First, it is intrinsically stealth. The alteration of the pin configuration does not generate any interrupt, preventing the OS to react to it.</p>
+
+<p class="description">Secondly, it is entirely different in execution from traditional techniques such as manipulation of kernel data structures or system call hooking, which are typically monitored by anti-rootkit protection systems.
+<br>Finally, it is viable. It is possible to build concrete attack using it.
+<br>To demonstrate these points, we first present and demonstrate the attack capabilities offered by Pin Control attack, together with the minimal requirements for carrying out the attack. We argue that the attack capabilities include blocking the communication with a peripheral, causing physical damage to the peripheral, and manipulating values read or written by legitimate processes. We show how pin control can be exploited both with and without the attacker having kernel-level or root access.
+<br>To demonstrate the feasibility of our attack technique, we describe the practical implementation of an attack against a Programmable Logic Controller (PLC) environment by exploiting the runtime configuration of the I/O pins used by the PLC to control a physical process. The attack allows one to reliably take control of the physical process normally managed by the PLC, while remaining stealth to both the PLC runtime and operators monitoring the process through a Human Machine Interface, a goal much more challenging than simply disabling the process control capabilities of the PLC, which would anyway lead to potentially catastrophic consequences. The attack does not require modification of the PLC logic or traditional kernel tampering or hooking techniques, which are normally monitored by anti-rootkit tools.
+<br>We present two variations of the attack implementation. The first implementation allows an extremely reliable manipulation of the process at the cost of requiring root access. The second implementation slightly relaxes the requirement of reliable manipulation while allowing the manipulation to be achieved without root access.
+<br>Finally, we discuss potential mechanisms to detect/prevent Pin Configuration exploitation. However, because the pin configuration does happen legitimately at runtime and the lack of proper interrupt notifications from the SoC, it seems non-trivial to devise monitoring techniques that are both reliable and sufficiently light way to be employed in embedded systems.
+</p>
+</div>
+<div class="column left" id="details">
+<h3>Info</h3>
+<p>
+<b>Day:</b>
+<a href="/congress/2016/Fahrplan/schedule/2.html">2016-12-29</a>
+<br>
+<b>Start time:</b>
+16:00
+<br>
+<b>Duration:</b>
+01:00
+<br>
+<b>Room:</b>
+Saal 6
+<br>
+<b>Track:</b>
+<font class="event track-security">
+<a href="/congress/2016/Fahrplan/events.html#security">Security</a>
+</font>
+<br>
+<b>Language:</b>
+en
+</p>
+<h3>Links:</h3>
+<ul>
+<li><a href="/congress/2016/Fahrplan/events/7853.ics">iCalendar</a></li>
+<li><a href="https://surfdrive.surf.nl/files/index.php/s/21502caf8e075890d7e3f5503cded060">I/O Interception and blocking</a></li>
+<li><a href="https://surfdrive.surf.nl/files/index.php/s/04yQzGrHDJmpIy7">Simple Digital Logic manipulation (we do not touch the runtime or logic)</a></li>
+</ul>
+<div class="column left" id="concurrent_events">
+<h3><span class="translation_missing" title="translation missing: en.public.schedule.event.concurrent_events">Concurrent Events</span></h3>
+<dl class="dl-horizontal">
+<dt>Saal 1</dt>
+<dd><a href="/congress/2016/Fahrplan/events/7975.html">Making Technology Inclusive Through Papercraft and Sound</a></dd>
+<dt>Saal G</dt>
+<dd><a href="/congress/2016/Fahrplan/events/8012.html">Building Custom Pinball Machines</a></dd>
+<dt>Saal 2</dt>
+<dd><a href="/congress/2016/Fahrplan/events/8369.html">Machine Dreams</a></dd>
+</dl>
+</div>
+</div>
+<div class="column right" id="sidebar">
+<h3>Speakers</h3>
+<table class="list">
+<tbody>
+<tr>
+<td><div class="image small"><img src="/congress/2016/Fahrplan/system/people/avatars/000/006/699/small/0kNLxdCK.jpg" alt="0knlxdck"></div></td>
+<td><a href="/congress/2016/Fahrplan/speakers/6699.html">Ali Abbasi</a></td>
+</tr>
+<tr>
+<td><div class="image small"><img src="/congress/2016/Fahrplan/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png" alt="Person small"></div></td>
+<td><a href="/congress/2016/Fahrplan/speakers/6988.html">Majid</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="span16">
+</div>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T213000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T203000
+DTSTAMP;VALUE=DATE-TIME:20161215T161006Z
+UID:686b1941-b211-4902-b4c4-1d642398e08b@frab.cccv.de
+DESCRIPTION:This talk will give a unique insight of what happens when con
+ soles have been hacked already\, but not all secrets are busted yet.\nTh
+ is time we will not only focus on the Nintendo 3DS but also on the Wii U
+ \, talking about our experiences wrapping up the end of an era.\nWe will
+  show how we managed to exploit them in novel ways and discuss why we th
+ ink that Nintendo has lost the game.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8344.html
+SUMMARY:Nintendo Hacking 2016
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T000000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T230000
+DTSTAMP;VALUE=DATE-TIME:20161213T214651Z
+UID:ef62eb53-cb69-42c6-aab0-bc9d3b0e1e92@frab.cccv.de
+DESCRIPTION:How to stop the ATMs fraud? How to protect ATMs from attacks 
+ such as black box jackpotting? How to prevent network hijacking such as 
+ rogue processing center or MiTM? Some of these issues can be fixed by co
+ nfiguration means\, some fixed by compensation measures\, but many only 
+ by vendor. We will tell you about what bank can do now and what we as a 
+ community of security specialists should force to vendors.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8273.html
+SUMMARY:ATMs how to break them to stop the fraud
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

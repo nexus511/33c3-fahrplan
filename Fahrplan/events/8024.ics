@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T180000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T173000
+DTSTAMP;VALUE=DATE-TIME:20161213T221527Z
+UID:fc959f0c-5e93-4b23-8a63-5b6478adb700@frab.cccv.de
+DESCRIPTION:Nach drei Jahren wurde endlich die nutzerunfreundliche Prakti
+ k des Routerzwangs ("Compulsory Routers") gesetzlich für unzulässig erkl
+ ärt\, und aktuell treibt uns die EU-Funkabschottung ("Radio Lockdown Dir
+ ective") um. Um was geht es dabei? Und was können wir daraus für andere 
+ Fälle lernen? \n\nIm Vortrag wird klar werden\, warum politischer Aktivi
+ smus so wichtig ist und dass er eigentlich gar nicht so schwer ist\, wen
+ n man ein paar Dinge beachtet.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8024.html
+SUMMARY:Routerzwang und Funkabschottung
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

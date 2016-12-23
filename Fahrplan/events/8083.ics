@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T124500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T121500
+DTSTAMP;VALUE=DATE-TIME:20161213T214306Z
+UID:8aaa55ad-b426-4d7a-8d46-f4b34a906eda@frab.cccv.de
+DESCRIPTION:Physicists are not computer scientists. But at CERN and world
+ wide\, they need to analyze petabytes of data\, efficiently. Since more 
+ than 20 years now\, ROOT helps them with interactive development of anal
+ ysis algorithms (in the context of the experiments' multi-gigabyte softw
+ are libraries)\, serialization of virtually any C++ object\, fast statis
+ tical and general math tools\, and high quality graphics for publication
+ s. I.e. ROOT helps physicists transform data into knowledge.\n\nThe pres
+ entation will introduce the life of data\, the role of computing for phy
+ sicists and how physicists analyze data with ROOT. It will sketch out ho
+ w some of us foresee the development of data analysis given that the res
+ t of the world all of a sudden also has big data tools: where they fit\,
+  where they don't\, and what's missing.\n
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8083.html
+SUMMARY:How physicists analyze massive data: LHC + brain + ROOT = Higgs
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T004500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T001500
+DTSTAMP;VALUE=DATE-TIME:20161216T234105Z
+UID:9d36932f-616a-4677-b924-60c1986fbbfc@frab.cccv.de
+DESCRIPTION:Der Vortrag gibt einen Abriss über die Geschichte der Parlame
+ ntsschlägerei\, ordnet diese politisch und geografisch ein - um dann die
+  verschiedenen Typen und Formen anhand von Videomaterial zu zeigen und g
+ emeinsam zu analysieren.\n\nDie beiden Vortragenden betreiben seit 2010 
+ gemeinsam das weltweit einzige Fachblog für Parlamentsschlägereien.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8021.html
+SUMMARY:Eine kleine Geschichte der Parlamentsschlägerei
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T214500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T211500
+DTSTAMP;VALUE=DATE-TIME:20161213T214432Z
+UID:094b6119-b261-4750-89cf-43fed50eb679@frab.cccv.de
+DESCRIPTION:Describing the science behind new high tech vegan foods which
+  will replace animal agriculture. I will also discuss the potential impa
+ ct to lessen the severity of climate change and give an update on the Re
+ al Vegan Cheese biohacker project.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8135.html
+SUMMARY:Saving the World with (Vegan) Science
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

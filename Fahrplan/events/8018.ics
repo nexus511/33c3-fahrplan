@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T163000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T160000
+DTSTAMP;VALUE=DATE-TIME:20161222T223628Z
+UID:c92203a0-9158-4111-ab52-5dacd0e46c73@frab.cccv.de
+DESCRIPTION:In early 2015\, the Federal Bureau of Investigation hacked co
+ mputers in Austria\, Denmark\, Chile\, Colombia\, Greece\, and likely th
+ e United Kingdom and Turkey too. In all\, the agency used a Tor Browser 
+ exploit to target over 4000 computers spread across the world based on a
+  single\, arguably illegal warrant.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8018.html
+SUMMARY:Law Enforcement Are Hacking the Planet
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

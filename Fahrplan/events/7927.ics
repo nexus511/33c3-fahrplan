@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T223000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T220000
+DTSTAMP;VALUE=DATE-TIME:20161213T213904Z
+UID:b092a437-b612-4887-ba55-f08ddfe333b9@frab.cccv.de
+DESCRIPTION:At 32C3 we shot lasers into space... now it's lasers in space
+ !\nWe look at space- and airborne laser platforms and what practical use
+ s people have come up with (hint: mostly more or less secret communicati
+ on and military use).  We'll also recap the basic physics and boundaries
+  and check if 'pew pew pew' is really gonna cut it (hint: mostly no). To
+  close\, we'll have a look at laser based propulsion for space travel an
+ d other speculative applications off the beaten path. 
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7927.html
+SUMMARY:Lasers in the sky (with asteroids)
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

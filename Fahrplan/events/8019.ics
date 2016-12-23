@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T224500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T214500
+DTSTAMP;VALUE=DATE-TIME:20161215T104029Z
+UID:8c32309e-7136-4899-8ee4-1558e63ad137@frab.cccv.de
+DESCRIPTION:"Smart" devices using BTLE\, a mobile phone and the Internet 
+ are becoming more and more popular. We will be using mechanical and elec
+ tronic hardware attacks\, TLS MitM\, BTLE sniffing and App decompilation
+  to show why those devices and their manufacturers aren't always that sm
+ art after all. And that even AES128 on top of the BTLE layer doesn't hav
+ e to mean "unbreakable". Our main target will be electronic locks\, but 
+ the methods shown apply to many other smart devices as well...
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8019.html
+SUMMARY:Lockpicking in the IoT
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T171500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T164500
+DTSTAMP;VALUE=DATE-TIME:20161213T214116Z
+UID:84ce6d72-3f4f-445b-801e-37f6a1331bed@frab.cccv.de
+DESCRIPTION:Artificial intelligence and machine learning are in a period 
+ of astounding growth. However\, there are concerns that these technologi
+ es may be used\, either with or without intention\, to perpetuate the pr
+ ejudice and unfairness that unfortunately characterizes many human insti
+ tutions. We show for the first time that human-like semantic biases resu
+ lt from the application of standard machine learning to ordinary languag
+ e—the same sort of language humans are exposed to every day. We replicat
+ e a spectrum of standard human biases as exposed by the Implicit Associa
+ tion Test and other well-known psychological studies. We replicate these
+  using a widely used\, purely statistical machine-learning model—namely\
+ , the GloVe word embedding—trained on a corpus of text from the Web. Our
+  results indicate that language itself contains recoverable and accurate
+  imprints of our historic biases\, whether these are morally neutral as 
+ towards insects or flowers\, problematic as towards race or gender\, or 
+ even simply veridical\, reflecting the status quo for the distribution o
+ f gender with respect to careers or first names. These regularities are 
+ captured by machine learning along with the rest of semantics. In additi
+ on to our empirical findings concerning language\, we also contribute ne
+ w methods for evaluating bias in text\, the Word Embedding Association T
+ est (WEAT) and the Word Embedding Factual Association Test (WEFAT). Our 
+ results have implications not only for AI and machine learning\, but als
+ o for the fields of psychology\, sociology\, and human ethics\, since th
+ ey raise the possibility that mere exposure to everyday language can acc
+ ount for the biases we replicate here.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8026.html
+SUMMARY:A Story of Discrimination and Unfairness
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T133000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T130000
+DTSTAMP;VALUE=DATE-TIME:20161218T095840Z
+UID:599ef527-fc3f-4474-8137-cf0e49cf118f@frab.cccv.de
+DESCRIPTION:The Anthropocene is widely understood to mean the current <em
+ >&quot\;period of Earth's history during which humans have a decisive in
+ fluence on the state\, dynamics and future&quot\;</em> of this planet. F
+ or several years\, scientists in the <a href="http://quaternary.stratigr
+ aphy.org/workinggroups/anthropocene/" title="Website of the Working Grou
+ p on the &#39\;Anthropocene&#39\; (AWG)">Working Group on the 'Anthropoc
+ ene' (AWG)</a> have <a href="https://www2.le.ac.uk/offices/press/press-r
+ eleases/2016/august/media-note-anthropocene-working-group-awg" title="Me
+ dia note on AWG recommendations">worked (and voted!)</a> on defining the
+  beginning of the Anthropocene in geochemical terms. The mid-20<sup>th</
+ sup> century provides an obvious geochemical 'timestamp': fallout from <
+ a href="https://media.ccc.de/v/31c3_-_6121_-_en_-_saal_2_-_201412291715_
+ -_what_ever_happened_to_nuclear_weapons_-_michael_buker" title="Michael 
+ Büker&#39\;s &#39\;What Ever Happened to Nuclear Weapons?&#39\; talk at 
+ 31c3">nuclear weapons detonations</a>. Which other chemicals and timesta
+ mps are being considered for marking the Anthropocene's start? How is 'd
+ efine-by-committee' even working out for <a href="http://www.stratigraph
+ y.org/index.php/ics-chart-timescale" title="International Chronostratigr
+ aphic Chart AKA Geological Timescale">geological epochs</a>? This talk b
+ oils the scientific background of the Anthropocene debate down for non-s
+ tratigraphers. We'll also learn about potential environmental trajectori
+ es\, and the choices we and our civilisation will face in a geological e
+ poch of our own making.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7860.html
+SUMMARY:Welcome to the Anthropocene?
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

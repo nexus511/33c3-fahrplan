@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T181500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T171500
+DTSTAMP;VALUE=DATE-TIME:20161221T152747Z
+UID:4745fbc3-87d4-41eb-8c82-2c1bb8a51beb@frab.cccv.de
+DESCRIPTION:Germany has a good reputation for strong data protection. It 
+ also features the only parliamentary inquiry committee investigating the
+  Snowden revelations. But what are actual results of parliamentary\, jou
+ rnalistic and public engagement?
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8117.html
+SUMMARY:3 Years After Snowden: Is Germany fighting State Surveillance?
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

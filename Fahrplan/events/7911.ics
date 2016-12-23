@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T213000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T203000
+DTSTAMP;VALUE=DATE-TIME:20161213T213850Z
+UID:143759c6-2cad-4fc8-a120-86dcc8de97e6@frab.cccv.de
+DESCRIPTION:Mit steigendem Datenaufkommen und einer immer größer werdende
+ n Zahl von Geräten muss auch das WLAN wachsen. Nach "ur WiFi sucks!!1!" 
+ ist dieser Talk eine kleine Einführung in die Neuerungen\, welche mit de
+ m 802.11ac-Standard gekommen sind und gibt eine Erklärung\, wie sie funk
+ tionieren.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7911.html
+SUMMARY:Make Wi-Fi fast again
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

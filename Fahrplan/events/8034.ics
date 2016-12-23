@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T213000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T203000
+DTSTAMP;VALUE=DATE-TIME:20161213T214138Z
+UID:1f7eb981-2819-4824-8f40-4ddde0be7bf3@frab.cccv.de
+DESCRIPTION:When thinking about surveillance\, everyone worries about gov
+ ernment agencies like the NSA and big corporations like Google and Faceb
+ ook. But actually there are hundreds of companies that have also discove
+ red data collection as a revenue source.  We decided to do an experiment
+ : Using simple social engineering techniques\, we tried to get the most 
+ personal you may have in your procession.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8034.html
+SUMMARY:Build your own NSA
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

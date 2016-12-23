@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T141500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T134500
+DTSTAMP;VALUE=DATE-TIME:20161213T214520Z
+UID:4bff9cb3-9e91-4305-9029-f4d9053c7b5c@frab.cccv.de
+DESCRIPTION:Applied IT security is largely a science-free field. The IT-S
+ ecurity industry is selling a range of products with often very question
+ able and sometimes outright ridiculous claims. Yet it's widely accepted 
+ practice among users and companies that protection with security applian
+ ces\, antivirus products and firewalls is a necessity. There are no rigo
+ rous scientific studies that try to evaluate the effectiveness of most s
+ ecurity products or strategies. Evidence-based IT security could provide
+  a way out of the security nihilism that's often dominating the debate –
+  however it doesn't exist yet.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8169.html
+SUMMARY:In Search of Evidence-Based IT-Security
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T150000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T124500
+DTSTAMP;VALUE=DATE-TIME:20161222T100523Z
+UID:090675f6-f86e-4082-886b-e13c9c837ecb@frab.cccv.de
+DESCRIPTION:Lightning Talks are short lectures (almost) any congress part
+ icipant may give! Bring your infectious enthusiasm to an audience with a
+  short attention span! Discuss a program\, system or technique! Pitch yo
+ ur projects and ideas or try to rally a crew of people to your party or 
+ assembly! Whatever you bring\, make it quick! 
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8087.html
+SUMMARY:Lightning Talks Day 2
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

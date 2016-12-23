@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T134500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T124500
+DTSTAMP;VALUE=DATE-TIME:20161213T214425Z
+UID:5a517be2-220b-4eb6-88c3-e7ef08c98ace@frab.cccv.de
+DESCRIPTION:Follow the steps taken to crack a conditional access and scra
+ mbling system used in millions of TV set-top-boxes across North America.
+  From circuit board to chemical decapsulation\, optical ROM extraction\,
+  glitching\, and reverse engineering custom hardware cryptographic featu
+ res. This talk describes the techniques used to breach the security of s
+ atellite and cable TV systems that have remained secure after 15+ years 
+ in use.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8127.html
+SUMMARY:How Do I Crack Satellite and Cable Pay TV?
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

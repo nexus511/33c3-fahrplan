@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T231500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T224500
+DTSTAMP;VALUE=DATE-TIME:20161222T020407Z
+UID:a097896d-04fc-4f58-8d8e-a8dbef9812b4@frab.cccv.de
+DESCRIPTION:As a soft roboticist I am constantly searching for inspiratio
+ n for novel soft actuators\, and as a home cook and artist I consider ea
+ ting an object to be a high-level form of interactivity. Having noted th
+ e similarities between cast silicone and gummi candies it was natural to
+  combine these interests. I will share my experiments in assessing diffe
+ rent candies for their engineering potential\, and show my work-in-progr
+ ess for sweet soft robots.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8113.html
+SUMMARY:Edible Soft Robotics
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

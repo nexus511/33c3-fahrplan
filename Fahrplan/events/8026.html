@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Schedule 33. Chaos Communication Congress</title>
+<link rel="stylesheet" media="screen" href="/congress/2016/Fahrplan/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/congress/2016/Fahrplan/style.css">
+<link rel="stylesheet" media="print" href="/congress/2016/Fahrplan/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Schedule 33. Chaos Communication Congress</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/congress/2016/Fahrplan/schedule.html">Overview</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/0.html">
+Tuesday
+ - 
+<span class="small-font">2016-12-27</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/1.html">
+Wednesday
+ - 
+<span class="small-font">2016-12-28</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/2.html">
+Thursday
+ - 
+<span class="small-font">2016-12-29</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/3.html">
+Friday
+ - 
+<span class="small-font">2016-12-30</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/speakers.html">Speakers</a>
+</li>
+<li class="selected">
+<a href="/congress/2016/Fahrplan/events.html">Events</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/qrcode.html">QR-Code</a>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version INTERIM VERSION
+</p>
+<h2>lecture: A Story of Discrimination and Unfairness</h2>
+<h3 class="title">Prejudice in Word Embeddings</h3>
+<div class="column left" id="basic">
+<div class="image large"><img src="/congress/2016/Fahrplan/system/events/logos/000/008/026/large/bias.jpg" alt="Bias"></div>
+<p class="abstract">Artificial intelligence and machine learning are in a period of astounding growth. However, there are concerns that these technologies may be used, either with or without intention, to perpetuate the prejudice and unfairness that unfortunately characterizes many human institutions. We show for the first time that human-like semantic biases result from the application of standard machine learning to ordinary language—the same sort of language humans are exposed to every day. We replicate a spectrum of standard human biases as exposed by the Implicit Association Test and other well-known psychological studies. We replicate these using a widely used, purely statistical machine-learning model—namely, the GloVe word embedding—trained on a corpus of text from the Web. Our results indicate that language itself contains recoverable and accurate imprints of our historic biases, whether these are morally neutral as towards insects or flowers, problematic as towards race or gender, or even simply veridical, reflecting the status quo for the distribution of gender with respect to careers or first names. These regularities are captured by machine learning along with the rest of semantics. In addition to our empirical findings concerning language, we also contribute new methods for evaluating bias in text, the Word Embedding Association Test (WEAT) and the Word Embedding Factual Association Test (WEFAT). Our results have implications not only for AI and machine learning, but also for the fields of psychology, sociology, and human ethics, since they raise the possibility that mere exposure to everyday language can account for the biases we replicate here.</p>
+<p class="description">There is no Alice and Bob in this talk. This talk is intended for an audience that genuinely cares for humanity and believes in equality while supporting fairness and acts against discrimination. This talk might not be interesting for folks who promote exclusion while discouraging diversity. Many of us have felt excluded in certain situations because of our gender, race, nationality, sexual orientation, disabilities, or physical appearance. This talk aims to communicate how big data driven machine learning is pushing the society towards discrimination, unfairness, and prejudices that harm billions of people every single day.</p>
+
+<p class="description">This year, I will not talk about de-anonymizing programmers, re-identifying underground forum members, or anonymous writing. I will be talking about a human right, namely equality, and the issue of unfairness which happens to be embedded in machines that make decisions about our future, what we see and read, or whether we go to prison or not.
+<br>					
+<br>Machine learning models are widely used for various applications that end up affecting billions of people and Internet users every day. Random forest classifiers guide the U.S. drone program to predict couriers that can lead to terrorists in Pakistan. Employers use algorithms, which might be racist, to aid in employment decisions. Insurance companies determine health care or car insurance rates based on machine learning outcomes. Internet search results are personalized according to machine learning models, which are known to discriminate against women by showing advertisements with lower salaries, while showing higher paying job advertisements for men. On the other hand, natural language processing models are being used for generating text and speech, machine translation, sentiment analysis, and sentence completion, which collectively influence search engine results, page ranks, and the information presented to all Internet users within filter bubbles. Given the enormous and unavoidable effect of machine learning algorithms on individuals and society, we attempt to uncover implicit bias embedded in machine learning models, focusing particularly on word embeddings. We show empirically that natural language necessarily contains human biases, and the paradigm of training machine learning on language corpora means that AI will inevitably imbibe these biases as well. </p>
+
+<p class="description">We look at “word embeddings”, a state-of-the-art language representation used in machine learning. Each word is mapped to a point in a 300-dimensional vector space so that semantically similar words map to nearby points. We show that a wide variety of results from psychology on human bias can be replicated using nothing but these word embeddings. We primarily look at the Implicit Association Test (IAT), a widely used and accepted test of implicit bias. The IAT asks subjects to pair concepts together (e.g., white/black-sounding names with pleasant or unpleasant words) and measures reaction times as an indicator of bias. In place of reaction times, we use the semantic closeness between pairs of words. In short, we were able to replicate every single implicit bias result that we tested, with high effect sizes and low p-values.</p>
+
+<p class="description">These include innocuous, universal associations (flowers are associated with pleasantness and insects with unpleasantness), racial prejudice (European-American names are associated with pleasantness and African-American names with unpleasantness), and a variety of gender stereotypes (for example, career words are associated with male names and family words with female names). We look at nationalism, mental health stigma, and prejudice towards the elderly. We also look at word embeddings generated from German text to investigate prejudice based on German data. We do not cherry pick any of these IATs, they have been extensively performed by millions of people from various countries and they are also available for German speakers (https://implicit.harvard.edu/implicit/germany/).</p>
+
+<p class="description">We go further. We show that information about the real world is recoverable from word embeddings to a striking degree. We can accurately predict the percentage of U.S. workers in an occupation who are women using nothing but the semantic closeness of the occupation word to feminine words! These results simultaneously show that the biases in question are embedded in human language, and that word embeddings are picking up the biases. </p>
+
+<p class="description">Our finding of pervasive, human-like bias in AI may be surprising, but we consider it inevitable. We mean “bias” in a morally neutral sense. Some biases are prejudices, which society deems unacceptable. Others are facts about the real world (such as gender gaps in occupations), even if they reflect historical injustices that we wish to mitigate. Yet others are perfectly innocuous. Algorithms don’t have a good way of telling these apart. If AI learns language sufficiently well, it will also learn cultural associations that are offensive, objectionable, or harmful. At a high level, bias is meaning. “Debiasing” these machine models, while intriguing and technically interesting, necessarily harms meaning.</p>
+
+<p class="description">Instead, we suggest that mitigating prejudice should be a separate component of an AI system. Rather than altering AI’s representation of language, we should alter how or whether it acts on that knowledge, just as humans are able to learn not to act on our implicit biases. This requires a long-term research program that includes ethicists and domain experts, rather than formulating ethics as just another technical constraint in a learning system.
+<br>Finally, our results have implications for human prejudice. Given how deeply bias is embedded in language, to what extent does the influence of language explain prejudiced behavior? And could transmission of language explain transmission of prejudices? These explanations are simplistic, but that is precisely our point: in the future, we should treat these as “null hypotheses’’ to be eliminated before we turn to more complex accounts of bias in humans.</p>
+</div>
+<div class="column left" id="details">
+<h3>Info</h3>
+<p>
+<b>Day:</b>
+<a href="/congress/2016/Fahrplan/schedule/0.html">2016-12-27</a>
+<br>
+<b>Start time:</b>
+16:45
+<br>
+<b>Duration:</b>
+00:30
+<br>
+<b>Room:</b>
+Saal 2
+<br>
+<b>Track:</b>
+<font class="event track-science">
+<a href="/congress/2016/Fahrplan/events.html#science">Science</a>
+</font>
+<br>
+<b>Language:</b>
+en
+</p>
+<h3>Links:</h3>
+<ul>
+<li><a href="/congress/2016/Fahrplan/events/8026.ics">iCalendar</a></li>
+<li><a href="http://www.princeton.edu/%7Eaylinc/papers/caliskan-islam_semantics.pdf">Semantics derived automatically from language corpora necessarily contain human biases</a></li>
+<li><a href="https://petsymposium.org/2016/spw-mirror/pets-2016/hotpets/">A Story of Discrimination and Unfairness</a></li>
+<li><a href="https://freedom-to-tinker.com/2016/08/24/language-necessarily-contains-human-biases-and-so-will-machines-trained-on-language-corpora/">Blogpost</a></li>
+<li><a href="https://motherboard.vice.com/read/its-our-fault-that-ai-thinks-white-names-are-more-pleasant-than-black-names">News Article #1</a></li>
+<li><a href="https://psmag.com/artificial-intelligence-will-be-as-biased-and-prejudiced-as-its-human-creators-38fe415f86dd#.1zybfgg7z">News Article  #2</a></li>
+</ul>
+<div class="column left" id="concurrent_events">
+<h3><span class="translation_missing" title="translation missing: en.public.schedule.event.concurrent_events">Concurrent Events</span></h3>
+<dl class="dl-horizontal">
+<dt>Saal 1</dt>
+<dd><a href="/congress/2016/Fahrplan/events/7969.html">Shut Up and Take My Money!</a></dd>
+<dt>Saal G</dt>
+<dd><a href="/congress/2016/Fahrplan/events/8388.html">Kampf dem Abmahnunwesen</a></dd>
+<dt>Saal 6</dt>
+<dd><a href="/congress/2016/Fahrplan/events/8420.html">Anthropology for kids - What is privacy?</a></dd>
+</dl>
+</div>
+</div>
+<div class="column right" id="sidebar">
+<h3>Speakers</h3>
+<table class="list">
+<tbody>
+<tr>
+<td><div class="image small"><img src="/congress/2016/Fahrplan/system/people/avatars/000/003/596/small/aylin.jpg" alt="Aylin"></div></td>
+<td><a href="/congress/2016/Fahrplan/speakers/3596.html">Aylin Caliskan</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="span16">
+</div>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

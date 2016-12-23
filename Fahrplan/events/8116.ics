@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T011500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T001500
+DTSTAMP;VALUE=DATE-TIME:20161219T171801Z
+UID:2689ebfe-0d84-4c88-9ea6-5cadad9d4fa4@frab.cccv.de
+DESCRIPTION:Der NSA-Untersuchungsausschuss im Bundestag soll aufklären\, 
+ was die NSA in Deutschland tut und wie deutsche Geheimdienste in diese A
+ ktivitäten verwickelt sind. Fast wie in einer Gerichtsverhandlung – doch
+  es gibt eine Besonderheit: Der Zeuge ist der BND\, ein Geheimdienst. Un
+ d der tut alles dafür\, nichts zu verraten.\n\n
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8116.html
+SUMMARY:Nicht öffentlich.
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

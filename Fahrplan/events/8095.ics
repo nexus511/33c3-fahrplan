@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T113000
+DTSTAMP;VALUE=DATE-TIME:20161213T214327Z
+UID:994082de-ef8e-4f8e-8c46-ec0eb110b845@frab.cccv.de
+DESCRIPTION:radare is a libre framework and a set of tools to ease severa
+ l tasks related to reverse engineering\, exploiting\, forensics\, binary
+  patching\, .. this year\, the project gets 10 year old.\n\nIn the proce
+ ss\, the design evolved and several new functionalities has appeared\, d
+ efining better development rules\, improving code reviews and introducin
+ g RDD and fuzzing as part of the development process. Constant refactori
+ ng\, writing usage examples and documentation and giving talks\, to enla
+ rge the community has been key elements to reach the great user base and
+  health the project lives nowadays.\n\nThis year\, in order to celebrate
+  the 10th anniversary\, the author organized the first r2con\, a congres
+ s around the tool that aims to be an excuse for sharing knowledge\, tool
+ s\, scripts about what different parties and people is doing with it.\n\
+ nThe congress was pretty successful and allowed to meet developers\, use
+ rs and other interested parties for learning more about the future of th
+ e tool and understanding its capabilities.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8095.html
+SUMMARY:radare demystified
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T181500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T171500
+DTSTAMP;VALUE=DATE-TIME:20161213T214807Z
+UID:3f76be27-6ff5-4a23-a6c6-512eaff00f28@frab.cccv.de
+DESCRIPTION:In the last two years\, the marketing industry started to sho
+ w a fast increasing interest in technologies for user cross-device track
+ ing\, proximity tracking\, and their derivative monetization schemes. To
+  meet these demands\, a new ultrasound-based technology has recently eme
+ rged and is already utilized in a number of different real-world applica
+ tions. Ultrasound tracking comes with a number of desirable features (e.
+ g.\, easy to deploy\, inaudible to humans)\, but alarmingly until now no
+  comprehensive security analysis of the technology has been conducted. I
+ n this talk\, we will publish the results of our security analysis of th
+ e ultrasound tracking ecosystem\, and demonstrate the practical security
+  and privacy risks that arise with its adoption. Subsequently\, we will 
+ introduce some immediately deployable defense mechanisms for practitione
+ rs\, researchers\, and everyday users. Finally\, we will initiate the di
+ scussion for the standardization of ultrasound beacons\, and outline our
+  proposed OS-level API that enables both secure and effortless deploymen
+ t for ultrasound-enabled applications.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8336.html
+SUMMARY:Talking Behind Your Back
+LOCATION:33c3 - Saal 6
+END:VEVENT
+END:VCALENDAR

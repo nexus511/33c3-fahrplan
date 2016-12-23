@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T120000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T113000
+DTSTAMP;VALUE=DATE-TIME:20161217T152651Z
+UID:9039efe4-3282-47d2-a0b5-630843e23304@frab.cccv.de
+DESCRIPTION:Internet censorship today is widespread\, both by governments
+  and by private entities. Much of the discussion so far has focused on p
+ olitical and social effects of this censorship. However\, censorship als
+ o has a clear effect on the economic structure of society that has not b
+ een explored.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8170.html
+SUMMARY:The Economic Consequences of Internet Censorship
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T000000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T230000
+DTSTAMP;VALUE=DATE-TIME:20161215T175410Z
+UID:700a07e7-a9c4-437b-a4c5-4491b23a9b4a@frab.cccv.de
+DESCRIPTION:Last year\, we demonstrated Linux running on the PS4 in a lig
+ htning talk - presented on the PS4 itself. But how did we do it? In a de
+ parture from previous Console Hacking talks focusing on security\, this 
+ year we're going to focus on the PS4 hardware\, what makes it different 
+ from a PC\, and how we reverse engineered it enough to get a full-blown 
+ Linux distro running on it\, complete with 3D acceleration.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7946.html
+SUMMARY:Console Hacking 2016
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

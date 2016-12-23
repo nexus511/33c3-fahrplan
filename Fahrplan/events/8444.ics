@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T223000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T220000
+DTSTAMP;VALUE=DATE-TIME:20161213T215047Z
+UID:babc1d56-c3b9-4a21-bfae-af4190c05e93@frab.cccv.de
+DESCRIPTION:Joan Heemskerk and Dirk Paesmans\, collectively known as JODI
+ \, are rightfully venerated for their countless contributions to art and
+  technology\, working as an artistic duo since the mid-90’s. 
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8444.html
+SUMMARY:JODI - Apache is functioning normally 
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

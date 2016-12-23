@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Schedule 33. Chaos Communication Congress</title>
+<link rel="stylesheet" media="screen" href="/congress/2016/Fahrplan/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/congress/2016/Fahrplan/style.css">
+<link rel="stylesheet" media="print" href="/congress/2016/Fahrplan/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Schedule 33. Chaos Communication Congress</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/congress/2016/Fahrplan/schedule.html">Overview</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/0.html">
+Tuesday
+ - 
+<span class="small-font">2016-12-27</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/1.html">
+Wednesday
+ - 
+<span class="small-font">2016-12-28</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/2.html">
+Thursday
+ - 
+<span class="small-font">2016-12-29</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/3.html">
+Friday
+ - 
+<span class="small-font">2016-12-30</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/speakers.html">Speakers</a>
+</li>
+<li class="selected">
+<a href="/congress/2016/Fahrplan/events.html">Events</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/qrcode.html">QR-Code</a>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version INTERIM VERSION
+</p>
+<h2>lecture: Untrusting the CPU</h2>
+<h3 class="title">A proposal for secure computing in an age where we cannot trust our CPUs anymore</h3>
+<div class="column left" id="basic">
+<div class="image large"><img src="/congress/2016/Fahrplan/assets/event_large-4b8aa978adbb7c8e80151f5a83c6782a12e763374ae3a042a55e7e626a64d93b.png" alt="Event large"></div>
+<p class="abstract">It is a sad fact of reality that we can no longer trust our CPUs to only run the things we want and to not have exploitable flaws. I will provide an proposal for a system to restore (some) trust in communication secrecy and system security even in this day and age without compromising too much the benefits in usability and speed modern systems provide.</p>
+<p class="description">CPUs have not only massively grown in complexity in the last years, they have unfortunately also spawned a slew of proprietary vendor subsystems that execute unauditable code beyond our control (TrustZone, Intel ME etc.).</p>
+
+<p class="description">There are some projects attempting to mitigate this issue somewhat by running less unauditable code (Coreboot, Novena etc.), but in the long run even using those we are still at the whims of some very large corporations which can decide whether or not we still have control over the systems we own.</p>
+
+<p class="description">In this talk, I propose an  alternative approach to regain privacy and security on our systems. Instead of trying to fix our CPUs by reverse-engineering large amounts of proprietary blobbiness, I propose we move as much sensitive data as possible out of these compromised systems.</p>
+
+<p class="description">In practice, the architecture I propose places a trusted interposer into the compromised system's display bus (LVDS, (e)DP or HDMI) that receives in-band control data containing intact ciphertext (read: PGP/OTR encoded into specially formatted RGB pixel data) and that transparently decrypts, verifies and renders the decrypted data into the pixel data stream.</p>
+
+<p class="description">The resulting system looks almost identical from a user-interface perspective, but guarantees plaintext message data is never handled on the compromised host CPU while all the juicy computational power and fancy visual effects that one provides remain intact.</p>
+
+<p class="description">I will outline the implementation problem areas of this approach and some possible solutions for them. I will also provide an analysis of this system from a privacy and security perspective.</p>
+</div>
+<div class="column left" id="details">
+<h3>Info</h3>
+<p>
+<b>Day:</b>
+<a href="/congress/2016/Fahrplan/schedule/0.html">2016-12-27</a>
+<br>
+<b>Start time:</b>
+18:15
+<br>
+<b>Duration:</b>
+00:30
+<br>
+<b>Room:</b>
+Saal G
+<br>
+<b>Track:</b>
+<font class="event track-security">
+<a href="/congress/2016/Fahrplan/events.html#security">Security</a>
+</font>
+<br>
+<b>Language:</b>
+en
+</p>
+<h3>Links:</h3>
+<ul>
+<li><a href="/congress/2016/Fahrplan/events/8014.ics">iCalendar</a></li>
+</ul>
+<div class="column left" id="concurrent_events">
+<h3><span class="translation_missing" title="translation missing: en.public.schedule.event.concurrent_events">Concurrent Events</span></h3>
+<dl class="dl-horizontal">
+<dt>Saal 6</dt>
+<dd><a href="/congress/2016/Fahrplan/events/7999.html">A Data Point Walks Into a Bar</a></dd>
+<dt>Saal 1</dt>
+<dd><a href="/congress/2016/Fahrplan/events/8033.html">What's It Doing Now?</a></dd>
+<dt>Saal 2</dt>
+<dd><a href="/congress/2016/Fahrplan/events/8076.html">Make the Internet Neutral Again </a></dd>
+</dl>
+</div>
+</div>
+<div class="column right" id="sidebar">
+<h3>Speakers</h3>
+<table class="list">
+<tbody>
+<tr>
+<td><div class="image small"><img src="/congress/2016/Fahrplan/system/people/avatars/000/006/903/small/pegasus.png" alt="Pegasus"></div></td>
+<td><a href="/congress/2016/Fahrplan/speakers/6903.html">jaseg</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="span16">
+</div>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

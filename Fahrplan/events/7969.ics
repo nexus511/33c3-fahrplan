@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T171500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T164500
+DTSTAMP;VALUE=DATE-TIME:20161220T110019Z
+UID:74783236-46f4-493c-9574-1b27a44847b7@frab.cccv.de
+DESCRIPTION:FinTechs increasingly cut the ground from under long-establis
+ hed banks’ feet. With a "Mobile First" strategy\, many set their sights 
+ on bringing all financial tasks—checking the account balance\, making tr
+ ansactions\, arranging investments\, and ordering an overdraft—on your s
+ martphone. In a business area that was once entirely committed to securi
+ ty\, Fintechs make a hip design and outstanding user experience their on
+ e and only priority. Even though this strategy is rewarded by rapidly in
+ creasing customer numbers\, it also reveals a flawed understanding of se
+ curity. With the example of the pan-European banking startup N26 (former
+ ly Number26)\, we succeeded independently from the used device to leak c
+ ustomer data\, manipulate transactions\, and to entirely take over accou
+ nts to ultimately issue arbitrary transactions—even without credit.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7969.html
+SUMMARY:Shut Up and Take My Money!
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

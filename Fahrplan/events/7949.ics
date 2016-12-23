@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T141500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T134500
+DTSTAMP;VALUE=DATE-TIME:20161213T213932Z
+UID:10b11771-c76f-44d5-9b65-9ebca428d8ff@frab.cccv.de
+DESCRIPTION:Secure random number generators play a crucial role in the wi
+ der security ecosystem. In the absence of a dedicated hardware True Rand
+ om Number Generator (TRNG)\, computer systems have to resort to a softwa
+ re (cryptographically secure) Pseudo-Random Number Generator (CSPRNG). S
+ ince the (secure) design of a CSPRNG is an involved and complicated effo
+ rt and since randomness is such a security-critical resource\, many oper
+ ating systems provide a CSPRNG as a core system service and many popular
+  security software products assume their presence. The constraints impos
+ ed by the embedded world\, however\, pose a variety of unique challenges
+  to proper OS (CS)PRNG design and implementation which have historically
+  resulted in security failures. In this talk we will discuss these chall
+ enges\, how they affect the quality of (CS)PRNGs in embedded operating s
+ ystems and illustrate our arguments by means of the first public analysi
+ s of the OS random number generators of several popular embedded operati
+ ng systems.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7949.html
+SUMMARY:Wheel of Fortune
+LOCATION:33c3 - Saal 6
+END:VEVENT
+END:VCALENDAR

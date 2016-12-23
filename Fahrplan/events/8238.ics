@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T133000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T130000
+DTSTAMP;VALUE=DATE-TIME:20161213T214602Z
+UID:fc6c53de-ec9d-4966-a912-5cfaf54c0dd2@frab.cccv.de
+DESCRIPTION:From geo-magnetic tracking for smartphones to facial recognit
+ ion for email marketing\, from physical shopping cart fingerprinting to 
+ computer vision algorithms that use your clothing as metadata\, this tal
+ k will explore the emerging landscape of hyper-competitive retail survei
+ llance. Instead of dramatizing these technologies which can lead to calc
+ ification and normalization\, the aim of this talk is to energize discou
+ rse around building creative solutions to counter\, adapt to\, or rethin
+ k emerging surveillance technologies.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8238.html
+SUMMARY:Retail Surveillance / Retail Countersurveillance
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

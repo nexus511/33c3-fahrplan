@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T113000
+DTSTAMP;VALUE=DATE-TIME:20161215T101428Z
+UID:f75d0531-ac47-4edd-99bd-9eadd836982a@frab.cccv.de
+DESCRIPTION:<a href="https://outernet.is">Outernet</a> is a company whose
+  goal is to ease worldwide access to internet contents by broadcasting f
+ iles through geostationary satellites. Most of the software used for Out
+ ernet is open source\, but the key parts of their receiver are closed so
+ urce and the protocols and specifications of the signal used are secret.
+  I have been able to <a href="http://destevez.net/tag/outernet/">reverse
+  engineer</a> most of the protocols\, and a functional <a href="https://
+ github.com/daniestevez/free-outernet">open source</a> receiver is now av
+ ailable.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8399.html
+SUMMARY:Reverse engineering Outernet
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

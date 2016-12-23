@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T000000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T230000
+DTSTAMP;VALUE=DATE-TIME:20161220T134943Z
+UID:c9f7749d-c365-43ad-9869-1f014c9f1f06@frab.cccv.de
+DESCRIPTION:Seit einigen Jahren formieren sich am rechten Rand der Gesell
+ schaft explosionsartig neue rassistische\, völkisch-nationalistische und
+  offen nazistische Strömungen\, Gruppen und Parteien. Einen erschreckend
+ en Verstärker findet das neue braune Getöse in den sozialen Medien und s
+ ein Resonanzraum reicht inzwischen bis weit in die Mitte der Gesellschaf
+ t.\n\nTeil des Problems sind institutioneller Rassismus in den Behörden 
+ und unkontrollierbare Geheimdienste\, die den Mob gewähren lassen: Dafür
+  bietet der NSU-Komplex ein erschütterndes Beispiel. Vor dem neuen\, seh
+ r lauten\, in der Tendenz aber auch gewalttätigen und terroristischen Ph
+ änomen rechter Formierung stehen Linke und bürgerliche Mitte ziemlich ve
+ rdattert und hilflos. \n\nJetzt kommt es darauf an\, diese Hilflosigkeit
+  zu überwinden\, das Geschehen zu analysieren und sich Gegenstrategien e
+ infallen zu lassen. Das ist „unser“ Job. 
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8439.html
+SUMMARY:Durchmarsch von Rechts
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

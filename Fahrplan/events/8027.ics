@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T224500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T214500
+DTSTAMP;VALUE=DATE-TIME:20161213T214120Z
+UID:8d0aed87-2484-4880-ae08-2dc3c7898959@frab.cccv.de
+DESCRIPTION:<p>To break into a building\, several methods have already be
+ en discussed\, such as trying to find the code\npaths of a digicode\, cl
+ one RFID cards\, use some social engineering attacks\, or the use of arc
+ haic methods\nlike lockpicking a door lock or breaking a window.</p>\n<p
+ >New methods are now possible with recent intercoms.\nIndeed\, these int
+ ercoms are used to call the tenants to access the building. But little s
+ tudy has been\nperformed on how these boxes communicate to request and g
+ rant access to the building.</p>\n<p>In the past\, they were connected w
+ ith wires directly to apartments. Now\, these are more practical and\nal
+ low residents to open doors not only from their classic door phone\, but
+  to forward calls to their home\nor mobile phone. Private houses are now
+  equipped with these new devices and its common to find these\n“connecte
+ d” intercoms on recent and renovated buildings.</p>\n<p>In this short pa
+ per we introduce the Intercoms and focus on one particular device that i
+ s commonly\ninstalled in buildings today. Then we present our analysis o
+ n an interesting attack vector\, which already\nhas its own history. Aft
+ er this analysis\, we present our environment to test the intercoms\, an
+ d show some\npractical attacks that could be performed on these devices.
+  During this talks\, the evolution of our mobile lab and some advances o
+ n the 3G intercoms\, and M2M intercoms attacks will be also presented.</
+ p>
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8027.html
+SUMMARY:Intercoms Hacking
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

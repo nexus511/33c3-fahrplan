@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T000000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T233000
+DTSTAMP;VALUE=DATE-TIME:20161213T213817Z
+UID:61677c86-8d83-4c30-9cf4-f7741e1a8798@frab.cccv.de
+DESCRIPTION:Astronomers struggle to accurately measure distances in the v
+ astness of the known universe. Get an insight into the sophisticated tec
+ hniques and dirty tricks of today's astrophysics and cosmology. No physi
+ cs background required\, featuring lots of pretty space pictures.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7861.html
+SUMMARY:The Universe Is\, Like\, Seriously Huge
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

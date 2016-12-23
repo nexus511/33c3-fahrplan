@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T213000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T203000
+DTSTAMP;VALUE=DATE-TIME:20161213T213832Z
+UID:149f13d4-cc8c-49a9-9e68-544754646022@frab.cccv.de
+DESCRIPTION:This talk is about the iOS secure boot chain and how it chang
+ ed throughout different iOS versions\, while focusing on downgrading des
+ pite countermesures. \nIt will explain basics like what SHSH blobs and A
+ PTickets are and how IMG3 and IMG4 file format works.\nAlso a new techni
+ que called "prometheus" will be introduced which allows for the first ti
+ me downgrading 64bit devices.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7888.html
+SUMMARY:Downgrading iOS: From past to present
+LOCATION:33c3 - Saal 6
+END:VEVENT
+END:VCALENDAR

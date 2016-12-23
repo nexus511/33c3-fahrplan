@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T113000
+DTSTAMP;VALUE=DATE-TIME:20161213T215007Z
+UID:87092ad2-d3fd-4a37-bb58-1fe71217a06b@frab.cccv.de
+DESCRIPTION:As they say in the Air Force\, ‚No comms no bombs‘\,  – A tec
+ hnician’s insight into the invisible networks governing military drones 
+ and the quest for accountability
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8425.html
+SUMMARY:The Global Assassination Grid
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

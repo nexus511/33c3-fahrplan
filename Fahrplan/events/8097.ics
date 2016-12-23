@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T181500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T171500
+DTSTAMP;VALUE=DATE-TIME:20161218T230312Z
+UID:c19012c9-71de-4272-a6f4-898f5c48b8d9@frab.cccv.de
+DESCRIPTION:''Technologien für und wider Digitale Souveränität''\n\nDie w
+ eltweite Vernetzung ist die tiefgreifendste Veränderung seit der\nindust
+ riellen Revolution.  In einer Zeit der maßlose Massenüberwachung scheint
+  die Digitale Souveränität den Einsatz privatsphärenfreundlicher Technol
+ ogien als ein unverzichtbarer Bestandteil von gesellschaftlichen Lösungs
+ versuchen zwingend zu erfordern.\n\nIn unserem Beitrag möchten wir hacke
+ rrelvante Teilaspekte und Verfahren aus einer Studie für das Bundesminis
+ terium für Justiz und Verbraucherschutz vorstellen. Unter anderem sind h
+ ier kryptographische Protokolle (z. B.  Blinde Signaturen\, Zero-Knowleg
+ e Protokolle) und Methoden zur statistischen Auswertung von vertrauliche
+ n Daten  (z.B. K-Anonymität\, Differentielle Vertraulichkeit) zu nennen.
+ \n
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8097.html
+SUMMARY:Technologien für und wider Digitale Souveränität
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

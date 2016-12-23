@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T000000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T230000
+DTSTAMP;VALUE=DATE-TIME:20161213T214220Z
+UID:ac80424a-f4dc-431d-95f3-3f85664ba2dc@frab.cccv.de
+DESCRIPTION:In this talk we will explore and present various IPv6 scannin
+ g techniques that allow attackers to peek into IPv6 networks. With the a
+ lready known difference between IPv4 and IPv6 firewalling (the latter is
+  worse... ) we then demonstrate how these techniques can be combined and
+  used to obtain a large-scale view on the state of IPv6 in infrastructur
+ es and data centers. To give the whole issue a somewhat more fun dimensi
+ on\, we will also look at some (security) sensitive applications of this
+  technique. Complimentary code-snippets will be provided.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8061.html
+SUMMARY:You can -j REJECT but you can not hide: Global scanning of the IP
+ v6 Internet
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

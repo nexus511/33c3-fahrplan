@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T134500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T124500
+DTSTAMP;VALUE=DATE-TIME:20161213T214643Z
+UID:7a5971c8-746b-4450-ba89-6569667f77c2@frab.cccv.de
+DESCRIPTION:Smart City is an abstract concept everyone talks about but no
+  one knows what it actually means. No one\, except Energy utilities.\nIn
+  this talk we will explore the vast world of Smart Energy\, and see how 
+ energy providers used the "Smart City" concept to get better control ove
+ r our energy consumption\, all while almost completely ignoring security
+  aspects along the way.\nJoin me and see how Smart Energy is making our 
+ lives a little bit better\, but also dangerously insecure.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8272.html
+SUMMARY:On Smart Cities\, Smart Energy\, And Dumb Security
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T133000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T130000
+DTSTAMP;VALUE=DATE-TIME:20161215T104808Z
+UID:60b52369-b0ee-455f-904a-4dfef49596eb@frab.cccv.de
+DESCRIPTION:In this lecture I wish to reflect on the maturation of the se
+ curity and hacking communities and their role in larger societal and pol
+ itical participation. We'll reflect on the predominant role that technol
+ ogy has been growing into our lives\, and the responsibilities we have i
+ n nurturing it. After having spent the last years in researching\, expos
+ ing\, and preventing the electronic targeting of dissidents and journali
+ sts\, I hope to synthesize my experience and suggest how to reconsider o
+ ur tactics\, the successes\, and the failures\, and hopefully draw some 
+ inspiration for a brighter future.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8349.html
+SUMMARY:Hacking the World
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

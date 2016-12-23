@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T011500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T001500
+DTSTAMP;VALUE=DATE-TIME:20161222T094119Z
+UID:d51d9e44-947b-4a09-94ad-c31c5cf5e5e1@frab.cccv.de
+DESCRIPTION:Wer hat diese Jungs wieder reingelassen?! Nicolas Wöhrl und R
+ einhard Remfort sind eine Gefahr für Leib und Leben. Unter dem Deckmante
+ l der Wissenschaftskommunikation machen sie auf der Bühne alles das\, wa
+ s sie an der Uni nie gewagt hätten.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8020.html
+SUMMARY:Methodisch inkorrekt!
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

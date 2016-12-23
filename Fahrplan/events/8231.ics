@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T231500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T224500
+DTSTAMP;VALUE=DATE-TIME:20161213T214551Z
+UID:855ab830-c6c0-4be7-b84c-31ba78e90e3c@frab.cccv.de
+DESCRIPTION:A physically unclonable function\, or PUF\, is some physical 
+ structure with properties that are easy to verify\, hard to predict\, an
+ d practically impossible to clone. Ideally\, this means it's a device-un
+ ique unchanging identifier\, which can be used for improving security. H
+ owever\, it can be at odds with privacy and anonymity. This talk will gi
+ ve you an overview of the thirty years of history behind PUFs\, and will
+  include the most recent advances in research. The functions\, structure
+ \, and design will be discussed\, as well as devices and materials that 
+ have properties to base PUFs on.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8231.html
+SUMMARY:PUFs\, protection\, privacy\, PRNGs
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T160000
+DTSTAMP;VALUE=DATE-TIME:20161222T140556Z
+UID:70269173-72a8-4eab-b356-f22faea6cdca@frab.cccv.de
+DESCRIPTION:How to build a pinball machine? We introduce you to all basic
+ s and explain the different options for hardware and software. As an exa
+ mple\, we show images of our own custom pinball machine.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8012.html
+SUMMARY:Building Custom Pinball Machines
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T120000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T113000
+DTSTAMP;VALUE=DATE-TIME:20161213T214635Z
+UID:658b276a-e3a2-4698-b2a8-2edb724be17e@frab.cccv.de
+DESCRIPTION:The proper relationship of technology and politics have been 
+ the subject of an evergreen debate on the floor of the Chaos Communicati
+ on Congress.  Rather than taking a position in this debate\, we are aski
+ ng how the two have been co-articulated in practice so far by CCC partic
+ ipants?
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8266.html
+SUMMARY:Der 33 Jahrerückblick
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

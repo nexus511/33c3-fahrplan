@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T150000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T140000
+DTSTAMP;VALUE=DATE-TIME:20161213T213745Z
+UID:61f9d4c6-a3de-4958-a57c-efcf941668fa@frab.cccv.de
+DESCRIPTION:We present DROWN\, a novel cross-protocol attack on TLS that 
+ uses a server supporting SSLv2 as an oracle to decrypt modern TLS connec
+ tions. Using Internet-wide scans\, we find that 33% of all HTTPS servers
+  are vulnerable to this protocol-level attack.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7821.html
+SUMMARY:The DROWN Attack
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

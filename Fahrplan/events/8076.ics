@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T184500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T181500
+DTSTAMP;VALUE=DATE-TIME:20161213T214303Z
+UID:80190dbb-bf17-40a0-95e4-18a32bcd37e4@frab.cccv.de
+DESCRIPTION:After three years the EU has for the first time new Net Neutr
+ ality rules. What do they mean in practice? Which commercial practices b
+ y ISPs are allowed and which have to be punished by the telecom regulato
+ r. We give an overview about three years of campaign and where we go fro
+ m here. 
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8076.html
+SUMMARY:Make the Internet Neutral Again 
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

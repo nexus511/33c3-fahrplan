@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T000000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T230000
+DTSTAMP;VALUE=DATE-TIME:20161213T214501Z
+UID:fd205d0d-d767-4ff6-9771-9f2d4c933fe7@frab.cccv.de
+DESCRIPTION:Last year we have been talking about DPRK’s operating system 
+ Red Star OS and its surveillance features. We have identified a watermar
+ king mechanism and gave an insight on the internals of the operating sys
+ tem itself. This year we will be talking about one of DPRK’s Tablet PCs\
+ , called Woolim.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8143.html
+SUMMARY:Woolim – Lifting the Fog on DPRK’s Latest Tablet PC
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

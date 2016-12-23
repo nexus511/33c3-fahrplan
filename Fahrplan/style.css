@@ -1,0 +1,195 @@
+.cell-height1 { height: 40px; }
+.cell-height2 { height: 77px; }
+.cell-height3 { height: 117px; }
+.cell-height4 { height: 157px; }
+.cell-height5 { height: 197px; }
+.cell-height6 { height: 237px; }
+.cell-height7 { height: 277px; }
+.cell-height8 { height: 317px; }
+.cell-height9 { height: 357px; }
+
+
+.event.track-default {
+  background-color: #555;
+  border-color: #555;
+}
+
+.event.track-default div.event-header {
+  background-color: #555;
+}
+
+.event.track-default div.event-header a {
+  color: #fff;
+}
+
+.conference-background {
+  background-color: #555;
+}
+
+
+.event.track-art-culture {
+  background-color: #ec6090;
+  border-color: #ec6090;
+}
+.event.track-art-culture div.event-header {
+  background-color: #ec6090;
+}
+
+.event.track-art-culture div.event-header a {
+  color: #000;
+}
+
+#colorkeys .track-art-culture {
+  background-color: #ec6090;
+}
+
+.event.track-ccc {
+  background-color: #fff374;
+  border-color: #fff374;
+}
+.event.track-ccc div.event-header {
+  background-color: #fff374;
+}
+
+.event.track-ccc div.event-header a {
+  color: #000;
+}
+
+#colorkeys .track-ccc {
+  background-color: #fff374;
+}
+
+.event.track-entertainment {
+  background-color: #a2c617;
+  border-color: #a2c617;
+}
+.event.track-entertainment div.event-header {
+  background-color: #a2c617;
+}
+
+.event.track-entertainment div.event-header a {
+  color: #fff;
+}
+
+#colorkeys .track-entertainment {
+  background-color: #a2c617;
+}
+
+.event.track-ethics-society-politics {
+  background-color: #009a93;
+  border-color: #009a93;
+}
+.event.track-ethics-society-politics div.event-header {
+  background-color: #009a93;
+}
+
+.event.track-ethics-society-politics div.event-header a {
+  color: #fff;
+}
+
+#colorkeys .track-ethics-society-politics {
+  background-color: #009a93;
+}
+
+.event.track-hardware-making {
+  background-color: #75519c;
+  border-color: #75519c;
+}
+.event.track-hardware-making div.event-header {
+  background-color: #75519c;
+}
+
+.event.track-hardware-making div.event-header a {
+  color: #fff;
+}
+
+#colorkeys .track-hardware-making {
+  background-color: #75519c;
+}
+
+.event.track-science {
+  background-color: #007bc4;
+  border-color: #007bc4;
+}
+.event.track-science div.event-header {
+  background-color: #007bc4;
+}
+
+.event.track-science div.event-header a {
+  color: #fff;
+}
+
+#colorkeys .track-science {
+  background-color: #007bc4;
+}
+
+.event.track-security {
+  background-color: #e7344c;
+  border-color: #e7344c;
+}
+.event.track-security div.event-header {
+  background-color: #e7344c;
+}
+
+.event.track-security div.event-header a {
+  color: #fff;
+}
+
+#colorkeys .track-security {
+  background-color: #e7344c;
+}
+
+.event.track-self-organized-sessions {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+.event.track-self-organized-sessions div.event-header {
+  background-color: #ffffff;
+}
+
+.event.track-self-organized-sessions div.event-header a {
+  color: #000;
+}
+
+#colorkeys .track-self-organized-sessions {
+  background-color: #ffffff;
+}
+
+.event.track-space {
+  background-color: #575757;
+  border-color: #575757;
+}
+.event.track-space div.event-header {
+  background-color: #575757;
+}
+
+.event.track-space div.event-header a {
+  color: #fff;
+}
+
+#colorkeys .track-space {
+  background-color: #575757;
+}
+
+#colorkeys {
+  font-size: .8em;
+  opacity: .85;
+}
+
+#colorkeys ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+#colorkeys ul li {
+  margin: 0 .2em;
+  float: right;
+}
+
+#colorkeys ul li div {
+  padding: 0;
+}
+
+/* Custom Conference CSS */
+

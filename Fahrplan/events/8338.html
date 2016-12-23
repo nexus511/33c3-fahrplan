@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Schedule 33. Chaos Communication Congress</title>
+<link rel="stylesheet" media="screen" href="/congress/2016/Fahrplan/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/congress/2016/Fahrplan/style.css">
+<link rel="stylesheet" media="print" href="/congress/2016/Fahrplan/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Schedule 33. Chaos Communication Congress</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/congress/2016/Fahrplan/schedule.html">Overview</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/0.html">
+Tuesday
+ - 
+<span class="small-font">2016-12-27</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/1.html">
+Wednesday
+ - 
+<span class="small-font">2016-12-28</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/2.html">
+Thursday
+ - 
+<span class="small-font">2016-12-29</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/3.html">
+Friday
+ - 
+<span class="small-font">2016-12-30</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/speakers.html">Speakers</a>
+</li>
+<li class="selected">
+<a href="/congress/2016/Fahrplan/events.html">Events</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/qrcode.html">QR-Code</a>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version INTERIM VERSION
+</p>
+<h2>lecture: Building a high throughput low-latency PCIe based SDR</h2>
+<h3 class="title">Lessons learnt implementing PCIe on FPGA for XTRX Software Defined Radio</h3>
+<div class="column left" id="basic">
+<div class="image large"><img src="/congress/2016/Fahrplan/system/events/logos/000/008/338/large/XTRX_in_hands.jpg" alt="Xtrx in hands"></div>
+<p class="abstract">Software Defined Radios (SDRs) became a mainstream tool for wireless engineers and security researches and there are plenty of them available on the market. Most if not all SDRs in the affordable price range are using USB2/USB3 as a transport, because of implementation simplicity. While being so popular, USB has limited bandwidth, high latency and is not really suitable for embedded applications. PCIe/miniPCIe is the only widespread bus which is embedded friendly, low latency and high bandwidth at the same time. But implementing PCIe/miniPCIe is not for the faint of heart - you have to write your own FPGA code, write your own Linux kernel driver and ensure compatibility with different chipsets, each with its own quirks. In this talk we will look at the requirements for a high performance SDR like XTRX, how this leads to certain design decisions and share pitfalls and gotchas we encountered (and solved).</p>
+<p class="description">We've been working with SDRs since 2008 and building own SDRs since 2011, focusing on embedded systems and mobile base stations. We created ClockTamer configurable clock source and UmTRX SDR and built a complete base station (UmSITE) to run OpenBTS and later Osmocom GSM stacks. This year we've started working on a new tiny high-performance SDR called XTRX which fits into the miniPCIe form-factor and using PCIe for the I/Q samples transfer.</p>
+
+<p class="description">We will talk about when to use PCIe and when not to use PCIe and why did we choose it for XTRX; FPGA implementation of PCIe with optimization for low latency and high throughput; Linux kernel driver for this PCIe device; integration with various SDR platforms; all the various issues we encountered and how you can avoid them.</p>
+</div>
+<div class="column left" id="details">
+<h3>Info</h3>
+<p>
+<b>Day:</b>
+<a href="/congress/2016/Fahrplan/schedule/0.html">2016-12-27</a>
+<br>
+<b>Start time:</b>
+12:45
+<br>
+<b>Duration:</b>
+01:00
+<br>
+<b>Room:</b>
+Saal G
+<br>
+<b>Track:</b>
+<font class="event track-hardware-making">
+<a href="/congress/2016/Fahrplan/events.html#hardware%20&amp;%20making">Hardware &amp; Making</a>
+</font>
+<br>
+<b>Language:</b>
+en
+</p>
+<h3>Links:</h3>
+<ul>
+<li><a href="/congress/2016/Fahrplan/events/8338.ics">iCalendar</a></li>
+<li><a href="https://xtrx.io">XTRX blog</a></li>
+</ul>
+<div class="column left" id="concurrent_events">
+<h3><span class="translation_missing" title="translation missing: en.public.schedule.event.concurrent_events">Concurrent Events</span></h3>
+<dl class="dl-horizontal">
+<dt>Saal 6</dt>
+<dd><a href="/congress/2016/Fahrplan/events/7858.html">Exploiting PHP7 unserialize</a></dd>
+<dt>Saal 2</dt>
+<dd><a href="/congress/2016/Fahrplan/events/8127.html">How Do I Crack Satellite and Cable Pay TV?</a></dd>
+<dt>Saal 1</dt>
+<dd><a href="/congress/2016/Fahrplan/events/8295.html">The Fight for Encryption in 2016</a></dd>
+</dl>
+</div>
+</div>
+<div class="column right" id="sidebar">
+<h3>Speakers</h3>
+<table class="list">
+<tbody>
+<tr>
+<td><div class="image small"><img src="/congress/2016/Fahrplan/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png" alt="Person small"></div></td>
+<td><a href="/congress/2016/Fahrplan/speakers/3000.html">ipse</a></td>
+</tr>
+<tr>
+<td><div class="image small"><img src="/congress/2016/Fahrplan/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png" alt="Person small"></div></td>
+<td><a href="/congress/2016/Fahrplan/speakers/6941.html">Sergey Kostanbaev</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="span16">
+</div>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

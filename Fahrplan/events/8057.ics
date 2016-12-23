@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T181500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T171500
+DTSTAMP;VALUE=DATE-TIME:20161213T214216Z
+UID:aaec73e9-66b9-46d2-aa0f-9f43018198ea@frab.cccv.de
+DESCRIPTION:Ever wondered what is actually happening when a speaker can't
+  get their laptop to project? While developing the FPGA-based <a href="h
+ ttps://hdmi2usb.tv">HDMI2USB.tv open hardware for recording conferences<
+ /a>\, we discovered just how convoluted the HDMI protocol can be. Come h
+ ear all the horrible details!
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8057.html
+SUMMARY:Dissecting HDMI
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

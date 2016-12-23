@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T160000
+DTSTAMP;VALUE=DATE-TIME:20161213T214753Z
+UID:2f586f3b-5399-496c-ab03-c25ad8ea8cf6@frab.cccv.de
+DESCRIPTION:Inspired by a long history of bold reality hacks this talk co
+ nsiders the kinds of potentials opening up through emerging Virtual Real
+ ity (VR) and Mixed Reality technologies. In this current moment of clima
+ te crisis and structural metamorphosis how can we work with powerful imm
+ ersive technologies to understand our own perceptual systems\, to radica
+ lly communicate and to innovate new ways of being together?
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8317.html
+SUMMARY:Hacking Reality 
+LOCATION:33c3 - Saal 6
+END:VEVENT
+END:VCALENDAR

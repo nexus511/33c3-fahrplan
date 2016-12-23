@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Schedule 33. Chaos Communication Congress</title>
+<link rel="stylesheet" media="screen" href="/congress/2016/Fahrplan/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/congress/2016/Fahrplan/style.css">
+<link rel="stylesheet" media="print" href="/congress/2016/Fahrplan/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Schedule 33. Chaos Communication Congress</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/congress/2016/Fahrplan/schedule.html">Overview</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/0.html">
+Tuesday
+ - 
+<span class="small-font">2016-12-27</span>
+</a>
+</li>
+<li class="selected">
+<a href="/congress/2016/Fahrplan/schedule/1.html">
+Wednesday
+ - 
+<span class="small-font">2016-12-28</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/2.html">
+Thursday
+ - 
+<span class="small-font">2016-12-29</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/3.html">
+Friday
+ - 
+<span class="small-font">2016-12-30</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/speakers.html">Speakers</a>
+</li>
+<li class="selected">
+<a href="/congress/2016/Fahrplan/events.html">Events</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/qrcode.html">QR-Code</a>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version INTERIM VERSION
+</p>
+<h2>lecture: No USB? No problem.</h2>
+<h3 class="title">How to write an open source bit-bang low-speed USB stack running on a sub-$1 Cortex M0+</h3>
+<div class="column left" id="basic">
+<div class="image large"><img src="/congress/2016/Fahrplan/assets/event_large-4b8aa978adbb7c8e80151f5a83c6782a12e763374ae3a042a55e7e626a64d93b.png" alt="Event large"></div>
+<p class="abstract">How to get USB running on an ARM microcontroller that has no built in USB hardware.  We'll cover electrical requirements, pin assignments, and microcontroller considerations, then move all the way up the stack to creating a bidirectional USB HID communications layer entirely in software.</p>
+<p class="description">USB is amazing.  It's hot-pluggable, auto-negotiating, and reasonably fast.  It's robust, capable of supplying power, and works cross-platform.  It lives up to the “Universal” claim: your PC definitely has USB, but it may not have TTL Serial, I2C, or SPI available.  Hardware USB support is available in all manner of embedded microcontrollers.  However it's not available on all microcontrollers, and integrating a hardware USB PHY can double the cost of a low-end microcontroller.   This problem is particularly acute in the sub-$1 microcontrollers: a companion USB PHY chip would typically cost more than the microcontroller (example: the MAX3420E USB-to-SPI adapter costs around $5), so your only option for USB is to get your hands dirty and bit bang the missing protocol.</p>
+
+<p class="description">This talk describes the implementation of a new bitbanged USB stack, starting with a primer on the USB PHY layer and continuing up the stack, concluding with "Palawan", a feature-complete open-source bitbanged USB Low Speed stack available for use on microcontrollers priced for under a dollar.  We'll go over requirements for getting USB to work, as well as talking about USB timing, packet order, and how to integrate everything together.</p>
+
+<p class="description">Unlike other bitbang USB implementations such as V-USB and LemcUSB, Palawan makes fewer assumptions about GPIO layout.  With Palawan, USB's D+ and D- signals can be on different GPIO banks, and need not be consecutive.  By doing so, more pins are available to the user, making it easier to use with devices that have special restrictions on what pins can do what.  The only requirements are that both GPIO pins can be both inputs and push-pull outputs, and that at least one pin can be used as an interrupt.</p>
+
+<p class="description"> Palawan also includes a USB HID firmware update mechanism to allow for updates to be installed even on platforms that normally require USB drivers.</p>
+
+<p class="description">As a protocol, USB comes in multiple speeds.  The base speeds are called Full Speed and Low Speed -- FS and LS respectively.  FS runs at 12 Mbps, and LS runs at 1.5 Mbps.  LS is more restricted in scope than FS.  It limits packet data payload size to 8 bytes (down from 64), and only allows Control or Interrupt endpoints (so no Bulk or Isochronous endpoints).  While it's true that this limits the total possible features we can implement, it means that the job of implementing them in software becomes simpler.  Limiting communications to 8-bytes of payload data also significantly lowers memory requirements.</p>
+
+<p class="description">The core USB PHY layer consists of two functions: USBPhyRead() and USBPhyWrite().  These functions transparently take care of bit stuffing and unstuffing, where long runs of data have a transition period inserted.  They also take care of synchronizing reception to the incoming signal, as well as interpreting SE0 end sequences, recognizing USB keepalive packets, and adding the USB SE0 footer.  This particular implementation takes care to ensure incoming packets are presented in the correct endianness, as USB packets are transmitted with the most significant byte first.</p>
+
+<p class="description">Since the PHY code is written using cycle-counting, it must be run from memory that is cycle-accurate.  The Kinetis parts we used for testing have variable-cycle flash, so we must first copy the data into RAM and execute from there.  Fortunately, gcc makes it easy to put executable code in the .data section, and automatically generates calls to RAM.</p>
+
+<p class="description">The core of the USB PHY layer is written in Thumb2 assembly for an ARM Cortex M0+ using ARMv6m.  This is an extremely limited subset of ARM code that removes lots of fun stuff like conditional execution, different source and destination registers in opcodes, as well as DSP instructions.  As a tradeoff, most instructions complete in one cycle, with the notable exceptions of branches (which are two cycles if taken) and loads/stores (which are two cycles unless it involves single-cycle IO).  USB is 1.5 Mbit/s, and at 48 MHz that gives us 32 cycles to write the data out two ports, calculate bit [un]stuffing, check for end-of-packet, and load the next chunk of data for writing.</p>
+
+<p class="description">The the USB PHY layer makes the following assumptions:</p>
+
+<p class="description">  +	 The controller is a 48 MHz Cortex M0+ with associated two-stage pipeline
+<br>  +	 GPIO is single-cycle access (sometimes referred to as Fast GPIO or FGPIO)
+<br>  +	 GPIO has separate "Set Value" and "Clear Value" banks.
+<br>  +	 GPIO pin direction register is 1 for output, 0 for input
+<br>  +	 Code is executing from single-cycle access memory, meaning it may need to execute from RAM</p>
+
+<p class="description">Despite these limitations, this code has been ported to two different Freescale/NXP Kinetis parts under a variety of operating systems.  These assumptions aren't terribly restrictive, meaning this core could easily be ported to other M0+ implementations.</p>
+
+<p class="description">Other bit-banged USB implementations make assumptions that were not useful for our implementation.  V-USB impressively works on an AVR microcontroller across a range of frequencies, but it is the wrong architecture and uses special timer modes unavailable on ARM.  LemcUSB is conceptually similar to Palawan and is available for other M0+ chips, and in fact can run at a lower clock speed of 24 MHz.  However, LemcUSB requires that D+ and D- be on a GPIO bank's pins 0 and 1 respectively, which is not available on all chips, or may conflict with the SWD pins.  Additionally, the M0+ ISA has no instruction for reversing word order, so LemcUSB's low-level PHY functions return data reversed.  Palawan takes care to load bits in the correct order, saving a step when examining the packet.</p>
+
+<p class="description">Our sample implementation is accompanied by a bootloader that provides a USB HID communication. This allows for driver-free firmware updates even on Windows, which normally requires a signed driver installation.  This USB HID code can act as a keyboard, but is also bidirectional, and is capable of allowing for firmware upload to the device.  While there are bootloader HID implementations from companies such as NXP and Microchip, we are unaware of any general-purpose open-source USB HID bootloader created with the intention of providing firmware updates.</p>
+</div>
+<div class="column left" id="details">
+<h3>Info</h3>
+<p>
+<b>Day:</b>
+<a href="/congress/2016/Fahrplan/schedule/1.html">2016-12-28</a>
+<br>
+<b>Start time:</b>
+16:00
+<br>
+<b>Duration:</b>
+01:00
+<br>
+<b>Room:</b>
+Saal G
+<br>
+<b>Track:</b>
+<font class="event track-hardware-making">
+<a href="/congress/2016/Fahrplan/events.html#hardware%20&amp;%20making">Hardware &amp; Making</a>
+</font>
+<br>
+<b>Language:</b>
+en
+</p>
+<h3>Links:</h3>
+<ul>
+<li><a href="/congress/2016/Fahrplan/events/8031.ics">iCalendar</a></li>
+</ul>
+<div class="column left" id="concurrent_events">
+<h3><span class="translation_missing" title="translation missing: en.public.schedule.event.concurrent_events">Concurrent Events</span></h3>
+<dl class="dl-horizontal">
+<dt>Saal 1</dt>
+<dd><a href="/congress/2016/Fahrplan/events/8037.html">Die Sprache der Populisten</a></dd>
+<dt>Saal 2</dt>
+<dd><a href="/congress/2016/Fahrplan/events/8229.html">Copywrongs 2.0</a></dd>
+<dt>Saal 6</dt>
+<dd><a href="/congress/2016/Fahrplan/events/8317.html">Hacking Reality </a></dd>
+</dl>
+</div>
+</div>
+<div class="column right" id="sidebar">
+<h3>Speakers</h3>
+<table class="list">
+<tbody>
+<tr>
+<td><div class="image small"><img src="/congress/2016/Fahrplan/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png" alt="Person small"></div></td>
+<td><a href="/congress/2016/Fahrplan/speakers/4376.html">Xobs</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="span16">
+</div>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

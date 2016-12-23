@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T000000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T230000
+DTSTAMP;VALUE=DATE-TIME:20161213T214323Z
+UID:b9ca38ea-fa88-48c4-8083-9415eee93fcb@frab.cccv.de
+DESCRIPTION:Sednit\, a.k.a Fancy Bear/APT28/Sofacy\, is a group of attack
+ ers\noperating since at least 2004 and whose main objective is to steal\
+ nconfidential information from specific targets. Over the past two years
+ \,\nthis group's activity increased significantly\, in particular with n
+ umerous attacks against foreign affairs ministries and embassies all ove
+ r the world. They are supposedly behind the DNC hack\, and the WADA hack
+ \, which happened earlier this year. This talk presents the results of a
+  two-year hunt after Sednit\, during which we dug up and analyzed many o
+ f their software.\n\n
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8094.html
+SUMMARY:Visiting The Bear Den
+LOCATION:33c3 - Saal 6
+END:VEVENT
+END:VCALENDAR

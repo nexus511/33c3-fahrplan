@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T193000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T183000
+DTSTAMP;VALUE=DATE-TIME:20161215T123250Z
+UID:155a622a-196e-4e05-a262-88f3a7726bbe@frab.cccv.de
+DESCRIPTION:Die Verfügbarkeit preiswerter Maschinentechnik und Open Sourc
+ e CAD-Software hat den Aufwand des Herstellens eigener mechanischer Schl
+ üssel signifikant abgesenkt\, die wir noch vor zehn Jahren als „sicher“ 
+ bezeichnet haben.\nKlassische Zylinderschlösser sind in der Vergangenhei
+ t bereits ausführlich analysiert worden\, doch wie sieht die Situation b
+ ei anspruchsvolleren mechanischen Schließsystemen aus?\nWir zeigen\, wie
+  man den Generalschlüssel einer hoch präzisen\, hochpreisigen Schließanl
+ age ermittelt. Weiterhin präsentieren wir unseren Workflow der Software 
+ und Mechanik\, mit dem man Rohlinge und Schlüssel eines Hochsicherheitss
+ ystem mit einer „Low Cost“ CNC-Fräse herstellen kann. Im Gegensatz zum 3
+ D-Drucken bietet uns dies eine deutlich höhere Präzision und mechanische
+  Stabilität - und das für unter 2 Euro pro Schlüssel.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8139.html
+SUMMARY:Hochsicherheits-Generalschlüssel Marke Eigenbau
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

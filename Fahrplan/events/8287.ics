@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T150000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T143000
+DTSTAMP;VALUE=DATE-TIME:20161213T214718Z
+UID:9d6db804-1074-4116-8210-cca78b335a1a@frab.cccv.de
+DESCRIPTION:The ‚Investigative Powers Bill‘ is about to become law in the
+  UK. Its provisions\, from looking up Internet connection records withou
+ t a warrant to forcing communication service providers to assist with in
+ terception and decryption of data\, have caused an outcry in the Western
+  world. But how and why did British politics get here? And\, most import
+ antly of all: How could we fight back?
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8287.html
+SUMMARY:Understanding the Snooper’s Charter
+LOCATION:33c3 - Saal 6
+END:VEVENT
+END:VCALENDAR

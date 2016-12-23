@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T163000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T160000
+DTSTAMP;VALUE=DATE-TIME:20161213T213935Z
+UID:e4eb4104-b9e7-4e99-bcb2-d10ddff3e19a@frab.cccv.de
+DESCRIPTION:What are the politics and aesthetics of mapping? An introduct
+ ion how cartography shapes cities and landscapes\, creates borders and d
+ etermines the perception of our environment. How an evolving mix of high
+ -resolution satellite imagery\, algorithm-based mappings and the huge am
+ ount of data of digitized cities will enhance these effects? And in cont
+ rast\, how can maps be designed\, that question the “objectivity” and “c
+ orrectness” of conventional cartography?\n
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7958.html
+SUMMARY:Space making/space shaping
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

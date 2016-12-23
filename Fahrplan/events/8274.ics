@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T193000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T190000
+DTSTAMP;VALUE=DATE-TIME:20161215T110002Z
+UID:dca06c58-ad2a-4b14-8be6-e6422e0dc94f@frab.cccv.de
+DESCRIPTION:This talk describes the journey of dissecting the old "Kellog
+ g's" Jump'n'Run DOS game developed back in 1994 by Rauser Advertainment 
+ and Factor 5. We summarize a 9 months effort of creating a full-fledged 
+ map editor for this game\, covering the structure of the game's data fil
+ es\, nifty VGA programming tricks as well as insane space-optimization s
+ trategies employed by the original developers. Prepare for tons of data 
+ structures\, bit magic\, and of course 16 bit x86 assembly code.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8274.html
+SUMMARY:Back to the 16bit Era
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

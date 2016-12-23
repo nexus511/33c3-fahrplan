@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T124500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T121500
+DTSTAMP;VALUE=DATE-TIME:20161215T195025Z
+UID:5f0ab68a-8e2d-481e-b009-55a1af58760c@frab.cccv.de
+DESCRIPTION:This talk discusses the representation of Arab males in video
+  games and the adverse effect it has on the collective political imagina
+ tion. Anonymous military-aged Arab men become increasingly the exception
+  to the laws of human rights\, and become default targets for convention
+ al and unmanned drone attacks. This devolution is seen through the lens 
+ of the changing nature of conflict through digitalization\, the collapse
+  of the nation state in Iraq and Syria\, and the future of war. 
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8419.html
+SUMMARY:The Clash of Digitalizations
+LOCATION:33c3 - Saal 6
+END:VEVENT
+END:VCALENDAR

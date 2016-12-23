@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T223000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T220000
+DTSTAMP;VALUE=DATE-TIME:20161213T214623Z
+UID:a6b27767-e42d-4610-a8d5-5a1f20587b34@frab.cccv.de
+DESCRIPTION:Talk presents findings from sociological investigation on hac
+ king collectives. I will try to answer the question whether hacking coll
+ ectives are laboratories\, as seen by sociology of science. I will also 
+ show some peculiar traits of hacking collective\, beneficial both for sc
+ iences and societies. Perhaps academia needs hackers more than it’s will
+ ing to admit? 
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8263.html
+SUMMARY:Hacking collective as a laboratory
+LOCATION:33c3 - Saal 6
+END:VEVENT
+END:VCALENDAR

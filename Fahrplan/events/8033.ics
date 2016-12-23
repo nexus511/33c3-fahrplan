@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T184500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T181500
+DTSTAMP;VALUE=DATE-TIME:20161213T214130Z
+UID:361946ca-4577-467d-b608-022c8a2d3164@frab.cccv.de
+DESCRIPTION:Legend has it that most airline pilots will at one time have 
+ uttered the sentence "What's it Doing now?"\, whenever the autopilot or 
+ one of its related systems did something unexpected. I will be exploring
+  some high-profile accidents in which wrong expectations of automation b
+ ehaviour contributed to the outcome.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8033.html
+SUMMARY:What's It Doing Now?
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

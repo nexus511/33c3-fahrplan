@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T160000
+DTSTAMP;VALUE=DATE-TIME:20161213T214548Z
+UID:bfc2ab1f-8384-4d7d-801a-dde8c81e039c@frab.cccv.de
+DESCRIPTION:EU copyright reform plans threaten freedom of expression: Com
+ missioner Günther Oettinger wants to make sharing even the tiniest snipp
+ ets of news content subject to costly licensing\, and obligate internet 
+ platforms to monitor all user uploads. We can still stop these proposals
+  – if you join the fight now.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8229.html
+SUMMARY:Copywrongs 2.0
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

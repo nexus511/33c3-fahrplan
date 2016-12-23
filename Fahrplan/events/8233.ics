@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T210000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T203000
+DTSTAMP;VALUE=DATE-TIME:20161213T214555Z
+UID:d851c029-9f83-41af-befd-a54209453d41@frab.cccv.de
+DESCRIPTION:Used in cell phone technology\, bluetooth devices\, and WiFi\
+ , Frequency Hopping Spread Spectrum (FHSS) is often said to have been in
+ vented in the early 1940s by none other than Hollywood actress and sex s
+ ymbol Hedy Lamarr. This talk will present the undeniably entertaining hi
+ story of a well-known actress moonlighting as a military inventor as wel
+ l as give an overview of the 100-year-old history of frequency hopping a
+ nd its past and present uses.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8233.html
+SUMMARY:The woman behind your WiFi
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

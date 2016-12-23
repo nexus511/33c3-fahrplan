@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T160000
+DTSTAMP;VALUE=DATE-TIME:20161215T103026Z
+UID:07a731a0-2c3a-40f1-928e-3f709eb1eccf@frab.cccv.de
+DESCRIPTION:The participation of women in computer education is low\; und
+ ergraduate classrooms in Germany were only 10% female in 2000[1]. The pi
+ cture at the primary school level is fuzzier\, as students do not declar
+ e majors at that level\, but evidence indicates the trend starts from a 
+ young age. Can we make computer education more gender-inclusive? Present
+ ing technology in familiar\, non-threatening contexts can lead to more b
+ alanced gender participation. For example\, Chibitronics uses the contex
+ t of papercraft to present electronics to beginners\; the familiarity of
+  papercraft improves the participation of women of all ages in the creat
+ ion of electronics. Based on these learnings\, we have devised the “Love
+  to Code” platform\, an open source hardware-to-cloud stack which combin
+ es the familiarity of paper craft with a web-based\, driver-free embedde
+ d firmware development environment based on FSK audio provisioning via a
+  headphone jack. In this talk\, we will dive into the novel open source 
+ technical contributions of this platform\, which includes the audio-base
+ d provisioning protocol and the unique rigid-flex design of the circuitr
+ y enabling papercraft integration\, as well as the multi-threaded client
+  OS and cloud infrastructure required to complete the picture. This comb
+ ination of new technology with familiar interfaces aims to lower the bar
+ rier to computer education\, thus making coding a more accessible and in
+ clusive activity.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7975.html
+SUMMARY:Making Technology Inclusive Through Papercraft and Sound
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

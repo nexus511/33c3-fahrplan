@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Schedule 33. Chaos Communication Congress</title>
+<link rel="stylesheet" media="screen" href="/congress/2016/Fahrplan/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/congress/2016/Fahrplan/style.css">
+<link rel="stylesheet" media="print" href="/congress/2016/Fahrplan/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Schedule 33. Chaos Communication Congress</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/congress/2016/Fahrplan/schedule.html">Overview</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/0.html">
+Tuesday
+ - 
+<span class="small-font">2016-12-27</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/1.html">
+Wednesday
+ - 
+<span class="small-font">2016-12-28</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/2.html">
+Thursday
+ - 
+<span class="small-font">2016-12-29</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/3.html">
+Friday
+ - 
+<span class="small-font">2016-12-30</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/speakers.html">Speakers</a>
+</li>
+<li class="selected">
+<a href="/congress/2016/Fahrplan/events.html">Events</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/qrcode.html">QR-Code</a>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version INTERIM VERSION
+</p>
+<h2>lecture: Wheel of Fortune</h2>
+<h3 class="title">Analyzing Embedded OS Random Number Generators</h3>
+<div class="column left" id="basic">
+<div class="image large"><img src="/congress/2016/Fahrplan/system/events/logos/000/007/949/large/tarot_wheel_of_fortune.jpg" alt="Tarot wheel of fortune"></div>
+<p class="abstract">Secure random number generators play a crucial role in the wider security ecosystem. In the absence of a dedicated hardware True Random Number Generator (TRNG), computer systems have to resort to a software (cryptographically secure) Pseudo-Random Number Generator (CSPRNG). Since the (secure) design of a CSPRNG is an involved and complicated effort and since randomness is such a security-critical resource, many operating systems provide a CSPRNG as a core system service and many popular security software products assume their presence. The constraints imposed by the embedded world, however, pose a variety of unique challenges to proper OS (CS)PRNG design and implementation which have historically resulted in security failures. In this talk we will discuss these challenges, how they affect the quality of (CS)PRNGs in embedded operating systems and illustrate our arguments by means of the first public analysis of the OS random number generators of several popular embedded operating systems.</p>
+<p class="description">Randomness is a fundamental, security-critical resource in the wider security ecosystem utilized by everything from cryptographic software (eg. key and nonce generation) to exploit mitigations (eg. ASLR and stack canary generation). Ideally secure random number generation is done using a dedicated hardware True Random Number Generator (TRNG) collecting entropy from physical processes such as radioactive decay or shot noise. TRNGs, however, are both relatively slow in their provision of random data and often too expensive to integrate in a system which means computer systems have to resort to a software (cryptographically secure) Pseudo-Random Number Generator (CSPRNG). Such a CSPRNG is seeded (both initially and continuously) from a variety of sources of 'true' entropy which are effectively stretched into additional pseudo-random data using cryptographic methods. Since the design and implementation of such CSPRNGs is a complicated and involved effort, many operating systems provide one as a system service (eg. /dev/(u)random on UNIX-like systems) and as a result many security software suites assume their existence.</p>
+
+<p class="description">The embedded world, however, poses a variety of unique challenges (resulting from constraints and deployment scenarios, which differ significantly from the general-purpose world) when designing and implementing (CS)PRNGs. Resulting inadequacies in embedded OS random number generators have led to various security failures in the past (from weak cryptographic keys in network devices to broken exploit mitigations in smartphones) emphasizing the need for public scrutiny of their security, especially considering the nature of embedded system deployments (in everything from vehicles and critical infrastructure to networking equipment) and the sheer variety of ebmedded operating systems compared to the general-purpose world. In this talk we will discuss various challenges posed by the embedded world to (CS)PRNG design and implementation and illustrate our arguments by means of the first public analysis of the OS random number generators of several popular embedded operating systems and a discussion of how their flaws related to these previously identified challenges. </p>
+</div>
+<div class="column left" id="details">
+<h3>Info</h3>
+<p>
+<b>Day:</b>
+<a href="/congress/2016/Fahrplan/schedule/1.html">2016-12-28</a>
+<br>
+<b>Start time:</b>
+13:45
+<br>
+<b>Duration:</b>
+00:30
+<br>
+<b>Room:</b>
+Saal 6
+<br>
+<b>Track:</b>
+<font class="event track-security">
+<a href="/congress/2016/Fahrplan/events.html#security">Security</a>
+</font>
+<br>
+<b>Language:</b>
+en
+</p>
+<h3>Links:</h3>
+<ul>
+<li><a href="/congress/2016/Fahrplan/events/7949.ics">iCalendar</a></li>
+</ul>
+<div class="column left" id="concurrent_events">
+<h3><span class="translation_missing" title="translation missing: en.public.schedule.event.concurrent_events">Concurrent Events</span></h3>
+<dl class="dl-horizontal">
+<dt>Saal 1</dt>
+<dd><a href="/congress/2016/Fahrplan/events/7865.html">Gone in 60 Milliseconds</a></dd>
+<dt>Saal 2</dt>
+<dd><a href="/congress/2016/Fahrplan/events/8169.html">In Search of Evidence-Based IT-Security</a></dd>
+</dl>
+</div>
+</div>
+<div class="column right" id="sidebar">
+<h3>Speakers</h3>
+<table class="list">
+<tbody>
+<tr>
+<td><div class="image small"><img src="/congress/2016/Fahrplan/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png" alt="Person small"></div></td>
+<td><a href="/congress/2016/Fahrplan/speakers/6657.html">Jos Wetzels</a></td>
+</tr>
+<tr>
+<td><div class="image small"><img src="/congress/2016/Fahrplan/system/people/avatars/000/006/699/small/0kNLxdCK.jpg" alt="0knlxdck"></div></td>
+<td><a href="/congress/2016/Fahrplan/speakers/6699.html">Ali Abbasi</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="span16">
+</div>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

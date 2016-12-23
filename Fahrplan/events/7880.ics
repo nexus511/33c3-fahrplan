@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T120000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T113000
+DTSTAMP;VALUE=DATE-TIME:20161213T213829Z
+UID:2a9ac911-1072-4672-8fbc-2887f4fd7aec@frab.cccv.de
+DESCRIPTION:The Common Reporting Standard is a multinational agreement  s
+ igned by more than 80 nations\, including all EU member states. The sign
+ atories promised to exchange bank account information on foreigners.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7880.html
+SUMMARY:International exchange of tax information
+LOCATION:33c3 - Saal 6
+END:VEVENT
+END:VCALENDAR

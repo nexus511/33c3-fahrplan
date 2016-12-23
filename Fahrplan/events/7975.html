@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Schedule 33. Chaos Communication Congress</title>
+<link rel="stylesheet" media="screen" href="/congress/2016/Fahrplan/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/congress/2016/Fahrplan/style.css">
+<link rel="stylesheet" media="print" href="/congress/2016/Fahrplan/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Schedule 33. Chaos Communication Congress</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/congress/2016/Fahrplan/schedule.html">Overview</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/0.html">
+Tuesday
+ - 
+<span class="small-font">2016-12-27</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/1.html">
+Wednesday
+ - 
+<span class="small-font">2016-12-28</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/2.html">
+Thursday
+ - 
+<span class="small-font">2016-12-29</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/schedule/3.html">
+Friday
+ - 
+<span class="small-font">2016-12-30</span>
+</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/speakers.html">Speakers</a>
+</li>
+<li class="selected">
+<a href="/congress/2016/Fahrplan/events.html">Events</a>
+</li>
+<li>
+<a href="/congress/2016/Fahrplan/qrcode.html">QR-Code</a>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version INTERIM VERSION
+</p>
+<h2>lecture: Making Technology Inclusive Through Papercraft and Sound</h2>
+<h3 class="title">Introducing the Love to Code Platform</h3>
+<div class="column left" id="basic">
+<div class="image large"><img src="/congress/2016/Fahrplan/assets/event_large-4b8aa978adbb7c8e80151f5a83c6782a12e763374ae3a042a55e7e626a64d93b.png" alt="Event large"></div>
+<p class="abstract">The participation of women in computer education is low; undergraduate classrooms in Germany were only 10% female in 2000[1]. The picture at the primary school level is fuzzier, as students do not declare majors at that level, but evidence indicates the trend starts from a young age. Can we make computer education more gender-inclusive? Presenting technology in familiar, non-threatening contexts can lead to more balanced gender participation. For example, Chibitronics uses the context of papercraft to present electronics to beginners; the familiarity of papercraft improves the participation of women of all ages in the creation of electronics. Based on these learnings, we have devised the “Love to Code” platform, an open source hardware-to-cloud stack which combines the familiarity of paper craft with a web-based, driver-free embedded firmware development environment based on FSK audio provisioning via a headphone jack. In this talk, we will dive into the novel open source technical contributions of this platform, which includes the audio-based provisioning protocol and the unique rigid-flex design of the circuitry enabling papercraft integration, as well as the multi-threaded client OS and cloud infrastructure required to complete the picture. This combination of new technology with familiar interfaces aims to lower the barrier to computer education, thus making coding a more accessible and inclusive activity.</p>
+<p class="description">Computer technology tends to be a male-dominated field. One study from 2002 placed female participation in undergraduate computer education classrooms around 10% for Germany, and 26% for the US[1]. The picture is fuzzier at the primary school level, because students do not declare majors at such a young age, but evidence indicates that this strong gender bias has roots extending to primary school. Can we make computer education more inclusive? There is evidence that presenting technology in familiar, non-threatening contexts can lead to more inclusive participation. </p>
+
+<p class="description">As an example, Chibitronics uses the context of paper craft to present electronics to beginners. Paper craft – the art of manipulating and coating paper as exemplified by origami or painting – has universal accessibility among almost all ages, genders, and ethnic groups. In our approach, novices start with the familiarity of paper, and combine it with copper tape and electronic stickers to build circuits.</p>
+
+<p class="description">Demographic analysis of the Chibitronics user base indicates this approach is succeeding at gender inclusivity: over 70% of individual buyers are female. Follow-up interviews indicate that Chibitronics acts as a gateway to more advance projects and skills. After bootstrapping into basic electronics, users pick up skills such as soldering to build larger and more permanent projects. </p>
+
+<p class="description">We would like to continue this trend beyond circuit crafting and into the realm of embedded firmware coding. Creating parallel and series combinations of LEDs and switches can only go so far; users rapidly outgrow the basic techniques and want to add patterns and interactivity to their projects through coding.</p>
+
+<p class="description">Coding for the web is as simple as learning a text editor and pointing a browser at a URL, but coding for an embedded hardware target, such as an Arduino, inevitably requires platform-specific drivers, which can require installation and debugging. The problem is further exacerbated by the fact that primary school educators rarely possess the skillset to install, debug, and maintain a classroom of computers for embedded development. Furthermore, the waning popularity of laptops and desktops means the most inclusive platforms are now mobile devices such as smartphones and tablets, even though their touchscreen keyboards are not ideal for extensive programming. </p>
+
+<p class="description">In order to tackle the problem of inclusivity, we make embedded firmware development nearly universal by coupling a cloud-based editing and compilation infrastructure with an audio-based firmware upload protocol suitable for implementation on low-cost microcontrollers. Cloud-based editing and compilation eliminates the barrier of downloading and running a C compiler on the client, while the audio-based firmware upload protocol allows virtually any computer, smartphone, or tablet to communicate with target hardware implementing our demodulator. We demonstrate this end-to-end solution via the Chibitronics “Love To Code” (LtC) open source hardware platform.</p>
+
+<p class="description">Users code for their LtC boards using Arduino-flavored C++ as a baseline language by visiting our demo site (either https://chibitronics.com/ltc (CodeMirror editor) or https://chibitronics.com/cb (Codebender/ACE editor)). Users enter their code on the client-side editor, which is then uploaded as plain text to a cloud-based C++ compiler and returned as an object code binary. The binary is then packetized, coded and modulated using browser-side Javascript into an FSK audio stream with a baud rate of 8000 bps. The frequency plan was chosen to minimize interaction with audio “enhancement” filters found in devices such as iPhones, and to enable the raw audio stream to be recorded as a 128kbps CBR MP3 with minimal distortion. This allows pre-compiled binaries to be stored as songs; one could even entertain the thought of cutting these songs into vinyl records and provisioning microcontrollers using nothing more than an analog turntable. </p>
+
+<p class="description">The FSK audio stream is coupled from the headphone jack into the microcontroller PCB via a modified microUSB cable. The USB interface is used only for power; the data pins are inert during the provisioning process. Audio arrives at the LtC hardware via the “fifth pin” in the microUSB plug that is normally reserved for identifying A or B type devices. This hack allows users to power programmed LtC devices using any regular microUSB cable. </p>
+
+<p class="description">Within the LtC device, the audio signal is DC coupled and level-shifted using a passive RC network into a single ADC pin on an NXP CPU, the MKL02Z32VFK4. This 48 MHz Cortex M0+ features 32k of FLASH and 4k of RAM and costs under $1 in modest volumes, less than one third the cost of the AVR used in the Arduino Leonardo. The microcontroller uses noncoherent demodulation to recover the bitstream. The received data is hash-checked for integrity and, if it passes, is committed to FLASH memory. Since our code is open source, one can add FSK audio provisioning to a wide range of microcontrollers with built-in ADCs for the price of a couple resistors and a capacitor.</p>
+
+<p class="description">Because microphone jack pin assignments are non-standard between different device ecosystems, we designed the protocol to operate with only forward error correction through trivially redundant transmission of packets. In other words, we cannot rely on a feedback path being available for the device to request a retransmission of a corrupt packet, due to a lack of standardization among microphone interfaces. Fortunately, in our application, the signal to noise ratio is typically quite good and most errors are due to burst noise, e.g. a notification tone generated by another application during device programming. In this scenario, simple hamming codes (such as SECDED) do little to improve robustness of the protocol, and more advanced error correction mechanisms such as BCH codes requires more computational power and storage space than available in our inexpensive target device. As a result, we handle error correction through trivial replication of data by playing the song three times over.</p>
+
+<p class="description">In addition to the audio firmware downloader code, the target CPU also runs an implementation of the open source, multi-threaded RTOS ChibiOS (no relationship to Chibitronics despite the Japanese-derived “chibi” prefix). We expose the threading API so that advanced users can create multi-threaded applications on LtC. This is an advantage over the popular Arduino platform, which has no native support for multi-threading.</p>
+
+<p class="description">In order to reduce code upload times over an 8000bps link to within the “impatience limit” of an 8-year old, we pre-load the LtC device with common shared library routines, including floating point, string manipulation, a WS2812 RGB LED driver, and primitives for a low speed USB stack. Because of the library pre-load, we are able to reduce the upload time of most simple programs to under two seconds. The built-in libraries, audio demodulation framework, and multi-threaded OS consumes 22k of memory, leaving 10k for user application code.</p>
+
+<p class="description">Learning from our prior experiences with paper electronics, the physical design of the LtC hardware borrows from familiar and non-threatening interaction paradigms. The LtC circuit board uses a rigi-flex construction: the rigid portion allows for mechanically robust connectors and compatibility with fine-pitch QFN packages, while the flex portion enables seamless integration with paper-based circuit techniques. </p>
+
+<p class="description">As a result, users can integrate the LtC hardware into their projects using a variety of techniques, from sticker-like methods to an electronic clipboard paradigm. The electronic clipboard method is well-suited to classroom environments, as it combines unlimited re-use of the LtC hardware with low-cost, quickly customized and paper-craftable circuitry. This combination enables meaningful learning engagements within an hour of two of classroom time, at a price point accessible by non-elite, publicly funded institutions. </p>
+
+<p class="description">Finally, the entire framework is licensed under an open source license. Our hope is that once a novice is hooked on coding, they can go as deep as they want, perhaps even remixing our hardware and firmware frameworks into new and creative applications we never had never dreamed of.</p>
+
+<p class="description">The Chibitronics Love to Code platform is familiar: users with little or no prior technical background find themselves immediately in familiar territory thanks to the papercraft interaction design. It is easy to use: cloud compilation coupled with audio firmware upload ensures compatibility with a broad range of devices from laptops to smartphones. It is accessible: the combination of cost-optimized core technology with paper as a consumable substrate reduces the barrier of access for schools on tight budgets. The net result is an embedded coding framework for inclusive computer education. </p>
+
+<p class="description">[1] V. Galpin, SIGSCE Bulletin, Vol 34 No 2, 2002 June. “Women in Computing Around the World”</p>
+</div>
+<div class="column left" id="details">
+<h3>Info</h3>
+<p>
+<b>Day:</b>
+<a href="/congress/2016/Fahrplan/schedule/2.html">2016-12-29</a>
+<br>
+<b>Start time:</b>
+16:00
+<br>
+<b>Duration:</b>
+01:00
+<br>
+<b>Room:</b>
+Saal 1
+<br>
+<b>Track:</b>
+<font class="event track-hardware-making">
+<a href="/congress/2016/Fahrplan/events.html#hardware%20&amp;%20making">Hardware &amp; Making</a>
+</font>
+<br>
+<b>Language:</b>
+en
+</p>
+<h3>Links:</h3>
+<ul>
+<li><a href="/congress/2016/Fahrplan/events/7975.ics">iCalendar</a></li>
+<li><a href="https://chibitronics.com">Chibitronics Website</a></li>
+</ul>
+<div class="column left" id="concurrent_events">
+<h3><span class="translation_missing" title="translation missing: en.public.schedule.event.concurrent_events">Concurrent Events</span></h3>
+<dl class="dl-horizontal">
+<dt>Saal 6</dt>
+<dd><a href="/congress/2016/Fahrplan/events/7853.html">Do as I Say not as I Do: Stealth Modification of Programmable Logic Controllers I/O by Pin Control Attack</a></dd>
+<dt>Saal G</dt>
+<dd><a href="/congress/2016/Fahrplan/events/8012.html">Building Custom Pinball Machines</a></dd>
+<dt>Saal 2</dt>
+<dd><a href="/congress/2016/Fahrplan/events/8369.html">Machine Dreams</a></dd>
+</dl>
+</div>
+</div>
+<div class="column right" id="sidebar">
+<h3>Speakers</h3>
+<table class="list">
+<tbody>
+<tr>
+<td><div class="image small"><img src="/congress/2016/Fahrplan/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png" alt="Person small"></div></td>
+<td><a href="/congress/2016/Fahrplan/speakers/3155.html">bunnie</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="span16">
+</div>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

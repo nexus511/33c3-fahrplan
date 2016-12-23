@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T181500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T171500
+DTSTAMP;VALUE=DATE-TIME:20161213T214513Z
+UID:a1f43609-a446-41e7-9ac6-4db12bcb14c1@frab.cccv.de
+DESCRIPTION:James Bridle is a British writer and artist living in Greece.
+  His work explores the impact of technology on society\, law\, geography
+ \, politics\, and culture. His Drone Shadow installations have appeared 
+ on city streets worldwide\, he has mapped deportation centres with CGI\,
+  designed new kinds of citizenship based on online behaviour. and used n
+ eural networks and satellite images to predict election results. A New D
+ ark Age is an exploration of what we can no longer know about the world\
+ , and what we can do about it.\n\n
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8163.html
+SUMMARY:A New Dark Age
+LOCATION:33c3 - Saal G
+END:VEVENT
+END:VCALENDAR

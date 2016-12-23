@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T150000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T143000
+DTSTAMP;VALUE=DATE-TIME:20161213T214153Z
+UID:6796635e-2dd6-4f91-8f23-ba1bea7e2994@frab.cccv.de
+DESCRIPTION:2016 drehte der Anti-Terror-Kampf in der EU auf. Nicht nur im
+  Rahmen der Anti-Terror-Richtlinie wurde über neue Wege diskutiert\, wie
+  man das Netz verstärkt unter Kontrolle bringen kann.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8040.html
+SUMMARY:Privatisierung der Rechtsdurchsetzung
+LOCATION:33c3 - Saal 2
+END:VEVENT
+END:VCALENDAR

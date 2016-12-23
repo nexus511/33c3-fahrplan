@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T133000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T130000
+DTSTAMP;VALUE=DATE-TIME:20161213T214541Z
+UID:09eb4f7a-8cf0-436f-aaa4-88190ee26e6d@frab.cccv.de
+DESCRIPTION:The genome – the final frontier – or just a complex mess of l
+ etters? Somewhere in there\, our eye or skin color is hidden. But also\,
+  diseases can be diagnosed or predicted by analyzing the genome. More an
+ d more research is committed to finding clues for diseases in our genes.
+  The opportunity is clear: If I know about a disease I might get ahead o
+ f time\, I could possibly intervene before it starts. Yet: How accurate 
+ are these predictions and how meaningful are they? And more importantly:
+  What happens to my genetic data once it has been decoded?
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8221.html
+SUMMARY:Genetic Codes and what they tell us – and everyone else
+LOCATION:33c3 - Saal 1
+END:VEVENT
+END:VCALENDAR

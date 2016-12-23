@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T213000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T203000
+DTSTAMP;VALUE=DATE-TIME:20161221T175029Z
+UID:c06dd4c2-c637-445d-9c72-92204a35eeff@frab.cccv.de
+DESCRIPTION:Ein Überblick zur netzpolitischen Situation in der Schweiz. W
+ ir geben einen umfassenden Rückblick auf das ereignissreiche Jahr 2016\,
+  in dem die Schweizer Bevölkerung über gleich zwei Massenüberwachungsges
+ etze entschieden hat. Die netzpolitischen Gruppierungen haben mit viel E
+ insatz gegen die Gesetze gekämpft . Wir berichten darüber\, wie wir das 
+ angengangen sind\, wie es ausgegangen ist und was wir dabei gelernt habe
+ n.\nZudem machen wir einen Ausblick auf kommende netzpolitische Herausfo
+ rderungen.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8264.html
+SUMMARY:Netzpolitik in der Schweiz 2016
+LOCATION:33c3 - Saal 6
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20161030T030000
+RDATE:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T150000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T140000
+DTSTAMP;VALUE=DATE-TIME:20161213T214534Z
+UID:1efa803c-d280-49f0-bd17-8ec8f28e054f@frab.cccv.de
+DESCRIPTION:We analyze the generation and management of WPA2 group keys. 
+ These keys protect broadcast and multicast Wi-Fi traffic. We discovered 
+ several issues and illustrate their importance by decrypting all group (
+ and unicast) traffic of a typical Wi-Fi network.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8195.html
+SUMMARY:Predicting and Abusing WPA2/802.11 Group Keys
+LOCATION:33c3 - Saal 6
+END:VEVENT
+END:VCALENDAR
