@@ -1,52 +1,4 @@
 {
-    "Session:EGP Meetup: From Tree-Huggers to WiFi-Lovers# 365ca17acab1c9ae67ee1848802e07da": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482939000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "An informal meetup for the members of the EGP and associated parliamentary groups who made it to 33C3. \nNo formal topics as of yet, just a meet and greet / networking type of meeting.\nPlease refrain from display insignia/merchandise of the EGP"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bj00rn", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bj00rn", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "EGP Meetup"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:EGP_Meetup:_From_Tree-Huggers_to_WiFi-Lovers", 
-        "Has end time": [
-            "1482940800"
-        ]
-    }, 
     "Session:Stage Manager Angel Introduction# 000a0488f2404d1ea417ad9f2f124e43": {
         "Held in language": [
             "en - English"
@@ -928,6 +880,62 @@
             "1483023600"
         ]
     }, 
+    "Session:Klangteppich# 43636d9b169a5b4efd4a2ac28a2f0933": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482868800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Klangteppich"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
+        "Has end time": [
+            "1482879600"
+        ]
+    }, 
     "Session:Welcome & Icebreaker# 922bd001e8c83eae61feb66f52004d3b": {
         "Held in language": [
             "de - German"
@@ -1126,62 +1134,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk@GSoC2016", 
         "Has end time": []
     }, 
-    "Session:Open Education Workshop# afb476729e7b1c943d0120dec5187fcc": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482940800"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://education.okfn.org/"
+            "https://c3subtitles.de/"
         ], 
         "Has description": [
-            "Despite high expectations, \"digital education\" has not much advanced beyond sharing single-purpose worksheets as pdf. Existing Open Educational Resources (OER) often tend to reinforce current teaching scenarios and top-down structures, missing out on the potential for new forms of participation. To prepare new education projects, we invite you to share your experiences and ideas: How can digital methods / concepts / tools contribute to a more inclusive pedagogy, enabling and motivating learners for co-creation? What else can we do within existing frameworks, and how to approach it effectively in class?"
+            "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!"
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "New school, Old school - How can we hack education?"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:NMarkus", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NMarkus", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:PeterVanPan", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:PeterVanPan", 
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Open Education Workshop"
+            "Subtitles-Angelmeetings"
         ], 
         "Has duration": [
-            90
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Open_Education_Workshop", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482946200"
+            "1482853500"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
@@ -2774,56 +2774,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:AI:_He_will_be_amazed_if_he_stays_dead!_-_Der_wird_sich_wundern,_wenn_er_tot_bleibt!", 
         "Has end time": [
             "1482960600"
-        ]
-    }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483024500"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://c3subtitles.de/"
-        ], 
-        "Has description": [
-            "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Cube", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Subtitles-Angelmeetings"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
-        "Has end time": [
-            "1483026300"
         ]
     }, 
     "Session:Haecksenraum# 84dbea847aa14b670fb6f45d765521f4": {
@@ -4772,60 +4722,52 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
         "Has end time": []
     }, 
-    "Session:Klangteppich# 43636d9b169a5b4efd4a2ac28a2f0933": {
+    "Session:Can't touch this: Introduction to self defense for women# 3d893bb0fb9e26962d2dbb767c939269": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482868800"
+            "1482922800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
+            "When being physically attacked, the best thing to do is to run away. However, there are situations like physical(sexual) harassment or encounters where running is not an option. This talk with a hands-on-experience shows a few simple techniques for de-escalating these situations and explains the legal frame in which self defence is possible. The participants learn five easy techniques to sharpen their defence and presence in the face of physical encounters.\nThis workshop is of course open to men and women. It is however not an introduction on how to become Rambo and therefore labelled \"for women\" to avoid false expectations. When following the instructions closely, it is basically impossible to hurt yourself when attending the course, but, as I am forced to state this explicitly: The lecturer does not take responsibility for any injuries, neither during nor after the course."
         ], 
         "Has session type": [
-            "Other"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:JayDee2202", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                "fulltext": "User:NinaLaFleur", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NinaLaFleur", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Klangteppich"
+            "Can't touch this"
         ], 
         "Has duration": [
-            180
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Can%27t_touch_this:_Introduction_to_self_defense_for_women", 
         "Has end time": [
-            "1482879600"
+            "1482926400"
         ]
     }, 
     "Session:DIY Duct-Tape Wallets# 9abeec38dfb772ad0f95b77ce9a7817f": {
@@ -5222,6 +5164,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
         "Has end time": [
             "1483027200"
+        ]
+    }, 
+    "Session:EGP Meetup: From Tree-Huggers to WiFi-Lovers# 26fc63cdaa04e62f7d49f6fff8015471": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482939000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "An informal meetup for the members of the EGP and associated parliamentary groups who made it to 33C3. \nNo formal topics as of yet, just a meet and greet / networking type of meeting.\nPlease refrain from display insignia/merchandise of the EGP"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Anti Error Lounge", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Anti_Error_Lounge", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bj00rn", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bj00rn", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "EGP Meetup"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:EGP_Meetup:_From_Tree-Huggers_to_WiFi-Lovers", 
+        "Has end time": [
+            "1482940800"
         ]
     }, 
     "Session:An UnCivilization Commune ReWilded Life Shared with Squirrels# a5a1f9f1e38b6dd01be85740aa155bc6": {
@@ -6353,12 +6343,12 @@
             "1482880500"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
@@ -6374,8 +6364,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -6400,7 +6390,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482853500"
+            "1483026300"
         ]
     }, 
     "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# c5626b218dcaf7fe2c0ab1eff5125d93": {
@@ -9458,55 +9448,62 @@
             "1483055100"
         ]
     }, 
-    "Session:A walk through the inner core of pEp# c5792c955c345b45775792db81e1421b": {
+    "Session:Open Education Workshop# afb476729e7b1c943d0120dec5187fcc": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482925500"
+            "1482940800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://pep.foundation", 
-            "https://pep-project.org"
+            "http://education.okfn.org/"
         ], 
         "Has description": [
-            "A p\u2261p engine developer gives a tour through the inner workings of the p\u2261p engine, the core which is used to drive the crypto used in p\u2261p, message transport, and automatic key management and synchronization. Discussed will be fundamental features and functionality of the engine core and how that relates to the apps and adapters using p\u2261p, as well as some discussion of upcoming near-term and longer-term future developmens of the p\u2261p technology."
+            "Despite high expectations, \"digital education\" has not much advanced beyond sharing single-purpose worksheets as pdf. Existing Open Educational Resources (OER) often tend to reinforce current teaching scenarios and top-down structures, missing out on the potential for new forms of participation. To prepare new education projects, we invite you to share your experiences and ideas: How can digital methods / concepts / tools contribute to a more inclusive pedagogy, enabling and motivating learners for co-creation? What else can we do within existing frameworks, and how to approach it effectively in class?"
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "New school, Old school - How can we hack education?"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Pf", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pf", 
+                "fulltext": "User:NMarkus", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NMarkus", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:PeterVanPan", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:PeterVanPan", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "A walk through the inner core of pEp"
+            "Open Education Workshop"
         ], 
         "Has duration": [
-            75
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:A_walk_through_the_inner_core_of_pEp", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Open_Education_Workshop", 
         "Has end time": [
-            "1482930000"
+            "1482946200"
         ]
     }, 
     "Session:Skillconvention b# b71ce3ffa02dca5f83180aaf66581567": {
@@ -12930,26 +12927,30 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:OpenPGP_use_cases_beyond_email", 
         "Has end time": []
     }, 
-    "Session:Can't touch this: Introduction to self defense for women# e050fbf357c8c4d942cd37992245b1cf": {
+    "Session:A walk through the inner core of pEp# c5792c955c345b45775792db81e1421b": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482925500"
+        ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://pep.foundation", 
+            "https://pep-project.org"
+        ], 
         "Has description": [
-            "When being physically attacked, the best thing to do is to run away. However, there are situations like physical(sexual) harassment or encounters where running is not an option. This talk with a hands-on-experience shows a few simple techniques for de-escalating these situations and explains the legal frame in which self defence is possible. The participants learn five easy techniques to sharpen their defence and presence in the face of physical encounters.\nThis workshop is of course open to men and women. It is however not an introduction on how to become Rambo and therefore labelled \"for women\" to avoid false expectations. When following the instructions closely, it is basically impossible to hurt yourself when attending the course, but, as I am forced to state this explicitly: The lecturer does not take responsibility for any injuries, neither during nor after the course."
+            "A p\u2261p engine developer gives a tour through the inner workings of the p\u2261p engine, the core which is used to drive the crypto used in p\u2261p, message transport, and automatic key management and synchronization. Discussed will be fundamental features and functionality of the engine core and how that relates to the apps and adapters using p\u2261p, as well as some discussion of upcoming near-term and longer-term future developmens of the p\u2261p technology."
         ], 
         "Has session type": [
-            "Hands-On"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -12957,23 +12958,25 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:NinaLaFleur", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NinaLaFleur", 
+                "fulltext": "User:Pf", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pf", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Can't touch this"
+            "A walk through the inner core of pEp"
         ], 
         "Has duration": [
-            60
+            75
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Can%27t_touch_this:_Introduction_to_self_defense_for_women", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:A_walk_through_the_inner_core_of_pEp", 
+        "Has end time": [
+            "1482930000"
+        ]
     }, 
     "Session:LEAP Platform for vpn + LEAP and Pixelated platform for email providers# b819f54577f99f8993cb65e10a058942": {
         "Held in language": [
