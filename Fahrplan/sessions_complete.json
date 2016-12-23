@@ -2562,60 +2562,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
         "Has end time": []
     }, 
-    "Session:The curious world of four-dimensional geometry (Wondrous Mathematics)# cd40f28916d68c7e425a76cf4a5ce742": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483020000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller than you would think. We'll take you on a short tour of these and other curious phenomena which unfold in four dimensions."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Iblech", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Iblech", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:MatthiasHu", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:MatthiasHu", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "The curious world of four-dimensional geometry (Wondrous Mathematics)"
-        ], 
-        "Has duration": [
-            50
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:The_curious_world_of_four-dimensional_geometry_(Wondrous_Mathematics)", 
-        "Has end time": [
-            "1483023000"
-        ]
-    }, 
     "Session:3D printing for kids# 763f98007be32ed96646aa3082e2b203": {
         "Held in language": [
             "de - German"
@@ -5649,56 +5595,6 @@
             "1482930000"
         ]
     }, 
-    "Session:Surface Mount Electronics Assembly for Terrified Beginners# 820ef8c10ff8c89f2562b4268804af07": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482843600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day 1 - Session 1"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Surface Mount Electronics Assembly for Terrified Beginners"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
-        "Has end time": [
-            "1482849000"
-        ]
-    }, 
     "Session:Thermal pictures for kids# 2fb504a81132ce40285e006b50fbc5f8": {
         "Held in language": [
             "de - German"
@@ -8058,54 +7954,54 @@
             "1482940800"
         ]
     }, 
-    "Session:Boat instruments hacking# a037e08c4aa3d678b65d746dce96d6e9": {
+    "Session:Surface Mount Electronics Assembly for Terrified Beginners# 820ef8c10ff8c89f2562b4268804af07": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482937200"
+            "1482843600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Session for meeting up and discussing all things around electronics in boats."
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "meeting"
+            "Day 1 - Session 1"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Lassekarstensen", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Lassekarstensen", 
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Boat instruments hacking"
+            "Surface Mount Electronics Assembly for Terrified Beginners"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Boat_instruments_hacking", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
         "Has end time": [
-            "1482940800"
+            "1482849000"
         ]
     }, 
     "Session:Brewing beer for beginners# eb4776d6275a8b61006251d6425bfcf8": {
@@ -12378,56 +12274,6 @@
             "1482894000"
         ]
     }, 
-    "Session:Introduction Into Anarchism# cedfca6a1f866f20e3dbcd7bf24daa34": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482931800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://abcdd.org"
-        ], 
-        "Has description": [
-            "Ideas of the anarchism existed before the network, however hacker's community willingly took anarchism appreciating its dedication to individual and collective freedom. With this session we will have a quick look on history of anarchism and the present of the anarchist struggle in the social and political sphere around the world. \n\nThis is a short presentation with a discussion round."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Tmnt", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Tmnt", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Introduction Into Anarchism"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Introduction_Into_Anarchism", 
-        "Has end time": [
-            "1482937200"
-        ]
-    }, 
     "Session:An UnCivilization Commune ReWilded Life Shared with Squirrels# dd95e8a0bc6dcebefc291461f0a81cfe": {
         "Held in language": [
             "en - English"
@@ -13542,54 +13388,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Neuropil", 
         "Has end time": [
             "1483119000"
-        ]
-    }, 
-    "Session:Strategien, \u00dcberwachungsskepsis in die Mitte der Gesellschaft zu tragen / Anti Surveillance Campaigning Targeted at the Masses# 5ebc6a7272a467641276dbc4679922c6": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482942600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "We will give some input and then want to start a discussion about strategies to make \"mainstream\" people care about surveillance and privacy. (mainstream = outside of hacker community/tech bubble)."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Vikvik", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Vikvik", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Strategien, \u00dcberwachungsskepsis in die Mitte der Gesellschaft zu tragen / Anti Surveillance Campaigning Targeted at the Masses"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Strategien,_%C3%9Cberwachungsskepsis_in_die_Mitte_der_Gesellschaft_zu_tragen_/_Anti_Surveillance_Campaigning_Targeted_at_the_Masses", 
-        "Has end time": [
-            "1482948000"
         ]
     }, 
     "Session:Hebocon Registration and testfights# c96f8241b40551474bf5e709887c4192": {
