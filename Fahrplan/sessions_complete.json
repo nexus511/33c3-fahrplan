@@ -194,8 +194,12 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
+        "Has website": [
+            "http://coderdojo.com"
+        ], 
+        "Has description": [
+            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
+        ], 
         "Has session type": [
             "Workshop"
         ], 
@@ -242,8 +246,12 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
+        "Has website": [
+            "http://coderdojo.com"
+        ], 
+        "Has description": [
+            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
+        ], 
         "Has session type": [
             "Workshop"
         ], 
@@ -878,62 +886,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Inflation_in_MMORPGs", 
         "Has end time": [
             "1483023600"
-        ]
-    }, 
-    "Session:Klangteppich# 43636d9b169a5b4efd4a2ac28a2f0933": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482868800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:JayDee2202", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Klangteppich"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
-        "Has end time": [
-            "1482879600"
         ]
     }, 
     "Session:Welcome & Icebreaker# 922bd001e8c83eae61feb66f52004d3b": {
@@ -2384,6 +2336,69 @@
             "1483047000"
         ]
     }, 
+    "Session:Introduction to LEAP encryption access project and Pixelated# e3e39f486810707265c86b5473c1694d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482852600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://leap.se", 
+            "https://pixelated-project.org/"
+        ], 
+        "Has description": [
+            "We talk about the current state of VPN and encrypted email services and the use cases for providers and end users."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Varac", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Varac", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Kali", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kali", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Zara", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Zara", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Introduction to LEAP encryption access project and Pixelated"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Introduction_to_LEAP_encryption_access_project_and_Pixelated", 
+        "Has end time": [
+            "1482858000"
+        ]
+    }, 
     "Session:In kurzer Zeit zur Schl\u00fcsselwurst# 0936add29a07c5b130fe33a8deb42d7f": {
         "Held in language": [
             "de - German", 
@@ -2889,8 +2904,12 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
+        "Has website": [
+            "http://coderdojo.com"
+        ], 
+        "Has description": [
+            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
+        ], 
         "Has session type": [
             "Workshop"
         ], 
@@ -4187,8 +4206,12 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
+        "Has website": [
+            "http://coderdojo.com"
+        ], 
+        "Has description": [
+            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
+        ], 
         "Has session type": [
             "Workshop"
         ], 
@@ -4527,12 +4550,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -4551,7 +4574,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -4572,7 +4595,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -4722,52 +4745,60 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
         "Has end time": []
     }, 
-    "Session:Can't touch this: Introduction to self defense for women# 3d893bb0fb9e26962d2dbb767c939269": {
+    "Session:Klangteppich# 43636d9b169a5b4efd4a2ac28a2f0933": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482922800"
+            "1482868800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "When being physically attacked, the best thing to do is to run away. However, there are situations like physical(sexual) harassment or encounters where running is not an option. This talk with a hands-on-experience shows a few simple techniques for de-escalating these situations and explains the legal frame in which self defence is possible. The participants learn five easy techniques to sharpen their defence and presence in the face of physical encounters.\nThis workshop is of course open to men and women. It is however not an introduction on how to become Rambo and therefore labelled \"for women\" to avoid false expectations. When following the instructions closely, it is basically impossible to hurt yourself when attending the course, but, as I am forced to state this explicitly: The lecturer does not take responsibility for any injuries, neither during nor after the course."
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:NinaLaFleur", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NinaLaFleur", 
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Can't touch this"
+            "Klangteppich"
         ], 
         "Has duration": [
-            60
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Can%27t_touch_this:_Introduction_to_self_defense_for_women", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
-            "1482926400"
+            "1482879600"
         ]
     }, 
     "Session:DIY Duct-Tape Wallets# 9abeec38dfb772ad0f95b77ce9a7817f": {
@@ -5507,8 +5538,12 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
+        "Has website": [
+            "http://coderdojo.com"
+        ], 
+        "Has description": [
+            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
+        ], 
         "Has session type": [
             "Workshop"
         ], 
@@ -6694,8 +6729,12 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
+        "Has website": [
+            "http://coderdojo.com"
+        ], 
+        "Has description": [
+            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
+        ], 
         "Has session type": [
             "Workshop"
         ], 
@@ -7670,8 +7709,12 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
+        "Has website": [
+            "http://coderdojo.com"
+        ], 
+        "Has description": [
+            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
+        ], 
         "Has session type": [
             "Workshop"
         ], 
@@ -8192,8 +8235,12 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
+        "Has website": [
+            "http://coderdojo.com"
+        ], 
+        "Has description": [
+            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
+        ], 
         "Has session type": [
             "Workshop"
         ], 
@@ -9344,27 +9391,29 @@
             "1483025400"
         ]
     }, 
-    "Session:Mechanical Keyboard Meetup & Tryout# 19923dc134d556b4c46402b92f3a0beb": {
+    "Session:LEAP/Bitmask Hand-on Workshop# 05ddb649f804a29f7f7b60f601d7242c": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482867000"
+            "1482861600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://leap.se"
+        ], 
         "Has description": [
-            "Try out different mechanical keyboards and bring your own to show it off!"
+            "We'll hack on Bitmask, the LEAP client for VPN and encrypted Email."
         ], 
         "Has session type": [
             "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -9372,14 +9421,20 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Coloneljesus", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Coloneljesus", 
+                "fulltext": "User:Kali", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kali", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Varac", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Varac", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Mechanical Keyboard Meetup & Tryout"
+            "LEAP/Bitmask Hand-on Workshop"
         ], 
         "Has duration": [
             90
@@ -9387,9 +9442,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Mechanical_Keyboard_Meetup_%26_Tryout", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LEAP/Bitmask_Hand-on_Workshop", 
         "Has end time": [
-            "1482872400"
+            "1482867000"
         ]
     }, 
     "Session:Social Engineering Poetry Slam# 3b37eebbde0ae5877170aef80a7a1a7d": {
@@ -9746,8 +9801,12 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
+        "Has website": [
+            "http://coderdojo.com"
+        ], 
+        "Has description": [
+            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
+        ], 
         "Has session type": [
             "Workshop"
         ], 
@@ -10493,8 +10552,12 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
+        "Has website": [
+            "http://coderdojo.com"
+        ], 
+        "Has description": [
+            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
+        ], 
         "Has session type": [
             "Workshop"
         ], 
@@ -10531,67 +10594,54 @@
             "1482926400"
         ]
     }, 
-    "Session:Introduction to LEAP encryption access project and Pixelated# c255a27a386bf121d02a429e711a09c0": {
+    "Session:Off flavours in homebrewed beer# 06a0553985d2992394fd660075bbde7a": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482861600"
+            "1482868800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://leap.se", 
-            "https://pixelated-project.org/"
+            "https://foodhackingbase.org/wiki/Off_flavours_33c3"
         ], 
         "Has description": [
-            "We talk about the current state of VPN and encrypted email services and the use cases for providers and end users."
+            "We'll have a Siebel off flavour kit for beer with us. You'll learn which off flavours you can perceive, what causes them, and how to remedy them."
         ], 
         "Has session type": [
-            "Talk"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Varac", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Varac", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Kali", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kali", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Zara", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Zara", 
+                "fulltext": "User:Ofosos", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ofosos", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Introduction to LEAP encryption access project and Pixelated"
+            "Off flavours in homebrewed beer"
         ], 
         "Has duration": [
-            90
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Introduction_to_LEAP_encryption_access_project_and_Pixelated", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Off_flavours_in_homebrewed_beer", 
         "Has end time": [
-            "1482867000"
+            "1482876000"
         ]
     }, 
     "Session:Coder Dojo# 3e5566423bb7179b1698b34b8fba2524": {
@@ -10604,8 +10654,12 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
+        "Has website": [
+            "http://coderdojo.com"
+        ], 
+        "Has description": [
+            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
+        ], 
         "Has session type": [
             "Workshop"
         ], 
@@ -11503,6 +11557,54 @@
             "1482948000"
         ]
     }, 
+    "Session:Can't touch this: Introduction to self defense for women# f668c7f0fca8aa64458220f21ea1e0d9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483009200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "See the German version of this text below.\nWhen being physically attacked, the best thing to do is to run away. However, there are situations like physical(sexual) harassment or encounters where running is not an option. This talk with a hands-on-experience shows a few simple techniques for de-escalating these situations and explains the legal frame in which self defence is possible. The participants learn five easy techniques to sharpen their defence and presence in the face of physical encounters.\n\nThis workshop is of course open to men and women. It is however not an introduction on how to become Rambo and therefore labelled \"for women\" to avoid false expectations. When following the instructions closely, it is basically impossible to hurt yourself when attending the course, but, as I am forced to state this explicitly: The lecturer does not take responsibility for any injuries, neither during nor after the course.\n\n_____________________________________________________________________________________\n\nWird einem mit Gewalt gedroht oder gar Gewalt angetan, ist es oft das Beste, das Weite zu suchen. Es gibt allerdings Situationen, wie z.B. sexuelle \u00dcbergriffe und bewaffnete Konfrontationen in denen weglaufen keine Option ist. Dieser Talk gibt eine kleine praktische Einf\u00fchrung in die rechtskonforme Selbstverteidigung und zeigt f\u00fcnf einfache Techniken um solche Situationen zu deeskalieren bzw. sich trotz physischer Unterlegenheit zu wehren.\n\nDieser Workshop ist selbstverst\u00e4ndlich f\u00fcr M\u00e4nner und Frauen, es ist aber keine Einf\u00fchrung in \"Wie werde ich Rambo\", daher der Zusatz \"for women\", um keine falschen Erwartungen zu wecken. Wenn man die Anweisungen befolgt, ist es eigentlich unm\u00f6glich, sich dabei zu verletzen, ich sage es aber trotzdem, weil es sein muss: Der Organisator \u00fcbernimmt keinerlei Verantwortung f\u00fcr Verletzungen und/oder Sch\u00e4den, die w\u00e4hrend dem Workshop oder danach im Zusammenhang mit dem gezeigten Techniken entstehen."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:NinaLaFleur", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NinaLaFleur", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Can't touch this"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Can%27t_touch_this:_Introduction_to_self_defense_for_women", 
+        "Has end time": [
+            "1483012800"
+        ]
+    }, 
     "Session:GNUNet e.V. meeting# 14d34c4d8756c90cbe36726605ba4cbf": {
         "Held in language": [
             "en - English"
@@ -12177,56 +12279,6 @@
             "1482937200"
         ]
     }, 
-    "Session:Off flavours in homebrewed beer# 06a0553985d2992394fd660075bbde7a": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482868800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://foodhackingbase.org/wiki/Off_flavours_33c3"
-        ], 
-        "Has description": [
-            "We'll have a Siebel off flavour kit for beer with us. You'll learn which off flavours you can perceive, what causes them, and how to remedy them."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ofosos", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ofosos", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Off flavours in homebrewed beer"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Off_flavours_in_homebrewed_beer", 
-        "Has end time": [
-            "1482876000"
-        ]
-    }, 
     "Session:An UnCivilization Commune ReWilded Life Shared with Squirrels# dd95e8a0bc6dcebefc291461f0a81cfe": {
         "Held in language": [
             "en - English"
@@ -12680,6 +12732,54 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Cider_Flows", 
         "Has end time": []
+    }, 
+    "Session:Mechanical Keyboard Meetup & Tryout# 19923dc134d556b4c46402b92f3a0beb": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482867000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Try out different mechanical keyboards and bring your own to show it off!"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Coloneljesus", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Coloneljesus", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Mechanical Keyboard Meetup & Tryout"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Mechanical_Keyboard_Meetup_%26_Tryout", 
+        "Has end time": [
+            "1482872400"
+        ]
     }, 
     "Session:Translation meetings# d6363e66156d0473f5f996f9726e7805": {
         "Held in language": [
@@ -13614,12 +13714,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -13638,7 +13738,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -13659,7 +13759,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:42birds: Missing RSS Feed? Create Your Own!# b86c3c8fc3a77d7f1486ceeaf014d506": {
