@@ -15,7 +15,7 @@
                     "rooms": {
                         "Hall C.1": [
                             {
-                                "id": 1195, 
+                                "id": 1199, 
                                 "guid": "740238c9c2ab6cc1a9a26604f84b98bc", 
                                 "logo": null, 
                                 "date": "2016-12-26T21:00:00+01:00", 
@@ -73,7 +73,7 @@
                         ], 
                         "Hall A.1": [
                             {
-                                "id": 1189, 
+                                "id": 1191, 
                                 "guid": "000a0488f2404d1ea417ad9f2f124e43", 
                                 "logo": null, 
                                 "date": "2016-12-26T21:00:00+01:00", 
@@ -365,7 +365,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1196, 
+                                "id": 1195, 
                                 "guid": "82bab9758cf59aa2590ae41b3e81cd3f", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:30:00+01:00", 
@@ -883,7 +883,7 @@
                         ], 
                         "Hall 13-14": [
                             {
-                                "id": 1050, 
+                                "id": 1049, 
                                 "guid": "dab9b0fa02061064724f04702afe682d", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:00:00+01:00", 
@@ -1110,7 +1110,7 @@
                         ], 
                         "Hall A.1": [
                             {
-                                "id": 1104, 
+                                "id": 1105, 
                                 "guid": "d0288fe6dd4e0bc74b5b7e0302906c53", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -1227,7 +1227,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1190, 
+                                "id": 1192, 
                                 "guid": "8249220c059be1a4fd95a7ee3e357697", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -1285,7 +1285,7 @@
                         ], 
                         "Saal 6": [
                             {
-                                "id": 1232, 
+                                "id": 1235, 
                                 "guid": "6312ac8705d66d48286a983da9f23d29", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -1360,7 +1360,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1047, 
+                                "id": 1044, 
                                 "guid": "20196cb4a0fcac3e8a926eb6752e785d", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -1531,7 +1531,7 @@
                         ], 
                         "Hall C.2": [
                             {
-                                "id": 1038, 
+                                "id": 1046, 
                                 "guid": "ca9c35c335c11d72074a1e9e6046cb6e", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -1778,6 +1778,33 @@
                                 ]
                             }, 
                             {
+                                "id": 1039, 
+                                "guid": "a2d3c9df94b90cd7240898885d1eb3ec", 
+                                "logo": null, 
+                                "date": "2016-12-28T10:00:00+01:00", 
+                                "start": "10:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.3", 
+                                "slug": "", 
+                                "title": "Coder Dojo", 
+                                "subtitle": "Slot 0 Room 1", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                                        "public_name": "Nana berlin"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
+                                ]
+                            }, 
+                            {
                                 "id": 1040, 
                                 "guid": "82b6f15ab0e1d33b37e9817f997864d8", 
                                 "logo": null, 
@@ -1805,34 +1832,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1042, 
-                                "guid": "a2d3c9df94b90cd7240898885d1eb3ec", 
-                                "logo": null, 
-                                "date": "2016-12-28T10:00:00+01:00", 
-                                "start": "10:00", 
-                                "duration": "1:00", 
-                                "room": "Hall C.3", 
-                                "slug": "", 
-                                "title": "Coder Dojo", 
-                                "subtitle": "Slot 0 Room 1", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                                        "public_name": "Nana berlin"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
-                                ]
-                            }, 
-                            {
-                                "id": 1044, 
+                                "id": 1045, 
                                 "guid": "8ba93735bba7d3bfbd659432e4e1a209", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
@@ -2028,7 +2028,7 @@
                         ], 
                         "Hall C.4": [
                             {
-                                "id": 1039, 
+                                "id": 1038, 
                                 "guid": "f7580cf27bd0d4bb0bd704612ab55f0e", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -2055,34 +2055,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1041, 
-                                "guid": "3e5566423bb7179b1698b34b8fba2524", 
-                                "logo": null, 
-                                "date": "2016-12-28T11:00:00+01:00", 
-                                "start": "11:00", 
-                                "duration": "1:00", 
-                                "room": "Hall C.4", 
-                                "slug": "", 
-                                "title": "Coder Dojo", 
-                                "subtitle": "Slot 1 Room 2", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                                        "public_name": "Nana berlin"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
-                                ]
-                            }, 
-                            {
-                                "id": 1045, 
+                                "id": 1042, 
                                 "guid": "ce369fbaa66a09e01586ffcab4b39c4a", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -2109,7 +2082,34 @@
                                 ]
                             }, 
                             {
-                                "id": 1046, 
+                                "id": 1043, 
+                                "guid": "3e5566423bb7179b1698b34b8fba2524", 
+                                "logo": null, 
+                                "date": "2016-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "Coder Dojo", 
+                                "subtitle": "Slot 1 Room 2", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                                        "public_name": "Nana berlin"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
+                                ]
+                            }, 
+                            {
+                                "id": 1047, 
                                 "guid": "114bbdf055b462c90916308a51310575", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
@@ -2258,7 +2258,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1197, 
+                                "id": 1196, 
                                 "guid": "fff2b58474de3ff81ee3c628a4b4a53a", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:30:00+01:00", 
@@ -2542,7 +2542,7 @@
                         ], 
                         "Hall F": [
                             {
-                                "id": 1043, 
+                                "id": 1041, 
                                 "guid": "503a8b61fd6cc8bd237fa0218d0172a8", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -2962,7 +2962,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1049, 
+                                "id": 1048, 
                                 "guid": "8b165ece02b1d870610d15256031bca9", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:00:00+01:00", 
@@ -3044,7 +3044,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1103, 
+                                "id": 1104, 
                                 "guid": "2b55e4c20c327a0fbe6204663002bb03", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -3133,7 +3133,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1191, 
+                                "id": 1189, 
                                 "guid": "24d51cd703f53fb90adff0184890fcf9", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -3191,7 +3191,7 @@
                         ], 
                         "Saal 6": [
                             {
-                                "id": 1233, 
+                                "id": 1232, 
                                 "guid": "da904f0f6639dd430983667df8b38a91", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -3990,7 +3990,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1198, 
+                                "id": 1197, 
                                 "guid": "17690ddc3bfc68317a896a2d08e43f24", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:30:00+01:00", 
@@ -4270,11 +4270,11 @@
                             }, 
                             {
                                 "id": 1142, 
-                                "guid": "4712451863c504ac72d4e643f6a79938", 
+                                "guid": "e81169038db8e5ffee3fa6db477d956c", 
                                 "logo": null, 
-                                "date": "2016-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "2:15", 
+                                "date": "2016-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "3:00", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Movie Night", 
@@ -4291,11 +4291,11 @@
                             }, 
                             {
                                 "id": 1143, 
-                                "guid": "e81169038db8e5ffee3fa6db477d956c", 
+                                "guid": "4712451863c504ac72d4e643f6a79938", 
                                 "logo": null, 
-                                "date": "2016-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "3:00", 
+                                "date": "2016-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:15", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Movie Night", 
@@ -4400,7 +4400,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1048, 
+                                "id": 1050, 
                                 "guid": "2e3f2fb0d4424c378f1bf5ffa0eab463", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -4741,7 +4741,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1105, 
+                                "id": 1103, 
                                 "guid": "84dbea847aa14b670fb6f45d765521f4", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -4830,7 +4830,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1192, 
+                                "id": 1190, 
                                 "guid": "391e226a6dc0aa72ad5b79b718ed0cfa", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -4915,7 +4915,7 @@
                         ], 
                         "Saal 6": [
                             {
-                                "id": 1234, 
+                                "id": 1233, 
                                 "guid": "6c7712cd8c07af6fc45588ac8e3f3c56", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -5079,7 +5079,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1199, 
+                                "id": 1198, 
                                 "guid": "a093ff0372ec57b12bdb99922e2b06d0", 
                                 "logo": null, 
                                 "date": "2016-12-30T11:00:00+01:00", 
@@ -5195,7 +5195,7 @@
                         ], 
                         "Saal 6": [
                             {
-                                "id": 1235, 
+                                "id": 1234, 
                                 "guid": "6fb34c92d05b83c60d241c1e8caeeeb0", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
