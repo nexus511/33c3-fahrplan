@@ -1,4 +1,56 @@
 {
+    "Session:Stage Manager Angel Introduction# 000a0488f2404d1ea417ad9f2f124e43": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482786000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
+        ], 
+        "Has description": [
+            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day0 Introduction Stagemanager and Heralds"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Stage Manager Angel Introduction"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
+        "Has end time": [
+            "1482791400"
+        ]
+    }, 
     "Session:Tor# 597a60bf1df02da1110f843b155078a9": {
         "Held in language": [
             "en - English"
@@ -864,60 +916,6 @@
             "1483023600"
         ]
     }, 
-    "Session:Welcome & Icebreaker# 922bd001e8c83eae61feb66f52004d3b": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1482850800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Come to the freifunk Assembly, say hello, introduce yourself, see who's there, get to know others..."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Monic", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Andibraeu", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andibraeu", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Welcome & Icebreaker"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Welcome_%26_Icebreaker", 
-        "Has end time": [
-            "1482854400"
-        ]
-    }, 
     "Session:CCC-CH Gettogether# 65f1182e0d7fed91916b3ca1e0b8a736": {
         "Held in language": [
             "de - German"
@@ -1062,12 +1060,12 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk@GSoC2016", 
         "Has end time": []
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -1083,8 +1081,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -1109,7 +1107,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
@@ -2721,6 +2719,42 @@
             "1483027200"
         ]
     }, 
+    "Session:Coffee Break# 716ffc91ae0dbfb60fe0560d74ce905e": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Calm down and have a chat with us"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Monic", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Coffee Break"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coffee_Break", 
+        "Has end time": []
+    }, 
     "Session:Bin\u00e4rgewitter H\u00f6rertreffen# bf538cd7b25b8b8a635527e3e91a64cc": {
         "Held in language": [
             "de - German"
@@ -3535,50 +3569,6 @@
             "1482962400"
         ]
     }, 
-    "Session:News vom F\u00f6rderverein freie Netzwerke e.V.# 56ff46ced39928531e7ac137a32313ed": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://foerderverein.freie-netzwerke.de"
-        ], 
-        "Has description": [
-            "Was hat der F\u00f6rderverein in diesem Jahr getan, was haben wir erreicht, welche Neuigkeiten gibt es?"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Monic", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "News vom F\u00f6rderverein freie Netzwerke e.V."
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:News_vom_F%C3%B6rderverein_freie_Netzwerke_e.V.", 
-        "Has end time": []
-    }, 
     "Session:Haecksenraum# d0288fe6dd4e0bc74b5b7e0302906c53": {
         "Held in language": [
             "de - German"
@@ -4147,54 +4137,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
         "Has end time": [
             "1482930000"
-        ]
-    }, 
-    "Session:Post Colonial Computing# 65d2abbdfd3230700d6ac93966d0e0ac": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482944400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "From artificial intolerance to decolonizing our programming: We want to discuss who is speaking? who is writing the code and what do we have to do about it? \nEver heard of \u201eMy friend's not a gorilla\u201c and google photos? we gonna provide some twisted examples\u2026"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Al-Badri Nelles", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Al-Badri_Nelles", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Post Colonial Computing"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Post_Colonial_Computing", 
-        "Has end time": [
-            "1482948000"
         ]
     }, 
     "Session:How To Run A Bitcoin Node# 604c461088a5dddfa6c031af4cd054e4": {
@@ -6295,12 +6237,12 @@
             "1482880500"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
@@ -6316,8 +6258,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -6342,7 +6284,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482853500"
+            "1483026300"
         ]
     }, 
     "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# c5626b218dcaf7fe2c0ab1eff5125d93": {
@@ -7583,6 +7525,54 @@
             "1482854400"
         ]
     }, 
+    "Session:Welcome & Icebreaker# eb3c23b712c97b14cc547c9e72571550": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482852600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Come to the freifunk Assembly, say hello, introduce yourself, see who's there, get to know others..."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bobo PK", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bobo_PK", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Welcome & Icebreaker"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Welcome_%26_Icebreaker", 
+        "Has end time": [
+            "1482855300"
+        ]
+    }, 
     "Session:Dn42: Decentralised Network 42# 4a80950934f4ea3dbd5f529e36a5c8ff": {
         "Held in language": [
             "en - English"
@@ -8284,58 +8274,6 @@
             "1482940800"
         ]
     }, 
-    "Session:Stage Manager Angel Introduction# 391e226a6dc0aa72ad5b79b718ed0cfa": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483038000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
-        ], 
-        "Has description": [
-            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day3 Introduction Stagemanagers"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ijon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Stage Manager Angel Introduction"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
-        "Has end time": [
-            "1483041600"
-        ]
-    }, 
     "Session:Meier 3# c494a35ec988936702ac0a1e1fbb5160": {
         "Held in language": [
             "de - German"
@@ -8418,12 +8356,12 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shitty_Robot_-_Workshop", 
         "Has end time": []
     }, 
-    "Session:Stage Manager Angel Introduction# 000a0488f2404d1ea417ad9f2f124e43": {
+    "Session:Stage Manager Angel Introduction# 391e226a6dc0aa72ad5b79b718ed0cfa": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482786000"
+            "1483038000"
         ], 
         "Has event track": [
             "Session"
@@ -8446,7 +8384,7 @@
             }
         ], 
         "Has subtitle": [
-            "Day0 Introduction Stagemanager and Heralds"
+            "Day3 Introduction Stagemanagers"
         ], 
         "Is organized by": [
             {
@@ -8460,14 +8398,14 @@
             "Stage Manager Angel Introduction"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
         "Has end time": [
-            "1482791400"
+            "1483041600"
         ]
     }, 
     "Session:Your own Glowing Micropet!# 0e82b1cb18d1fac1e9981aa274ccfdf6": {
@@ -11356,6 +11294,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
         "Has end time": [
             "1482933600"
+        ]
+    }, 
+    "Session:News vom F\u00f6rderverein freie Netzwerke e.V.# a40e5348ebd90b6b392c6ff5d0df23f1": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482926400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foerderverein.freie-netzwerke.de"
+        ], 
+        "Has description": [
+            "Was hat der F\u00f6rderverein in diesem Jahr getan, was haben wir erreicht, welche Neuigkeiten gibt es?"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Monic", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "News vom F\u00f6rderverein freie Netzwerke e.V."
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:News_vom_F%C3%B6rderverein_freie_Netzwerke_e.V.", 
+        "Has end time": [
+            "1482928200"
         ]
     }, 
     "Session:Translation meetings# 36252d5cc335293f00e927b0b6eba7fb": {
