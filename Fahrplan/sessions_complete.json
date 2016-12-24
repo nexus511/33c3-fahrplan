@@ -184,47 +184,79 @@
             "1483018200"
         ]
     }, 
-    "Session:Freifunk Webteam Meetup# a4c6b1023905f80841514340a971f8ac": {
+    "Session:L\u00f6tworkshop von Chaos macht Schule# eb6a6a9ada1541991197ad15d61ffaed": {
         "Held in language": [
             "de - German"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482886800"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Viele der unter freifunk.net angebotenen Dienste ben\u00f6tigen Wartung und Weiterentwicklung. Wer sich hier engagieren m\u00f6chte, kommt einfach vorbei."
+            "L\u00f6tworkshop von Chaos Macht Schule f\u00fcr Junghacker"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "L\u00f6tworkshop von Chaos Macht Schule"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Andibraeu", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andibraeu", 
+                "fulltext": "User:Djim", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Djim", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Duisburch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Duisburch", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Benni", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Benni", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Cbass", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cbass", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Stean", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stean", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Freifunk Webteam Meetup"
+            "L\u00f6tworkshop von Chaos macht Schule"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            1380
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_Webteam_Meetup", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:L%C3%B6tworkshop_von_Chaos_macht_Schule", 
+        "Has end time": [
+            "1482969600"
+        ]
     }, 
     "Session:Coder Dojo# ca9c35c335c11d72074a1e9e6046cb6e": {
         "Held in language": [
@@ -1101,12 +1133,12 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk@GSoC2016", 
         "Has end time": []
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
@@ -1122,8 +1154,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -1148,7 +1180,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482853500"
+            "1483026300"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
@@ -1354,6 +1386,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Haecksenraum", 
         "Has end time": [
             "1482940800"
+        ]
+    }, 
+    "Session:Radio Lockdown: Community WiFis unite!# 3ef0602faa4a92ba21a0b5d2b7bc8970": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482951600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://juliareda.eu/2015/10/dear-european-governments-dont-endanger-free-and-open-wifi-networks/"
+        ], 
+        "Has description": [
+            "The Radio Equipment Directive (2014/53/EU) contains a provision requiring hardware manufacturers to check all software installable on their devices. Community WiFi projects heavily rely on (free software) firmware they modify for their purposes and install on consumer-grade hardware. Action is needed to mitigate this threat, but there's a promising course of action: Community WiFi initiatives of Europe, unite!"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:KaerF", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:KaerF", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Radio Lockdown"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Radio_Lockdown:_Community_WiFis_unite!", 
+        "Has end time": [
+            "1482955200"
         ]
     }, 
     "Session:FHB Cheese Rendezvous 33c3# 22a6fa5aae7b3b0bd3db1f35945b183c": {
@@ -2694,56 +2776,52 @@
             "1482942600"
         ]
     }, 
-    "Session:IT-solutions for humanitarian crisis problems# 20371a76b601f1e4bea5b1c0244d0cc9": {
+    "Session:Freifunk Webteam Meetup# b965795b8fc924e6ca427802e5d69a90": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482930000"
+            "1483020000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://www.cadus.org"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Syrien, ein Land welches innerhalb von 5 Jahren von einem hohen technischen Level zur\u00fcck in die Steinzeit gebombt wurde. Weite Teile des Landes sind ohne Internet. Telefonnetze sind von unterschiedlicher Qualit\u00e4t und Verf\u00fcgbarkeit. Viele Regionen des Landes sind auf Grund der Vorherrschaft unterschiedlichster Milizen nicht passierbar f\u00fcr Helfer*innen in der humanit\u00e4ren Arbeit. \nNur ein Beispiel, wo es neue L\u00f6sungen braucht f\u00fcr humanit\u00e4re Notlagen. Wenn wir die Betroffenen nicht selbst erreichen k\u00f6nnen, wie k\u00f6nnen wir dann doch mit innovativen Methoden vor Ort Hilfe leisten?\n\nCADUS e.V. arbeitet seit \u00fcber 2 Jahren in verschiedenen Krisenregionen. In dem Workshop dient CADUS als Fallgeberin f\u00fcr akute Problemstellungen in den Regionen vor Ort. In Arbeitsgruppen wollen wir L\u00f6sungsm\u00f6glichkeiten f\u00fcr (Teil-)Probleme erarbeiten, und deren Durchf\u00fchrbarkeit direkt mit Menschen diskutieren, die den Bogen von der Theorie zur Praxis schlagen k\u00f6nnen."
+            "Viele der unter freifunk.net angebotenen Dienste ben\u00f6tigen Wartung und Weiterentwicklung. Wer sich hier engagieren m\u00f6chte, kommt einfach vorbei."
         ], 
         "Has session type": [
-            "Workshop"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "IT-solutions for humanitarian crisis problems"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Cadus", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cadus", 
+                "fulltext": "User:Andibraeu", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andibraeu", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "IT-solutions for humanitarian crisis problems"
+            "Freifunk Webteam Meetup"
         ], 
         "Has duration": [
-            120
+            45
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:IT-solutions_for_humanitarian_crisis_problems", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_Webteam_Meetup", 
         "Has end time": [
-            "1482937200"
+            "1483022700"
         ]
     }, 
     "Session:42birds: Learn Version Control with Git# 2272513d6192d71ff1d4778dfc820f05": {
@@ -2847,6 +2925,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:AI:_He_will_be_amazed_if_he_stays_dead!_-_Der_wird_sich_wundern,_wenn_er_tot_bleibt!", 
         "Has end time": [
             "1482960600"
+        ]
+    }, 
+    "Session:IT-solutions for humanitarian crisis problems# 20371a76b601f1e4bea5b1c0244d0cc9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482930000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.cadus.org"
+        ], 
+        "Has description": [
+            "Syrien, ein Land welches innerhalb von 5 Jahren von einem hohen technischen Level zur\u00fcck in die Steinzeit gebombt wurde. Weite Teile des Landes sind ohne Internet. Telefonnetze sind von unterschiedlicher Qualit\u00e4t und Verf\u00fcgbarkeit. Viele Regionen des Landes sind auf Grund der Vorherrschaft unterschiedlichster Milizen nicht passierbar f\u00fcr Helfer*innen in der humanit\u00e4ren Arbeit. \nNur ein Beispiel, wo es neue L\u00f6sungen braucht f\u00fcr humanit\u00e4re Notlagen. Wenn wir die Betroffenen nicht selbst erreichen k\u00f6nnen, wie k\u00f6nnen wir dann doch mit innovativen Methoden vor Ort Hilfe leisten?\n\nCADUS e.V. arbeitet seit \u00fcber 2 Jahren in verschiedenen Krisenregionen. In dem Workshop dient CADUS als Fallgeberin f\u00fcr akute Problemstellungen in den Regionen vor Ort. In Arbeitsgruppen wollen wir L\u00f6sungsm\u00f6glichkeiten f\u00fcr (Teil-)Probleme erarbeiten, und deren Durchf\u00fchrbarkeit direkt mit Menschen diskutieren, die den Bogen von der Theorie zur Praxis schlagen k\u00f6nnen."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "IT-solutions for humanitarian crisis problems"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Cadus", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cadus", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "IT-solutions for humanitarian crisis problems"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:IT-solutions_for_humanitarian_crisis_problems", 
+        "Has end time": [
+            "1482937200"
         ]
     }, 
     "Session:Haecksenraum# 84dbea847aa14b670fb6f45d765521f4": {
@@ -6507,12 +6637,12 @@
             "1482880500"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -6528,8 +6658,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -6554,7 +6684,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# c5626b218dcaf7fe2c0ab1eff5125d93": {
@@ -9183,56 +9313,6 @@
             "1482868800"
         ]
     }, 
-    "Session:Subtitle Coordinator Angelmeetings# edced24f7a66bc0df4306237109c7fd9": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482955200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://c3subtitles.de/"
-        ], 
-        "Has description": [
-            "Angelmeeting for the Subtitle Coordinators."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Cube", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Subtitle Coordinator Angelmeetings"
-        ], 
-        "Has duration": [
-            20
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitle_Coordinator_Angelmeetings", 
-        "Has end time": [
-            "1482956400"
-        ]
-    }, 
     "Session:LEAP/Bitmask Hand-on Workshop# 05ddb649f804a29f7f7b60f601d7242c": {
         "Held in language": [
             "en - English"
@@ -11079,80 +11159,6 @@
             "1482865200"
         ]
     }, 
-    "Session:L\u00f6tworkshop von Chaos macht Schule# eb6a6a9ada1541991197ad15d61ffaed": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1482886800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "L\u00f6tworkshop von Chaos Macht Schule f\u00fcr Junghacker"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "L\u00f6tworkshop von Chaos Macht Schule"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Djim", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Djim", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Duisburch", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Duisburch", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Benni", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Benni", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Cbass", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cbass", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Stean", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stean", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "L\u00f6tworkshop von Chaos macht Schule"
-        ], 
-        "Has duration": [
-            1380
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:L%C3%B6tworkshop_von_Chaos_macht_Schule", 
-        "Has end time": [
-            "1482969600"
-        ]
-    }, 
     "Session:Emacs rehab center (vim workshop)# c376fc6a53dd1d0a6fd8665caa12bb31": {
         "Held in language": [
             "en - English"
@@ -12024,29 +12030,29 @@
             "1482863400"
         ]
     }, 
-    "Session:Radio Lockdown: Community WiFis unite!# 3ef0602faa4a92ba21a0b5d2b7bc8970": {
+    "Session:OpenPGP use cases beyond email# 76600e9266be43de0cfe47cd8a1d10b2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482951600"
+            "1483048800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://juliareda.eu/2015/10/dear-european-governments-dont-endanger-free-and-open-wifi-networks/"
+            "http://relay70.metatron.ai"
         ], 
         "Has description": [
-            "The Radio Equipment Directive (2014/53/EU) contains a provision requiring hardware manufacturers to check all software installable on their devices. Community WiFi projects heavily rely on (free software) firmware they modify for their purposes and install on consumer-grade hardware. Action is needed to mitigate this threat, but there's a promising course of action: Community WiFi initiatives of Europe, unite!"
+            "OpenPGP use cases beyond email encryption and authentication.\n\n * monkeysphere for ssh: checking sshd fingerprints automatically\n * monkeysphere for sshd: replacing ssh key-based authentication\n * schleuder2, schleuder3, webschleuder: encrypted mailing list software (incl. CLI and web GUI)\n * pass: flat-file based personal password manager\n * keyringer: flat-file based password manager for groups\n * mandos: LUKS passphrase server on local networks\n * Bring Your Own: if you know about other use cases of OpenPGP (apart from encrypting files), come and say...\n\nThe workshop will start with a small intro on the tools, and we can go deeper into one or the other depending on the interest from the audience.  Some developers of some tools mentioned above will be probably at the workshop, or available on IRC."
         ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -12054,24 +12060,24 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:KaerF", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:KaerF", 
+                "fulltext": "User:Maxigas", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Maxigas", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Radio Lockdown"
+            "OpenPGP use cases beyond email"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Radio_Lockdown:_Community_WiFis_unite!", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:OpenPGP_use_cases_beyond_email", 
         "Has end time": [
-            "1482955200"
+            "1483054200"
         ]
     }, 
     "Session:NerfgunBattle# 85435a592d38924922f9c488a75ad73d": {
@@ -12915,51 +12921,55 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Owasp_Bug_Bounty", 
         "Has end time": []
     }, 
-    "Session:OpenPGP use cases beyond email# 6d2f98f4611c38ec5d637102db41f27f": {
+    "Session:Subtitle Coordinator Angelmeetings# edced24f7a66bc0df4306237109c7fd9": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482955200"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://relay70.metatron.ai"
+            "https://c3subtitles.de/"
         ], 
         "Has description": [
-            "OpenPGP use cases beyond email encryption and authentication.\n\n * monkeysphere for ssh: checking sshd fingerprints automatically\n * monkeysphere for sshd: replacing ssh key-based authentication\n * schleuder2, schleuder3, webschleuder: encrypted mailing list software (incl. CLI and web GUI)\n * pass: flat-file based personal password manager\n * keyringer: flat-file based password manager for groups\n * mandos: LUKS passphrase server on local networks\n * Bring Your Own: if you know about other use cases of OpenPGP (apart from encrypting files), come and say...\n\nThe workshop will start with a small intro on the tools, and we can go deeper into one or the other depending on the interest from the audience.  Some developers of some tools mentioned above will be probably at the workshop, or available on IRC."
+            "Angelmeeting for the Subtitle Coordinators."
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Anarchist Village", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Anarchist_Village", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Maxigas", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Maxigas", 
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "OpenPGP use cases beyond email"
+            "Subtitle Coordinator Angelmeetings"
         ], 
         "Has duration": [
-            60
+            20
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:OpenPGP_use_cases_beyond_email", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitle_Coordinator_Angelmeetings", 
+        "Has end time": [
+            "1482956400"
+        ]
     }, 
     "Session:A walk through the inner core of pEp# c5792c955c345b45775792db81e1421b": {
         "Held in language": [
