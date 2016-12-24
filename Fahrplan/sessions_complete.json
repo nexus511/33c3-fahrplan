@@ -292,31 +292,46 @@
             "1482933600"
         ]
     }, 
-    "Session:Security Confessional: Why and How We Make Security Compromises# 08f98362d9fafec94e7017d8083f29c5": {
+    "Session:LoRaWAN\u2013Freifunk der Dinge# 83eb874920ae442371528c1d144c8266": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482949800"
+        ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "Everyone makes digital security compromises. We sometimes reuse passwords, talk over unsecured channels, and open questionable files from strangers. Even security professionals make mistakes, because strong security tools and practices are sometimes challenging to use. In this discussion, we will share our experiences of our personal security compromises \u2013 and laugh at how absurdly easy it is to make them. We\u2019ll talk about places where we know we take security shortcuts, and identify common challenges. While we will learn from one another about how we can improve our security habits, our primary goal will be to vent about our experiences. In the process, we can better understand how commonplace security compromises really are."
+        "Has website": [
+            "https://www.thethingsnetwork.org", 
+            "https://www.warpzone.ms/perma/hacknbreakfast-lorawan-freifunk-der-dinge/1995/"
         ], 
-        "Has session type": [], 
+        "Has description": [
+            "An introduction to a crowd-sourced long-range radio network for autonomous devices."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Mozilla", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Mozilla", 
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kgbvax", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kgbvax", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Security Confessional"
+            "LoRaWAN\u2013Freifunk der Dinge"
         ], 
         "Has duration": [
             60
@@ -324,8 +339,10 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Security_Confessional:_Why_and_How_We_Make_Security_Compromises", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LoRaWAN%E2%80%93Freifunk_der_Dinge", 
+        "Has end time": [
+            "1482953400"
+        ]
     }, 
     "Session:Stage Manager Angel Introduction# 8249220c059be1a4fd95a7ee3e357697": {
         "Held in language": [
@@ -1836,6 +1853,55 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Beer_Tasting", 
         "Has end time": [
             "1482966000"
+        ]
+    }, 
+    "Session:Your own Glowing Micropet!# e32112845c816d8bd5135c4b748134b3": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483030800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Enter this Workshop to get a sample of your very own glow-in-the-dark pet! We will be playing around with Aliibvibrio Fischeri, a bioluminescent bacterium living all over the world's oceans."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:A.Vibrio.F.", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:A.Vibrio.F.", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Your own Glowing Micropet!"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Your_own_Glowing_Micropet!", 
+        "Has end time": [
+            "1483038000"
         ]
     }, 
     "Session:Translation meetings# 660e4d0d3a22279ed18e88982d5006fa": {
@@ -3386,6 +3452,41 @@
         "Has end time": [
             "1482894000"
         ]
+    }, 
+    "Session:Security Confessional: Why and How We Make Security Compromises# 08f98362d9fafec94e7017d8083f29c5": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Everyone makes digital security compromises. We sometimes reuse passwords, talk over unsecured channels, and open questionable files from strangers. Even security professionals make mistakes, because strong security tools and practices are sometimes challenging to use. In this discussion, we will share our experiences of our personal security compromises \u2013 and laugh at how absurdly easy it is to make them. We\u2019ll talk about places where we know we take security shortcuts, and identify common challenges. While we will learn from one another about how we can improve our security habits, our primary goal will be to vent about our experiences. In the process, we can better understand how commonplace security compromises really are."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Mozilla", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Mozilla", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Security Confessional"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Security_Confessional:_Why_and_How_We_Make_Security_Compromises", 
+        "Has end time": []
     }, 
     "Session:Subtitles-Angelmeetings# 3f394b79cf5c8d868ddc732d38346a06": {
         "Held in language": [
@@ -9783,6 +9884,53 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Film-Blocker", 
         "Has end time": [
             "1483056000"
+        ]
+    }, 
+    "Session:Gettogether Radio Lockdown# b455c4c73e99d25ae391a2db7e8add22": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482946200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Let's talk about the radio lockdown directive which got law in Germany this year."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:KaerF", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:KaerF", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Gettogether Radio Lockdown"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Gettogether_Radio_Lockdown", 
+        "Has end time": [
+            "1482948900"
         ]
     }, 
     "Session:VOC Engelmeeting# 6c7712cd8c07af6fc45588ac8e3f3c56": {
