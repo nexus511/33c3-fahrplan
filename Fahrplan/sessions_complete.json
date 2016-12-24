@@ -6696,9 +6696,9 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Goldsmithing_101_by_SawuGo", 
         "Has end time": []
     }, 
-    "Session:ArduinoForTotalNewbies# 96e932e28b014c3b262ca979a0c9002e": {
+    "Session:Kopf aus dem Sand - Wie du ohne Parteien die Politik beeinflussen kannst!# 54658319eed2515969b1014ff1a8a046": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
             "1482930000"
@@ -6706,46 +6706,42 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "''Learn Arduino using TV-B-Gone as an example project''<br />\n<br />\nYou've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br />\n<br />\n''(This is one of many cool things happening throughout 33C3 in the huge '''Hardware Hacking Area!)'''''<br />\n<br />\nThis workshop will be given twice<br />(both identical):<br />\n&nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 1pm - 4:30pm<br />\n&nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 1pm - 4:30pm<br />"
+            "#KopfausdemSand - Wenn du denkst Unterschriftenlisten und nie beachtete Demos sind die einzigen Methoden um die Politik in \u00d6sterreich, Deutschland oder der EU zu beeinflussen, dann m\u00f6chte ich dir hier einen \u00dcberblick geben welche M\u00f6glichkeiten es noch gibt um die Gesetzgebung und Verwaltung zu unseren Gunsten zu beeinflussen.\nMan kann zwar Gesetze selbst nicht schaffen, aber der Einfluss ist noch lange nicht bei 0! Wir haben sowohl die Netzneutralit\u00e4t Gro\u00dfteils gerettet als auch schon einmal die Vorratsdatenspeicherung gekippt.\nF\u00fcr Neueinsteiger, Menschen und andere Lebensformen die meinen sie k\u00f6nnten noch etwas Neues lernen."
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Day 2"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Maltman23", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Maltman23", 
+                "fulltext": "User:Eest9", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eest9", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "ArduinoForTotalNewbies"
+            "Kopf aus dem Sand - Wie du ohne Parteien die Politik beeinflussen kannst!"
         ], 
         "Has duration": [
-            210
+            45
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:ArduinoForTotalNewbies", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Kopf_aus_dem_Sand_-_Wie_du_ohne_Parteien_die_Politik_beeinflussen_kannst!", 
         "Has end time": [
-            "1482942600"
+            "1482932700"
         ]
     }, 
     "Session:Vegan Replacements \u2013 Hacking Food Traditions# 117523505da5a6fba2fef7c184e69b8f": {
@@ -8210,58 +8206,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Queer_Feminist_Geeks_Gathering", 
         "Has end time": [
             "1482861600"
-        ]
-    }, 
-    "Session:ArduinoForTotalNewbies# 4407b7446e11e47dda9232a9511f0677": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483016400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php"
-        ], 
-        "Has description": [
-            "''Learn Arduino using TV-B-Gone as an example project''<br />\n<br />\nYou've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br />\n<br />\n''(This is one of many cool things happening throughout 33C3 in the huge '''Hardware Hacking Area!)'''''<br />\n<br />\nThis workshop will be given twice<br />(both identical):<br />\n&nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 1pm - 4:30pm<br />\n&nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 1pm - 4:30pm<br />"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day 3"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Maltman23", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Maltman23", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "ArduinoForTotalNewbies"
-        ], 
-        "Has duration": [
-            210
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:ArduinoForTotalNewbies", 
-        "Has end time": [
-            "1483029000"
         ]
     }, 
     "Session:Meier 3# c494a35ec988936702ac0a1e1fbb5160": {
@@ -10987,27 +10931,29 @@
             "1482937200"
         ]
     }, 
-    "Session:Kopf aus dem Sand - Wie du ohne Parteien die Politik beeinflussen kannst!# 54658319eed2515969b1014ff1a8a046": {
+    "Session:Privacy by default with pretty Easy privacy (p\u2261p)# 59be5c85949ce87027b75f249e4d8589": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482930000"
+            "1482861600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://pep.foundation/"
+        ], 
         "Has description": [
-            "#KopfausdemSand - Wenn du denkst Unterschriftenlisten und nie beachtete Demos sind die einzigen Methoden um die Politik in \u00d6sterreich, Deutschland oder der EU zu beeinflussen, dann m\u00f6chte ich dir hier einen \u00dcberblick geben welche M\u00f6glichkeiten es noch gibt um die Gesetzgebung und Verwaltung zu unseren Gunsten zu beeinflussen.\nMan kann zwar Gesetze selbst nicht schaffen, aber der Einfluss ist noch lange nicht bei 0! Wir haben sowohl die Netzneutralit\u00e4t Gro\u00dfteils gerettet als auch schon einmal die Vorratsdatenspeicherung gekippt.\nF\u00fcr Neueinsteiger, Menschen und andere Lebensformen die meinen sie k\u00f6nnten noch etwas Neues lernen."
+            "The pretty Easy privacy project (p\u2261p) is a project to turn the cyberpunk movement's dream into reality that everyone should be able to protect his/her privacy using technical tools. Overall p\u2261p is about changing today's default of digital written communications from unencrypted, unanonymized and unverified to encrypted, anonymized and verified. p\u2261p's vision is to offer an automatic and easy to use solution to make all end-to-end written digital communications over the Internet \u2018Private and Secure by Default and Design\u2018. With that 'unencrypted' e-mails become the exception not the norm. The p\u2261p project aims at encrypting existing written digital communications and does not force users to switch to platform-centric or other crypto solutions, in which users are likely to be locked."
         ], 
         "Has session type": [
             "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -11015,24 +10961,24 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Eest9", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eest9", 
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Kopf aus dem Sand - Wie du ohne Parteien die Politik beeinflussen kannst!"
+            "Privacy by default with pretty Easy privacy (p\u2261p)"
         ], 
         "Has duration": [
-            45
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Kopf_aus_dem_Sand_-_Wie_du_ohne_Parteien_die_Politik_beeinflussen_kannst!", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Privacy_by_default_with_pretty_Easy_privacy_(p%E2%89%A1p)", 
         "Has end time": [
-            "1482932700"
+            "1482865200"
         ]
     }, 
     "Session:L\u00f6tworkshop von Chaos macht Schule# eb6a6a9ada1541991197ad15d61ffaed": {
@@ -11107,56 +11053,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:L%C3%B6tworkshop_von_Chaos_macht_Schule", 
         "Has end time": [
             "1482969600"
-        ]
-    }, 
-    "Session:Privacy by default with pretty Easy privacy (p\u2261p)# 59be5c85949ce87027b75f249e4d8589": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482861600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://pep.foundation/"
-        ], 
-        "Has description": [
-            "The pretty Easy privacy project (p\u2261p) is a project to turn the cyberpunk movement's dream into reality that everyone should be able to protect his/her privacy using technical tools. Overall p\u2261p is about changing today's default of digital written communications from unencrypted, unanonymized and unverified to encrypted, anonymized and verified. p\u2261p's vision is to offer an automatic and easy to use solution to make all end-to-end written digital communications over the Internet \u2018Private and Secure by Default and Design\u2018. With that 'unencrypted' e-mails become the exception not the norm. The p\u2261p project aims at encrypting existing written digital communications and does not force users to switch to platform-centric or other crypto solutions, in which users are likely to be locked."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Privacy by default with pretty Easy privacy (p\u2261p)"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Privacy_by_default_with_pretty_Easy_privacy_(p%E2%89%A1p)", 
-        "Has end time": [
-            "1482865200"
         ]
     }, 
     "Session:Emacs rehab center (vim workshop)# c376fc6a53dd1d0a6fd8665caa12bb31": {
