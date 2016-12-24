@@ -1,56 +1,4 @@
 {
-    "Session:Stage Manager Angel Introduction# 000a0488f2404d1ea417ad9f2f124e43": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482786000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
-        ], 
-        "Has description": [
-            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day0 Introduction Stagemanager and Heralds"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ijon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Stage Manager Angel Introduction"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
-        "Has end time": [
-            "1482791400"
-        ]
-    }, 
     "Session:Tor# 597a60bf1df02da1110f843b155078a9": {
         "Held in language": [
             "en - English"
@@ -394,6 +342,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
         "Has end time": [
             "1482872400"
+        ]
+    }, 
+    "Session:ValueShuffle: Mixing Confidential Transactions for Privacy for Bitcoin# d25683090a8f06f9b8f24cf78771c196": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482944400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Talk about ValueShuffle, a project to improve privacy in Bitcoin (more to be announced)"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Real-or-random", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Real-or-random", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "ValueShuffle"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:ValueShuffle:_Mixing_Confidential_Transactions_for_Privacy_for_Bitcoin", 
+        "Has end time": [
+            "1482948000"
         ]
     }, 
     "Session:Kombucha is Easy# b420e1afed67fd5813b4fd66bebe4e66": {
@@ -2617,8 +2613,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:3D Hackspace", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
+                "fulltext": "Assembly:3D Printing", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Printing", 
                 "namespace": 504, 
                 "exists": true
             }
@@ -6509,54 +6505,6 @@
             "1482879600"
         ]
     }, 
-    "Session:ValueShuffle: Mixing Confidential Transactions for Privacy for Bitcoin# 1d431c4aade4857c54bcc56771cc7e7d": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483021800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Talk about ValueShuffle, a project to improve privacy in Bitcoin (more to be announced)"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Real-or-random", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Real-or-random", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "ValueShuffle"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:ValueShuffle:_Mixing_Confidential_Transactions_for_Privacy_for_Bitcoin", 
-        "Has end time": [
-            "1483023600"
-        ]
-    }, 
     "Session:LearnToSolder# 1708e12825a580ad6d6e1505a4f06a8a": {
         "Held in language": [
             "en - English"
@@ -8208,6 +8156,58 @@
             "1482861600"
         ]
     }, 
+    "Session:Stage Manager Angel Introduction# 391e226a6dc0aa72ad5b79b718ed0cfa": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483038000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
+        ], 
+        "Has description": [
+            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day3 Introduction Stagemanagers"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Stage Manager Angel Introduction"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
+        "Has end time": [
+            "1483041600"
+        ]
+    }, 
     "Session:Meier 3# c494a35ec988936702ac0a1e1fbb5160": {
         "Held in language": [
             "de - German"
@@ -8290,12 +8290,12 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shitty_Robot_-_Workshop", 
         "Has end time": []
     }, 
-    "Session:Stage Manager Angel Introduction# 391e226a6dc0aa72ad5b79b718ed0cfa": {
+    "Session:Stage Manager Angel Introduction# 000a0488f2404d1ea417ad9f2f124e43": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483038000"
+            "1482786000"
         ], 
         "Has event track": [
             "Session"
@@ -8318,7 +8318,7 @@
             }
         ], 
         "Has subtitle": [
-            "Day3 Introduction Stagemanagers"
+            "Day0 Introduction Stagemanager and Heralds"
         ], 
         "Is organized by": [
             {
@@ -8332,14 +8332,14 @@
             "Stage Manager Angel Introduction"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
         "Has end time": [
-            "1483041600"
+            "1482791400"
         ]
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# 423151d2bd90d5fe5bc5e9ffd2d9e687": {
