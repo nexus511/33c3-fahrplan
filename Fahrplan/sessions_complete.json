@@ -1,4 +1,56 @@
 {
+    "Session:Stage Manager Angel Introduction# 000a0488f2404d1ea417ad9f2f124e43": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482786000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
+        ], 
+        "Has description": [
+            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day0 Introduction Stagemanager and Heralds"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Stage Manager Angel Introduction"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
+        "Has end time": [
+            "1482791400"
+        ]
+    }, 
     "Session:Tor# 597a60bf1df02da1110f843b155078a9": {
         "Held in language": [
             "en - English"
@@ -132,71 +184,47 @@
             "1483018200"
         ]
     }, 
-    "Session:Coder Dojo# 20196cb4a0fcac3e8a926eb6752e785d": {
+    "Session:Freifunk Webteam Meetup# a4c6b1023905f80841514340a971f8ac": {
         "Held in language": [
-            "de - German", 
-            "en - English", 
-            "ru - Russian"
+            "de - German"
         ], 
-        "Has start time": [
-            "1482919200"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://coderdojo.com"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
+            "Viele der unter freifunk.net angebotenen Dienste ben\u00f6tigen Wartung und Weiterentwicklung. Wer sich hier engagieren m\u00f6chte, kommt einfach vorbei."
         ], 
         "Has session type": [
-            "Workshop"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Pls swap rooms w us if you have tables"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Nana berlin", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Cyber-phil", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Niccokunzmann", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
+                "fulltext": "User:Andibraeu", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andibraeu", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Coder Dojo"
+            "Freifunk Webteam Meetup"
         ], 
-        "Has duration": [
-            240
-        ], 
+        "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
-        "Has end time": [
-            "1482933600"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_Webteam_Meetup", 
+        "Has end time": []
     }, 
     "Session:Coder Dojo# ca9c35c335c11d72074a1e9e6046cb6e": {
         "Held in language": [
@@ -4083,70 +4111,53 @@
             "1483121700"
         ]
     }, 
-    "Session:Coder Dojo# 114bbdf055b462c90916308a51310575": {
+    "Session:Coffee Break# 564529d15da47a81c4220a1ec5deca10": {
         "Held in language": [
             "de - German", 
-            "en - English", 
-            "ru - Russian"
+            "en - English"
         ], 
         "Has start time": [
-            "1482926400"
+            "1482937200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://coderdojo.com"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
+            "Calm down and have a chat with us"
         ], 
         "Has session type": [
-            "Workshop"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Slot 2 Room 2"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Nana berlin", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Cyber-phil", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Niccokunzmann", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
+                "fulltext": "User:Monic", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Coder Dojo"
+            "Coffee Break"
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coffee_Break", 
         "Has end time": [
-            "1482930000"
+            "1482939000"
         ]
     }, 
     "Session:How To Run A Bitcoin Node# 604c461088a5dddfa6c031af4cd054e4": {
@@ -6636,72 +6647,6 @@
             "1482942600"
         ]
     }, 
-    "Session:Coder Dojo# fdd8a9c86e797d9c002a514c55992e1d": {
-        "Held in language": [
-            "de - German", 
-            "en - English", 
-            "ru - Russian"
-        ], 
-        "Has start time": [
-            "1482937200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://coderdojo.com"
-        ], 
-        "Has description": [
-            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Slot 3 Room 1"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Nana berlin", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Cyber-phil", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Niccokunzmann", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Coder Dojo"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
-        "Has end time": [
-            "1482940800"
-        ]
-    }, 
     "Session:Vegan Replacements \u2013 Hacking Food Traditions# 117523505da5a6fba2fef7c184e69b8f": {
         "Held in language": [
             "en - English"
@@ -7792,72 +7737,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Internet_cencorship_in_Belarus", 
         "Has end time": []
     }, 
-    "Session:Coder Dojo# 503a8b61fd6cc8bd237fa0218d0172a8": {
-        "Held in language": [
-            "de - German", 
-            "en - English", 
-            "ru - Russian"
-        ], 
-        "Has start time": [
-            "1482933600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://coderdojo.com"
-        ], 
-        "Has description": [
-            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Coder Dojo"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Nana berlin", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Cyber-phil", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Niccokunzmann", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Coder Dojo"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
-        "Has end time": [
-            "1482940800"
-        ]
-    }, 
     "Session:Freifunk Hamburg Jahresr\u00fcckblick# fe896d35259c69eb785aa7201a005bf9": {
         "Held in language": [
             "de - German"
@@ -8126,54 +8005,6 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# 80dd81cc8c3b304d9b1707f131c929b7": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482954300"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Angelmeeting day 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Engelmeeting"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482956100"
-        ]
-    }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
         "Held in language": [
             "en - English"
@@ -8332,124 +8163,6 @@
             "1483029000"
         ]
     }, 
-    "Session:Coder Dojo# f7580cf27bd0d4bb0bd704612ab55f0e": {
-        "Held in language": [
-            "de - German", 
-            "en - English", 
-            "ru - Russian"
-        ], 
-        "Has start time": [
-            "1482937200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://coderdojo.com"
-        ], 
-        "Has description": [
-            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Slot 3 Room 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Nana berlin", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Cyber-phil", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Niccokunzmann", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Coder Dojo"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
-        "Has end time": [
-            "1482940800"
-        ]
-    }, 
-    "Session:Stage Manager Angel Introduction# 391e226a6dc0aa72ad5b79b718ed0cfa": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483038000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
-        ], 
-        "Has description": [
-            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day3 Introduction Stagemanagers"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ijon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Stage Manager Angel Introduction"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
-        "Has end time": [
-            "1483041600"
-        ]
-    }, 
     "Session:Meier 3# c494a35ec988936702ac0a1e1fbb5160": {
         "Held in language": [
             "de - German"
@@ -8532,12 +8245,12 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shitty_Robot_-_Workshop", 
         "Has end time": []
     }, 
-    "Session:Stage Manager Angel Introduction# 000a0488f2404d1ea417ad9f2f124e43": {
+    "Session:Stage Manager Angel Introduction# 391e226a6dc0aa72ad5b79b718ed0cfa": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482786000"
+            "1483038000"
         ], 
         "Has event track": [
             "Session"
@@ -8560,7 +8273,7 @@
             }
         ], 
         "Has subtitle": [
-            "Day0 Introduction Stagemanager and Heralds"
+            "Day3 Introduction Stagemanagers"
         ], 
         "Is organized by": [
             {
@@ -8574,14 +8287,14 @@
             "Stage Manager Angel Introduction"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
         "Has end time": [
-            "1482791400"
+            "1483041600"
         ]
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# 423151d2bd90d5fe5bc5e9ffd2d9e687": {
@@ -8627,47 +8340,53 @@
             "1482939000"
         ]
     }, 
-    "Session:Freifunk Webteam Meetup# a4c6b1023905f80841514340a971f8ac": {
+    "Session:Veripeditus AR Game Framework# 0428c11c8ade33fd85d5ca946d66fc2d": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482937200"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Viele der unter freifunk.net angebotenen Dienste ben\u00f6tigen Wartung und Weiterentwicklung. Wer sich hier engagieren m\u00f6chte, kommt einfach vorbei."
+            "Veripeditus is the first free and open source framework that enables everyone to develop augmented reality mobile games like Ingress or Pok\u00e9mon Go. It brings the creative side of such games to everyone, including, but not limited to, class rooms, along with a great new way of learning programming skills with Python.\n\nPresented by Nik, a 26 year-old software developer and network admin from Bonn, but better known as head of Teckids e.V., a youth organisation establishing a FOSS community among children."
         ], 
         "Has session type": [
-            "Hands-On"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Andibraeu", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andibraeu", 
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Freifunk Webteam Meetup"
+            "Veripeditus AR Game Framework"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            60
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_Webteam_Meetup", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Veripeditus_AR_Game_Framework", 
+        "Has end time": [
+            "1482940800"
+        ]
     }, 
     "Session:Browsing JS on Embedded# ff77efb5638897d045fd3f038491930b": {
         "Held in language": [
@@ -8919,104 +8638,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:42birds:_Creative_Coding_with_Processing", 
         "Has end time": [
             "1482921720"
-        ]
-    }, 
-    "Session:Space Hacking# b787a13c30041f982fc7186223360be6": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1482854400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://www.reclaimyourcity.net"
-        ], 
-        "Has description": [
-            "Space Hacking: KulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten, Hausfassaden, die innerhalb weniger Minuten in Farbe getaucht werden\u2026\n\nWie nehmen wir uns den \u00f6ffentlichen Raum, umgehen seine Vorschriften und Reglementierungen?\nWie schaffen wir Orte f\u00fcr Kollektivit\u00e4t und basisdemokratisches Zusammenleben?\n\nPr\u00e4sentation mit den Freimeutern, Interbrigadas, .WAV, Graffitiarchiv, \u00dcberraschungsg\u00e4sten und Mensch Meier."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Jona", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jona", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Space Hacking"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Space_Hacking", 
-        "Has end time": [
-            "1482865200"
-        ]
-    }, 
-    "Session:Veripeditus AR Game Framework# 0428c11c8ade33fd85d5ca946d66fc2d": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482937200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Veripeditus is the first free and open source framework that enables everyone to develop augmented reality mobile games like Ingress or Pok\u00e9mon Go. It brings the creative side of such games to everyone, including, but not limited to, class rooms, along with a great new way of learning programming skills with Python.\n\nPresented by Nik, a 26 year-old software developer and network admin from Bonn, but better known as head of Teckids e.V., a youth organisation establishing a FOSS community among children."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Veripeditus AR Game Framework"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Veripeditus_AR_Game_Framework", 
-        "Has end time": [
-            "1482940800"
         ]
     }, 
     "Session:Entscheidungsfindung/Konsens# c5bce8af22940d51c942e1826f801c86": {
@@ -10370,52 +9991,59 @@
             "1482924600"
         ]
     }, 
-    "Session:Translation meetings# d18b6c2f9bccb7fcaae47ed524788ae1": {
+    "Session:Space Hacking# 82fc8f185c93ad0529656beecd829618": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482954000"
+            "1482854400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        "Has website": [
+            "http://www.reclaimyourcity.net", 
+            "http://www.w3arevisual.wordpress.com", 
+            "http://interbrigadas.org", 
+            "http://www.anarche.noblogs.org"
         ], 
-        "Has session type": [], 
+        "Has description": [
+            "KulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten, Hausfassaden, die innerhalb weniger Minuten in Farbe getaucht werden\u2026\n\nWie nehmen wir uns den \u00f6ffentlichen Raum, umgehen seine Vorschriften und Reglementierungen?\nWie schaffen wir Orte f\u00fcr Kollektivit\u00e4t und basisdemokratisches Zusammenleben?\n\nmit den Freimeutern, Interbrigadas, .WAV, Graffitiarchiv, \u00dcberraschungsg\u00e4sten und Mensch Meier."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "day 2, evening meeting"
+            "KulturKunstPartyPolitik! - Teil1: Collective Space"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "fulltext": "User:Jona", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jona", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Translation meetings"
+            "Space Hacking"
         ], 
         "Has duration": [
-            50
+            70
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Space_Hacking", 
         "Has end time": [
-            "1482957000"
+            "1482858600"
         ]
     }, 
     "Session:Meine erste IFG-Anfrage# b8295aedc06cdac9061106f4fd8cd1cd": {
@@ -10827,70 +10455,52 @@
             "1482876000"
         ]
     }, 
-    "Session:Coder Dojo# 3e5566423bb7179b1698b34b8fba2524": {
+    "Session:Engelmeeting# 80dd81cc8c3b304d9b1707f131c929b7": {
         "Held in language": [
-            "de - German", 
-            "en - English", 
-            "ru - Russian"
+            "en - English"
         ], 
         "Has start time": [
-            "1482922800"
+            "1482954300"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://coderdojo.com"
-        ], 
-        "Has description": [
-            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
-        ], 
+        "Has website": [], 
+        "Has description": [], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Slot 1 Room 2"
+            "Angelmeeting day 2"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Nana berlin", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Cyber-phil", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Niccokunzmann", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Coder Dojo"
+            "Engelmeeting"
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482926400"
+            "1482956100"
         ]
     }, 
     "Session:An Introduction to Intel Software Guard Extensions (SGX)# 04d0e02c7eba6c6a20abab60d08b9e28": {
@@ -12363,53 +11973,52 @@
             "1482886500"
         ]
     }, 
-    "Session:Coffee Break# 564529d15da47a81c4220a1ec5deca10": {
+    "Session:Translation meetings# d18b6c2f9bccb7fcaae47ed524788ae1": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1482937200"
+            "1482954000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Calm down and have a chat with us"
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
         ], 
-        "Has session type": [
-            "Other"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "day 2, evening meeting"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Monic", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Coffee Break"
+            "Translation meetings"
         ], 
         "Has duration": [
-            30
+            50
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coffee_Break", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
         "Has end time": [
-            "1482939000"
+            "1482957000"
         ]
     }, 
     "Session:Skillconvention a# 27b5025dd294b5fa15d8915eac1b6f73": {
@@ -13316,6 +12925,61 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LEAP_Platform_for_vpn_%2B_LEAP_and_Pixelated_platform_for_email_providers", 
         "Has end time": [
             "1482951600"
+        ]
+    }, 
+    "Session:Space Hacking# 14941c8507e11bfca519c6a8a9a360aa": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482859800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.reclaimyourcity.net", 
+            "http://www.w3arevisual.wordpress.com", 
+            "http://interbrigadas.org", 
+            "http://www.anarche.noblogs.org"
+        ], 
+        "Has description": [
+            "KulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten, Hausfassaden, die innerhalb weniger Minuten in Farbe getaucht werden\u2026\n\nWie nehmen wir uns den \u00f6ffentlichen Raum, umgehen seine Vorschriften und Reglementierungen?\nWie schaffen wir Orte f\u00fcr Kollektivit\u00e4t und basisdemokratisches Zusammenleben?\n\nmit den Freimeutern, Interbrigadas, .WAV, Graffitiarchiv, \u00dcberraschungsg\u00e4sten und Mensch Meier."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "KulturKunstPartyPolitik! - Teil2: Urban Intervention"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jona", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jona", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Space Hacking"
+        ], 
+        "Has duration": [
+            70
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Space_Hacking", 
+        "Has end time": [
+            "1482864000"
         ]
     }, 
     "Session:42birds: Randomized Signature Block for Emails# 71a6af2b3a1575eb67bffdd387212a5f": {
