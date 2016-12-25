@@ -1,56 +1,4 @@
 {
-    "Session:Stage Manager Angel Introduction# 000a0488f2404d1ea417ad9f2f124e43": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482786000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
-        ], 
-        "Has description": [
-            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day0 Introduction Stagemanager and Heralds"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ijon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Stage Manager Angel Introduction"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
-        "Has end time": [
-            "1482791400"
-        ]
-    }, 
     "Session:Tor# 597a60bf1df02da1110f843b155078a9": {
         "Held in language": [
             "en - English"
@@ -1222,12 +1170,12 @@
             "1483115400"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
@@ -1243,8 +1191,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -1269,7 +1217,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482853500"
+            "1483026300"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
@@ -7300,12 +7248,12 @@
             "1482880500"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -7321,8 +7269,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -7347,7 +7295,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# c5626b218dcaf7fe2c0ab1eff5125d93": {
@@ -9230,47 +9178,47 @@
             "1483041600"
         ]
     }, 
-    "Session:Surface Mount Electronics Assembly for Terrified Beginners# 423151d2bd90d5fe5bc5e9ffd2d9e687": {
+    "Session:Der 33 Jahrer\u00fcckblick: Technology and Politics in Congress Talks, from 1984 to now -- Post-Lecture Discussion!# bc5271e2e5d8e9f350638a71b5d0c18a": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482933600"
+            "1483027200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://relay70.metatron.ai"
+        ], 
         "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
+            "This is the follow-up discussion on the lecture in the official program:\n\nThe proper relationship of technology and politics and thereby the percentage each covers in the Congress schedule have been the subject of an evergreen debate at the floor and in the corridors of the Chaos Communication Congress.  Rather than taking a position in this debate, we are asking how the two have been co-articulated in talks so far by CCC participants?  In order to answer this question, we are analysing the available titles and abstracts of Congress talks from 1984 until now.  This ongoing research seeks to identify changing trends, significant outliers, apparent patterns and common threads throughout the years.  We also wonder if it is possible to identify turning points in the narrative.  The empirical data is contextualised by reflections on the shifting ground of technology, politics and society in the world during the long history of the CCC, as well as by qualitative reflections of attendants.  We are inviting the audience to help us with the latter by joining in a follow-up discussion after the presentation."
         ], 
         "Has session type": [
-            "Workshop"
+            "Discussion"
         ], 
         "Has session location": [], 
-        "Has subtitle": [
-            "Day 2 - AltSession 0 - !!!At ALT33c3!!!"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
+                "fulltext": "User:Maxigas", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Maxigas", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Surface Mount Electronics Assembly for Terrified Beginners"
+            "Der 33 Jahrer\u00fcckblick"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Der_33_Jahrer%C3%BCckblick:_Technology_and_Politics_in_Congress_Talks,_from_1984_to_now_--_Post-Lecture_Discussion!", 
         "Has end time": [
-            "1482939000"
+            "1483030800"
         ]
     }, 
     "Session:Veripeditus AR Game Framework# 0428c11c8ade33fd85d5ca946d66fc2d": {
@@ -11721,24 +11669,24 @@
             "1482948000"
         ]
     }, 
-    "Session:Der 33 Jahrer\u00fcckblick: Technology and Politics in Congress Talks, from 1984 to now -- Post-Lecture Discussion!# f3bc06729cbc9e3826284d259d104897": {
+    "Session:Stage Manager Angel Introduction# 000a0488f2404d1ea417ad9f2f124e43": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483027200"
+            "1482786000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://relay70.metatron.ai"
+            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
         ], 
         "Has description": [
-            "This is the follow-up discussion on the lecture in the official program:\n\nThe proper relationship of technology and politics and thereby the percentage each covers in the Congress schedule have been the subject of an evergreen debate at the floor and in the corridors of the Chaos Communication Congress.  Rather than taking a position in this debate, we are asking how the two have been co-articulated in talks so far by CCC participants?  In order to answer this question, we are analysing the available titles and abstracts of Congress talks from 1984 until now.  This ongoing research seeks to identify changing trends, significant outliers, apparent patterns and common threads throughout the years.  We also wonder if it is possible to identify turning points in the narrative.  The empirical data is contextualised by reflections on the shifting ground of technology, politics and society in the world during the long history of the CCC, as well as by qualitative reflections of attendants.  We are inviting the audience to help us with the latter by joining in a follow-up discussion after the presentation."
+            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
         ], 
         "Has session type": [
-            "Discussion"
+            "Workshop"
         ], 
         "Has session location": [
             {
@@ -11748,27 +11696,29 @@
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Day0 Introduction Stagemanager and Heralds"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Maxigas", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Maxigas", 
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Der 33 Jahrer\u00fcckblick"
+            "Stage Manager Angel Introduction"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Der_33_Jahrer%C3%BCckblick:_Technology_and_Politics_in_Congress_Talks,_from_1984_to_now_--_Post-Lecture_Discussion!", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
         "Has end time": [
-            "1483030800"
+            "1482791400"
         ]
     }, 
     "Session:Skull Radio Workshop# 18442f55633408558a0573f123c024fb": {
@@ -13120,6 +13070,49 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a", 
         "Has end time": [
             "1482894000"
+        ]
+    }, 
+    "Session:Surface Mount Electronics Assembly for Terrified Beginners# 423151d2bd90d5fe5bc5e9ffd2d9e687": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482933600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "Day 2 - AltSession 0 - !!!At ALT33c3!!!"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Surface Mount Electronics Assembly for Terrified Beginners"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
+        "Has end time": [
+            "1482939000"
         ]
     }, 
     "Session:The curious world of four-dimensional geometry (Wondrous Mathematics)# 421cadfab08594909ebb91cb6a800c7f": {
