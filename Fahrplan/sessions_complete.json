@@ -11383,9 +11383,7 @@
         ]
     }, 
     "Session:Emacs rehab center (vim workshop)# c376fc6a53dd1d0a6fd8665caa12bb31": {
-        "Held in language": [
-            "en - English"
-        ], 
+        "Held in language": [], 
         "Has start time": [
             "1482930000"
         ], 
@@ -11393,12 +11391,8 @@
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "Admitting you have a problem is the first step to getting better. We'll create a welcoming, safe space for recovering emacs users, and teach the fundamentals of vim. We'll also have some more advanced tips for people who want to up their vim-fu.\n\nWe had lots of fun at 32c3, this time we'll be learning a few new tricks to put sublime and atom users to shame as well.\n\n<code>$ cat motto\n\n\"emacs is awesome\"\n\n$ vim motto\n\nwciwvim&lt;ESC&gt;ZZ\n\n$ cat motto\n\n\"vim is awesome\"</code>"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
+        "Has description": [], 
+        "Has session type": [], 
         "Has session location": [
             {
                 "fulltext": "Assembly:Milliways", 
@@ -11408,14 +11402,7 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Aestetix", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Aestetix", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
             "Emacs rehab center (vim workshop)"
         ], 

@@ -8044,17 +8044,11 @@
                                 "title": "Emacs rehab center (vim workshop)", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
+                                "type": "", 
+                                "language": "", 
                                 "abstract": "", 
-                                "description": "Admitting you have a problem is the first step to getting better. We'll create a welcoming, safe space for recovering emacs users, and teach the fundamentals of vim. We'll also have some more advanced tips for people who want to up their vim-fu.\n\nWe had lots of fun at 32c3, this time we'll be learning a few new tricks to put sublime and atom users to shame as well.\n\n<code>$ cat motto\n\n\"emacs is awesome\"\n\n$ vim motto\n\nwciwvim&lt;ESC&gt;ZZ\n\n$ cat motto\n\n\"vim is awesome\"</code>", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Aestetix", 
-                                        "public_name": "Aestetix"
-                                    }
-                                ], 
+                                "description": "", 
+                                "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)"
                                 ]

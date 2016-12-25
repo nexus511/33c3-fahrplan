@@ -6957,27 +6957,11 @@ Please refrain from display insignia/merchandise of the EGP</description>
         <title>Emacs rehab center (vim workshop)</title>
         <subtitle/>
         <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
+        <type/>
+        <language/>
         <abstract/>
-        <description>Admitting you have a problem is the first step to getting better. We'll create a welcoming, safe space for recovering emacs users, and teach the fundamentals of vim. We'll also have some more advanced tips for people who want to up their vim-fu.
-
-We had lots of fun at 32c3, this time we'll be learning a few new tricks to put sublime and atom users to shame as well.
-
-&lt;code&gt;$ cat motto
-
-"emacs is awesome"
-
-$ vim motto
-
-wciwvim&amp;lt;ESC&amp;gt;ZZ
-
-$ cat motto
-
-"vim is awesome"&lt;/code&gt;</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Aestetix">Aestetix</person>
-        </persons>
+        <description/>
+        <persons/>
         <links>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)</link>
         </links>
