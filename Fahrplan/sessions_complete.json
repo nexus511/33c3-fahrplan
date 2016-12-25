@@ -476,6 +476,54 @@
             "1482948000"
         ]
     }, 
+    "Session:Vibrobots basteln f\u00fcr Kids# 9e5f4e6b7f4e2efe80b0689601fc417c": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482847200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Wir basteln Vibrobots! Ein Vibrobot ist wahrscheinlich der einfachste und schnellste Weg einen \"Roboter\" zu basteln. Ohne viel Aufwand hast Du einen kleines Wesen gebaut, das sich selbst\u00e4ndig \u00fcber den Fu\u00dfboden bewegt."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mischk*", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mischk*", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Vibrobots basteln f\u00fcr Kids"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Vibrobots_basteln_f%C3%BCr_Kids", 
+        "Has end time": [
+            "1482854400"
+        ]
+    }, 
     "Session:Kombucha is Easy# b420e1afed67fd5813b4fd66bebe4e66": {
         "Held in language": [
             "en - English"
@@ -723,62 +771,43 @@
             "1482935400"
         ]
     }, 
-    "Session:State of the InterNAT - Freifunk Rheinland AS201701 Update# 42bf8c1eb323807f1a0155b261e1358b": {
+    "Session:In kurzer Zeit zur Schl\u00fcsselwurst# 0936add29a07c5b130fe33a8deb42d7f": {
         "Held in language": [
-            "de - German"
+            "de - German", 
+            "en - English"
         ], 
         "Has start time": [
-            "1483009200"
+            "1482933600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://ffrl.de"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Statusupdate from Freifunk Rheinland Backbone (AS201701). Was war, was ist, was wird."
+            "Wir knoten uns mithilfe von Paracord eigene kleine Schl\u00fcsselanh\u00e4nger. Es ist nicht sonderlich schwierig und es gibt nur eine begrenzte Anzahl von Material, aber was soll's. Bei Bedarf k\u00f6nnt ihr auch gerne einfach so vorbeikommen."
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Lokale Gruppe", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Lokale_Gruppe", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Barbarossa", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Barbarossa", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Takt", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Takt", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Lars", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Lars", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:ThomasDOTwtf", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:ThomasDOTwtf", 
+                "fulltext": "User:Zichy", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Zichy", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "State of the InterNAT - Freifunk Rheinland AS201701 Update"
+            "In kurzer Zeit zur Schl\u00fcsselwurst"
         ], 
         "Has duration": [
             60
@@ -786,9 +815,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:State_of_the_InterNAT_-_Freifunk_Rheinland_AS201701_Update", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:In_kurzer_Zeit_zur_Schl%C3%BCsselwurst", 
         "Has end time": [
-            "1483012800"
+            "1482937200"
         ]
     }, 
     "Session:Shitty Robot /Hebocon Battle# f6ca645eabed61c326032463ffed8e69": {
@@ -2194,65 +2223,53 @@
             "1483113600"
         ]
     }, 
-    "Session:Emacs rehab center (vim workshop)# 3a87c7b6d527de196e1cfc9c6281cc95": {
-        "Held in language": [], 
-        "Has start time": [], 
+    "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482757200"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [], 
-        "Has session type": [], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Emacs rehab center (vim workshop)"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
-        "Has end time": []
-    }, 
-    "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://p0stap0calyptic.wordpress.com/"
-        ], 
-        "Has description": [
-            "we make jewellery from found objects from the congress, leftovers of other workshops or provided stuff as electronic scrap. \n\nwir stellen schmuck aus \u00fcberresten der zivilisation her, aus fundst\u00fccken von kongress selbst, aus resten anderer workshops oder mitgebrachtem (elektro-)schrott."
-        ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Buildup- and welcome meeting"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Paulaner", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paulaner", 
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Postapocalyptic jewellery"
+            "Engelmeeting"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            60
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1482760800"
+        ]
     }, 
     "Session:Cyberthingy# 9a2fa42323647e5d4218ad0a23599c58": {
         "Held in language": [
@@ -2767,43 +2784,42 @@
             "1482858000"
         ]
     }, 
-    "Session:In kurzer Zeit zur Schl\u00fcsselwurst# 0936add29a07c5b130fe33a8deb42d7f": {
+    "Session:Gentoo e.V. Mitgliederversammlung# 6e65ba6b5aced92771679880833c1788": {
         "Held in language": [
-            "de - German", 
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482933600"
+            "1483020000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://www.gentoo-ev.org/wiki/Main_Page"
+        ], 
         "Has description": [
-            "Wir knoten uns mithilfe von Paracord eigene kleine Schl\u00fcsselanh\u00e4nger. Es ist nicht sonderlich schwierig und es gibt nur eine begrenzte Anzahl von Material, aber was soll's. Bei Bedarf k\u00f6nnt ihr auch gerne einfach so vorbeikommen."
+            "Mitgliederversammlung des Gentoo e.V."
         ], 
-        "Has session type": [
-            "Workshop"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Lokale Gruppe", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Lokale_Gruppe", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Zichy", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Zichy", 
+                "fulltext": "User:Sping", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sping", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "In kurzer Zeit zur Schl\u00fcsselwurst"
+            "Gentoo e.V. Mitgliederversammlung"
         ], 
         "Has duration": [
             60
@@ -2811,9 +2827,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:In_kurzer_Zeit_zur_Schl%C3%BCsselwurst", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Gentoo_e.V._Mitgliederversammlung", 
         "Has end time": [
-            "1482937200"
+            "1483023600"
         ]
     }, 
     "Session:Let's sing together the Free Software Song# f6a08b0981e982f4d9312d7bd8c5cffe": {
@@ -2910,53 +2926,43 @@
             "1482957000"
         ]
     }, 
-    "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
+    "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
-        "Has start time": [
-            "1482757200"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
+        "Has website": [
+            "https://p0stap0calyptic.wordpress.com/"
+        ], 
+        "Has description": [
+            "we make jewellery from found objects from the congress, leftovers of other workshops or provided stuff as electronic scrap. \n\nwir stellen schmuck aus \u00fcberresten der zivilisation her, aus fundst\u00fccken von kongress selbst, aus resten anderer workshops oder mitgebrachtem (elektro-)schrott."
+        ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Buildup- and welcome meeting"
-        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "fulltext": "User:Paulaner", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paulaner", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Engelmeeting"
+            "Postapocalyptic jewellery"
         ], 
-        "Has duration": [
-            60
-        ], 
+        "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482760800"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
+        "Has end time": []
     }, 
     "Session:Coffee Break# 66aec1439006361abdf3fcf23947cd4f": {
         "Held in language": [
@@ -4325,6 +4331,74 @@
             "1482962400"
         ]
     }, 
+    "Session:State of the InterNAT - Freifunk Rheinland AS201701 Update# 42bf8c1eb323807f1a0155b261e1358b": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483009200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://ffrl.de"
+        ], 
+        "Has description": [
+            "Statusupdate from Freifunk Rheinland Backbone (AS201701). Was war, was ist, was wird."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Barbarossa", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Barbarossa", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Takt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Takt", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Lars", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Lars", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:ThomasDOTwtf", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:ThomasDOTwtf", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "State of the InterNAT - Freifunk Rheinland AS201701 Update"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:State_of_the_InterNAT_-_Freifunk_Rheinland_AS201701_Update", 
+        "Has end time": [
+            "1483012800"
+        ]
+    }, 
     "Session:Let's sing together the Free Software Song# 6406d2f0fdc8227ae4da6eb1b5bd2d42": {
         "Held in language": [
             "en - English"
@@ -5224,12 +5298,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -5248,7 +5322,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -5269,7 +5343,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -8537,11 +8611,13 @@
             "1483056000"
         ]
     }, 
-    "Session:Internet cencorship in Belarus# 31f6c122fa90a9a9571d937a8dd4d8a5": {
+    "Session:Internet cencorship in Belarus# aeb52d88345b0a24f91bf94c5b7943d4": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482922800"
+        ], 
         "Has event track": [
             "Session"
         ], 
@@ -8572,7 +8648,9 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Internet_cencorship_in_Belarus", 
-        "Has end time": []
+        "Has end time": [
+            "1482926400"
+        ]
     }, 
     "Session:Freifunk Hamburg Jahresr\u00fcckblick# fe896d35259c69eb785aa7201a005bf9": {
         "Held in language": [
@@ -12436,6 +12514,28 @@
             "1482785100"
         ]
     }, 
+    "Session:Emacs rehab center (vim workshop)# 3a87c7b6d527de196e1cfc9c6281cc95": {
+        "Held in language": [], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Emacs rehab center (vim workshop)"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
+        "Has end time": []
+    }, 
     "Session:OpenOversight# 741196bdb3b5ce69e8678d25f9aff96f": {
         "Held in language": [
             "en - English"
@@ -14404,6 +14504,52 @@
             "1482946200"
         ]
     }, 
+    "Session:Introduction Into Anarchism# 30dae771b8d48b87b3420f077d07c5d9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://abcdd.org"
+        ], 
+        "Has description": [
+            "Ideas of the anarchism existed before the network, however hacker's community willingly took anarchism appreciating its dedication to individual and collective freedom. With this session we will have a quick look on history of anarchism and the present of the anarchist struggle in the social and political sphere around the world. \n\nThis is a short presentation with a discussion round."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Tmnt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Tmnt", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Introduction Into Anarchism"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Introduction_Into_Anarchism", 
+        "Has end time": []
+    }, 
     "Session:Translation meetings# d18b6c2f9bccb7fcaae47ed524788ae1": {
         "Held in language": [
             "en - English"
@@ -14530,12 +14676,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -14554,7 +14700,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -14575,7 +14721,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:42birds: Missing RSS Feed? Create Your Own!# b86c3c8fc3a77d7f1486ceeaf014d506": {
