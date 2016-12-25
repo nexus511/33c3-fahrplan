@@ -330,7 +330,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T213000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T203000
-DTSTAMP;VALUE=DATE-TIME:20161213T214138Z
+DTSTAMP;VALUE=DATE-TIME:20161224T094759Z
 UID:1f7eb981-2819-4824-8f40-4ddde0be7bf3@frab.cccv.de
 DESCRIPTION:When thinking about surveillance\, everyone worries about gov
  ernment agencies like the NSA and big corporations like Google and Faceb
@@ -471,7 +471,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T224500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T203000
-DTSTAMP;VALUE=DATE-TIME:20161221T095214Z
+DTSTAMP;VALUE=DATE-TIME:20161224T131730Z
 UID:835ad2b7-162f-4731-b032-603eee69371b@frab.cccv.de
 DESCRIPTION:Der Kampf der Hinterbliebenen um die Wahrheit\n---\nGeride ka
  lanların gerçekler için savaşı\n
@@ -479,7 +479,7 @@ URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8440.html
 SUMMARY:DIE NSU-MONOLOGE / NSU-MONOLOGLARI - Bühne für Menschenrechte\, E
  lisabeth Pleß\, Idil Üner\, Mehmet Kurtulus\, Vanida Karun\, Michael Ruf
  \, Nissar Gardi\, Andreas Kienzle\, Florentine Seuffert\, Barnie Ecke\, 
- Musiker_in
+ Robert Colonius\, Sarah Sott
 LOCATION:Saal 1
 END:VEVENT
 BEGIN:VEVENT
@@ -1168,7 +1168,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T163000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T160000
-DTSTAMP;VALUE=DATE-TIME:20161222T223628Z
+DTSTAMP;VALUE=DATE-TIME:20161223T142903Z
 UID:c92203a0-9158-4111-ab52-5dacd0e46c73@frab.cccv.de
 DESCRIPTION:In early 2015\, the Federal Bureau of Investigation hacked co
  mputers in Austria\, Denmark\, Chile\, Colombia\, Greece\, and likely th
@@ -1455,16 +1455,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T183000
-DTSTAMP;VALUE=DATE-TIME:20161217T151323Z
+DTSTAMP;VALUE=DATE-TIME:20161223T142120Z
 UID:65833373-6cae-4f9d-947b-c93a83ff1ba1@frab.cccv.de
 DESCRIPTION:Lauri Love has never set foot in the United States\, yet he i
- s facing\na potential century in jail if extradited for his alleged invo
- lvement\nin #OpLastResort\, an Anonymous-related protest action that occ
- urred in\nresponse to the death of Aaron Swartz. The case against Love\,
-  a\nFinnish and UK citizen\, has profound implications for United States
- \nclaims of global jurisdiction over the internet\, for the treatment of
- \nneurodivergent individuals under the law\, and for privacy rights in\n
- the UK and beyond.
+ s facing a potential century in jail if extradited for his alleged invol
+ vement in #OpLastResort\, an Anonymous-related protest action that occur
+ red in response to the death of Aaron Swartz.
 URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8438.html
 SUMMARY:No Love for the US Gov. - Jake Davis\, Lauri Love
 LOCATION:Saal 1
@@ -1675,15 +1671,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T180000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T173000
-DTSTAMP;VALUE=DATE-TIME:20161213T221527Z
+DTSTAMP;VALUE=DATE-TIME:20161223T011906Z
 UID:fc959f0c-5e93-4b23-8a63-5b6478adb700@frab.cccv.de
-DESCRIPTION:Nach drei Jahren wurde endlich die nutzerunfreundliche Prakti
- k des Routerzwangs ("Compulsory Routers") gesetzlich für unzulässig erkl
- ärt\, und aktuell treibt uns die EU-Funkabschottung ("Radio Lockdown Dir
- ective") um. Um was geht es dabei? Und was können wir daraus für andere 
- Fälle lernen? \n\nIm Vortrag wird klar werden\, warum politischer Aktivi
- smus so wichtig ist und dass er eigentlich gar nicht so schwer ist\, wen
- n man ein paar Dinge beachtet.
+DESCRIPTION:Nach drei Jahren wurde endlich die nutzerunfreundliche Praxis
+  des Routerzwangs („Compulsory Routers“) gesetzlich für unzulässig erklä
+ rt\, und aktuell treibt uns die EU-Funkabschottung („Radio Lockdown Dire
+ ctive“) um. Um was geht es dabei? Und was können wir daraus für andere F
+ älle lernen?
 URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8024.html
 SUMMARY:Routerzwang und Funkabschottung - Max Mehl
 LOCATION:Saal G
@@ -2236,6 +2230,20 @@ URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8418.html
 SUMMARY:Von Kaffeeriechern\, Abtrittanbietern und Fischbeinreißern - Mich
  aela Vieser
 LOCATION:Saal 6
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T153000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T143000
+DTSTAMP;VALUE=DATE-TIME:20161223T012710Z
+UID:2bdf3de1-417b-4a5a-b31e-4701a921fb5c@frab.cccv.de
+DESCRIPTION:Der Vortrag stellt die in Deutschland zulässigen Überwachungs
+ maßnahmen des Internetverkehrs aus rechtlicher und operativer Sicht dar 
+ und versucht\, die sich aus den Erkenntnissen des NSA-Untersuchungsaussc
+ husses ergebenden Fragen auf die gelebte Praxis anzuwenden.
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8445.html
+SUMMARY:Warum in die Ferne schweifen\, wenn das Ausland liegt so nah? - K
+ laus Landefeld
+LOCATION:Saal 1
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T133000

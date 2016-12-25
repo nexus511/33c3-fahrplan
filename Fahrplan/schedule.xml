@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <schedule>
-<version>INTERIM VERSION</version>
+<version>BEING REFACTORED ANYWAY</version>
 <conference>
 <acronym>33c3</acronym>
 <title>33. Chaos Communication Congress</title>
@@ -536,7 +536,6 @@ This talk gives an overview on the DROWN vulnerability for the hacker community 
 </persons>
 <links>
 <link href='https://drownattack.com/'>The DROWN attack</link>
-<link href='https://test.drownattack.com/'>Online test for the DROWN vulnerability</link>
 </links>
 <attachments>
 </attachments>
@@ -1050,20 +1049,20 @@ In contrast to this I will follow the question how other views can be created by
 <track>Ethics, Society &amp; Politics</track>
 <type>lecture</type>
 <language>de</language>
-<abstract>Nach drei Jahren wurde endlich die nutzerunfreundliche Praktik des Routerzwangs (&quot;Compulsory Routers&quot;) gesetzlich für unzulässig erklärt, und aktuell treibt uns die EU-Funkabschottung (&quot;Radio Lockdown Directive&quot;) um. Um was geht es dabei? Und was können wir daraus für andere Fälle lernen? 
+<abstract>Nach drei Jahren wurde endlich die nutzerunfreundliche Praxis des Routerzwangs („Compulsory Routers“) gesetzlich für unzulässig erklärt, und aktuell treibt uns die EU-Funkabschottung („Radio Lockdown Directive“) um. Um was geht es dabei? Und was können wir daraus für andere Fälle lernen?</abstract>
+<description>Im Vortrag wird klar werden, warum politischer Aktivismus so wichtig ist und dass er eigentlich gar nicht so schwer ist, wenn man ein paar Dinge beachtet.
 
-Im Vortrag wird klar werden, warum politischer Aktivismus so wichtig ist und dass er eigentlich gar nicht so schwer ist, wenn man ein paar Dinge beachtet.</abstract>
-<description>Es hat drei Jahre gebraucht, um die nutzerunfreundliche Praktik des Routerzwangs endlich gesetzlich für ungültig zu erklären. Diese ermöglicht es Internetanbietern, ihren Kunden ein Endgerät aufzuzwingen, auf das sie nur geringen Einfluss nehmen können. Schlimmer noch: Will man einen eigenen Router anschließen, etwa weil man bestimmte technische Dienste benötigt, Geräte auf Basis Freier Software bevorzugt oder ein stromsparenderes Modell einsetzen möchte, ist dies bei vielen Anbietern entweder gar nicht möglich oder man wird bei Support-Anfragen diskriminiert. Dieses Verhalten von Providern ist in vielerlei Hinsicht höchst problematisch, da es hohe Sicherheitsrisiken für Nutzer birgt, fairen Wettbewerb verzerrt und den technologischen Fortschritt hemmt.
+Es hat drei Jahre gebraucht, um die nutzerunfreundliche Praxis des Routerzwangs endlich gesetzlich für ungültig zu erklären. Diese ermöglicht es Internetanbietern, ihren Kunden ein Endgerät aufzuzwingen, auf das sie nur geringen Einfluss nehmen können. Schlimmer noch: Will man einen eigenen Router anschließen, etwa weil man bestimmte technische Dienste benötigt, Geräte auf Basis Freier Software bevorzugt oder ein stromsparenderes Modell einsetzen möchte, ist dies bei vielen Anbietern entweder gar nicht möglich oder man wird bei Support-Anfragen diskriminiert. Dieses Verhalten von Providern ist in vielerlei Hinsicht höchst problematisch, da es hohe Sicherheitsrisiken für Nutzer birgt, fairen Wettbewerb verzerrt und den technologischen Fortschritt hemmt.
 
 Und seit einigen Monaten steht die EU-Richtlinie für Funkabschottung auf unserer Agenda, die möglicherweise schon bald die Nutzung und Entwicklung von Freier Software auf allen Geräten, die in irgendeiner Art Funkwellen verwenden, enorm einschränkt.
 
-Die Free Software Foundation Europe, für die der Referent Max Mehl arbeitet, hat schon seit den ersten Debatten vor über drei Jahren gegen den Routerzwang angekämpft und dabei viele Erfahrungen gesammelt. In Zusammenarbeit mit Freie-Software-Entwicklern, Organisationen wie dem Chaos Computer Club oder Digitalcourage, sowie mit Endgeräteherstellern, Verbänden und Politik ist es gelungen, den Routerzwang gesetzlich offiziell ab Sommer 2016 zu beenden.
+Die Free Software Foundation Europe, für die der Referent Max Mehl arbeitet, hat schon seit den ersten Debatten vor über drei Jahren gegen den Routerzwang angekämpft und dabei viele Erfahrungen gesammelt. In Zusammenarbeit mit Freie-Software-Entwicklern, Organisationen wie dem Chaos Computer Club oder Digitalcourage sowie mit Endgeräteherstellern, Verbänden und Politik ist es gelungen, den Routerzwang gesetzlich offiziell ab Sommer 2016 zu beenden.
 
 Ein wesentlicher Grund für den Erfolg der Initiative war die Einigkeit innerhalb der Allianz gegen den Routerzwang, dass dieses Problem nur politisch gelöst werden kann. Technisch gäbe es für einige der aufgelisteten Kritikpunkte sicherlich kurzfristig Lösungen, doch aus Erfahrung wissen wir, dass das ein Kampf gegen Windmühlen wäre und sich das Grundproblem nur weiter verfestigen würde. Dasselbe Ziel verfolgen wir auch für die Funkabschottung.
 
-Der Referent will daher dazu ermutigen, dass sich mehr Menschen für politische Lösungen von ähnlichen Missständen einsetzen. Dazu wird er zum einen den Verlauf des Routerzwangs kurz zusammenfassen und dann anhand dessen skizzieren, wie ähnliche Probleme – im Großen wie im Kleinen Maßstab – angegangen werden können: Unter anderem durch ausführliche Informationsbeschaffung, den Aufbau von Kontakten, gute Kommunikation und das Aufbauen von Allianzen. Währenddessen wird klar werden, dass man für erfolgreichen politischen Aktivismus kein Hauptzeitlobbyist sein muss, sondern Vielfältigkeit sogar von Vorteil ist.
+Der Referent will daher dazu ermutigen, dass sich mehr Menschen für politische Lösungen von ähnlichen Missständen einsetzen. Dazu wird er zum einen den Verlauf des Routerzwangs kurz zusammenfassen und dann anhand dessen skizzieren, wie ähnliche Probleme – im großen wie im kleinen Maßstab – angegangen werden können: unter anderem durch ausführliche Informationsbeschaffung, den Aufbau von Kontakten, gute Kommunikation und das Aufbauen von Allianzen. Währenddessen wird klar werden, dass man für erfolgreichen politischen Aktivismus kein Hauptzeitlobbyist sein muss, sondern Vielfältigkeit sogar von Vorteil ist.
 
-Bildcredit: Konrad Twardowski,CC BY-SA 2.0</description>
+Bildcredit: Konrad Twardowski, CC BY-SA 2.0</description>
 <logo>/system/events/logos/000/008/024/large/rz_lego-techy_quad.jpg?1474989825</logo>
 <persons>
 <person id='6918'>Max Mehl</person>
@@ -1351,6 +1350,7 @@ The internals of the language implementation changed quite dramatically, and now
 <links>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/003/100/original/Nibbletronic.pdf?1482587688'>Slides</attachment>
 </attachments>
 </event>
 <event guid='450d2481-6606-40fe-ba8b-7117d4724155' id='8420'>
@@ -1903,7 +1903,8 @@ Nebenklageanwalt der Familie Yozgat</description>
 <person id='7271'>Andreas Kienzle</person>
 <person id='7267'>Florentine Seuffert</person>
 <person id='7268'>Barnie Ecke</person>
-<person id='7275'>Musiker_in</person>
+<person id='7275'>Robert Colonius</person>
+<person id='7279'>Sarah Sott</person>
 </persons>
 <links>
 </links>
@@ -2310,7 +2311,7 @@ Without any preparations, these five men and women were given an almost impossib
 <subtitle>How private companies leak your personal data into the public domain, and how you can buy it.</subtitle>
 <track>Security</track>
 <type>lecture</type>
-<language>en</language>
+<language>de</language>
 <abstract>When thinking about surveillance, everyone worries about government agencies like the NSA and big corporations like Google and Facebook. But actually there are hundreds of companies that have also discovered data collection as a revenue source.  We decided to do an experiment: Using simple social engineering techniques, we tried to get the most personal you may have in your procession.</abstract>
 <description>When thinking about surveillance, everyone worries about government agencies like the NSA and big corporations like Google and Facebook. But actually there are hundreds of companies that have also discovered data collection as a revenue source. Companies which are quite big, with thousands of employees but names you maybe never heard of. They all try to get their hands on your personal data, often with illegal methods. Most of them keep their data to themselves, some exchange it, but a few sell it to anyone who's willing to pay. 
 
@@ -3259,39 +3260,27 @@ All code and materials and hardware covered in this talk are released under OSI 
 <optout>false</optout>
 </recording>
 <title>No Love for the US Gov.</title>
-<subtitle>Why Lauri Love's case is even more important than you thought </subtitle>
+<subtitle>Why Lauri Love’s case is even more important than you thought</subtitle>
 <track>Ethics, Society &amp; Politics</track>
 <type>lecture</type>
 <language>en</language>
-<abstract>Lauri Love has never set foot in the United States, yet he is facing
-a potential century in jail if extradited for his alleged involvement
-in #OpLastResort, an Anonymous-related protest action that occurred in
-response to the death of Aaron Swartz. The case against Love, a
-Finnish and UK citizen, has profound implications for United States
-claims of global jurisdiction over the internet, for the treatment of
-neurodivergent individuals under the law, and for privacy rights in
-the UK and beyond.</abstract>
-<description>Lauri has been involved in two important legal cases this year. In
+<abstract>Lauri Love has never set foot in the United States, yet he is facing a potential century in jail if extradited for his alleged involvement in #OpLastResort, an Anonymous-related protest action that occurred in response to the death of Aaron Swartz.</abstract>
+<description>The case against Love, a Finnish and UK citizen, has profound implications for United States claims of global jurisdiction over the internet, for the treatment of neurodivergent individuals under the law, and for privacy rights in the UK and beyond.
+
+Lauri has been involved in two important legal cases this year. In
 May, Lauri scored a rare victory for digital rights in the UK,
-ensuring the National Crime Agency did not establish a dangerous new
-precedent to compel the decryption of stored data. Then this summer,
-during his extradition hearings, a significant portion of defense
-testimony related to Love's diagnosis with Aspergers syndrome, his
-depression and long-term health symptoms for which he is under medical
-observation. Expert testimony reinforced the inadequacy, violence and
-injustice of the U.S. prison system for dealing with these concerns.
+ensuring the National Crime Agency did not establish a dangerous new precedent to compel the decryption of stored data. Then this summer, during his extradition hearings, a significant portion of defense testimony related to Love’s diagnosis with Aspergers syndrome, his depression and long-term health symptoms for which he is under medical observation. Expert testimony reinforced the inadequacy, violence and injustice of the U.S. prison system for dealing with these concerns.
+
 This September, a judge agreed that Lauri was at serious risk of
 self-harm, yet she approved his extradition nonetheless, reopening a
 debate in the UK over how to protect vulnerable individuals that was
-ostensibly resolved after Gary McKinnon's extradition was blocked by
+ostensibly resolved after Gary McKinnon’s extradition was blocked by
 Theresa May in 2012.
 
-Lauri Love's US legal counsel, Tor Ekeland, and ex-Lulzsec member Jake
-Davis - who was indicted in the United States but prosecuted in the
-UK, will give their take on Lauri's case and its broader
-ramifications. Lauri himself will also participate via video link.
-How does the possibility of Lauri's extradition change the threat
-landscape for digital activists?  Is there any way to prevent
+Ex-Lulzsec member Jake Davis – who was indicted in the United States but prosecuted in the UK, will give his take on Lauri’s case and its broader ramifications. Lauri himself will also participate via video link.
+
+How does the possibility of Lauri’s extradition change the threat
+landscape for digital activists? Is there any way to prevent
 extradition being used as a tool of US global jurisdiction over the
 internet? Where has the law on both sides of the Atlantic failed
 Lauri, and what are the changes we should be fighting for?</description>
@@ -4771,6 +4760,32 @@ d) Call to Action: Angebote für niederschwellig nutzbare Rechte, Ausübungssyst
 <logo>/system/events/logos/000/008/092/large/33c3_vortrag_Logo_2.png?1475267182</logo>
 <persons>
 <person id='6932'>derPUPE</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='2bdf3de1-417b-4a5a-b31e-4701a921fb5c' id='8445'>
+<date>2016-12-30T14:30:00+01:00</date>
+<start>14:30</start>
+<duration>01:00</duration>
+<room>Saal 1</room>
+<slug>33c3-8445-warum_in_die_ferne_schweifen_wenn_das_ausland_liegt_so_nah</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Warum in die Ferne schweifen, wenn das Ausland liegt so nah?</title>
+<subtitle>Erinnerungen aus dem virtuellen Ausland in Frankfurt, Germany</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Der Vortrag stellt die in Deutschland zulässigen Überwachungsmaßnahmen des Internetverkehrs aus rechtlicher und operativer Sicht dar und versucht, die sich aus den Erkenntnissen des NSA-Untersuchungsausschusses ergebenden Fragen auf die gelebte Praxis anzuwenden.</abstract>
+<description>Der Vortrag beleuchtet die Hintergründe der Klage des DE-CIX gegen die heute verwendeten G10-Anordnungen und die sich durch das neue Gesetz zur Ausland-Ausland-Fernmeldeaufklärung ergebenden Änderungen zur Überwachung im Inland. Die Probleme des Grundrechtsschutzes in einem „Bulk Collection“-Umfeld werden ebenso erörtert wie die technischen Möglichkeiten einer Filterung und des sich hieraus ergebenden Zahlen- und Mengengerüsts zur Überwachung.</description>
+<logo></logo>
+<persons>
+<person id='174'>Klaus Landefeld</person>
 </persons>
 <links>
 </links>

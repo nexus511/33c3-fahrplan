@@ -929,9 +929,7 @@ In this talk we detail how memory deduplication works and the many different way
 <dtend>20161227T180000</dtend>
 <duration>003000</duration>
 <summary>Routerzwang und Funkabschottung- Was Aktivisten davon lernen können</summary>
-<description>Nach drei Jahren wurde endlich die nutzerunfreundliche Praktik des Routerzwangs (&quot;Compulsory Routers&quot;) gesetzlich für unzulässig erklärt, und aktuell treibt uns die EU-Funkabschottung (&quot;Radio Lockdown Directive&quot;) um. Um was geht es dabei? Und was können wir daraus für andere Fälle lernen? 
-
-Im Vortrag wird klar werden, warum politischer Aktivismus so wichtig ist und dass er eigentlich gar nicht so schwer ist, wenn man ein paar Dinge beachtet.</description>
+<description>Nach drei Jahren wurde endlich die nutzerunfreundliche Praxis des Routerzwangs („Compulsory Routers“) gesetzlich für unzulässig erklärt, und aktuell treibt uns die EU-Funkabschottung („Radio Lockdown Directive“) um. Um was geht es dabei? Und was können wir daraus für andere Fälle lernen?</description>
 <class>PUBLIC</class>
 <status>CONFIRMED</status>
 <category>Lecture</category>
@@ -1064,8 +1062,8 @@ practical attacks that could be performed on these devices. During this talks, t
 <pentabarf:event-slug>33c3-8034-build_your_own_nsa</pentabarf:event-slug>
 <pentabarf:title>Build your own NSA</pentabarf:title>
 <pentabarf:subtitle>How private companies leak your personal data into the public domain, and how you can buy it.</pentabarf:subtitle>
-<pentabarf:language>English</pentabarf:language>
-<pentabarf:language-code>en</pentabarf:language-code>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
 <dtstart>20161228T203000</dtstart>
 <dtend>20161228T213000</dtend>
 <duration>010000</duration>
@@ -3234,21 +3232,14 @@ How does our present relate to other times in history, how is the western notion
 <pentabarf:event-id>8438</pentabarf:event-id>
 <pentabarf:event-slug>33c3-8438-no_love_for_the_us_gov</pentabarf:event-slug>
 <pentabarf:title>No Love for the US Gov.</pentabarf:title>
-<pentabarf:subtitle>Why Lauri Love's case is even more important than you thought </pentabarf:subtitle>
+<pentabarf:subtitle>Why Lauri Love’s case is even more important than you thought</pentabarf:subtitle>
 <pentabarf:language>English</pentabarf:language>
 <pentabarf:language-code>en</pentabarf:language-code>
 <dtstart>20161229T183000</dtstart>
 <dtend>20161229T193000</dtend>
 <duration>010000</duration>
-<summary>No Love for the US Gov.- Why Lauri Love's case is even more important than you thought </summary>
-<description>Lauri Love has never set foot in the United States, yet he is facing
-a potential century in jail if extradited for his alleged involvement
-in #OpLastResort, an Anonymous-related protest action that occurred in
-response to the death of Aaron Swartz. The case against Love, a
-Finnish and UK citizen, has profound implications for United States
-claims of global jurisdiction over the internet, for the treatment of
-neurodivergent individuals under the law, and for privacy rights in
-the UK and beyond.</description>
+<summary>No Love for the US Gov.- Why Lauri Love’s case is even more important than you thought</summary>
+<description>Lauri Love has never set foot in the United States, yet he is facing a potential century in jail if extradited for his alleged involvement in #OpLastResort, an Anonymous-related protest action that occurred in response to the death of Aaron Swartz.</description>
 <class>PUBLIC</class>
 <status>CONFIRMED</status>
 <category>Lecture</category>
@@ -3314,7 +3305,8 @@ Geride kalanların gerçekler için savaşı
 <attendee>Andreas Kienzle</attendee>
 <attendee>Florentine Seuffert</attendee>
 <attendee>Barnie Ecke</attendee>
-<attendee>Musiker_in</attendee>
+<attendee>Robert Colonius</attendee>
+<attendee>Sarah Sott</attendee>
 </vevent>
 <vevent>
 <method>PUBLISH</method>
@@ -3337,6 +3329,27 @@ Geride kalanların gerçekler için savaşı
 <location>Saal G</location>
 <attendee>DI</attendee>
 <attendee>JO</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>8445@33c3@pentabarf.org</uid>
+<pentabarf:event-id>8445</pentabarf:event-id>
+<pentabarf:event-slug>33c3-8445-warum_in_die_ferne_schweifen_wenn_das_ausland_liegt_so_nah</pentabarf:event-slug>
+<pentabarf:title>Warum in die Ferne schweifen, wenn das Ausland liegt so nah?</pentabarf:title>
+<pentabarf:subtitle>Erinnerungen aus dem virtuellen Ausland in Frankfurt, Germany</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20161230T143000</dtstart>
+<dtend>20161230T153000</dtend>
+<duration>010000</duration>
+<summary>Warum in die Ferne schweifen, wenn das Ausland liegt so nah?- Erinnerungen aus dem virtuellen Ausland in Frankfurt, Germany</summary>
+<description>Der Vortrag stellt die in Deutschland zulässigen Überwachungsmaßnahmen des Internetverkehrs aus rechtlicher und operativer Sicht dar und versucht, die sich aus den Erkenntnissen des NSA-Untersuchungsausschusses ergebenden Fragen auf die gelebte Praxis anzuwenden.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>//fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8445.html</url>
+<location>Saal 1</location>
+<attendee>Klaus Landefeld</attendee>
 </vevent>
 </vcalendar>
 </iCalendar>
