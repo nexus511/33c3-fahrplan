@@ -2076,7 +2076,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1104, 
+                                "id": 1105, 
                                 "guid": "d0288fe6dd4e0bc74b5b7e0302906c53", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -2193,7 +2193,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1201, 
+                                "id": 1198, 
                                 "guid": "8249220c059be1a4fd95a7ee3e357697", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -2568,7 +2568,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1206, 
+                                "id": 1207, 
                                 "guid": "82bab9758cf59aa2590ae41b3e81cd3f", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:30:00+01:00", 
@@ -2654,15 +2654,15 @@
                             }, 
                             {
                                 "id": 1196, 
-                                "guid": "14941c8507e11bfca519c6a8a9a360aa", 
+                                "guid": "82fc8f185c93ad0529656beecd829618", 
                                 "logo": null, 
-                                "date": "2016-12-27T17:30:00+01:00", 
-                                "start": "17:30", 
+                                "date": "2016-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:10", 
                                 "room": "Hall C.2", 
                                 "slug": "", 
                                 "title": "Space Hacking", 
-                                "subtitle": "KulturKunstPartyPolitik! - Teil2: Urban Intervention", 
+                                "subtitle": "KulturKunstPartyPolitik! - Teil1: Collective Space", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -2685,15 +2685,15 @@
                             }, 
                             {
                                 "id": 1197, 
-                                "guid": "82fc8f185c93ad0529656beecd829618", 
+                                "guid": "14941c8507e11bfca519c6a8a9a360aa", 
                                 "logo": null, 
-                                "date": "2016-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2016-12-27T17:30:00+01:00", 
+                                "start": "17:30", 
                                 "duration": "1:10", 
                                 "room": "Hall C.2", 
                                 "slug": "", 
                                 "title": "Space Hacking", 
-                                "subtitle": "KulturKunstPartyPolitik! - Teil1: Collective Space", 
+                                "subtitle": "KulturKunstPartyPolitik! - Teil2: Urban Intervention", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -3312,7 +3312,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1043, 
+                                "id": 1044, 
                                 "guid": "09dc806817705dc5d7ad3cf12a70cb12", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -3596,7 +3596,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1125, 
+                                "id": 1126, 
                                 "guid": "a33e122a93f95fe8add42f678dc1b55c", 
                                 "logo": null, 
                                 "date": "2016-12-27T23:00:00+01:00", 
@@ -3628,7 +3628,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1127, 
+                                "id": 1128, 
                                 "guid": "43636d9b169a5b4efd4a2ac28a2f0933", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -3772,7 +3772,7 @@
                         ], 
                         "Assembly:Free Software Foundation Europe": [
                             {
-                                "id": 1141, 
+                                "id": 1140, 
                                 "guid": "f6a08b0981e982f4d9312d7bd8c5cffe", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:00:00+01:00", 
@@ -5966,7 +5966,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1103, 
+                                "id": 1104, 
                                 "guid": "2b55e4c20c327a0fbe6204663002bb03", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -6055,7 +6055,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1198, 
+                                "id": 1199, 
                                 "guid": "24d51cd703f53fb90adff0184890fcf9", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -7047,7 +7047,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1205, 
+                                "id": 1206, 
                                 "guid": "edced24f7a66bc0df4306237109c7fd9", 
                                 "logo": null, 
                                 "date": "2016-12-28T20:00:00+01:00", 
@@ -7872,33 +7872,6 @@
                             }, 
                             {
                                 "id": 1063, 
-                                "guid": "54a00dbed551ab518956a48fc87935ee", 
-                                "logo": null, 
-                                "date": "2016-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:30", 
-                                "room": "Assembly:Jugend hackt", 
-                                "slug": "", 
-                                "title": "Einstieg in App-Programmierung und Scratch (f\u00fcr Kids)", 
-                                "subtitle": "Workshop 1", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Einstieg in App-Programmierung und Scratch, 2 Workshops mit jeweils 90 Minuten f\u00fcr bis zu 20 Kids, organisiert von App Camps und Code+Design", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:InaW", 
-                                        "public_name": "InaW"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Einstieg_in_App-Programmierung_und_Scratch_(f%C3%BCr_Kids)"
-                                ]
-                            }, 
-                            {
-                                "id": 1064, 
                                 "guid": "2cf3dea7a33c6a16043be20763068566", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:30:00+01:00", 
@@ -7923,11 +7896,38 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2016/wiki/Session:Einstieg_in_App-Programmierung_und_Scratch_(f%C3%BCr_Kids)"
                                 ]
+                            }, 
+                            {
+                                "id": 1064, 
+                                "guid": "54a00dbed551ab518956a48fc87935ee", 
+                                "logo": null, 
+                                "date": "2016-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:Jugend hackt", 
+                                "slug": "", 
+                                "title": "Einstieg in App-Programmierung und Scratch (f\u00fcr Kids)", 
+                                "subtitle": "Workshop 1", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Einstieg in App-Programmierung und Scratch, 2 Workshops mit jeweils 90 Minuten f\u00fcr bis zu 20 Kids, organisiert von App Camps und Code+Design", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:InaW", 
+                                        "public_name": "InaW"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Einstieg_in_App-Programmierung_und_Scratch_(f%C3%BCr_Kids)"
+                                ]
                             }
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1044, 
+                                "id": 1041, 
                                 "guid": "564529d15da47a81c4220a1ec5deca10", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -8126,7 +8126,7 @@
                         ], 
                         "Assembly:TEST ASSEMBLY PLEASE IGNORE": [
                             {
-                                "id": 1092, 
+                                "id": 1091, 
                                 "guid": "ff7dcd7dc8cfe3b1b1b5f9ef95ae4af2", 
                                 "logo": null, 
                                 "date": "2016-12-28T06:00:00+01:00", 
@@ -8185,7 +8185,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1129, 
+                                "id": 1125, 
                                 "guid": "1d417fdc38d9002139dfa87a15a17e0e", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -8330,7 +8330,7 @@
                         ], 
                         "Assembly:Free Software Foundation Europe": [
                             {
-                                "id": 1140, 
+                                "id": 1141, 
                                 "guid": "2e3e91c23a1e9b472b42cb23c76be0d9", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:30:00+01:00", 
@@ -10475,7 +10475,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1105, 
+                                "id": 1103, 
                                 "guid": "84dbea847aa14b670fb6f45d765521f4", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -10592,7 +10592,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1199, 
+                                "id": 1200, 
                                 "guid": "391e226a6dc0aa72ad5b79b718ed0cfa", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -11619,7 +11619,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1208, 
+                                "id": 1204, 
                                 "guid": "f5d865fef0629079b8e1d8cd125457e2", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:00:00+01:00", 
@@ -11650,11 +11650,11 @@
                         "Hall F": [
                             {
                                 "id": 1084, 
-                                "guid": "fbc9e7ed36a705cf72c554aa7c10ff35", 
+                                "guid": "dc97ce7587e6de93f68f0bb1fbfdbd9c", 
                                 "logo": null, 
-                                "date": "2016-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "3:00", 
+                                "date": "2016-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:15", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Film-Abend", 
@@ -11671,11 +11671,11 @@
                             }, 
                             {
                                 "id": 1085, 
-                                "guid": "dc97ce7587e6de93f68f0bb1fbfdbd9c", 
+                                "guid": "fbc9e7ed36a705cf72c554aa7c10ff35", 
                                 "logo": null, 
-                                "date": "2016-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "2:15", 
+                                "date": "2016-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "3:00", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Film-Abend", 
@@ -12226,7 +12226,7 @@
                         ], 
                         "Assembly:Mozilla": [
                             {
-                                "id": 1030, 
+                                "id": 1031, 
                                 "guid": "ff77efb5638897d045fd3f038491930b", 
                                 "logo": null, 
                                 "date": "2016-12-29T10:00:00+01:00", 
@@ -12256,7 +12256,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1041, 
+                                "id": 1042, 
                                 "guid": "66aec1439006361abdf3fcf23947cd4f", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -12435,7 +12435,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1126, 
+                                "id": 1127, 
                                 "guid": "e7efaa00f19b51ad38201d9ba027d3b6", 
                                 "logo": null, 
                                 "date": "2016-12-29T23:00:00+01:00", 
@@ -12467,7 +12467,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1128, 
+                                "id": 1130, 
                                 "guid": "8f2144006158cc65262cd392541cf8c7", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:00:00+01:00", 
@@ -13600,7 +13600,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1207, 
+                                "id": 1208, 
                                 "guid": "a093ff0372ec57b12bdb99922e2b06d0", 
                                 "logo": null, 
                                 "date": "2016-12-30T11:00:00+01:00", 
@@ -13718,7 +13718,7 @@
                         ], 
                         "Assembly:Mozilla": [
                             {
-                                "id": 1031, 
+                                "id": 1030, 
                                 "guid": "468fd369ff728118f9a0584e0d3e691d", 
                                 "logo": null, 
                                 "date": "2016-12-30T10:00:00+01:00", 
@@ -13748,7 +13748,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1042, 
+                                "id": 1043, 
                                 "guid": "344833a144e5511fc5cb35044e92d1e9", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
@@ -13777,7 +13777,7 @@
                         ], 
                         "Assembly:TEST ASSEMBLY PLEASE IGNORE": [
                             {
-                                "id": 1091, 
+                                "id": 1092, 
                                 "guid": "9bf85a0870c3dba222b3d18c9dc80679", 
                                 "logo": null, 
                                 "date": "2016-12-30T13:00:00+01:00", 

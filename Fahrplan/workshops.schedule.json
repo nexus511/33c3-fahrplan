@@ -15,7 +15,7 @@
                     "rooms": {
                         "Hall C.1": [
                             {
-                                "id": 1204, 
+                                "id": 1205, 
                                 "guid": "740238c9c2ab6cc1a9a26604f84b98bc", 
                                 "logo": null, 
                                 "date": "2016-12-26T21:00:00+01:00", 
@@ -73,7 +73,7 @@
                         ], 
                         "Hall A.1": [
                             {
-                                "id": 1200, 
+                                "id": 1201, 
                                 "guid": "000a0488f2404d1ea417ad9f2f124e43", 
                                 "logo": null, 
                                 "date": "2016-12-26T21:00:00+01:00", 
@@ -359,7 +359,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1206, 
+                                "id": 1207, 
                                 "guid": "82bab9758cf59aa2590ae41b3e81cd3f", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:30:00+01:00", 
@@ -445,15 +445,15 @@
                             }, 
                             {
                                 "id": 1196, 
-                                "guid": "14941c8507e11bfca519c6a8a9a360aa", 
+                                "guid": "82fc8f185c93ad0529656beecd829618", 
                                 "logo": null, 
-                                "date": "2016-12-27T17:30:00+01:00", 
-                                "start": "17:30", 
+                                "date": "2016-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:10", 
                                 "room": "Hall C.2", 
                                 "slug": "", 
                                 "title": "Space Hacking", 
-                                "subtitle": "KulturKunstPartyPolitik! - Teil2: Urban Intervention", 
+                                "subtitle": "KulturKunstPartyPolitik! - Teil1: Collective Space", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -476,15 +476,15 @@
                             }, 
                             {
                                 "id": 1197, 
-                                "guid": "82fc8f185c93ad0529656beecd829618", 
+                                "guid": "14941c8507e11bfca519c6a8a9a360aa", 
                                 "logo": null, 
-                                "date": "2016-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2016-12-27T17:30:00+01:00", 
+                                "start": "17:30", 
                                 "duration": "1:10", 
                                 "room": "Hall C.2", 
                                 "slug": "", 
                                 "title": "Space Hacking", 
-                                "subtitle": "KulturKunstPartyPolitik! - Teil1: Collective Space", 
+                                "subtitle": "KulturKunstPartyPolitik! - Teil2: Urban Intervention", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -1220,7 +1220,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1104, 
+                                "id": 1105, 
                                 "guid": "d0288fe6dd4e0bc74b5b7e0302906c53", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -1337,7 +1337,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1201, 
+                                "id": 1198, 
                                 "guid": "8249220c059be1a4fd95a7ee3e357697", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -2235,7 +2235,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1205, 
+                                "id": 1206, 
                                 "guid": "edced24f7a66bc0df4306237109c7fd9", 
                                 "logo": null, 
                                 "date": "2016-12-28T20:00:00+01:00", 
@@ -2993,7 +2993,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1103, 
+                                "id": 1104, 
                                 "guid": "2b55e4c20c327a0fbe6204663002bb03", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -3082,7 +3082,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1198, 
+                                "id": 1199, 
                                 "guid": "24d51cd703f53fb90adff0184890fcf9", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -3960,7 +3960,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1208, 
+                                "id": 1204, 
                                 "guid": "f5d865fef0629079b8e1d8cd125457e2", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:00:00+01:00", 
@@ -4160,11 +4160,11 @@
                         "Hall F": [
                             {
                                 "id": 1084, 
-                                "guid": "fbc9e7ed36a705cf72c554aa7c10ff35", 
+                                "guid": "dc97ce7587e6de93f68f0bb1fbfdbd9c", 
                                 "logo": null, 
-                                "date": "2016-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "3:00", 
+                                "date": "2016-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:15", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Film-Abend", 
@@ -4181,11 +4181,11 @@
                             }, 
                             {
                                 "id": 1085, 
-                                "guid": "dc97ce7587e6de93f68f0bb1fbfdbd9c", 
+                                "guid": "fbc9e7ed36a705cf72c554aa7c10ff35", 
                                 "logo": null, 
-                                "date": "2016-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "2:15", 
+                                "date": "2016-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "3:00", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Film-Abend", 
@@ -4771,7 +4771,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1105, 
+                                "id": 1103, 
                                 "guid": "84dbea847aa14b670fb6f45d765521f4", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -4888,7 +4888,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1199, 
+                                "id": 1200, 
                                 "guid": "391e226a6dc0aa72ad5b79b718ed0cfa", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -5164,7 +5164,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1207, 
+                                "id": 1208, 
                                 "guid": "a093ff0372ec57b12bdb99922e2b06d0", 
                                 "logo": null, 
                                 "date": "2016-12-30T11:00:00+01:00", 
