@@ -791,6 +791,60 @@
             "1483012800"
         ]
     }, 
+    "Session:Shitty Robot /Hebocon Battle# f6ca645eabed61c326032463ffed8e69": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483026300"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "f\u00fcr den workshop siehe:\nhttps://events.ccc.de/congress/2016/wiki/index.php?title=Session:Shitty_Robot_-_Workshop"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Fluktusdukt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Fluktusdukt", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Konfusius", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Konfusius", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Shitty Robot /Hebocon Battle"
+        ], 
+        "Has duration": [
+            135
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shitty_Robot_/Hebocon_Battle", 
+        "Has end time": [
+            "1483034400"
+        ]
+    }, 
     "Session:\"My\" software, like \"my\" hand or like \"my car\"?# 4e67f599939ba0abceb1ffe771c2f455": {
         "Held in language": [
             "en - English"
@@ -4492,6 +4546,56 @@
             "1482982200"
         ]
     }, 
+    "Session:Subtitle Coordinator Angelmeetings# f5d865fef0629079b8e1d8cd125457e2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483041600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3subtitles.de/"
+        ], 
+        "Has description": [
+            "Angelmeeting for the Subtitle Coordinators."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Subtitle Coordinator Angelmeetings"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitle_Coordinator_Angelmeetings", 
+        "Has end time": [
+            "1483042500"
+        ]
+    }, 
     "Session:All Creatures Welcome# cee9aa171f72e48f40955bf55642bce8": {
         "Held in language": [
             "de - German"
@@ -4899,12 +5003,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -4923,7 +5027,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -4944,7 +5048,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -11985,59 +12089,6 @@
             "1482785100"
         ]
     }, 
-    "Session:We Fix the Net# 6629e8d37c9173e0730544f17173fac2": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482933600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://gnunet.org", 
-            "http://pep.foundation/"
-        ], 
-        "Has description": [
-            "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Talks"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Jeffburdges", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "We Fix the Net"
-        ], 
-        "Has duration": [
-            345
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net", 
-        "Has end time": [
-            "1482954300"
-        ]
-    }, 
     "Session:OpenOversight# 741196bdb3b5ce69e8678d25f9aff96f": {
         "Held in language": [
             "en - English"
@@ -13796,54 +13847,57 @@
             "1482855300"
         ]
     }, 
-    "Session:Subtitle Coordinator Angelmeetings# 17690ddc3bfc68317a896a2d08e43f24": {
+    "Session:We Fix the Net# 6629e8d37c9173e0730544f17173fac2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483039800"
+            "1482933600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://c3subtitles.de/"
+            "http://gnunet.org", 
+            "http://pep.foundation/"
         ], 
         "Has description": [
-            "Angelmeeting for the Subtitle Coordinators."
+            "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years."
         ], 
         "Has session type": [
-            "Meeting"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Talks"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Cube", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
+                "fulltext": "User:Jeffburdges", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Subtitle Coordinator Angelmeetings"
+            "We Fix the Net"
         ], 
         "Has duration": [
-            20
+            345
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitle_Coordinator_Angelmeetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net", 
         "Has end time": [
-            "1483041000"
+            "1482954300"
         ]
     }, 
     "Session:Introduction to Soy Bean Fermentation - Tempeh Making# 888bd7ac6bac7fad362323cf6d81eae6": {
@@ -14072,12 +14126,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -14096,7 +14150,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -14117,7 +14171,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:42birds: Missing RSS Feed? Create Your Own!# b86c3c8fc3a77d7f1486ceeaf014d506": {
