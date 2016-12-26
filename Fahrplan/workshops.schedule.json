@@ -1650,7 +1650,7 @@
                                 "type": "talk", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "Talk about ValueShuffle, a project to improve privacy in Bitcoin (more to be announced)", 
+                                "description": "I'll talk about one of our research projects to improve anonymity in Bitcoin by peer-to-peer coin mixing.\nIn particular, I'll present ValueShuffle, the first coin mixing protocol that is compatible with Confidential Transactions, a proposal to hide monetary values in Bitcoin transactions. I'll also explain CoinShuffle++, a very efficient peer-to-peer coin mixing protocol which forms the basis for ValueShuffle.", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -1659,6 +1659,8 @@
                                     }
                                 ], 
                                 "links": [
+                                    "https://people.mmci.uni-saarland.de/~truffing/papers/valueshuffle.pdf", 
+                                    "https://crypsys.mmci.uni-saarland.de/projects/FastDC/paper.pdf", 
                                     "https://events.ccc.de/congress/2016/wiki/Session:ValueShuffle:_Mixing_Confidential_Transactions_for_Privacy_for_Bitcoin"
                                 ]
                             }, 
