@@ -5814,6 +5814,54 @@
             "1483029000"
         ]
     }, 
+    "Session:Translation meetings# d6363e66156d0473f5f996f9726e7805": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482851400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "day 1, afternoon meeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Translation meetings"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "Has end time": [
+            "1482854400"
+        ]
+    }, 
     "Session:Freifunk@GSoC2016# e7ad65bb4d234f29ed12915bd5f4d74e": {
         "Held in language": [
             "en - English"
@@ -9303,24 +9351,23 @@
             "1482861600"
         ]
     }, 
-    "Session:Stage Manager Angel Introduction# 391e226a6dc0aa72ad5b79b718ed0cfa": {
+    "Session:CTF Aftershow# 124b24dcfd8442557679b2a6c93579ad": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1483038000"
+            "1483041600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
+            "A small get-together of all on-site CTF Teams which participated in the 33C3 CTF."
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
@@ -9330,29 +9377,27 @@
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Day3 Introduction Stagemanagers"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Ijon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
+                "fulltext": "User:AndyC4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:AndyC4", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Stage Manager Angel Introduction"
+            "CTF Aftershow"
         ], 
         "Has duration": [
-            60
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:CTF_Aftershow", 
         "Has end time": [
-            "1483041600"
+            "1483048800"
         ]
     }, 
     "Session:Meier 3# c494a35ec988936702ac0a1e1fbb5160": {
@@ -9366,7 +9411,9 @@
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
+        "Has description": [
+            "Ich glaube an konflikt sonst glaube ich an nichts."
+        ], 
         "Has session type": [
             "Talk"
         ], 
@@ -12583,52 +12630,52 @@
             "1482858000"
         ]
     }, 
-    "Session:Engelmeeting# 7b2a2ebb53b4e58845bc13580d788dad": {
+    "Session:An introduction to Matrix.org - An open network for secure, decentralized communication# ffb6f4015f3cc4a6b0a52565e9d3da80": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483040700"
+            "1482955200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
+        "Has description": [
+            "Matrix is an open standard for decentralised communication. Riot is a messenger built on top of Matrix that supports group chats, multiple devices, persistent history and end to end encryption among other features.\nYou can run your own server and bridge to other platforms like IRC, Gitter, Slack and more.\nIn this talk I'll introduce you to Matrix and Riot, show you how it works, what you can do with it and why it is awesome.\n\nNote that I'm not a Matrix.org team member."
+        ], 
         "Has session type": [
-            "Meeting"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Angel meeting day 3"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "fulltext": "User:Exul", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Exul", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Engelmeeting"
+            "An introduction to Matrix.org - An open network for secure, decentralized communication"
         ], 
         "Has duration": [
-            30
+            45
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_introduction_to_Matrix.org_-_An_open_network_for_secure,_decentralized_communication", 
         "Has end time": [
-            "1483042500"
+            "1482957900"
         ]
     }, 
     "Session:Werewolf Party Game# d9d1c711aa9bf545ac47f177ce27dffd": {
@@ -14021,52 +14068,56 @@
             "1482872400"
         ]
     }, 
-    "Session:Translation meetings# d6363e66156d0473f5f996f9726e7805": {
+    "Session:Stage Manager Angel Introduction# 391e226a6dc0aa72ad5b79b718ed0cfa": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851400"
+            "1483038000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        "Has website": [
+            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
         ], 
-        "Has session type": [], 
+        "Has description": [
+            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "day 1, afternoon meeting"
+            "Day3 Introduction Stagemanagers"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Translation meetings"
+            "Stage Manager Angel Introduction"
         ], 
         "Has duration": [
-            50
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
         "Has end time": [
-            "1482854400"
+            "1483041600"
         ]
     }, 
     "Session:Klangteppich# 1d417fdc38d9002139dfa87a15a17e0e": {
@@ -14125,52 +14176,52 @@
             "1482969600"
         ]
     }, 
-    "Session:An introduction to Matrix.org - An open network for secure, decentralized communication# ffb6f4015f3cc4a6b0a52565e9d3da80": {
+    "Session:Engelmeeting# 7b2a2ebb53b4e58845bc13580d788dad": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482955200"
+            "1483040700"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "Matrix is an open standard for decentralised communication. Riot is a messenger built on top of Matrix that supports group chats, multiple devices, persistent history and end to end encryption among other features.\nYou can run your own server and bridge to other platforms like IRC, Gitter, Slack and more.\nIn this talk I'll introduce you to Matrix and Riot, show you how it works, what you can do with it and why it is awesome.\n\nNote that I'm not a Matrix.org team member."
-        ], 
+        "Has description": [], 
         "Has session type": [
-            "Talk"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Angel meeting day 3"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Exul", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Exul", 
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "An introduction to Matrix.org - An open network for secure, decentralized communication"
+            "Engelmeeting"
         ], 
         "Has duration": [
-            45
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_introduction_to_Matrix.org_-_An_open_network_for_secure,_decentralized_communication", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482957900"
+            "1483042500"
         ]
     }, 
     "Session:Owasp Bug Bounty# 186e762ec645a2d469aae8b1b8a1301e": {
