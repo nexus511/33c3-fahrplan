@@ -2225,53 +2225,65 @@
             "1483113600"
         ]
     }, 
-    "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482757200"
-        ], 
+    "Session:Emacs rehab center (vim workshop)# 3a87c7b6d527de196e1cfc9c6281cc95": {
+        "Held in language": [], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Emacs rehab center (vim workshop)"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
+        "Has end time": []
+    }, 
+    "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://p0stap0calyptic.wordpress.com/"
+        ], 
+        "Has description": [
+            "we make jewellery from found objects from the congress, leftovers of other workshops or provided stuff as electronic scrap. \n\nwir stellen schmuck aus \u00fcberresten der zivilisation her, aus fundst\u00fccken von kongress selbst, aus resten anderer workshops oder mitgebrachtem (elektro-)schrott."
+        ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Buildup- and welcome meeting"
-        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "fulltext": "User:Paulaner", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paulaner", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Engelmeeting"
+            "Postapocalyptic jewellery"
         ], 
-        "Has duration": [
-            60
-        ], 
+        "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482760800"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
+        "Has end time": []
     }, 
     "Session:Cyberthingy# 9a2fa42323647e5d4218ad0a23599c58": {
         "Held in language": [
@@ -2928,43 +2940,53 @@
             "1482957000"
         ]
     }, 
-    "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
+    "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482757200"
+        ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://p0stap0calyptic.wordpress.com/"
-        ], 
-        "Has description": [
-            "we make jewellery from found objects from the congress, leftovers of other workshops or provided stuff as electronic scrap. \n\nwir stellen schmuck aus \u00fcberresten der zivilisation her, aus fundst\u00fccken von kongress selbst, aus resten anderer workshops oder mitgebrachtem (elektro-)schrott."
-        ], 
+        "Has website": [], 
+        "Has description": [], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Buildup- and welcome meeting"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Paulaner", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paulaner", 
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Postapocalyptic jewellery"
+            "Engelmeeting"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            60
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1482760800"
+        ]
     }, 
     "Session:Coffee Break# 66aec1439006361abdf3fcf23947cd4f": {
         "Held in language": [
@@ -6782,56 +6804,6 @@
             "1482856200"
         ]
     }, 
-    "Session:News vom F\u00f6rderverein freie Netzwerke e.V.# a40e5348ebd90b6b392c6ff5d0df23f1": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1482926400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://foerderverein.freie-netzwerke.de"
-        ], 
-        "Has description": [
-            "Was hat der F\u00f6rderverein in diesem Jahr getan, was haben wir erreicht, welche Neuigkeiten gibt es?"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Monic", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "News vom F\u00f6rderverein freie Netzwerke e.V."
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:News_vom_F%C3%B6rderverein_freie_Netzwerke_e.V.", 
-        "Has end time": [
-            "1482928200"
-        ]
-    }, 
     "Session:MAKE-IT: Interactive presentation of the EU research project about the Maker Movement# c46b6326e1bd62427baf22eeffef5893": {
         "Held in language": [
             "en - English"
@@ -7709,62 +7681,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Whiskyleaks# 5c60b8f080fa565c157bf2f447c54bef": {
+    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483045200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://milliways.info/pad/p/33c3-whiskyleaks"
-        ], 
-        "Has description": [
-            "As always milliways is doing its nice whiskyleaks again."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Milliways", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Mc.fly", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mc.fly", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Whiskyleaks"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Whiskyleaks", 
-        "Has end time": [
-            "1483056000"
-        ]
-    }, 
-    "Session:Klangteppich# a33e122a93f95fe8add42f678dc1b55c": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482879600"
+            "1482786000"
         ], 
         "Has event track": [
             "Session"
@@ -7785,7 +7707,7 @@
             }
         ], 
         "Has subtitle": [
-            "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop"
+            "Couchsofa opening DJ set on day 0"
         ], 
         "Is organized by": [
             {
@@ -7805,14 +7727,14 @@
             "Klangteppich"
         ], 
         "Has duration": [
-            120
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
-            "1482886800"
+            "1482796800"
         ]
     }, 
     "Session:Film-Blocker# e8e7292727500d0072186d9f2d0d0add": {
@@ -11895,6 +11817,47 @@
             "1482966000"
         ]
     }, 
+    "Session:NerfgunBattle# 85435a592d38924922f9c488a75ad73d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482883800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Tired of egoshooters? Feeling the need for better graphics, realistic physics and surround sound? Join the big Nerf-Gun Battle at 33c3!\n\nCome around - bring your own device - get shot!"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Troll", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Troll", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "NerfgunBattle"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:NerfgunBattle", 
+        "Has end time": [
+            "1482886500"
+        ]
+    }, 
     "Session:Network concepts introduction & wireshark workshop# 495f918c6608a0336b180bb6cd1a548b": {
         "Held in language": [
             "en - English"
@@ -12087,62 +12050,6 @@
             "1482937200"
         ]
     }, 
-    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482786000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Couchsofa opening DJ set on day 0"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:JayDee2202", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Klangteppich"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
-        "Has end time": [
-            "1482796800"
-        ]
-    }, 
     "Session:Privacy by default with pretty Easy privacy (p\u2261p)# 59be5c85949ce87027b75f249e4d8589": {
         "Held in language": [
             "en - English"
@@ -12193,6 +12100,56 @@
             "1482865200"
         ]
     }, 
+    "Session:Whiskyleaks# 5c60b8f080fa565c157bf2f447c54bef": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483045200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://milliways.info/pad/p/33c3-whiskyleaks"
+        ], 
+        "Has description": [
+            "As always milliways is doing its nice whiskyleaks again."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Milliways", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mc.fly", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mc.fly", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Whiskyleaks"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Whiskyleaks", 
+        "Has end time": [
+            "1483056000"
+        ]
+    }, 
     "Session:Eris Rising# 041120007c5283bda6bce6a6905ff6d5": {
         "Held in language": [
             "en - English"
@@ -12230,27 +12187,57 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Eris_Rising", 
         "Has end time": []
     }, 
-    "Session:Emacs rehab center (vim workshop)# 3a87c7b6d527de196e1cfc9c6281cc95": {
-        "Held in language": [], 
-        "Has start time": [], 
+    "Session:Calliope Workshop# 8a9a2f122143574d716e59f79af5ea9a": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482926400"
+        ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Emacs rehab center (vim workshop)"
+        "Has website": [
+            "http://calliope.cc/"
         ], 
-        "Has duration": [], 
+        "Has description": [
+            "Wir werden bis zum 20 Kindern das Experimentieren mit dem Calliope Board zeigen. Mit dem Calliope Editor werden wir die ersten Schritte zum eigenen Programm machen."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Jugend hackt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Jugend_hackt", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Calliope Workshop 01"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:DerMicha", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:DerMicha", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Calliope Workshop"
+        ], 
+        "Has duration": [
+            60
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Calliope_Workshop", 
+        "Has end time": [
+            "1482930000"
+        ]
     }, 
     "Session:Translation meetings# 36252d5cc335293f00e927b0b6eba7fb": {
         "Held in language": [
@@ -12985,48 +12972,57 @@
             "1483054200"
         ]
     }, 
-    "Session:NerfgunBattle# 85435a592d38924922f9c488a75ad73d": {
+    "Session:Introduction to Soy Bean Fermentation - Tempeh Making# 888bd7ac6bac7fad362323cf6d81eae6": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482883800"
+            "1482847200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Recipe:Tempeh_making_manual_-_short_workshop_form"
+        ], 
         "Has description": [
-            "Tired of egoshooters? Feeling the need for better graphics, realistic physics and surround sound? Join the big Nerf-Gun Battle at 33c3!\n\nCome around - bring your own device - get shot!"
+            "This workshop will teach you how to start your own batch of tempeh using commercial starting culture tasting your own creation before the congress is over!"
         ], 
         "Has session type": [
-            "Game"
+            "Hands-On"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Troll", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Troll", 
+                "fulltext": "User:Algoldor", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Algoldor", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "NerfgunBattle"
+            "Introduction to Soy Bean Fermentation - Tempeh Making"
         ], 
         "Has duration": [
-            45
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:NerfgunBattle", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Introduction_to_Soy_Bean_Fermentation_-_Tempeh_Making", 
         "Has end time": [
-            "1482886500"
+            "1482854400"
         ]
     }, 
-    "Session:Calliope Workshop# 8a9a2f122143574d716e59f79af5ea9a": {
+    "Session:News vom F\u00f6rderverein freie Netzwerke e.V.# a40e5348ebd90b6b392c6ff5d0df23f1": {
         "Held in language": [
             "de - German"
         ], 
@@ -13037,45 +13033,43 @@
             "Session"
         ], 
         "Has website": [
-            "http://calliope.cc/"
+            "https://foerderverein.freie-netzwerke.de"
         ], 
         "Has description": [
-            "Wir werden bis zum 20 Kindern das Experimentieren mit dem Calliope Board zeigen. Mit dem Calliope Editor werden wir die ersten Schritte zum eigenen Programm machen."
+            "Was hat der F\u00f6rderverein in diesem Jahr getan, was haben wir erreicht, welche Neuigkeiten gibt es?"
         ], 
         "Has session type": [
-            "Workshop"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Jugend hackt", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Jugend_hackt", 
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Calliope Workshop 01"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:DerMicha", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:DerMicha", 
+                "fulltext": "User:Monic", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Calliope Workshop"
+            "News vom F\u00f6rderverein freie Netzwerke e.V."
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Calliope_Workshop", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:News_vom_F%C3%B6rderverein_freie_Netzwerke_e.V.", 
         "Has end time": [
-            "1482930000"
+            "1482928200"
         ]
     }, 
     "Session:Skillconvention a# 27b5025dd294b5fa15d8915eac1b6f73": {
@@ -13678,6 +13672,62 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Cider_Flows", 
         "Has end time": []
+    }, 
+    "Session:Klangteppich# a33e122a93f95fe8add42f678dc1b55c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482879600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Klangteppich"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
+        "Has end time": [
+            "1482886800"
+        ]
     }, 
     "Session:Mechanical Keyboard Meetup & Tryout# 19923dc134d556b4c46402b92f3a0beb": {
         "Held in language": [
@@ -14443,29 +14493,27 @@
             "1482855300"
         ]
     }, 
-    "Session:Introduction to Soy Bean Fermentation - Tempeh Making# 888bd7ac6bac7fad362323cf6d81eae6": {
+    "Session:DIY Duct-Tape Wallets# 25dc7adf53f94376f56c0cc0b4a0e79f": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482847200"
+            "1482948000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://foodhackingbase.org/wiki/Recipe:Tempeh_making_manual_-_short_workshop_form"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "This workshop will teach you how to start your own batch of tempeh using commercial starting culture tasting your own creation before the congress is over!"
+            "We will make wallets out of duct-tape allday at our assembly. Join us and make your own in just a few minutes!"
         ], 
         "Has session type": [
             "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "fulltext": "Assembly:Chaostreff Flensburg", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaostreff_Flensburg", 
                 "namespace": 504, 
                 "exists": true
             }
@@ -14473,24 +14521,30 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Algoldor", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Algoldor", 
+                "fulltext": "User:Roikiermedia", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Roikiermedia", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Scammo", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Scammo", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Introduction to Soy Bean Fermentation - Tempeh Making"
+            "DIY Duct-Tape Wallets"
         ], 
         "Has duration": [
-            120
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Introduction_to_Soy_Bean_Fermentation_-_Tempeh_Making", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:DIY_Duct-Tape_Wallets", 
         "Has end time": [
-            "1482854400"
+            "1482953400"
         ]
     }, 
     "Session:Fiction Writers' Session# 1abd7c17935bde0ff1b06e2140a82a19": {
@@ -14541,60 +14595,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Fiction_Writers%27_Session", 
         "Has end time": [
             "1482863400"
-        ]
-    }, 
-    "Session:DIY Duct-Tape Wallets# f50a966adef8e1326ad03cb1aa50489d": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482940800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "We will make wallets out of duct-tape allday at our assembly. Join us and make your own in just a few minutes!"
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Chaostreff Flensburg", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaostreff_Flensburg", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Roikiermedia", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Roikiermedia", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Scammo", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Scammo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "DIY Duct-Tape Wallets"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:DIY_Duct-Tape_Wallets", 
-        "Has end time": [
-            "1482946200"
         ]
     }, 
     "Session:Introduction Into Anarchism# 30dae771b8d48b87b3420f077d07c5d9": {
