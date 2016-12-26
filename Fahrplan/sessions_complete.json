@@ -2223,53 +2223,65 @@
             "1483113600"
         ]
     }, 
-    "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482757200"
-        ], 
+    "Session:Emacs rehab center (vim workshop)# 3a87c7b6d527de196e1cfc9c6281cc95": {
+        "Held in language": [], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Emacs rehab center (vim workshop)"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
+        "Has end time": []
+    }, 
+    "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://p0stap0calyptic.wordpress.com/"
+        ], 
+        "Has description": [
+            "we make jewellery from found objects from the congress, leftovers of other workshops or provided stuff as electronic scrap. \n\nwir stellen schmuck aus \u00fcberresten der zivilisation her, aus fundst\u00fccken von kongress selbst, aus resten anderer workshops oder mitgebrachtem (elektro-)schrott."
+        ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Buildup- and welcome meeting"
-        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "fulltext": "User:Paulaner", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paulaner", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Engelmeeting"
+            "Postapocalyptic jewellery"
         ], 
-        "Has duration": [
-            60
-        ], 
+        "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482760800"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
+        "Has end time": []
     }, 
     "Session:Cyberthingy# 9a2fa42323647e5d4218ad0a23599c58": {
         "Held in language": [
@@ -3019,43 +3031,53 @@
             "1482957000"
         ]
     }, 
-    "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
+    "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482757200"
+        ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://p0stap0calyptic.wordpress.com/"
-        ], 
-        "Has description": [
-            "we make jewellery from found objects from the congress, leftovers of other workshops or provided stuff as electronic scrap. \n\nwir stellen schmuck aus \u00fcberresten der zivilisation her, aus fundst\u00fccken von kongress selbst, aus resten anderer workshops oder mitgebrachtem (elektro-)schrott."
-        ], 
+        "Has website": [], 
+        "Has description": [], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Buildup- and welcome meeting"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Paulaner", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paulaner", 
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Postapocalyptic jewellery"
+            "Engelmeeting"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            60
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1482760800"
+        ]
     }, 
     "Session:Coffee Break# 66aec1439006361abdf3fcf23947cd4f": {
         "Held in language": [
@@ -5435,12 +5457,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -5459,7 +5481,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -5480,7 +5502,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -7017,56 +7039,6 @@
             "1482856200"
         ]
     }, 
-    "Session:News vom F\u00f6rderverein freie Netzwerke e.V.# a40e5348ebd90b6b392c6ff5d0df23f1": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1482926400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://foerderverein.freie-netzwerke.de"
-        ], 
-        "Has description": [
-            "Was hat der F\u00f6rderverein in diesem Jahr getan, was haben wir erreicht, welche Neuigkeiten gibt es?"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Monic", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "News vom F\u00f6rderverein freie Netzwerke e.V."
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:News_vom_F%C3%B6rderverein_freie_Netzwerke_e.V.", 
-        "Has end time": [
-            "1482928200"
-        ]
-    }, 
     "Session:Social Engineering Poetry Slam# aa9e9ee7e459ed3b4d191db2246d22f7": {
         "Held in language": [
             "en - English"
@@ -7476,6 +7448,56 @@
         "Has end time": [
             "1482978600"
         ]
+    }, 
+    "Session:OffeneFahrplanDaten# eebdcdeac78b735c25fc1e8c501d431a": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://tobeannounced"
+        ], 
+        "Has description": [
+            "Wie bekommen wir mehr Fahrplandaten von Verkehrsb\u00fcnden, ..."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Stk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stk", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Vavoida", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Vavoida", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "OffeneFahrplanDaten"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:OffeneFahrplanDaten", 
+        "Has end time": []
     }, 
     "Session:KiCad PCB Design for Eagle-Users# 832f7e6eba661f2bc245213ccf903f0c": {
         "Held in language": [
@@ -12891,27 +12913,57 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Eris_Rising", 
         "Has end time": []
     }, 
-    "Session:Emacs rehab center (vim workshop)# 3a87c7b6d527de196e1cfc9c6281cc95": {
-        "Held in language": [], 
-        "Has start time": [], 
+    "Session:Calliope Workshop# 8a9a2f122143574d716e59f79af5ea9a": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482926400"
+        ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Emacs rehab center (vim workshop)"
+        "Has website": [
+            "http://calliope.cc/"
         ], 
-        "Has duration": [], 
+        "Has description": [
+            "Wir werden bis zum 20 Kindern das Experimentieren mit dem Calliope Board zeigen. Mit dem Calliope Editor werden wir die ersten Schritte zum eigenen Programm machen."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Jugend hackt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Jugend_hackt", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Calliope Workshop 01"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:DerMicha", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:DerMicha", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Calliope Workshop"
+        ], 
+        "Has duration": [
+            60
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Calliope_Workshop", 
+        "Has end time": [
+            "1482930000"
+        ]
     }, 
     "Session:Translation meetings# 36252d5cc335293f00e927b0b6eba7fb": {
         "Held in language": [
@@ -13641,7 +13693,7 @@
             "1482886500"
         ]
     }, 
-    "Session:Calliope Workshop# 8a9a2f122143574d716e59f79af5ea9a": {
+    "Session:News vom F\u00f6rderverein freie Netzwerke e.V.# a40e5348ebd90b6b392c6ff5d0df23f1": {
         "Held in language": [
             "de - German"
         ], 
@@ -13652,45 +13704,43 @@
             "Session"
         ], 
         "Has website": [
-            "http://calliope.cc/"
+            "https://foerderverein.freie-netzwerke.de"
         ], 
         "Has description": [
-            "Wir werden bis zum 20 Kindern das Experimentieren mit dem Calliope Board zeigen. Mit dem Calliope Editor werden wir die ersten Schritte zum eigenen Programm machen."
+            "Was hat der F\u00f6rderverein in diesem Jahr getan, was haben wir erreicht, welche Neuigkeiten gibt es?"
         ], 
         "Has session type": [
-            "Workshop"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Jugend hackt", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Jugend_hackt", 
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Calliope Workshop 01"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:DerMicha", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:DerMicha", 
+                "fulltext": "User:Monic", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Calliope Workshop"
+            "News vom F\u00f6rderverein freie Netzwerke e.V."
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Calliope_Workshop", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:News_vom_F%C3%B6rderverein_freie_Netzwerke_e.V.", 
         "Has end time": [
-            "1482930000"
+            "1482928200"
         ]
     }, 
     "Session:Skillconvention a# 27b5025dd294b5fa15d8915eac1b6f73": {
@@ -15582,12 +15632,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -15606,7 +15656,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -15627,7 +15677,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:42birds: Missing RSS Feed? Create Your Own!# b86c3c8fc3a77d7f1486ceeaf014d506": {
