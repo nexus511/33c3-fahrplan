@@ -1224,12 +1224,12 @@
             "1483115400"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -1245,8 +1245,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -1271,7 +1271,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
@@ -6386,6 +6386,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Wizard_of_Berlin%27s_Freifunk_Firmware", 
         "Has end time": []
     }, 
+    "Session:ComputerSaysNo# 13af61c600a6fcdf5d9106c6678d97fe": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482872400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "I breathed the promise of liberation through IT technology for three decades, yet now can't help but notice different trajectories in our brave new software driven world. I was the odd nerd bringing internet, mail, google, mobile phone usage to friends and communities. Instruments of liberty, as the still strong going Sillicon Valley narratives pitch it. Now i see more and more people regulated and alienated by what what others allow them (i.e. software), be they waiters in Cafe's, people working in customer support, cashiers at supermarkets, and the other hundreds of millions who sit in front of screens. However, human freedom luckily keeps creeping in and there are examples and opportunities for autonomous uses of technology. It must begin with a slowdown, un-busying ourselves, because it is the increasing speed of movement and information flows which stabilize the grip of cybernetic capitalism."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Hpk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Hpk", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "ComputerSaysNo"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:ComputerSaysNo", 
+        "Has end time": [
+            "1482876000"
+        ]
+    }, 
     "Session:Coder Dojo# 8ba93735bba7d3bfbd659432e4e1a209": {
         "Held in language": [
             "de - German", 
@@ -7296,12 +7344,12 @@
             "1482880500"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
@@ -7317,8 +7365,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -7343,7 +7391,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482853500"
+            "1483026300"
         ]
     }, 
     "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# c5626b218dcaf7fe2c0ab1eff5125d93": {
