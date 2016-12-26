@@ -2894,6 +2894,54 @@
             "1483023600"
         ]
     }, 
+    "Session:Territorios Digitais Livres - Free Digital Territories - Community Networks in Brazil# 72ad43246057affa0eb5526e1c0c47ab": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Booo", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Booo", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Pgys", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pgys", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Territorios Digitais Livres - Free Digital Territories - Community Networks in Brazil"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Territorios_Digitais_Livres_-_Free_Digital_Territories_-_Community_Networks_in_Brazil", 
+        "Has end time": []
+    }, 
     "Session:Let's sing together the Free Software Song# f6a08b0981e982f4d9312d7bd8c5cffe": {
         "Held in language": [
             "en - English"
@@ -3986,6 +4034,49 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:GPG_Schl%C3%BCsselverteilung", 
         "Has end time": [
             "1482863400"
+        ]
+    }, 
+    "Session:\u00a743# cbac18b64156cced64322ca0c4e60e99": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482685200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "W\u00e4hrend des Congresses biete ich eine Gastro-Hygieneschulung an."
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "Schulung 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kritis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kritis", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "\u00a743"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:%C2%A743", 
+        "Has end time": [
+            "1482690600"
         ]
     }, 
     "Session:Hackademia Meetup# 3451bb0112cf590af9f83fe6b622c3ad": {
@@ -8642,47 +8733,52 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_UnCivilization_Commune_ReWilded_Life_Shared_with_Squirrels", 
         "Has end time": []
     }, 
-    "Session:\u00a743# cbac18b64156cced64322ca0c4e60e99": {
+    "Session:PCB design for beginners using KiCad# 879d60a3732c2a57d7135e0054308fdf": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482685200"
+            "1482850800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "W\u00e4hrend des Congresses biete ich eine Gastro-Hygieneschulung an."
+            "You will learn how to create basic schematics, select footprints and finally design the actual PCB using KiCad."
         ], 
         "Has session type": [
-            "Other"
+            "Hands-On"
         ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "Schulung 1"
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
         ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Kritis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kritis", 
+                "fulltext": "User:Kbeckmann", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kbeckmann", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "\u00a743"
+            "PCB design for beginners using KiCad"
         ], 
         "Has duration": [
-            90
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:%C2%A743", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:PCB_design_for_beginners_using_KiCad", 
         "Has end time": [
-            "1482690600"
+            "1482858000"
         ]
     }, 
     "Session:CmS L\u00f6tworkshop Vorbesprechung f\u00fcr Helfer# da6dbae49e1ecb56a980368402616b5a": {
@@ -11862,27 +11958,27 @@
             "1483112700"
         ]
     }, 
-    "Session:PCB design for beginners using KiCad# 879d60a3732c2a57d7135e0054308fdf": {
+    "Session:LightPainting (Kidspace)# 62b1dd8338daf5bd78c910ee8ccd1364": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482850800"
+            "1482940800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "You will learn how to create basic schematics, select footprints and finally design the actual PCB using KiCad."
+            "Tanzt mit euren selbstgebastelten LED-Throwies vor einer Kamera rum und malt Lichtbilder in die Luft und aufs Foto! Die Bilder werden anschlie\u00dfend im KidSpace auf einem Monitor ausgestellt :)"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Kidspace", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -11890,14 +11986,14 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Kbeckmann", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kbeckmann", 
+                "fulltext": "User:Mischk*", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mischk*", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "PCB design for beginners using KiCad"
+            "LightPainting (Kidspace)"
         ], 
         "Has duration": [
             120
@@ -11905,9 +12001,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:PCB_design_for_beginners_using_KiCad", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LightPainting_(Kidspace)", 
         "Has end time": [
-            "1482858000"
+            "1482948000"
         ]
     }, 
     "Session:Coffee Break# 344833a144e5511fc5cb35044e92d1e9": {
