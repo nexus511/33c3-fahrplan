@@ -719,6 +719,58 @@
             "1482937200"
         ]
     }, 
+    "Session:Onionmx# 1132e3988b98858428633a2fcec2c302": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482969600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://github.com/riseupnet/onionmx"
+        ], 
+        "Has description": [
+            "onionmx is a proposal to have email transport via tor onion services. it is not about having .onion domain email addresses but rather about email providers making their smtp transport available as an onion service to each other. there is a working implementation out there and we have some months of successful operations behind us. now we'd like to meet more like minded mail providers to join the effort. lets discuss what we have and how to move forward."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "smtp via tor onion services"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Onionmx", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Onionmx", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Onionmx"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Onionmx", 
+        "Has end time": [
+            "1482973200"
+        ]
+    }, 
     "Session:Shitty Robot /Hebocon Battle# f6ca645eabed61c326032463ffed8e69": {
         "Held in language": [
             "de - German"
