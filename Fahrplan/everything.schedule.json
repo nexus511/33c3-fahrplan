@@ -1914,6 +1914,37 @@
                                 "attachments": []
                             }, 
                             {
+                                "id": 416, 
+                                "guid": "ada2f75f-3c01-4eca-959c-8f5959afb673", 
+                                "logo": "/system/events/logos/000/000/416/large/talentschmiede.jpg?1482776512", 
+                                "date": "2016-12-27T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "01:00", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-416-talentschmiede", 
+                                "title": "Talentschmiede", 
+                                "subtitle": "", 
+                                "track": "Podcastingtisch", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "Im Talentschmiede Podcast spreche ich \u00fcber verschiedenste Fu\u00dfball Mannschaften. Thema der 33C3-Episode wird der 1. FC K\u00f6ln sein!", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 77, 
+                                        "public_name": "RikschaAndi"
+                                    }, 
+                                    {
+                                        "id": 272, 
+                                        "public_name": "Lukas Rinke"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
                                 "id": 392, 
                                 "guid": "ac449788-f3b7-4aa7-bc4b-e4186dd22aab", 
                                 "logo": "/system/events/logos/000/000/392/large/BlickwechselLogo.jpeg?1480018459", 
@@ -2193,7 +2224,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1214, 
+                                "id": 1215, 
                                 "guid": "8249220c059be1a4fd95a7ee3e357697", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -2221,7 +2252,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1226, 
+                                "id": 1225, 
                                 "guid": "33d15813452eabff67587b00e4525369", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:15:00+01:00", 
@@ -3049,7 +3080,7 @@
                         ], 
                         "Hall 13-14": [
                             {
-                                "id": 1049, 
+                                "id": 1047, 
                                 "guid": "dab9b0fa02061064724f04702afe682d", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:00:00+01:00", 
@@ -3360,7 +3391,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1042, 
+                                "id": 1043, 
                                 "guid": "09dc806817705dc5d7ad3cf12a70cb12", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -3702,7 +3733,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1136, 
+                                "id": 1138, 
                                 "guid": "43636d9b169a5b4efd4a2ac28a2f0933", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -3734,7 +3765,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1138, 
+                                "id": 1139, 
                                 "guid": "a33e122a93f95fe8add42f678dc1b55c", 
                                 "logo": null, 
                                 "date": "2016-12-27T23:00:00+01:00", 
@@ -6019,7 +6050,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1048, 
+                                "id": 1049, 
                                 "guid": "8b165ece02b1d870610d15256031bca9", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:00:00+01:00", 
@@ -6211,7 +6242,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1215, 
+                                "id": 1214, 
                                 "guid": "24d51cd703f53fb90adff0184890fcf9", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -6239,7 +6270,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1225, 
+                                "id": 1227, 
                                 "guid": "3f394b79cf5c8d868ddc732d38346a06", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:15:00+01:00", 
@@ -6669,7 +6700,7 @@
                         ], 
                         "Hall C.2": [
                             {
-                                "id": 1041, 
+                                "id": 1039, 
                                 "guid": "ca9c35c335c11d72074a1e9e6046cb6e", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -6918,7 +6949,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1038, 
+                                "id": 1040, 
                                 "guid": "82b6f15ab0e1d33b37e9817f997864d8", 
                                 "logo": null, 
                                 "date": "2016-12-28T11:00:00+01:00", 
@@ -6956,7 +6987,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1040, 
+                                "id": 1041, 
                                 "guid": "8ba93735bba7d3bfbd659432e4e1a209", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
@@ -7018,6 +7049,60 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2016/wiki/Session:Discussing_Postcolonial_Computing"
+                                ]
+                            }, 
+                            {
+                                "id": 1067, 
+                                "guid": "4c82634ecbeb0557d8731e4bb254d9ea", 
+                                "logo": null, 
+                                "date": "2016-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:30", 
+                                "room": "Hall C.3", 
+                                "slug": "", 
+                                "title": "Einstieg in App-Programmierung und Scratch (f\u00fcr Kids)", 
+                                "subtitle": "Workshop 1", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Einstieg in App-Programmierung und Scratch, 2 Workshops mit jeweils 90 Minuten f\u00fcr bis zu 10 Kids, organisiert von App Camps und Code+Design", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:InaW", 
+                                        "public_name": "InaW"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Einstieg_in_App-Programmierung_und_Scratch_(f%C3%BCr_Kids)"
+                                ]
+                            }, 
+                            {
+                                "id": 1068, 
+                                "guid": "f2e76279f5b0f44eb34e379e56ad5918", 
+                                "logo": null, 
+                                "date": "2016-12-28T15:30:00+01:00", 
+                                "start": "15:30", 
+                                "duration": "1:30", 
+                                "room": "Hall C.3", 
+                                "slug": "", 
+                                "title": "Einstieg in App-Programmierung und Scratch (f\u00fcr Kids)", 
+                                "subtitle": "Workshop 2", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Einstieg in App-Programmierung und Scratch, 2 Workshops mit jeweils 90 Minuten f\u00fcr bis zu 10 Kids, organisiert von App Camps und Code+Design", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:InaW", 
+                                        "public_name": "InaW"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Einstieg_in_App-Programmierung_und_Scratch_(f%C3%BCr_Kids)"
                                 ]
                             }, 
                             {
@@ -7110,7 +7195,7 @@
                         ], 
                         "Hall C.4": [
                             {
-                                "id": 1039, 
+                                "id": 1038, 
                                 "guid": "ce369fbaa66a09e01586ffcab4b39c4a", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -8168,65 +8253,11 @@
                                     "http://calliope.cc/", 
                                     "https://events.ccc.de/congress/2016/wiki/Session:Calliope_Workshop"
                                 ]
-                            }, 
-                            {
-                                "id": 1067, 
-                                "guid": "54a00dbed551ab518956a48fc87935ee", 
-                                "logo": null, 
-                                "date": "2016-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:30", 
-                                "room": "Assembly:Jugend hackt", 
-                                "slug": "", 
-                                "title": "Einstieg in App-Programmierung und Scratch (f\u00fcr Kids)", 
-                                "subtitle": "Workshop 1", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Einstieg in App-Programmierung und Scratch, 2 Workshops mit jeweils 90 Minuten f\u00fcr bis zu 10 Kids, organisiert von App Camps und Code+Design", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:InaW", 
-                                        "public_name": "InaW"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Einstieg_in_App-Programmierung_und_Scratch_(f%C3%BCr_Kids)"
-                                ]
-                            }, 
-                            {
-                                "id": 1068, 
-                                "guid": "2cf3dea7a33c6a16043be20763068566", 
-                                "logo": null, 
-                                "date": "2016-12-28T15:30:00+01:00", 
-                                "start": "15:30", 
-                                "duration": "1:30", 
-                                "room": "Assembly:Jugend hackt", 
-                                "slug": "", 
-                                "title": "Einstieg in App-Programmierung und Scratch (f\u00fcr Kids)", 
-                                "subtitle": "Workshop 2", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Einstieg in App-Programmierung und Scratch, 2 Workshops mit jeweils 90 Minuten f\u00fcr bis zu 10 Kids, organisiert von App Camps und Code+Design", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:InaW", 
-                                        "public_name": "InaW"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Einstieg_in_App-Programmierung_und_Scratch_(f%C3%BCr_Kids)"
-                                ]
                             }
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1043, 
+                                "id": 1044, 
                                 "guid": "564529d15da47a81c4220a1ec5deca10", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -8459,7 +8490,7 @@
                         ], 
                         "Assembly:TEST ASSEMBLY PLEASE IGNORE": [
                             {
-                                "id": 1099, 
+                                "id": 1098, 
                                 "guid": "ff7dcd7dc8cfe3b1b1b5f9ef95ae4af2", 
                                 "logo": null, 
                                 "date": "2016-12-28T06:00:00+01:00", 
@@ -8518,7 +8549,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1135, 
+                                "id": 1137, 
                                 "guid": "1d417fdc38d9002139dfa87a15a17e0e", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -12228,7 +12259,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1228, 
+                                "id": 1226, 
                                 "guid": "f48797b83b3006b88510ce3136aec9e2", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:15:00+01:00", 
@@ -12285,7 +12316,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1047, 
+                                "id": 1048, 
                                 "guid": "2e3f2fb0d4424c378f1bf5ffa0eab463", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -12677,7 +12708,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1044, 
+                                "id": 1045, 
                                 "guid": "66aec1439006361abdf3fcf23947cd4f", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -13033,7 +13064,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1139, 
+                                "id": 1135, 
                                 "guid": "e7efaa00f19b51ad38201d9ba027d3b6", 
                                 "logo": null, 
                                 "date": "2016-12-29T23:00:00+01:00", 
@@ -14108,7 +14139,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1227, 
+                                "id": 1228, 
                                 "guid": "17595f694e88dd271208bb120d2ded5d", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:15:00+01:00", 
@@ -14345,7 +14376,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1045, 
+                                "id": 1042, 
                                 "guid": "344833a144e5511fc5cb35044e92d1e9", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
@@ -14374,7 +14405,7 @@
                         ], 
                         "Assembly:TEST ASSEMBLY PLEASE IGNORE": [
                             {
-                                "id": 1098, 
+                                "id": 1099, 
                                 "guid": "9bf85a0870c3dba222b3d18c9dc80679", 
                                 "logo": null, 
                                 "date": "2016-12-30T13:00:00+01:00", 
