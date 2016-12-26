@@ -15,7 +15,7 @@
                     "rooms": {
                         "Hall C.1": [
                             {
-                                "id": 1215, 
+                                "id": 1216, 
                                 "guid": "740238c9c2ab6cc1a9a26604f84b98bc", 
                                 "logo": null, 
                                 "date": "2016-12-26T21:00:00+01:00", 
@@ -43,7 +43,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1220, 
+                                "id": 1221, 
                                 "guid": "efb088d3ad2beedd6f23811add22a097", 
                                 "logo": null, 
                                 "date": "2016-12-26T21:00:00+01:00", 
@@ -73,7 +73,7 @@
                         ], 
                         "Hall A.1": [
                             {
-                                "id": 1212, 
+                                "id": 1210, 
                                 "guid": "000a0488f2404d1ea417ad9f2f124e43", 
                                 "logo": null, 
                                 "date": "2016-12-26T21:00:00+01:00", 
@@ -359,7 +359,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1216, 
+                                "id": 1217, 
                                 "guid": "82bab9758cf59aa2590ae41b3e81cd3f", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:30:00+01:00", 
@@ -472,15 +472,15 @@
                             }, 
                             {
                                 "id": 1207, 
-                                "guid": "82fc8f185c93ad0529656beecd829618", 
+                                "guid": "14941c8507e11bfca519c6a8a9a360aa", 
                                 "logo": null, 
-                                "date": "2016-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2016-12-27T17:30:00+01:00", 
+                                "start": "17:30", 
                                 "duration": "1:10", 
                                 "room": "Hall C.2", 
                                 "slug": "", 
                                 "title": "Space Hacking", 
-                                "subtitle": "KulturKunstPartyPolitik! - Teil1: Collective Space", 
+                                "subtitle": "KulturKunstPartyPolitik! - Teil2: Urban Intervention", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -503,15 +503,15 @@
                             }, 
                             {
                                 "id": 1208, 
-                                "guid": "14941c8507e11bfca519c6a8a9a360aa", 
+                                "guid": "82fc8f185c93ad0529656beecd829618", 
                                 "logo": null, 
-                                "date": "2016-12-27T17:30:00+01:00", 
-                                "start": "17:30", 
+                                "date": "2016-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:10", 
                                 "room": "Hall C.2", 
                                 "slug": "", 
                                 "title": "Space Hacking", 
-                                "subtitle": "KulturKunstPartyPolitik! - Teil2: Urban Intervention", 
+                                "subtitle": "KulturKunstPartyPolitik! - Teil1: Collective Space", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -999,7 +999,7 @@
                         ], 
                         "Hall 13-14": [
                             {
-                                "id": 1048, 
+                                "id": 1046, 
                                 "guid": "dab9b0fa02061064724f04702afe682d", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:00:00+01:00", 
@@ -1364,7 +1364,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1209, 
+                                "id": 1211, 
                                 "guid": "8249220c059be1a4fd95a7ee3e357697", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -1392,7 +1392,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1221, 
+                                "id": 1223, 
                                 "guid": "33d15813452eabff67587b00e4525369", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:15:00+01:00", 
@@ -1697,7 +1697,7 @@
                         ], 
                         "Hall C.2": [
                             {
-                                "id": 1036, 
+                                "id": 1038, 
                                 "guid": "ca9c35c335c11d72074a1e9e6046cb6e", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -1967,7 +1967,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1038, 
+                                "id": 1039, 
                                 "guid": "a2d3c9df94b90cd7240898885d1eb3ec", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -2159,7 +2159,7 @@
                         ], 
                         "Hall C.4": [
                             {
-                                "id": 1039, 
+                                "id": 1036, 
                                 "guid": "ce369fbaa66a09e01586ffcab4b39c4a", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -2346,7 +2346,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1219, 
+                                "id": 1215, 
                                 "guid": "edced24f7a66bc0df4306237109c7fd9", 
                                 "logo": null, 
                                 "date": "2016-12-28T20:00:00+01:00", 
@@ -2572,6 +2572,35 @@
                             }, 
                             {
                                 "id": 1261, 
+                                "guid": "bbb81a0158a76477271da3f3095201e4", 
+                                "logo": null, 
+                                "date": "2016-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "3:45", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "We Fix the Net", 
+                                "subtitle": "We Fix The Net Short Talks", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
+                                        "public_name": "Jeffburdges"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://gnunet.org", 
+                                    "http://pep.foundation/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net"
+                                ]
+                            }, 
+                            {
+                                "id": 1262, 
                                 "guid": "929ba2a8a173dad4fb8ab1125b31a656", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:45:00+01:00", 
@@ -2600,7 +2629,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1262, 
+                                "id": 1263, 
                                 "guid": "71ee3f1c08d4d04914c27cac159a56da", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -2610,35 +2639,6 @@
                                 "slug": "", 
                                 "title": "We Fix the Net", 
                                 "subtitle": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
-                                        "public_name": "Jeffburdges"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://gnunet.org", 
-                                    "http://pep.foundation/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net"
-                                ]
-                            }, 
-                            {
-                                "id": 1263, 
-                                "guid": "bbb81a0158a76477271da3f3095201e4", 
-                                "logo": null, 
-                                "date": "2016-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "3:45", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "We Fix the Net", 
-                                "subtitle": "We Fix The Net Short Talks", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "en", 
@@ -3080,7 +3080,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1047, 
+                                "id": 1048, 
                                 "guid": "8b165ece02b1d870610d15256031bca9", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:00:00+01:00", 
@@ -3272,7 +3272,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1210, 
+                                "id": 1212, 
                                 "guid": "24d51cd703f53fb90adff0184890fcf9", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -4150,7 +4150,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1217, 
+                                "id": 1218, 
                                 "guid": "f5d865fef0629079b8e1d8cd125457e2", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:00:00+01:00", 
@@ -4490,11 +4490,11 @@
                             }, 
                             {
                                 "id": 1159, 
-                                "guid": "4712451863c504ac72d4e643f6a79938", 
+                                "guid": "e81169038db8e5ffee3fa6db477d956c", 
                                 "logo": null, 
-                                "date": "2016-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "2:15", 
+                                "date": "2016-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "3:00", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Movie Night", 
@@ -4511,11 +4511,11 @@
                             }, 
                             {
                                 "id": 1160, 
-                                "guid": "e81169038db8e5ffee3fa6db477d956c", 
+                                "guid": "4712451863c504ac72d4e643f6a79938", 
                                 "logo": null, 
-                                "date": "2016-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "3:00", 
+                                "date": "2016-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:15", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Movie Night", 
@@ -4563,7 +4563,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1223, 
+                                "id": 1220, 
                                 "guid": "f48797b83b3006b88510ce3136aec9e2", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:15:00+01:00", 
@@ -4620,7 +4620,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1046, 
+                                "id": 1047, 
                                 "guid": "2e3f2fb0d4424c378f1bf5ffa0eab463", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -5078,7 +5078,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1211, 
+                                "id": 1209, 
                                 "guid": "391e226a6dc0aa72ad5b79b718ed0cfa", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -5354,7 +5354,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1218, 
+                                "id": 1219, 
                                 "guid": "a093ff0372ec57b12bdb99922e2b06d0", 
                                 "logo": null, 
                                 "date": "2016-12-30T11:00:00+01:00", 
