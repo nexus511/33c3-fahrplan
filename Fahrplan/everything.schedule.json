@@ -3366,7 +3366,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1263, 
+                                "id": 1264, 
                                 "guid": "eb3c23b712c97b14cc547c9e72571550", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:30:00+01:00", 
@@ -3624,7 +3624,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1257, 
+                                "id": 1258, 
                                 "guid": "117523505da5a6fba2fef7c184e69b8f", 
                                 "logo": null, 
                                 "date": "2016-12-27T16:00:00+01:00", 
@@ -3916,7 +3916,7 @@
                         ], 
                         "Kidspace": [
                             {
-                                "id": 1259, 
+                                "id": 1260, 
                                 "guid": "9e5f4e6b7f4e2efe80b0689601fc417c", 
                                 "logo": null, 
                                 "date": "2016-12-27T14:00:00+01:00", 
@@ -6331,7 +6331,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1260, 
+                                "id": 1261, 
                                 "guid": "bbb81a0158a76477271da3f3095201e4", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -6360,7 +6360,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1261, 
+                                "id": 1262, 
                                 "guid": "929ba2a8a173dad4fb8ab1125b31a656", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:45:00+01:00", 
@@ -6389,7 +6389,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1262, 
+                                "id": 1263, 
                                 "guid": "71ee3f1c08d4d04914c27cac159a56da", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -6557,7 +6557,36 @@
                                 ]
                             }, 
                             {
-                                "id": 1270, 
+                                "id": 1257, 
+                                "guid": "9080c37802e878d02ea0b480c4719e31", 
+                                "logo": null, 
+                                "date": "2016-12-28T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "ValueShuffle", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "I'll talk about one of our research projects to improve anonymity in Bitcoin by peer-to-peer coin mixing.\nIn particular, I'll present ValueShuffle, the first coin mixing protocol that is compatible with Confidential Transactions, a proposal to hide monetary values in Bitcoin transactions. Combined together, ValueShuffle and Confidential Transaction provide strong privacy on the blockchain. I'll also explain CoinShuffle++, a very efficient peer-to-peer coin mixing protocol which forms the basis for ValueShuffle.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Real-or-random", 
+                                        "public_name": "Real-or-random"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://people.mmci.uni-saarland.de/~truffing/papers/valueshuffle.pdf", 
+                                    "https://crypsys.mmci.uni-saarland.de/projects/FastDC/paper.pdf", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:ValueShuffle:_Mixing_Confidential_Transactions_for_Full_Privacy_in_Bitcoin"
+                                ]
+                            }, 
+                            {
+                                "id": 1271, 
                                 "guid": "79a06dbfedb5cf587036255d578ee72a", 
                                 "logo": null, 
                                 "date": "2016-12-28T20:45:00+01:00", 
@@ -6767,7 +6796,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1258, 
+                                "id": 1259, 
                                 "guid": "0428c11c8ade33fd85d5ca946d66fc2d", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -7296,7 +7325,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1268, 
+                                "id": 1269, 
                                 "guid": "690b20d9c78f916880b0127d7034bc09", 
                                 "logo": null, 
                                 "date": "2016-12-28T13:00:00+01:00", 
@@ -7324,7 +7353,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1269, 
+                                "id": 1270, 
                                 "guid": "eb38492af6c27a43e14bfbed50abf298", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -7663,7 +7692,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1265, 
+                                "id": 1266, 
                                 "guid": "73db3246145a85eb6d6d6835c00e578e", 
                                 "logo": null, 
                                 "date": "2016-12-28T17:00:00+01:00", 
@@ -8586,7 +8615,7 @@
                         ], 
                         "Assembly:Mozilla": [
                             {
-                                "id": 1264, 
+                                "id": 1265, 
                                 "guid": "d9d1c711aa9bf545ac47f177ce27dffd", 
                                 "logo": null, 
                                 "date": "2016-12-28T20:00:00+01:00", 
@@ -10847,7 +10876,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1266, 
+                                "id": 1267, 
                                 "guid": "331c340e99b3f4677e2ca0fd5fd25c60", 
                                 "logo": null, 
                                 "date": "2016-12-29T22:00:00+01:00", 
@@ -11609,7 +11638,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1271, 
+                                "id": 1272, 
                                 "guid": "e32112845c816d8bd5135c4b748134b3", 
                                 "logo": null, 
                                 "date": "2016-12-29T17:00:00+01:00", 
@@ -13025,7 +13054,7 @@
                         ], 
                         "Assembly:Milliways": [
                             {
-                                "id": 1267, 
+                                "id": 1268, 
                                 "guid": "5c60b8f080fa565c157bf2f447c54bef", 
                                 "logo": null, 
                                 "date": "2016-12-29T21:00:00+01:00", 

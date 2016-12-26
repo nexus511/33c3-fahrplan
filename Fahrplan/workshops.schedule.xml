@@ -1112,7 +1112,7 @@ Welcome to the Subtitles Angelmeeting!</description>
       </event>
     </room>
     <room name="Kidspace">
-      <event id="1259" guid="9e5f4e6b7f4e2efe80b0689601fc417c">
+      <event id="1260" guid="9e5f4e6b7f4e2efe80b0689601fc417c">
         <logo/>
         <date>2016-12-27T14:00:00+01:00</date>
         <start>14:00</start>
@@ -1284,7 +1284,31 @@ I wish to keep this workshop as informal and accessible as possible and look for
           <link>https://events.ccc.de/congress/2016/wiki/Session:MAKE-IT:_Interactive_presentation_of_the_EU_research_project_about_the_Maker_Movement</link>
         </links>
       </event>
-      <event id="1270" guid="79a06dbfedb5cf587036255d578ee72a">
+      <event id="1257" guid="9080c37802e878d02ea0b480c4719e31">
+        <logo/>
+        <date>2016-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Hall C.1</room>
+        <slug/>
+        <title>ValueShuffle</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>I'll talk about one of our research projects to improve anonymity in Bitcoin by peer-to-peer coin mixing.
+In particular, I'll present ValueShuffle, the first coin mixing protocol that is compatible with Confidential Transactions, a proposal to hide monetary values in Bitcoin transactions. Combined together, ValueShuffle and Confidential Transaction provide strong privacy on the blockchain. I'll also explain CoinShuffle++, a very efficient peer-to-peer coin mixing protocol which forms the basis for ValueShuffle.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Real-or-random">Real-or-random</person>
+        </persons>
+        <links>
+          <link>https://people.mmci.uni-saarland.de/~truffing/papers/valueshuffle.pdf</link>
+          <link>https://crypsys.mmci.uni-saarland.de/projects/FastDC/paper.pdf</link>
+          <link>https://events.ccc.de/congress/2016/wiki/Session:ValueShuffle:_Mixing_Confidential_Transactions_for_Full_Privacy_in_Bitcoin</link>
+        </links>
+      </event>
+      <event id="1271" guid="79a06dbfedb5cf587036255d578ee72a">
         <logo/>
         <date>2016-12-28T20:45:00+01:00</date>
         <start>20:45</start>
@@ -1447,7 +1471,7 @@ Theoretische Einf&#252;hrung und Erfahrungsberichte aus 10 Jahren linker Kollekt
           <link>https://events.ccc.de/congress/2016/wiki/Session:NewPipe</link>
         </links>
       </event>
-      <event id="1258" guid="0428c11c8ade33fd85d5ca946d66fc2d">
+      <event id="1259" guid="0428c11c8ade33fd85d5ca946d66fc2d">
         <logo/>
         <date>2016-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -1862,7 +1886,7 @@ Looking forward to see you there and as a future contributor. ;)</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Train_the_CryptoParty_Trainer</link>
         </links>
       </event>
-      <event id="1268" guid="690b20d9c78f916880b0127d7034bc09">
+      <event id="1269" guid="690b20d9c78f916880b0127d7034bc09">
         <logo/>
         <date>2016-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -1886,7 +1910,7 @@ Greta Do&#231;i is an ICT engineer student who contributes to Open Source/Free S
           <link>https://events.ccc.de/congress/2016/wiki/Session:Wikidata_query_and_visualization</link>
         </links>
       </event>
-      <event id="1269" guid="eb38492af6c27a43e14bfbed50abf298">
+      <event id="1270" guid="eb38492af6c27a43e14bfbed50abf298">
         <logo/>
         <date>2016-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -1999,7 +2023,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2016/wiki/Session:Tor</link>
         </links>
       </event>
-      <event id="1260" guid="bbb81a0158a76477271da3f3095201e4">
+      <event id="1261" guid="bbb81a0158a76477271da3f3095201e4">
         <logo/>
         <date>2016-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2022,7 +2046,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net</link>
         </links>
       </event>
-      <event id="1261" guid="929ba2a8a173dad4fb8ab1125b31a656">
+      <event id="1262" guid="929ba2a8a173dad4fb8ab1125b31a656">
         <logo/>
         <date>2016-12-28T18:45:00+01:00</date>
         <start>18:45</start>
@@ -2045,7 +2069,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net</link>
         </links>
       </event>
-      <event id="1262" guid="71ee3f1c08d4d04914c27cac159a56da">
+      <event id="1263" guid="71ee3f1c08d4d04914c27cac159a56da">
         <logo/>
         <date>2016-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -2323,7 +2347,7 @@ Self-empowerment never was so easy!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings</link>
         </links>
       </event>
-      <event id="1265" guid="73db3246145a85eb6d6d6835c00e578e">
+      <event id="1266" guid="73db3246145a85eb6d6d6835c00e578e">
         <logo/>
         <date>2016-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -3088,7 +3112,7 @@ Note: This workshop is of course open to men and women. It is however not an int
           <link>https://events.ccc.de/congress/2016/wiki/Session:Open_Science_Workshop</link>
         </links>
       </event>
-      <event id="1271" guid="e32112845c816d8bd5135c4b748134b3">
+      <event id="1272" guid="e32112845c816d8bd5135c4b748134b3">
         <logo/>
         <date>2016-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -4054,7 +4078,7 @@ We're happy to advise visitors interested in setting up GNU Taler exchanges as w
           <link>https://events.ccc.de/congress/2016/wiki/Session:Taler_workshop</link>
         </links>
       </event>
-      <event id="1266" guid="331c340e99b3f4677e2ca0fd5fd25c60">
+      <event id="1267" guid="331c340e99b3f4677e2ca0fd5fd25c60">
         <logo/>
         <date>2016-12-29T22:00:00+01:00</date>
         <start>22:00</start>

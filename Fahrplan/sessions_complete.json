@@ -1879,6 +1879,57 @@
             "1482954300"
         ]
     }, 
+    "Session:ValueShuffle: Mixing Confidential Transactions for Full Privacy in Bitcoin# 9080c37802e878d02ea0b480c4719e31": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482944400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://people.mmci.uni-saarland.de/~truffing/papers/valueshuffle.pdf", 
+            "https://crypsys.mmci.uni-saarland.de/projects/FastDC/paper.pdf"
+        ], 
+        "Has description": [
+            "I'll talk about one of our research projects to improve anonymity in Bitcoin by peer-to-peer coin mixing.\nIn particular, I'll present ValueShuffle, the first coin mixing protocol that is compatible with Confidential Transactions, a proposal to hide monetary values in Bitcoin transactions. Combined together, ValueShuffle and Confidential Transaction provide strong privacy on the blockchain. I'll also explain CoinShuffle++, a very efficient peer-to-peer coin mixing protocol which forms the basis for ValueShuffle."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Real-or-random", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Real-or-random", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "ValueShuffle"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:ValueShuffle:_Mixing_Confidential_Transactions_for_Full_Privacy_in_Bitcoin", 
+        "Has end time": [
+            "1482948000"
+        ]
+    }, 
     "Session:Train the CryptoParty Trainer# 15d77550626146b226d51911f3ea7155": {
         "Held in language": [
             "en - English"
