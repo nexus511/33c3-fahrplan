@@ -816,60 +816,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:%22My%22_software,_like_%22my%22_hand_or_like_%22my_car%22%3F", 
         "Has end time": []
     }, 
-    "Session:Hackerjeopardy - A New Approach# 451aa48d7756b2ddf9738f6379f946b8": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1482870600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Inspiriert vom gewachsenen Konzept von Sec und Ray haben wir unsere eigene Hard- und Software gebaut. Wir k\u00f6nnen zwar keine teuren Preise bereitstellen, haben uns aber einige neue Kategorien \u00fcberlegt, damit euch nicht langweilig wird."
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Hertle", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Hertle", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Mate", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mate", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Hackerjeopardy - A New Approach"
-        ], 
-        "Has duration": [
-            135
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackerjeopardy_-_A_New_Approach", 
-        "Has end time": [
-            "1482878700"
-        ]
-    }, 
     "Session:Browsing JS on Embedded# 468fd369ff728118f9a0584e0d3e691d": {
         "Held in language": [
             "de - German"
@@ -1224,6 +1170,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
             "1482853500"
+        ]
+    }, 
+    "Session:An Introduction to Intel Software Guard Extensions (SGX)# deb1a11af4dd0e3a88e338f9432bf1c5": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482942600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Intel Software Guard Extensions (Intel SGX) are a new extension of the x86 instruction set allowing the creation of so-called enclaves. Enclaves are isolated, secure parts of normal applications \nThis talk gives an overview about SGX, how it can be used to secure existing applications, what are its limitations and pitfalls and technical details about its implementation."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Envy", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Envy", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "An Introduction to Intel Software Guard Extensions (SGX)"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_Introduction_to_Intel_Software_Guard_Extensions_(SGX)", 
+        "Has end time": [
+            "1482946200"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
@@ -3629,53 +3623,49 @@
             "1482787800"
         ]
     }, 
-    "Session:An Introduction to Intel Software Guard Extensions (SGX)# deb1a11af4dd0e3a88e338f9432bf1c5": {
+    "Session:CooTourHat bei Jugend hackt# 96a20c9f083a64347b14ce8f1029bb92": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
-        "Has start time": [
-            "1482942600"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Intel Software Guard Extensions (Intel SGX) are a new extension of the x86 instruction set allowing the creation of so-called enclaves. Enclaves are isolated, secure parts of normal applications \nThis talk gives an overview about SGX, how it can be used to secure existing applications, what are its limitations and pitfalls and technical details about its implementation."
+            "In der Assembly von Jugend hackt werden wir \u201eCoolTourHats\u201c bauen. Die Idee entstand bei Jugend hackt S\u00fcdkorea: um Menschen aus anderen Kulturen in der eigenen Stadt kennenzulernen hilft mit ein Hut mit Arduino drin. Befinden sich interessante Menschen in der direkten Umgebung, leuchten ihre H\u00fcte bunt (oder tun andere Dinge). So erkennen sie sich gegenseitig und haben die Chance sich kennenzulernen."
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Jugend hackt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Jugend_hackt", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Envy", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Envy", 
+                "fulltext": "User:Juka", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Juka", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "An Introduction to Intel Software Guard Extensions (SGX)"
+            "CooTourHat bei Jugend hackt"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_Introduction_to_Intel_Software_Guard_Extensions_(SGX)", 
-        "Has end time": [
-            "1482946200"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:CooTourHat_bei_Jugend_hackt", 
+        "Has end time": []
     }, 
     "Session:BBS Enthusiasts# 0dd02b249944c72be6a09badd1f94454": {
         "Held in language": [
@@ -4833,49 +4823,59 @@
             "1483054200"
         ]
     }, 
-    "Session:CooTourHat bei Jugend hackt# 96a20c9f083a64347b14ce8f1029bb92": {
+    "Session:Hackerjeopardy - A New Approach# 451aa48d7756b2ddf9738f6379f946b8": {
         "Held in language": [
             "de - German"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482870600"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "In der Assembly von Jugend hackt werden wir \u201eCoolTourHats\u201c bauen. Die Idee entstand bei Jugend hackt S\u00fcdkorea: um Menschen aus anderen Kulturen in der eigenen Stadt kennenzulernen hilft mit ein Hut mit Arduino drin. Befinden sich interessante Menschen in der direkten Umgebung, leuchten ihre H\u00fcte bunt (oder tun andere Dinge). So erkennen sie sich gegenseitig und haben die Chance sich kennenzulernen."
+            "Inspiriert vom gewachsenen Konzept von Sec und Ray haben wir unsere eigene Hard- und Software gebaut. Wir k\u00f6nnen zwar keine teuren Preise bereitstellen, haben uns aber einige neue Kategorien \u00fcberlegt, damit euch nicht langweilig wird."
         ], 
         "Has session type": [
-            "Workshop"
+            "Game"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Jugend hackt", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Jugend_hackt", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Juka", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Juka", 
+                "fulltext": "User:Hertle", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Hertle", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Mate", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mate", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "CooTourHat bei Jugend hackt"
+            "Hackerjeopardy - A New Approach"
         ], 
         "Has duration": [
-            90
+            135
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:CooTourHat_bei_Jugend_hackt", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackerjeopardy_-_A_New_Approach", 
+        "Has end time": [
+            "1482878700"
+        ]
     }, 
     "Session:Prototype Fund - 1.2 Million Euros for Free Software Projects# e4648cc036bc044ba52e220226e31772": {
         "Held in language": [
@@ -7718,54 +7718,52 @@
             "1483063200"
         ]
     }, 
-    "Session:LearnToSolder# 1708e12825a580ad6d6e1505a4f06a8a": {
+    "Session:12V SolarPower & Sound# 4b3f5839ed1b234ff52a3dc742e8f263": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1483009200"
+            "1483110000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
+            "kleiner Einblick in die 12V Solar Strom Versorgung und MPPT-Laderegler gebastel"
         ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Day 3"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Maltman23", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Maltman23", 
+                "fulltext": "User:Strom-peter", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Strom-peter", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "LearnToSolder"
+            "12V SolarPower & Sound"
         ], 
         "Has duration": [
-            779
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LearnToSolder", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:12V_SolarPower_%26_Sound", 
         "Has end time": [
-            "1483055940"
+            "1483111800"
         ]
     }, 
     "Session:Gemeinn\u00fctzigkeit# 04b99605e09f26ae97c336883e31c840": {
@@ -12486,6 +12484,56 @@
             "1482858000"
         ]
     }, 
+    "Session:Neuropil# daa19eb9f450d649e67c6a5413c97265": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483108200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.neuropil.org"
+        ], 
+        "Has description": [
+            "making and breaking of neuropil :-)\nwe would like to set up an neuropil network together with the participants and try to identify vulnerabilities ..."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Stephan.schwichtenberg", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stephan.schwichtenberg", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Neuropil"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Neuropil", 
+        "Has end time": [
+            "1483119000"
+        ]
+    }, 
     "Session:Wikidata, the encyclopedia by bots, for bots# eb38492af6c27a43e14bfbed50abf298": {
         "Held in language": [
             "en - English"
@@ -13586,6 +13634,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a", 
         "Has end time": [
             "1482894000"
+        ]
+    }, 
+    "Session:LearnToSolder# 1708e12825a580ad6d6e1505a4f06a8a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483009200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 3"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Maltman23", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "LearnToSolder"
+        ], 
+        "Has duration": [
+            779
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LearnToSolder", 
+        "Has end time": [
+            "1483055940"
         ]
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# 423151d2bd90d5fe5bc5e9ffd2d9e687": {
@@ -14967,54 +15065,52 @@
             "1482940800"
         ]
     }, 
-    "Session:Neuropil# daa19eb9f450d649e67c6a5413c97265": {
+    "Session:12V SolarPower & Sound# 2c77fd96698a5987b24b960a589b731e": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1483108200"
+            "1482933600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://www.neuropil.org"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "making and breaking of neuropil :-)\nwe would like to set up an neuropil network together with the participants and try to identify vulnerabilities ..."
+            "kleiner Einblick in die 12V Solar Strom Versorgung und MPPT-Laderegler gebastel"
         ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Stephan.schwichtenberg", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stephan.schwichtenberg", 
+                "fulltext": "User:Strom-peter", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Strom-peter", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Neuropil"
+            "12V SolarPower & Sound"
         ], 
         "Has duration": [
-            180
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Neuropil", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:12V_SolarPower_%26_Sound", 
         "Has end time": [
-            "1483119000"
+            "1482935400"
         ]
     }, 
     "Session:Hebocon Registration and testfights# c96f8241b40551474bf5e709887c4192": {
