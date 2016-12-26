@@ -4762,49 +4762,6 @@
             "1483040400"
         ]
     }, 
-    "Session:Geheimkamera Workshop# 390526c13fb45df2b77db561395e28d4": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://nadjabuttendorf.com/geheimkamera/"
-        ], 
-        "Has description": [
-            "In the Geheimkamera Workshop we rebuild the secret spy cam \"C.P. Stirn's Photographische Geheimkamera\" from 1890 out of cardboard with our smartphones, because High Tech from the next to last century is still up to date and looks pretty cool!"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Nadjalien", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nadjalien", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Aramba", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Aramba", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Geheimkamera Workshop"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Geheimkamera_Workshop", 
-        "Has end time": []
-    }, 
     "Session:Engelmeeting# b667c273cc0ea6bfc41077c37c7daca4": {
         "Held in language": [
             "en - English"
@@ -6791,6 +6748,43 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Type_1_Diabetes_Hacking", 
         "Has end time": [
             "1483021800"
+        ]
+    }, 
+    "Session:There is no network# 81fa4c3d32e398ec75dbc2e1cf069d6b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482957000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "There is no network"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:There_is_no_network", 
+        "Has end time": [
+            "1482964200"
         ]
     }, 
     "Session:IoT by beginners for beginners: Getting started with NodeMCU# 5fc8056ed8ebfff4669f211c66e5e25a": {
@@ -9549,47 +9543,6 @@
             "1483048800"
         ]
     }, 
-    "Session:Meier 3# c494a35ec988936702ac0a1e1fbb5160": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1483034400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Ich glaube an konflikt sonst glaube ich an nichts."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Meier 3"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Meier_3", 
-        "Has end time": [
-            "1483039800"
-        ]
-    }, 
     "Session:Shitty Robot - Workshop# 5a610ab63c3729347e2a39460a4295c3": {
         "Held in language": [
             "de - German"
@@ -10277,41 +10230,53 @@
             "1482870600"
         ]
     }, 
-    "Session:There is no network# 81fa4c3d32e398ec75dbc2e1cf069d6b": {
+    "Session:Geheimkamera Workshop# 1097a62dd154a80177c58a9b46a6849b": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482957000"
+            "1482926400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
-        "Has session location": [
+        "Has website": [
+            "http://nadjabuttendorf.com/geheimkamera/"
+        ], 
+        "Has description": [
+            "In the Geheimkamera Workshop we rebuild the secret spy cam \"C.P. Stirn's Photographische Geheimkamera\" from 1890 out of cardboard with our smartphones, because High Tech from the next to last century is still up to date and looks pretty cool!"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
             {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
+                "fulltext": "User:Nadjalien", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nadjalien", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Aramba", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Aramba", 
+                "namespace": 2, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
         "Has title": [
-            "There is no network"
+            "Geheimkamera Workshop"
         ], 
         "Has duration": [
-            120
+            360
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:There_is_no_network", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Geheimkamera_Workshop", 
         "Has end time": [
-            "1482964200"
+            "1482948000"
         ]
     }, 
     "Session:VOC Engelmeeting# 6312ac8705d66d48286a983da9f23d29": {
@@ -14408,6 +14373,49 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Introduction_Into_Anarchism", 
         "Has end time": [
             "1483018200"
+        ]
+    }, 
+    "Session:Meier 3# f11e4bc50934599a8b20b27e400347ec": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483034400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Ich glaube an konflikt sonst glaube ich an nichts."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Ich glaube an konflikt sonst glaube ich an nichts."
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Meier 3"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Meier_3", 
+        "Has end time": [
+            "1483039800"
         ]
     }, 
     "Session:Herbal brewing# f1dd07730e64793509b3ab181b9c525d": {
