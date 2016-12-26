@@ -5201,7 +5201,7 @@
                                 "type": "hands-on", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "Come and fetch the first PoPCoin at 33c3!", 
+                                "description": "Come and fetch the first PoPCoin at 33c3!\n\nOften on the internet there is a trade-off between anonymity and accountability. For privacy and security reasons, a lot of users want to stay anonymous. But this contradicts services like Wikipedia who want to make sure that their content is of high quality and so need a certain kind of accountability of the users.", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -5210,7 +5210,7 @@
                                     }
                                 ], 
                                 "links": [
-                                    "https://dedis.ch", 
+                                    "https://%20pop.dedis.ch", 
                                     "https://events.ccc.de/congress/2016/wiki/Session:PoParty"
                                 ]
                             }, 

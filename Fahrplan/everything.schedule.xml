@@ -4934,6 +4934,8 @@ Im Anschluss gibt es die M&#246;glichkeit, am Podcast-Tisch das Podcasten gleich
           <person id="67">tinowa</person>
           <person id="140">Nele</person>
           <person id="216">Toby Baier</person>
+          <person id="77">RikschaAndi</person>
+          <person id="272">Lukas Rinke</person>
         </persons>
         <links>
           <link href="http://das-sendezentrum.de/projekt/podcastpat_innen/">Infos zu den Podcastpat_innen</link>
@@ -9564,12 +9566,14 @@ Mit dabei: Bitboxer, Essy, Nerdbabe, Lucas, Bascht und Dirk.</abstract>
         <type>hands-on</type>
         <language>en</language>
         <abstract/>
-        <description>Come and fetch the first PoPCoin at 33c3!</description>
+        <description>Come and fetch the first PoPCoin at 33c3!
+
+Often on the internet there is a trade-off between anonymity and accountability. For privacy and security reasons, a lot of users want to stay anonymous. But this contradicts services like Wikipedia who want to make sure that their content is of high quality and so need a certain kind of accountability of the users.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Ineiti">Ineiti</person>
         </persons>
         <links>
-          <link>https://dedis.ch</link>
+          <link>https://%20pop.dedis.ch</link>
           <link>https://events.ccc.de/congress/2016/wiki/Session:PoParty</link>
         </links>
       </event>
