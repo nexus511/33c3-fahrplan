@@ -1123,6 +1123,56 @@
             "1483115400"
         ]
     }, 
+    "Session:Subtitles-Angelmeetings# 10fee5225d917f2650ea518ea0e2f909": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482832800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3subtitles.de/"
+        ], 
+        "Has description": [
+            "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Subtitles-Angelmeetings"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
+        "Has end time": [
+            "1482834600"
+        ]
+    }, 
     "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
@@ -1171,54 +1221,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
             "1482853500"
-        ]
-    }, 
-    "Session:An Introduction to Intel Software Guard Extensions (SGX)# deb1a11af4dd0e3a88e338f9432bf1c5": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482942600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Intel Software Guard Extensions (Intel SGX) are a new extension of the x86 instruction set allowing the creation of so-called enclaves. Enclaves are isolated, secure parts of normal applications \nThis talk gives an overview about SGX, how it can be used to secure existing applications, what are its limitations and pitfalls and technical details about its implementation."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Envy", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Envy", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "An Introduction to Intel Software Guard Extensions (SGX)"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_Introduction_to_Intel_Software_Guard_Extensions_(SGX)", 
-        "Has end time": [
-            "1482946200"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
@@ -9924,44 +9926,46 @@
             "1483041600"
         ]
     }, 
-    "Session:Skillconvention c# 15f21480446aabdd28aa3fe571253266": {
+    "Session:Calliope Workshop# 06e9f1ecc9873a0d05d26b30645f74ba": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1483057800"
+            "1482926400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://thereisnogame.de"
+            "http://calliope.cc/"
         ], 
         "Has description": [
-            "all travelers of a certain skill will be invited to join their respective convention"
+            "Wir werden bis zum 20 Kindern das Experimentieren mit dem Calliope Board zeigen. Mit dem Calliope Editor werden wir die ersten Schritte zum eigenen Programm machen."
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Calliope Workshop 01"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Reisende", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                "fulltext": "User:DerMicha", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:DerMicha", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Skillconvention c"
+            "Calliope Workshop"
         ], 
         "Has duration": [
             60
@@ -9969,9 +9973,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Calliope_Workshop", 
         "Has end time": [
-            "1483061400"
+            "1482930000"
         ]
     }, 
     "Session:There is no birthday party# 172955a48fe885c1b849ffea7ee016aa": {
@@ -12913,46 +12917,42 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Eris_Rising", 
         "Has end time": []
     }, 
-    "Session:Calliope Workshop# 8a9a2f122143574d716e59f79af5ea9a": {
+    "Session:An Introduction to Intel Software Guard Extensions (SGX)# deb1a11af4dd0e3a88e338f9432bf1c5": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482926400"
+            "1482942600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://calliope.cc/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Wir werden bis zum 20 Kindern das Experimentieren mit dem Calliope Board zeigen. Mit dem Calliope Editor werden wir die ersten Schritte zum eigenen Programm machen."
+            "Intel Software Guard Extensions (Intel SGX) are a new extension of the x86 instruction set allowing the creation of so-called enclaves. Enclaves are isolated, secure parts of normal applications \nThis talk gives an overview about SGX, how it can be used to secure existing applications, what are its limitations and pitfalls and technical details about its implementation."
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Jugend hackt", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Jugend_hackt", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Calliope Workshop 01"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:DerMicha", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:DerMicha", 
+                "fulltext": "User:Envy", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Envy", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Calliope Workshop"
+            "An Introduction to Intel Software Guard Extensions (SGX)"
         ], 
         "Has duration": [
             60
@@ -12960,9 +12960,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Calliope_Workshop", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_Introduction_to_Intel_Software_Guard_Extensions_(SGX)", 
         "Has end time": [
-            "1482930000"
+            "1482946200"
         ]
     }, 
     "Session:Translation meetings# 36252d5cc335293f00e927b0b6eba7fb": {
@@ -14156,6 +14156,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Mate", 
         "Has end time": [
             "1482953400"
+        ]
+    }, 
+    "Session:Skillconvention c# 15f21480446aabdd28aa3fe571253266": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483057800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://thereisnogame.de"
+        ], 
+        "Has description": [
+            "all travelers of a certain skill will be invited to join their respective convention"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Reisende", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Skillconvention c"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c", 
+        "Has end time": [
+            "1483061400"
         ]
     }, 
     "Session:Fun with infinitely large numbers (Wondrous Mathematics)# 9b3eeec30b0f110b656b2e9a13e5e443": {
