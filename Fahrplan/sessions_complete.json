@@ -4029,6 +4029,60 @@
             "1482863400"
         ]
     }, 
+    "Session:OffeneFahrplanDaten# 5734467062a13b3719a509ea9c15153f": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483016400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://tobeannounced"
+        ], 
+        "Has description": [
+            "Wie bekommen wir mehr Fahrplandaten von Verkehrsb\u00fcnden, ..."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Stk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stk", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Vavoida", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Vavoida", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "OffeneFahrplanDaten"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:OffeneFahrplanDaten", 
+        "Has end time": [
+            "1483020000"
+        ]
+    }, 
     "Session:\u00a743# cbac18b64156cced64322ca0c4e60e99": {
         "Held in language": [
             "de - German"
@@ -7450,56 +7504,6 @@
         "Has end time": [
             "1482978600"
         ]
-    }, 
-    "Session:OffeneFahrplanDaten# eebdcdeac78b735c25fc1e8c501d431a": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://tobeannounced"
-        ], 
-        "Has description": [
-            "Wie bekommen wir mehr Fahrplandaten von Verkehrsb\u00fcnden, ..."
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Stk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stk", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Vavoida", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Vavoida", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "OffeneFahrplanDaten"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:OffeneFahrplanDaten", 
-        "Has end time": []
     }, 
     "Session:KiCad PCB Design for Eagle-Users# 832f7e6eba661f2bc245213ccf903f0c": {
         "Held in language": [
