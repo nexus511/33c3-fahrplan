@@ -3443,6 +3443,34 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2016/wiki/Session:Welcome_%26_Icebreaker"
                                 ]
+                            }, 
+                            {
+                                "id": 1281, 
+                                "guid": "dc446c5081ff836278e303b02efa42e0", 
+                                "logo": null, 
+                                "date": "2016-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "0:45", 
+                                "room": "Assembly:Freifunk", 
+                                "slug": "", 
+                                "title": "\u00d6ffentliche F\u00f6rderung f\u00fcr Freifunk", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Wie sieht die F\u00f6rderung von Freifunk in den einzelnen Bundesl\u00e4ndern aus? Ein Erfahrungsaustausch. u.A. \u00fcber Berlin, NDS, Sachsen-Anhalt, NRW, Th\u00fcringen", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Eriu", 
+                                        "public_name": "Eriu"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://freifunk.net", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:%C3%96ffentliche_F%C3%B6rderung_f%C3%BCr_Freifunk"
+                                ]
                             }
                         ], 
                         "Assembly:Freiwurst": [
