@@ -4207,67 +4207,41 @@
             "1482894000"
         ]
     }, 
-    "Session:VOC Engelmeeting# 6c7712cd8c07af6fc45588ac8e3f3c56": {
+    "Session:Lehrerstammtisch# 38453dbcdfaa28f3c258593200e04d66": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
-        "Has start time": [
-            "1483023600"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://c3voc.de/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Daily meeting for all VOC Angels."
+            "Lehrerstammtisch!\nTeacher's meeting!\n\nAuf der Suche nach Kollegen rufe ich hiermit den ersten CCC-Lehrerstammtisch aus! Wir treffen uns an Tag 3 um 16:00 Uhr am MuCCC-Assebly. Je nachdem, wie viele kommen, suchen wir uns dann spontan einen besseren Ort.\n\nLooking for colleages, I hereby create the CCC Teacher's-meeting. We'll meet at day 3 at 4pm at the MuCCC-Assembly. Depending on the number of people we might then look for a better place."
         ], 
         "Has session type": [
-            "Discussion"
+            "Meeting"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Saal 6", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Saal_6", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
+        "Has session location": [], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Jwacalex", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:V0tti", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:V0tti", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Felixs", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Felixs", 
+                "fulltext": "User:Gigo", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Gigo", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "VOC Engelmeeting"
+            "Lehrerstammtisch"
         ], 
-        "Has duration": [
-            60
-        ], 
+        "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
-        "Has end time": [
-            "1483027200"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Lehrerstammtisch", 
+        "Has end time": []
     }, 
     "Session:Security Confessional: Why and How We Make Security Compromises# 08f98362d9fafec94e7017d8083f29c5": {
         "Held in language": [
@@ -4304,35 +4278,43 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Security_Confessional:_Why_and_How_We_Make_Security_Compromises", 
         "Has end time": []
     }, 
-    "Session:NerfgunBattle# 85435a592d38924922f9c488a75ad73d": {
+    "Session:Lehrerstammtisch# 36b73e0c765c125ae2f054eb86bf35d2": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1482883800"
+            "1483027200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Tired of egoshooters? Feeling the need for better graphics, realistic physics and surround sound? Join the big Nerf-Gun Battle at 33c3!\n\nCome around - bring your own device - get shot!"
+            "Lehrerstammtisch!\nTeacher's meeting!\n\nAuf der Suche nach Kollegen rufe ich hiermit den ersten CCC-Lehrerstammtisch aus! Wir treffen uns an Tag 3 um 16:00 Uhr am MuCCC-Assebly. Je nachdem, wie viele kommen, suchen wir uns dann spontan einen besseren Ort.\n\nLooking for colleages, I hereby create the CCC Teacher's-meeting. We'll meet at day 3 at 4pm at the MuCCC-Assembly. Depending on the number of people we might then look for a better place."
         ], 
         "Has session type": [
-            "Game"
+            "Meeting"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:MuCCC", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:MuCCC", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Troll", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Troll", 
+                "fulltext": "User:Gigo", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Gigo", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "NerfgunBattle"
+            "Lehrerstammtisch"
         ], 
         "Has duration": [
             45
@@ -4340,9 +4322,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:NerfgunBattle", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Lehrerstammtisch", 
         "Has end time": [
-            "1482886500"
+            "1483029900"
         ]
     }, 
     "Session:Wikidata query and visualization# 690b20d9c78f916880b0127d7034bc09": {
@@ -12313,6 +12295,47 @@
             "1482966000"
         ]
     }, 
+    "Session:NerfgunBattle# 85435a592d38924922f9c488a75ad73d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482883800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Tired of egoshooters? Feeling the need for better graphics, realistic physics and surround sound? Join the big Nerf-Gun Battle at 33c3!\n\nCome around - bring your own device - get shot!"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Troll", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Troll", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "NerfgunBattle"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:NerfgunBattle", 
+        "Has end time": [
+            "1482886500"
+        ]
+    }, 
     "Session:Network concepts introduction & wireshark workshop# 495f918c6608a0336b180bb6cd1a548b": {
         "Held in language": [
             "en - English"
@@ -12559,6 +12582,68 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
             "1482796800"
+        ]
+    }, 
+    "Session:VOC Engelmeeting# 6c7712cd8c07af6fc45588ac8e3f3c56": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483023600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "Daily meeting for all VOC Angels."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Saal 6", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Saal_6", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:V0tti", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:V0tti", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Felixs", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Felixs", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "VOC Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
+        "Has end time": [
+            "1483027200"
         ]
     }, 
     "Session:Privacy by default with pretty Easy privacy (p\u2261p)# 59be5c85949ce87027b75f249e4d8589": {
