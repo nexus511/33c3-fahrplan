@@ -274,8 +274,7 @@
     }, 
     "Session:LoRaWAN\u2013Freifunk der Dinge# 83eb874920ae442371528c1d144c8266": {
         "Held in language": [
-            "de - German", 
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
             "1482949800"
@@ -9681,27 +9680,27 @@
             "1483030800"
         ]
     }, 
-    "Session:Veripeditus AR Game Framework# 0428c11c8ade33fd85d5ca946d66fc2d": {
+    "Session:A-NOC# 7fdd3b347b17ec9e84e4e367d31c9b6e": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482937200"
+            "1483113600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Veripeditus is the first free and open source framework that enables everyone to develop augmented reality mobile games like Ingress or Pok\u00e9mon Go. It brings the creative side of such games to everyone, including, but not limited to, class rooms, along with a great new way of learning programming skills with Python.\n\nPresented by Nik, a 26 year-old software developer and network admin from Bonn, but better known as head of Teckids e.V., a youth organisation establishing a FOSS community among children."
+            "NOC for activist camps."
         ], 
         "Has session type": [
-            "Talk"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -9709,14 +9708,14 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "fulltext": "User:Txt.file", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Txt.file", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Veripeditus AR Game Framework"
+            "A-NOC"
         ], 
         "Has duration": [
             60
@@ -9724,9 +9723,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Veripeditus_AR_Game_Framework", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:A-NOC", 
         "Has end time": [
-            "1482940800"
+            "1483117200"
         ]
     }, 
     "Session:Tales from the Trenches# 53d1ada5066255b80cb0ec357f51756b": {
@@ -10015,6 +10014,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:42birds:_Creative_Coding_with_Processing", 
         "Has end time": [
             "1482921720"
+        ]
+    }, 
+    "Session:Veripeditus AR Game Framework# 0428c11c8ade33fd85d5ca946d66fc2d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482937200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Veripeditus is the first free and open source framework that enables everyone to develop augmented reality mobile games like Ingress or Pok\u00e9mon Go. It brings the creative side of such games to everyone, including, but not limited to, class rooms, along with a great new way of learning programming skills with Python.\n\nPresented by Nik, a 26 year-old software developer and network admin from Bonn, but better known as head of Teckids e.V., a youth organisation establishing a FOSS community among children."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Veripeditus AR Game Framework"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Veripeditus_AR_Game_Framework", 
+        "Has end time": [
+            "1482940800"
         ]
     }, 
     "Session:We Fix the Net# 71ee3f1c08d4d04914c27cac159a56da": {
