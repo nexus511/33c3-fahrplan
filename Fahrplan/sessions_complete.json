@@ -1223,54 +1223,6 @@
             "1482853500"
         ]
     }, 
-    "Session:An Introduction to Intel Software Guard Extensions (SGX)# deb1a11af4dd0e3a88e338f9432bf1c5": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482942600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Intel Software Guard Extensions (Intel SGX) are a new extension of the x86 instruction set allowing the creation of so-called enclaves. Enclaves are isolated, secure parts of normal applications \nThis talk gives an overview about SGX, how it can be used to secure existing applications, what are its limitations and pitfalls and technical details about its implementation."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Envy", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Envy", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "An Introduction to Intel Software Guard Extensions (SGX)"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_Introduction_to_Intel_Software_Guard_Extensions_(SGX)", 
-        "Has end time": [
-            "1482946200"
-        ]
-    }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
         "Held in language": [
             "en - English"
@@ -2273,53 +2225,65 @@
             "1483113600"
         ]
     }, 
-    "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482757200"
-        ], 
+    "Session:Emacs rehab center (vim workshop)# 3a87c7b6d527de196e1cfc9c6281cc95": {
+        "Held in language": [], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Emacs rehab center (vim workshop)"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
+        "Has end time": []
+    }, 
+    "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://p0stap0calyptic.wordpress.com/"
+        ], 
+        "Has description": [
+            "we make jewellery from found objects from the congress, leftovers of other workshops or provided stuff as electronic scrap. \n\nwir stellen schmuck aus \u00fcberresten der zivilisation her, aus fundst\u00fccken von kongress selbst, aus resten anderer workshops oder mitgebrachtem (elektro-)schrott."
+        ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Buildup- and welcome meeting"
-        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "fulltext": "User:Paulaner", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paulaner", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Engelmeeting"
+            "Postapocalyptic jewellery"
         ], 
-        "Has duration": [
-            60
-        ], 
+        "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482760800"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
+        "Has end time": []
     }, 
     "Session:Cyberthingy# 9a2fa42323647e5d4218ad0a23599c58": {
         "Held in language": [
@@ -3069,43 +3033,53 @@
             "1482957000"
         ]
     }, 
-    "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
+    "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482757200"
+        ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://p0stap0calyptic.wordpress.com/"
-        ], 
-        "Has description": [
-            "we make jewellery from found objects from the congress, leftovers of other workshops or provided stuff as electronic scrap. \n\nwir stellen schmuck aus \u00fcberresten der zivilisation her, aus fundst\u00fccken von kongress selbst, aus resten anderer workshops oder mitgebrachtem (elektro-)schrott."
-        ], 
+        "Has website": [], 
+        "Has description": [], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Buildup- and welcome meeting"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Paulaner", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paulaner", 
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Postapocalyptic jewellery"
+            "Engelmeeting"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            60
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1482760800"
+        ]
     }, 
     "Session:Coffee Break# 66aec1439006361abdf3fcf23947cd4f": {
         "Held in language": [
@@ -5485,12 +5459,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -5509,7 +5483,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -5530,7 +5504,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -8054,12 +8028,62 @@
             "1482940800"
         ]
     }, 
-    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
+    "Session:Whiskyleaks# 5c60b8f080fa565c157bf2f447c54bef": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482786000"
+            "1483045200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://milliways.info/pad/p/33c3-whiskyleaks"
+        ], 
+        "Has description": [
+            "As always milliways is doing its nice whiskyleaks again."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Milliways", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mc.fly", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mc.fly", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Whiskyleaks"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Whiskyleaks", 
+        "Has end time": [
+            "1483056000"
+        ]
+    }, 
+    "Session:Klangteppich# a33e122a93f95fe8add42f678dc1b55c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482879600"
         ], 
         "Has event track": [
             "Session"
@@ -8082,7 +8106,7 @@
             }
         ], 
         "Has subtitle": [
-            "Couchsofa opening DJ set on day 0"
+            "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop"
         ], 
         "Is organized by": [
             {
@@ -8102,14 +8126,14 @@
             "Klangteppich"
         ], 
         "Has duration": [
-            180
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
-            "1482796800"
+            "1482886800"
         ]
     }, 
     "Session:Film-Blocker# e8e7292727500d0072186d9f2d0d0add": {
@@ -12686,54 +12710,62 @@
             "1482937200"
         ]
     }, 
-    "Session:Privacy by default with pretty Easy privacy (p\u2261p)# 59be5c85949ce87027b75f249e4d8589": {
+    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482861600"
+            "1482786000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://pep.foundation/"
+            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
         ], 
         "Has description": [
-            "The pretty Easy privacy project (p\u2261p) is a project to turn the cyberpunk movement's dream into reality that everyone should be able to protect his/her privacy using technical tools. Overall p\u2261p is about changing today's default of digital written communications from unencrypted, unanonymized and unverified to encrypted, anonymized and verified. p\u2261p's vision is to offer an automatic and easy to use solution to make all end-to-end written digital communications over the Internet \u2018Private and Secure by Default and Design\u2018. With that 'unencrypted' e-mails become the exception not the norm. The p\u2261p project aims at encrypting existing written digital communications and does not force users to switch to platform-centric or other crypto solutions, in which users are likely to be locked."
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
         ], 
         "Has session type": [
-            "Talk"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Couchsofa opening DJ set on day 0"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Privacy by default with pretty Easy privacy (p\u2261p)"
+            "Klangteppich"
         ], 
         "Has duration": [
-            60
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Privacy_by_default_with_pretty_Easy_privacy_(p%E2%89%A1p)", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
-            "1482865200"
+            "1482796800"
         ]
     }, 
     "Session:VOC Engelmeeting# 6c7712cd8c07af6fc45588ac8e3f3c56": {
@@ -12798,54 +12830,54 @@
             "1483027200"
         ]
     }, 
-    "Session:Whiskyleaks# 5c60b8f080fa565c157bf2f447c54bef": {
+    "Session:Privacy by default with pretty Easy privacy (p\u2261p)# 59be5c85949ce87027b75f249e4d8589": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483045200"
+            "1482861600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://milliways.info/pad/p/33c3-whiskyleaks"
+            "https://pep.foundation/"
         ], 
         "Has description": [
-            "As always milliways is doing its nice whiskyleaks again."
+            "The pretty Easy privacy project (p\u2261p) is a project to turn the cyberpunk movement's dream into reality that everyone should be able to protect his/her privacy using technical tools. Overall p\u2261p is about changing today's default of digital written communications from unencrypted, unanonymized and unverified to encrypted, anonymized and verified. p\u2261p's vision is to offer an automatic and easy to use solution to make all end-to-end written digital communications over the Internet \u2018Private and Secure by Default and Design\u2018. With that 'unencrypted' e-mails become the exception not the norm. The p\u2261p project aims at encrypting existing written digital communications and does not force users to switch to platform-centric or other crypto solutions, in which users are likely to be locked."
         ], 
         "Has session type": [
-            "Meeting"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Milliways", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Mc.fly", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mc.fly", 
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Whiskyleaks"
+            "Privacy by default with pretty Easy privacy (p\u2261p)"
         ], 
         "Has duration": [
-            180
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Whiskyleaks", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Privacy_by_default_with_pretty_Easy_privacy_(p%E2%89%A1p)", 
         "Has end time": [
-            "1483056000"
+            "1482865200"
         ]
     }, 
     "Session:Eris Rising# 041120007c5283bda6bce6a6905ff6d5": {
@@ -12885,27 +12917,53 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Eris_Rising", 
         "Has end time": []
     }, 
-    "Session:Emacs rehab center (vim workshop)# 3a87c7b6d527de196e1cfc9c6281cc95": {
-        "Held in language": [], 
-        "Has start time": [], 
+    "Session:An Introduction to Intel Software Guard Extensions (SGX)# deb1a11af4dd0e3a88e338f9432bf1c5": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482942600"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Emacs rehab center (vim workshop)"
+        "Has description": [
+            "Intel Software Guard Extensions (Intel SGX) are a new extension of the x86 instruction set allowing the creation of so-called enclaves. Enclaves are isolated, secure parts of normal applications \nThis talk gives an overview about SGX, how it can be used to secure existing applications, what are its limitations and pitfalls and technical details about its implementation."
         ], 
-        "Has duration": [], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Envy", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Envy", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "An Introduction to Intel Software Guard Extensions (SGX)"
+        ], 
+        "Has duration": [
+            60
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_Introduction_to_Intel_Software_Guard_Extensions_(SGX)", 
+        "Has end time": [
+            "1482946200"
+        ]
     }, 
     "Session:Translation meetings# 36252d5cc335293f00e927b0b6eba7fb": {
         "Held in language": [
@@ -14442,64 +14500,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Cider_Flows", 
         "Has end time": []
     }, 
-    "Session:Klangteppich# a33e122a93f95fe8add42f678dc1b55c": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482879600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
-        ], 
-        "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:JayDee2202", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Klangteppich"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
-        "Has end time": [
-            "1482886800"
-        ]
-    }, 
     "Session:Mechanical Keyboard Meetup & Tryout# 19923dc134d556b4c46402b92f3a0beb": {
         "Held in language": [
             "en - English"
@@ -15682,12 +15682,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -15706,7 +15706,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -15727,7 +15727,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:42birds: Missing RSS Feed? Create Your Own!# b86c3c8fc3a77d7f1486ceeaf014d506": {
