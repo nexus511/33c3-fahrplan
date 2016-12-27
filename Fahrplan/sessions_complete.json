@@ -663,56 +663,6 @@
             "1483020000"
         ]
     }, 
-    "Session:Instant Matrix Games# 19edd636222e0cd0c80c7fd060e4e78c": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483012800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Instant Matrix Games is a framework for the rapid development of an educational or analytical environment."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Anarchist Village", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Anarchist_Village", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "PAST"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Klemens", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Instant Matrix Games"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Instant_Matrix_Games", 
-        "Has end time": [
-            "1483020000"
-        ]
-    }, 
     "Session:UMUM# f8e579f83b5d861b4995f59d9dde973b": {
         "Held in language": [
             "en - English"
@@ -959,56 +909,6 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:%22My%22_software,_like_%22my%22_hand_or_like_%22my_car%22%3F", 
         "Has end time": []
-    }, 
-    "Session:Instant Matrix Games# 870ebe8da21e2ac9f36815632a518a22": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483021800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Instant Matrix Games is a framework for the rapid development of an educational or analytical environment."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Anarchist Village", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Anarchist_Village", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "PRESENT"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Klemens", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Instant Matrix Games"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Instant_Matrix_Games", 
-        "Has end time": [
-            "1483029000"
-        ]
     }, 
     "Session:Browsing JS on Embedded# 468fd369ff728118f9a0584e0d3e691d": {
         "Held in language": [
@@ -2266,40 +2166,44 @@
             "1482948000"
         ]
     }, 
-    "Session:Kreatives beschimpfen# 797d848adf0d312b34d637b95c553997": {
+    "Session:Train the CryptoParty Trainer# 15d77550626146b226d51911f3ea7155": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482867000"
+            "1482946200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "Angewandte malediktion"
+        "Has website": [
+            "https://www.cryptoparty.in/33c3"
         ], 
-        "Has session type": [], 
+        "Has description": [
+            "Training our own trainers we can help grow the CryptoParty. In this session we'd like to share concepts and ideas on what works."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Mensch meier and friends", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Mensch_meier_and_friends", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Noja", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Noja", 
+                "fulltext": "User:Dawning-sun", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dawning-sun", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Kreatives beschimpfen"
+            "Train the CryptoParty Trainer"
         ], 
         "Has duration": [
             90
@@ -2307,9 +2211,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Kreatives_beschimpfen", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Train_the_CryptoParty_Trainer", 
         "Has end time": [
-            "1482872400"
+            "1482951600"
         ]
     }, 
     "Session:DIY Duct-Tape Wallets# 9abeec38dfb772ad0f95b77ce9a7817f": {
@@ -11322,56 +11226,6 @@
             "1482978600"
         ]
     }, 
-    "Session:\u00d6ffentliche F\u00f6rderung f\u00fcr Freifunk# 1d46c2f14d0a1c78c711cbe94aa1fc7b": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1482933600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://freifunk.net"
-        ], 
-        "Has description": [
-            "Wie sieht die F\u00f6rderung von Freifunk in den einzelnen Bundesl\u00e4ndern aus? Ein Erfahrungsaustausch. u.A. \u00fcber Berlin, NDS, Sachsen-Anhalt, NRW, Th\u00fcringen"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eriu", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eriu", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "\u00d6ffentliche F\u00f6rderung f\u00fcr Freifunk"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:%C3%96ffentliche_F%C3%B6rderung_f%C3%BCr_Freifunk", 
-        "Has end time": [
-            "1482936300"
-        ]
-    }, 
     "Session:Beweise ohne Worte (Wondrous Mathematics)# 8fd7b99a730266e74d42286bb08f8d70": {
         "Held in language": [
             "de - German"
@@ -14435,56 +14289,6 @@
             "1482886500"
         ]
     }, 
-    "Session:Train the CryptoParty Trainer# 15d77550626146b226d51911f3ea7155": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482946200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.cryptoparty.in/33c3"
-        ], 
-        "Has description": [
-            "Training our own trainers we can help grow the CryptoParty. In this session we'd like to share concepts and ideas on what works."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Dawning-sun", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dawning-sun", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Train the CryptoParty Trainer"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Train_the_CryptoParty_Trainer", 
-        "Has end time": [
-            "1482951600"
-        ]
-    }, 
     "Session:News vom F\u00f6rderverein freie Netzwerke e.V.# a40e5348ebd90b6b392c6ff5d0df23f1": {
         "Held in language": [
             "de - German"
@@ -15896,54 +15700,54 @@
             "1482935400"
         ]
     }, 
-    "Session:Instant Matrix Games# 7716b3b475bdcbee9ebfc30c761b5e41": {
+    "Session:\u00d6ffentliche F\u00f6rderung f\u00fcr Freifunk# 1d46c2f14d0a1c78c711cbe94aa1fc7b": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1483030800"
+            "1482933600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://freifunk.net"
+        ], 
         "Has description": [
-            "Instant Matrix Games is a framework for the rapid development of an educational or analytical environment."
+            "Wie sieht die F\u00f6rderung von Freifunk in den einzelnen Bundesl\u00e4ndern aus? Ein Erfahrungsaustausch. u.A. \u00fcber Berlin, NDS, Sachsen-Anhalt, NRW, Th\u00fcringen"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Anarchist Village", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Anarchist_Village", 
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "FUTURE"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Klemens", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
+                "fulltext": "User:Eriu", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eriu", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Instant Matrix Games"
+            "\u00d6ffentliche F\u00f6rderung f\u00fcr Freifunk"
         ], 
         "Has duration": [
-            120
+            45
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Instant_Matrix_Games", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:%C3%96ffentliche_F%C3%B6rderung_f%C3%BCr_Freifunk", 
         "Has end time": [
-            "1483038000"
+            "1482936300"
         ]
     }, 
     "Session:Hebocon Registration and testfights# c96f8241b40551474bf5e709887c4192": {
