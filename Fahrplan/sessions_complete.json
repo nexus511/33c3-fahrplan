@@ -206,70 +206,56 @@
             "1482969600"
         ]
     }, 
-    "Session:Coder Dojo# ca9c35c335c11d72074a1e9e6046cb6e": {
+    "Session:FHB Cheese Rendezvous 33c3# 22a6fa5aae7b3b0bd3db1f35945b183c": {
         "Held in language": [
-            "de - German", 
-            "en - English", 
-            "ru - Russian"
+            "en - English"
         ], 
         "Has start time": [
-            "1482919200"
+            "1483038000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://coderdojo.com"
+            "https://foodhackingbase.org/wiki/Cheese_rendezvous_33c3"
         ], 
         "Has description": [
-            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
+            "If you love cheese this event will make you very very happy!"
         ], 
         "Has session type": [
-            "Workshop"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Pls swap rooms w us if you have tables"
+            "Session I."
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Nana berlin", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Cyber-phil", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Niccokunzmann", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
+                "fulltext": "User:Algoldor", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Algoldor", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Coder Dojo"
+            "FHB Cheese Rendezvous 33c3"
         ], 
         "Has duration": [
-            240
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FHB_Cheese_Rendezvous_33c3", 
         "Has end time": [
-            "1482933600"
+            "1483043400"
         ]
     }, 
     "Session:LoRaWAN\u2013Freifunk der Dinge# 83eb874920ae442371528c1d144c8266": {
@@ -1368,12 +1354,12 @@
             "1482834600"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
@@ -1389,8 +1375,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -1415,7 +1401,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482853500"
+            "1483026300"
         ]
     }, 
     "Session:Schiko-Meeting# 977f9c1640dada93a94769a499595c3b": {
@@ -1719,56 +1705,50 @@
             "1482955200"
         ]
     }, 
-    "Session:FHB Cheese Rendezvous 33c3# 22a6fa5aae7b3b0bd3db1f35945b183c": {
+    "Session:Schiko-Meeting# 9f88eaeae6526edd6c5b4074bac528de": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1483038000"
+            "1483099200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://foodhackingbase.org/wiki/Cheese_rendezvous_33c3"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "If you love cheese this event will make you very very happy!"
+            "Internal Schiko-Meeting"
         ], 
-        "Has session type": [
-            "Other"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Session I."
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Algoldor", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Algoldor", 
+                "fulltext": "User:Melzai", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Melzai", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "FHB Cheese Rendezvous 33c3"
+            "Schiko-Meeting"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FHB_Cheese_Rendezvous_33c3", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Schiko-Meeting", 
         "Has end time": [
-            "1483043400"
+            "1483102800"
         ]
     }, 
     "Session:Kurzfilm-Screening: \"61-Tage\" Deutschland auf der Flucht# 9d38911f81e502bac62a018ea4e1a347": {
@@ -2114,52 +2094,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:3D_scan_yourself", 
         "Has end time": [
             "1483038000"
-        ]
-    }, 
-    "Session:Schiko-Meeting# 9f88eaeae6526edd6c5b4074bac528de": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1483099200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Internal Schiko-Meeting"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Melzai", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Melzai", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Schiko-Meeting"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Schiko-Meeting", 
-        "Has end time": [
-            "1483102800"
         ]
     }, 
     "Session:Your own Glowing Micropet!# e32112845c816d8bd5135c4b748134b3": {
@@ -3853,12 +3787,12 @@
             "1482960600"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -3874,8 +3808,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -3900,7 +3834,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:Haecksenraum# 84dbea847aa14b670fb6f45d765521f4": {
@@ -4592,56 +4526,70 @@
             "1482850800"
         ]
     }, 
-    "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# 55620133ab3c2944fdc7d1b7f8f239c0": {
+    "Session:Coder Dojo# 2eec4de4c299c0ae8bbbab85d73972cb": {
         "Held in language": [
-            "en - English"
+            "de - German", 
+            "en - English", 
+            "ru - Russian"
         ], 
         "Has start time": [
-            "1482865200"
+            "1482919200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://www.offgridthegame.com"
+            "http://coderdojo.com"
         ], 
         "Has description": [
-            "'Off Grid' is a videogame where you have to hack into networks and exfiltrate data by manipulating vulnerable IoT devices and socially engineering other characters. Come to Milliways and play an early build of the game!"
+            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
         ], 
         "Has session type": [
-            "Game"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Milliways", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall A.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.2", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Game demo"
+            "Pls swap rooms w us if you have tables"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:ATNMY", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:ATNMY", 
+                "fulltext": "User:Nana berlin", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Cyber-phil", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Niccokunzmann", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Off Grid: a videogame about hacking, data privacy, and surveillance"
+            "Coder Dojo"
         ], 
         "Has duration": [
-            120
+            240
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Off_Grid:_a_videogame_about_hacking,_data_privacy,_and_surveillance", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
         "Has end time": [
-            "1482872400"
+            "1482933600"
         ]
     }, 
     "Session:Skillconvention a# c34d388fc65ca7945372d2f3c603589c": {
@@ -4862,6 +4810,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Wikidata_query_and_visualization", 
         "Has end time": [
             "1482933600"
+        ]
+    }, 
+    "Session:Punished by the robot teacher? - Role of technology in education# 377f3e0163a5e74152532dd670773317": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483104600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "How will your children be educated? Come and learn more about global education policy on IT and contribute with your own vision.\nIn 2015 the global education market was estimated $4.9 (USD) trillion. Technology giants other private enterprises or philanthropists increasingly influence education policy in order to sell their products. I work for Education International, the global federation of education unions and do believe that it is essential to bring experts from IT and education together in order to promote a truly innovative use of technology in education - not driven by profit interests, but by a bigger vision of inclusive and just societies. \nIn this participatory workshop I will provide a brief introduction to what is happening in the global policy sphere to then discuss your ideas and critique. \nAdditionally, we are looking for concrete feedback from critical thinkers in the areas of privacy and copyrights. We are starting with a pilot phase to create a global not-for-profit online network that links already existing teacher networks on a global scale."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Nikola", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nikola", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Punished by the robot teacher? - Role of technology in education"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Punished_by_the_robot_teacher%3F_-_Role_of_technology_in_education", 
+        "Has end time": [
+            "1483108200"
         ]
     }, 
     "Session:More than you ever wanted to know about date/time handling# 58de1fae855f5c08843f9426aa9d2de0": {
@@ -5731,44 +5727,46 @@
             "1483034400"
         ]
     }, 
-    "Session:Obai Brause: caffeinated sherbet# 198adfadfbb3d9e4f8c1d7335750f7ae": {
+    "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# 55620133ab3c2944fdc7d1b7f8f239c0": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482867000"
+            "1482865200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://foodhackingbase.org/wiki/Caffeinated_Sherbet"
+            "http://www.offgridthegame.com"
         ], 
         "Has description": [
-            "During this workshop you have the ability to mix your own caffeinated sherbet powder. Just come over during the workshop time, mixing usually takes only 20-30min."
+            "'Off Grid' is a videogame where you have to hack into networks and exfiltrate data by manipulating vulnerable IoT devices and socially engineering other characters. Come to Milliways and play an early build of the game!"
         ], 
         "Has session type": [
-            "Workshop"
+            "Game"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "fulltext": "Assembly:Milliways", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Game demo"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Schmittlauch", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Schmittlauch", 
+                "fulltext": "User:ATNMY", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:ATNMY", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Obai Brause: caffeinated sherbet"
+            "Off Grid: a videogame about hacking, data privacy, and surveillance"
         ], 
         "Has duration": [
             120
@@ -5776,9 +5774,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Obai_Brause:_caffeinated_sherbet", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Off_Grid:_a_videogame_about_hacking,_data_privacy,_and_surveillance", 
         "Has end time": [
-            "1482874200"
+            "1482872400"
         ]
     }, 
     "Session:How to Survive 33C3 CryptoParty# d98726a333e13e17bc39011beaa3f6dc": {
@@ -8520,62 +8518,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Whiskyleaks# 5c60b8f080fa565c157bf2f447c54bef": {
+    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483045200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://milliways.info/pad/p/33c3-whiskyleaks"
-        ], 
-        "Has description": [
-            "As always milliways is doing its nice whiskyleaks again."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Milliways", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Mc.fly", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mc.fly", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Whiskyleaks"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Whiskyleaks", 
-        "Has end time": [
-            "1483056000"
-        ]
-    }, 
-    "Session:Klangteppich# a33e122a93f95fe8add42f678dc1b55c": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482879600"
+            "1482786000"
         ], 
         "Has event track": [
             "Session"
@@ -8598,7 +8546,7 @@
             }
         ], 
         "Has subtitle": [
-            "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop"
+            "Couchsofa opening DJ set on day 0"
         ], 
         "Is organized by": [
             {
@@ -8618,14 +8566,14 @@
             "Klangteppich"
         ], 
         "Has duration": [
-            120
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
-            "1482886800"
+            "1482796800"
         ]
     }, 
     "Session:Film-Blocker# e8e7292727500d0072186d9f2d0d0add": {
@@ -12738,50 +12686,6 @@
             "1483112700"
         ]
     }, 
-    "Session:Punished by the robot teacher? - Role of technology in education# 326d96dba14db3d76e357d0b4f0186d6": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "How will your children be educated? Come and learn more about global education policy on IT and contribute with your own vision.\nIn 2015 the global education market was estimated $4.9 (USD) trillion. Technology giants other private enterprises or philanthropists increasingly influence education policy in order to sell their products. I work for Education International, the global federation of education unions and do believe that it is essential to bring experts from IT and education together in order to promote a truly innovative use of technology in education - not driven by profit interests, but by a bigger vision of inclusive and just societies. \nIn this participatory workshop I will provide a brief introduction to what is happening in the global policy sphere to then discuss your ideas and critique. \nAdditionally, we are looking for concrete feedback from critical thinkers in the areas of privacy and copyrights. We are starting with a pilot phase to create a global not-for-profit online network that links already existing teacher networks on a global scale."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Nikola", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nikola", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Punished by the robot teacher? - Role of technology in education"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Punished_by_the_robot_teacher%3F_-_Role_of_technology_in_education", 
-        "Has end time": []
-    }, 
     "Session:LightPainting (Kidspace)# 62b1dd8338daf5bd78c910ee8ccd1364": {
         "Held in language": [
             "de - German"
@@ -13463,62 +13367,54 @@
             "1482937200"
         ]
     }, 
-    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
+    "Session:Privacy by default with pretty Easy privacy (p\u2261p)# 59be5c85949ce87027b75f249e4d8589": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482786000"
+            "1482861600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
+            "https://pep.foundation/"
         ], 
         "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
+            "The pretty Easy privacy project (p\u2261p) is a project to turn the cyberpunk movement's dream into reality that everyone should be able to protect his/her privacy using technical tools. Overall p\u2261p is about changing today's default of digital written communications from unencrypted, unanonymized and unverified to encrypted, anonymized and verified. p\u2261p's vision is to offer an automatic and easy to use solution to make all end-to-end written digital communications over the Internet \u2018Private and Secure by Default and Design\u2018. With that 'unencrypted' e-mails become the exception not the norm. The p\u2261p project aims at encrypting existing written digital communications and does not force users to switch to platform-centric or other crypto solutions, in which users are likely to be locked."
         ], 
         "Has session type": [
-            "Other"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Couchsofa opening DJ set on day 0"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:JayDee2202", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Klangteppich"
+            "Privacy by default with pretty Easy privacy (p\u2261p)"
         ], 
         "Has duration": [
-            180
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Privacy_by_default_with_pretty_Easy_privacy_(p%E2%89%A1p)", 
         "Has end time": [
-            "1482796800"
+            "1482865200"
         ]
     }, 
     "Session:VOC Engelmeeting# 6c7712cd8c07af6fc45588ac8e3f3c56": {
@@ -13583,54 +13479,54 @@
             "1483027200"
         ]
     }, 
-    "Session:Privacy by default with pretty Easy privacy (p\u2261p)# 59be5c85949ce87027b75f249e4d8589": {
+    "Session:Whiskyleaks# 5c60b8f080fa565c157bf2f447c54bef": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482861600"
+            "1483045200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://pep.foundation/"
+            "https://milliways.info/pad/p/33c3-whiskyleaks"
         ], 
         "Has description": [
-            "The pretty Easy privacy project (p\u2261p) is a project to turn the cyberpunk movement's dream into reality that everyone should be able to protect his/her privacy using technical tools. Overall p\u2261p is about changing today's default of digital written communications from unencrypted, unanonymized and unverified to encrypted, anonymized and verified. p\u2261p's vision is to offer an automatic and easy to use solution to make all end-to-end written digital communications over the Internet \u2018Private and Secure by Default and Design\u2018. With that 'unencrypted' e-mails become the exception not the norm. The p\u2261p project aims at encrypting existing written digital communications and does not force users to switch to platform-centric or other crypto solutions, in which users are likely to be locked."
+            "As always milliways is doing its nice whiskyleaks again."
         ], 
         "Has session type": [
-            "Talk"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Milliways", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "fulltext": "User:Mc.fly", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mc.fly", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Privacy by default with pretty Easy privacy (p\u2261p)"
+            "Whiskyleaks"
         ], 
         "Has duration": [
-            60
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Privacy_by_default_with_pretty_Easy_privacy_(p%E2%89%A1p)", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Whiskyleaks", 
         "Has end time": [
-            "1482865200"
+            "1483056000"
         ]
     }, 
     "Session:Eris Rising# 041120007c5283bda6bce6a6905ff6d5": {
@@ -15293,6 +15189,64 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Cider_Flows", 
         "Has end time": []
+    }, 
+    "Session:Klangteppich# a33e122a93f95fe8add42f678dc1b55c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482879600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
+        ], 
+        "Has description": [
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Klangteppich"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
+        "Has end time": [
+            "1482886800"
+        ]
     }, 
     "Session:Entscheidungsfindung/Konsens# f101552c897eef3afa3eccf5d908a032": {
         "Held in language": [
