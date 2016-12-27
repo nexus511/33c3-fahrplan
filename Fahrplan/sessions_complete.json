@@ -1458,54 +1458,6 @@
             "1482853500"
         ]
     }, 
-    "Session:An Introduction to Intel Software Guard Extensions (SGX)# deb1a11af4dd0e3a88e338f9432bf1c5": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482942600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Intel Software Guard Extensions (Intel SGX) are a new extension of the x86 instruction set allowing the creation of so-called enclaves. Enclaves are isolated, secure parts of normal applications \nThis talk gives an overview about SGX, how it can be used to secure existing applications, what are its limitations and pitfalls and technical details about its implementation."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Envy", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Envy", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "An Introduction to Intel Software Guard Extensions (SGX)"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_Introduction_to_Intel_Software_Guard_Extensions_(SGX)", 
-        "Has end time": [
-            "1482946200"
-        ]
-    }, 
     "Session:Schiko-Meeting# 977f9c1640dada93a94769a499595c3b": {
         "Held in language": [
             "de - German"
@@ -1947,58 +1899,6 @@
             "1482975000"
         ]
     }, 
-    "Session:Stage Manager Angel Introduction# 8249220c059be1a4fd95a7ee3e357697": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482868800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
-        ], 
-        "Has description": [
-            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day1 Introduction Stagemanagers"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ijon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Stage Manager Angel Introduction"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
-        "Has end time": [
-            "1482872400"
-        ]
-    }, 
     "Session:Congress Everywhere Greet & Meet# dab9b0fa02061064724f04702afe682d": {
         "Held in language": [
             "de - German"
@@ -2188,6 +2088,70 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:3D_scan_yourself", 
         "Has end time": [
             "1483038000"
+        ]
+    }, 
+    "Session:Coder Dojo# 46a092251bb8885b51cac7b6f0fc2b6e": {
+        "Held in language": [
+            "de - German", 
+            "en - English", 
+            "ru - Russian"
+        ], 
+        "Has start time": [
+            "1482922800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://coderdojo.com"
+        ], 
+        "Has description": [
+            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Jugend hackt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Jugend_hackt", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Nana berlin", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Cyber-phil", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Niccokunzmann", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Coder Dojo"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
+        "Has end time": [
+            "1482926400"
         ]
     }, 
     "Session:Your own Glowing Micropet!# e32112845c816d8bd5135c4b748134b3": {
@@ -2689,53 +2653,65 @@
             "1483113600"
         ]
     }, 
-    "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482757200"
-        ], 
+    "Session:Emacs rehab center (vim workshop)# 3a87c7b6d527de196e1cfc9c6281cc95": {
+        "Held in language": [], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Emacs rehab center (vim workshop)"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
+        "Has end time": []
+    }, 
+    "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://p0stap0calyptic.wordpress.com/"
+        ], 
+        "Has description": [
+            "we make jewellery from found objects from the congress, leftovers of other workshops or provided stuff as electronic scrap. \n\nwir stellen schmuck aus \u00fcberresten der zivilisation her, aus fundst\u00fccken von kongress selbst, aus resten anderer workshops oder mitgebrachtem (elektro-)schrott."
+        ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Buildup- and welcome meeting"
-        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "fulltext": "User:Paulaner", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paulaner", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Engelmeeting"
+            "Postapocalyptic jewellery"
         ], 
-        "Has duration": [
-            60
-        ], 
+        "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482760800"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
+        "Has end time": []
     }, 
     "Session:Cyberthingy# 9a2fa42323647e5d4218ad0a23599c58": {
         "Held in language": [
@@ -3573,43 +3549,53 @@
             "1482957000"
         ]
     }, 
-    "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
+    "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482757200"
+        ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://p0stap0calyptic.wordpress.com/"
-        ], 
-        "Has description": [
-            "we make jewellery from found objects from the congress, leftovers of other workshops or provided stuff as electronic scrap. \n\nwir stellen schmuck aus \u00fcberresten der zivilisation her, aus fundst\u00fccken von kongress selbst, aus resten anderer workshops oder mitgebrachtem (elektro-)schrott."
-        ], 
+        "Has website": [], 
+        "Has description": [], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Buildup- and welcome meeting"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Paulaner", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paulaner", 
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Postapocalyptic jewellery"
+            "Engelmeeting"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            60
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1482760800"
+        ]
     }, 
     "Session:Coffee Break# 66aec1439006361abdf3fcf23947cd4f": {
         "Held in language": [
@@ -4014,72 +4000,6 @@
             "1483034400"
         ]
     }, 
-    "Session:Coder Dojo# ce369fbaa66a09e01586ffcab4b39c4a": {
-        "Held in language": [
-            "de - German", 
-            "en - English", 
-            "ru - Russian"
-        ], 
-        "Has start time": [
-            "1482919200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://coderdojo.com"
-        ], 
-        "Has description": [
-            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Slot 0 Room 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Nana berlin", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Cyber-phil", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Niccokunzmann", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Coder Dojo"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
-        "Has end time": [
-            "1482922800"
-        ]
-    }, 
     "Session:Translation meetings# b4642dca82f3b99a0285cda5da1d8655": {
         "Held in language": [
             "en - English"
@@ -4220,27 +4140,31 @@
             "1482948000"
         ]
     }, 
-    "Session:Open Source in Amateur Radio# 8de4dd2c0216fbe01dac3fc2ec6810aa": {
+    "Session:Coder Dojo# 3b6185153881b48a51e5a2ea906683a5": {
         "Held in language": [
-            "en - English"
+            "de - German", 
+            "en - English", 
+            "ru - Russian"
         ], 
         "Has start time": [
-            "1483023600"
+            "1482930000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://coderdojo.com"
+        ], 
         "Has description": [
-            "No one wants to turn out like Ham Radio Deluxe users - blacklisted from using their favourite software \n(https://www.reddit.com/r/amateurradio/comments/5jf4i2/ham_radio_deluxe_mega_thread/). \n\nLet's get together and talk about our favourite hobby and how to do it with real freedom!\n\nThe conversation will focus mostly on Debian's Hamradio Blend (https://www.debian.org/blends/hamradio/) and the software contained within as that's what the organiser is most familiar with, but I'm more than happy to talk about all things radio, not just the DFSG."
+            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
         ], 
         "Has session type": [
-            "Discussion"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Scottish Consulate", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Scottish_Consulate", 
+                "fulltext": "Assembly:Jugend hackt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Jugend_hackt", 
                 "namespace": 504, 
                 "exists": true
             }
@@ -4248,14 +4172,26 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Hibby", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Hibby", 
+                "fulltext": "User:Nana berlin", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Cyber-phil", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Niccokunzmann", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Open Source in Amateur Radio"
+            "Coder Dojo"
         ], 
         "Has duration": [
             60
@@ -4263,9 +4199,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Open_Source_in_Amateur_Radio", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
         "Has end time": [
-            "1483027200"
+            "1482933600"
         ]
     }, 
     "Session:Engelmeeting# 8e5b07a7ad7ea771c8b3f9d10ca70ad5": {
@@ -4355,50 +4291,52 @@
             "1483042500"
         ]
     }, 
-    "Session:Let's sing together the Free Software Song# 2e3e91c23a1e9b472b42cb23c76be0d9": {
+    "Session:Translation meetings# 7ced348984f17dd88a5c96ea1e3435ec": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482928200"
+            "1483024200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Join us now and sing together the Free Software song!\n\nEveryday at another time at the Assembly of the Free Software Foundation Europe.\n\nWe have the lyrics and conductor. Simply come and we form an ad-hoc choir and sing together the Free Software Song!\n\n\"You'll be Free hackers, Freeee!\""
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
         ], 
         "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Free Software Foundation Europe", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Free_Software_Foundation_Europe", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "day 3, afternoon meeting"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Let's sing together the Free Software Song"
+            "Translation meetings"
         ], 
         "Has duration": [
-            10
+            50
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Let%27s_sing_together_the_Free_Software_Song", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
         "Has end time": [
-            "1482928800"
+            "1483027200"
         ]
     }, 
     "Session:Gender diversity in the Free Software community# 222753fa4ab554d18d3b16a66070f707": {
@@ -4550,27 +4488,27 @@
             "1482690600"
         ]
     }, 
-    "Session:Hackademia Meetup# 3451bb0112cf590af9f83fe6b622c3ad": {
+    "Session:DDJ-Chaos-Meetup# 7892cc40218d2b160112d6829fd06254": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482847200"
+            "1483020000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "This is a gathering for academic researchers who are a part of Hackademia (the listserv, IRC channel, summer school, etc). We will gather together to share our work, exchange ideas about methods, challenges, and gaps, and discuss recent developments in research involving hacker communities. Though this is a meant to be a private session for people already involved in the group, please contact us beforehand if you\u2019d like to join!"
+            "Hackers, Designers, Journalists in Newsrooms unite! Present your latest work, discuss your plans for 2017 and connect!"
         ], 
         "Has session type": [
-            "Meeting"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -4578,14 +4516,14 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Swest", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Swest", 
+                "fulltext": "User:Stwe", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stwe", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Hackademia Meetup"
+            "DDJ-Chaos-Meetup"
         ], 
         "Has duration": [
             60
@@ -4593,56 +4531,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackademia_Meetup", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:DDJ-Chaos-Meetup", 
         "Has end time": [
-            "1482850800"
-        ]
-    }, 
-    "Session:Gettogether Radio Lockdown# b455c4c73e99d25ae391a2db7e8add22": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482946200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Let's talk about the radio lockdown directive which got law in Germany this year."
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:KaerF", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:KaerF", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Gettogether Radio Lockdown"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Gettogether_Radio_Lockdown", 
-        "Has end time": [
-            "1482948900"
+            "1483023600"
         ]
     }, 
     "Session:Skillconvention a# c34d388fc65ca7945372d2f3c603589c": {
@@ -5139,7 +5030,7 @@
             "https://syncrypt.space"
         ], 
         "Has description": [
-            "The Syncrypt development team is at 33c3. Come by and ask us anything related to Syncrypt or encryption. If you have ideas for possible integrations with syncrypt and other software, we're open to your suggestions and feedback. Just want to chat and have a beer with us? No problem, we got your covered!"
+            "The Syncrypt development team is at 33c3. Come by and ask us anything related to Syncrypt or encryption. If you have ideas for possible integrations with syncrypt and other software, we're open to your suggestions and feedback. Just want to chat and have a beer with us? No problem, we've got you covered!"
         ], 
         "Has session type": [
             "Hands-On"
@@ -5584,28 +5475,31 @@
             "1483121700"
         ]
     }, 
-    "Session:Coffee Break# 564529d15da47a81c4220a1ec5deca10": {
+    "Session:Coder Dojo# 4fd8c54c43cc07c6e57ee2a98d9b20eb": {
         "Held in language": [
             "de - German", 
-            "en - English"
+            "en - English", 
+            "ru - Russian"
         ], 
         "Has start time": [
-            "1482937200"
+            "1482926400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://coderdojo.com"
+        ], 
         "Has description": [
-            "Calm down and have a chat with us"
+            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
         ], 
         "Has session type": [
-            "Other"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "fulltext": "Assembly:Jugend hackt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Jugend_hackt", 
                 "namespace": 504, 
                 "exists": true
             }
@@ -5613,24 +5507,36 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Monic", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
+                "fulltext": "User:Nana berlin", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Cyber-phil", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Niccokunzmann", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Coffee Break"
+            "Coder Dojo"
         ], 
         "Has duration": [
-            30
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coffee_Break", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
         "Has end time": [
-            "1482939000"
+            "1482930000"
         ]
     }, 
     "Session:How To Run A Bitcoin Node# 604c461088a5dddfa6c031af4cd054e4": {
@@ -5889,44 +5795,42 @@
             "1482940800"
         ]
     }, 
-    "Session:Schleuder v3# 77a77189d72f5202261a19e08a76e79c": {
+    "Session:Open Source in Amateur Radio# 8de4dd2c0216fbe01dac3fc2ec6810aa": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483043400"
+            "1483023600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://schleuder.nadir.org/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Short workshop on the new version of Schleuder, the crypto mailinglist manager: what's new, what's different, how to set it up, etc.\n\nAlso a possibility to shoot questions at or get help from the developers."
+            "No one wants to turn out like Ham Radio Deluxe users - blacklisted from using their favourite software \n(https://www.reddit.com/r/amateurradio/comments/5jf4i2/ham_radio_deluxe_mega_thread/). \n\nLet's get together and talk about our favourite hobby and how to do it with real freedom!\n\nThe conversation will focus mostly on Debian's Hamradio Blend (https://www.debian.org/blends/hamradio/) and the software contained within as that's what the organiser is most familiar with, but I'm more than happy to talk about all things radio, not just the DFSG."
         ], 
         "Has session type": [
-            "Workshop"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Scottish Consulate", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Scottish_Consulate", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Paz", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paz", 
+                "fulltext": "User:Hibby", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Hibby", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Schleuder v3"
+            "Open Source in Amateur Radio"
         ], 
         "Has duration": [
             60
@@ -5934,17 +5838,17 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Schleuder_v3", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Open_Source_in_Amateur_Radio", 
         "Has end time": [
-            "1483047000"
+            "1483027200"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -5963,7 +5867,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -5984,7 +5888,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -6277,6 +6181,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Wizard_of_Berlin%27s_Freifunk_Firmware", 
         "Has end time": [
             "1482868800"
+        ]
+    }, 
+    "Session:Thermal pictures for kids# d98064b46013cfbcb0a54ee700e62257": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482922800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "They will be an infrared camera (detects heat). We can play around with warm and cold stuff and create nice pictures."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Obelix", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Thermal pictures for kids"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Thermal_pictures_for_kids", 
+        "Has end time": [
+            "1482924600"
         ]
     }, 
     "Session:42birds: Randomized Signature Block for Emails# f946632eebd4786b62ceee97367d23aa": {
@@ -6621,70 +6573,50 @@
             "1483110000"
         ]
     }, 
-    "Session:Coder Dojo# 749a8725051538239ab5ac1044bb58f9": {
+    "Session:Let's sing together the Free Software Song# 2e3e91c23a1e9b472b42cb23c76be0d9": {
         "Held in language": [
-            "de - German", 
-            "en - English", 
-            "ru - Russian"
+            "en - English"
         ], 
         "Has start time": [
-            "1482919200"
+            "1482928200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://coderdojo.com"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
+            "Join us now and sing together the Free Software song!\n\nEveryday at another time at the Assembly of the Free Software Foundation Europe.\n\nWe have the lyrics and conductor. Simply come and we form an ad-hoc choir and sing together the Free Software Song!\n\n\"You'll be Free hackers, Freeee!\""
         ], 
-        "Has session type": [
-            "Workshop"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.2", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Free Software Foundation Europe", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Free_Software_Foundation_Europe", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Junghackertag Workshops"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Nana berlin", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Cyber-phil", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Niccokunzmann", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Coder Dojo"
+            "Let's sing together the Free Software Song"
         ], 
         "Has duration": [
-            240
+            10
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Let%27s_sing_together_the_Free_Software_Song", 
         "Has end time": [
-            "1482933600"
+            "1482928800"
         ]
     }, 
     "Session:EGP Meetup: From Tree-Huggers to WiFi-Lovers# 26fc63cdaa04e62f7d49f6fff8015471": {
@@ -7043,6 +6975,56 @@
             "1482940800"
         ]
     }, 
+    "Session:Maritime Hackers# 68eb0464ed5df3a6c1d0db44924b90dd": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483030800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Come and present your idea/software/hardware/... or get inspired by other hackers' projects!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:C-base", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:C-base", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Meet & Greet"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Riot", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Riot", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Maritime Hackers"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Maritime_Hackers", 
+        "Has end time": [
+            "1483036200"
+        ]
+    }, 
     "Session:ComputerSaysNo# 13af61c600a6fcdf5d9106c6678d97fe": {
         "Held in language": [
             "en - English"
@@ -7091,60 +7073,46 @@
             "1482876000"
         ]
     }, 
-    "Session:Coder Dojo# 8ba93735bba7d3bfbd659432e4e1a209": {
+    "Session:Stage Manager Angel Introduction# 8249220c059be1a4fd95a7ee3e357697": {
         "Held in language": [
-            "de - German", 
-            "en - English", 
-            "ru - Russian"
+            "en - English"
         ], 
         "Has start time": [
-            "1482926400"
+            "1482868800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://coderdojo.com"
+            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
         ], 
         "Has description": [
-            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
+            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
         ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Slot 2 Room 1"
+            "Day1 Introduction Stagemanagers"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Nana berlin", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Cyber-phil", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Niccokunzmann", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Coder Dojo"
+            "Stage Manager Angel Introduction"
         ], 
         "Has duration": [
             60
@@ -7152,9 +7120,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
         "Has end time": [
-            "1482930000"
+            "1482872400"
         ]
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# 820ef8c10ff8c89f2562b4268804af07": {
@@ -7557,6 +7525,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Fun_with_infinitely_large_numbers_(Wondrous_Mathematics)", 
         "Has end time": [
             "1482853500"
+        ]
+    }, 
+    "Session:News vom F\u00f6rderverein freie Netzwerke e.V.# a40e5348ebd90b6b392c6ff5d0df23f1": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482926400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foerderverein.freie-netzwerke.de"
+        ], 
+        "Has description": [
+            "Was hat der F\u00f6rderverein in diesem Jahr getan, was haben wir erreicht, welche Neuigkeiten gibt es?"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Monic", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "News vom F\u00f6rderverein freie Netzwerke e.V."
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:News_vom_F%C3%B6rderverein_freie_Netzwerke_e.V.", 
+        "Has end time": [
+            "1482928200"
         ]
     }, 
     "Session:MAKE-IT: Interactive presentation of the EU research project about the Maker Movement# c46b6326e1bd62427baf22eeffef5893": {
@@ -8433,12 +8451,62 @@
             "1482858000"
         ]
     }, 
-    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
+    "Session:Whiskyleaks# 5c60b8f080fa565c157bf2f447c54bef": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482786000"
+            "1483045200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://milliways.info/pad/p/33c3-whiskyleaks"
+        ], 
+        "Has description": [
+            "As always milliways is doing its nice whiskyleaks again."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Milliways", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mc.fly", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mc.fly", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Whiskyleaks"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Whiskyleaks", 
+        "Has end time": [
+            "1483056000"
+        ]
+    }, 
+    "Session:Klangteppich# a33e122a93f95fe8add42f678dc1b55c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482879600"
         ], 
         "Has event track": [
             "Session"
@@ -8461,7 +8529,7 @@
             }
         ], 
         "Has subtitle": [
-            "Couchsofa opening DJ set on day 0"
+            "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop"
         ], 
         "Is organized by": [
             {
@@ -8481,14 +8549,14 @@
             "Klangteppich"
         ], 
         "Has duration": [
-            180
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
-            "1482796800"
+            "1482886800"
         ]
     }, 
     "Session:Film-Blocker# e8e7292727500d0072186d9f2d0d0add": {
@@ -9017,52 +9085,108 @@
             "1482955200"
         ]
     }, 
-    "Session:Translation meetings# 7ced348984f17dd88a5c96ea1e3435ec": {
+    "Session:You've hardened your OS- now harden your hacker community# 79a06dbfedb5cf587036255d578ee72a": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024200"
+            "1482957900"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+            "Hackers don't thoughtlessly trust the mechanics of their computer, apps, or in general the world around them........So why would we trust the mechanics of the governments' justice system? In this workshop we'll discuss alternatives using texts and exercises."
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "day 3, afternoon meeting"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "fulltext": "User:Ontological", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ontological", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Mdik", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mdik", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Translation meetings"
+            "You've hardened your OS- now harden your hacker community"
         ], 
         "Has duration": [
-            50
+            115
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:You%27ve_hardened_your_OS-_now_harden_your_hacker_community", 
         "Has end time": [
-            "1483027200"
+            "1482964800"
+        ]
+    }, 
+    "Session:Schleuder v3# 77a77189d72f5202261a19e08a76e79c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483043400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://schleuder.nadir.org/"
+        ], 
+        "Has description": [
+            "Short workshop on the new version of Schleuder, the crypto mailinglist manager: what's new, what's different, how to set it up, etc.\n\nAlso a possibility to shoot questions at or get help from the developers."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Paz", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paz", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Schleuder v3"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Schleuder_v3", 
+        "Has end time": [
+            "1483047000"
         ]
     }, 
     "Session:An UnCivilization Commune ReWilded Life Shared with Squirrels# d87ba7a616616f20f5c0ae80deb957d5": {
@@ -9297,72 +9421,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Infra-meetup", 
         "Has end time": [
             "1482850800"
-        ]
-    }, 
-    "Session:Coder Dojo# 82b6f15ab0e1d33b37e9817f997864d8": {
-        "Held in language": [
-            "de - German", 
-            "en - English", 
-            "ru - Russian"
-        ], 
-        "Has start time": [
-            "1482922800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://coderdojo.com"
-        ], 
-        "Has description": [
-            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Slot 1 Room 1"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Nana berlin", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Cyber-phil", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Niccokunzmann", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Coder Dojo"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
-        "Has end time": [
-            "1482926400"
         ]
     }, 
     "Session:Dn42: Decentralised Network 42# 4a80950934f4ea3dbd5f529e36a5c8ff": {
@@ -11184,6 +11242,56 @@
             "1482978600"
         ]
     }, 
+    "Session:Subtitles-Angelmeetings# 17595f694e88dd271208bb120d2ded5d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483110900"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3subtitles.de/"
+        ], 
+        "Has description": [
+            "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Subtitles-Angelmeetings"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
+        "Has end time": [
+            "1483112700"
+        ]
+    }, 
     "Session:\u00d6ffentliche F\u00f6rderung f\u00fcr Freifunk# 1d46c2f14d0a1c78c711cbe94aa1fc7b": {
         "Held in language": [
             "de - German"
@@ -11844,70 +11952,51 @@
             "1483056000"
         ]
     }, 
-    "Session:Coder Dojo# 63e139952a00c3892483056b952e5625": {
+    "Session:Gettogether Radio Lockdown# b455c4c73e99d25ae391a2db7e8add22": {
         "Held in language": [
             "de - German", 
-            "en - English", 
-            "ru - Russian"
+            "en - English"
         ], 
         "Has start time": [
-            "1482919200"
+            "1482946200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://coderdojo.com"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert)."
+            "Let's talk about the radio lockdown directive which got law in Germany this year."
         ], 
-        "Has session type": [
-            "Workshop"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Slot 0 (Aufbau)"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Nana berlin", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Cyber-phil", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Niccokunzmann", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
+                "fulltext": "User:KaerF", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:KaerF", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Coder Dojo"
+            "Gettogether Radio Lockdown"
         ], 
         "Has duration": [
-            60
+            45
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Gettogether_Radio_Lockdown", 
         "Has end time": [
-            "1482922800"
+            "1482948900"
         ]
     }, 
     "Session:Freifunk hilft# d9466ea251970f51adcce1b46c682a76": {
@@ -12020,52 +12109,6 @@
             "1482936600"
         ]
     }, 
-    "Session:Maritime Hackers# bd686dd13bef78ff8e9faf23a40b612d": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Come and present your idea/software/hardware/... or get inspired by other hackers' projects!"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:C-base", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:C-base", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Meet & Greet"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Riot", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Riot", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Maritime Hackers"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Maritime_Hackers", 
-        "Has end time": []
-    }, 
     "Session:Hacking democracy with MEP Marietje Schaake# 945f1586a6c6583e89e03bad18b89754": {
         "Held in language": [
             "en - English"
@@ -12166,52 +12209,54 @@
             "1483046100"
         ]
     }, 
-    "Session:Thermal pictures for kids# d98064b46013cfbcb0a54ee700e62257": {
+    "Session:Skillconvention c# e359d1f9d3b1ca042ad6170cb80f550f": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482922800"
+            "1483057800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://thereisnogame.de"
+        ], 
         "Has description": [
-            "They will be an infrared camera (detects heat). We can play around with warm and cold stuff and create nice pictures."
+            "all travelers of a certain skill will be invited to join their respective convention"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:3D Hackspace", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Obelix", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                "fulltext": "User:Reisende", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Thermal pictures for kids"
+            "Skillconvention c"
         ], 
         "Has duration": [
-            30
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Thermal_pictures_for_kids", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c", 
         "Has end time": [
-            "1482924600"
+            "1483061400"
         ]
     }, 
     "Session:Space Hacking# 82fc8f185c93ad0529656beecd829618": {
@@ -12537,29 +12582,25 @@
             "1482872400"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 17595f694e88dd271208bb120d2ded5d": {
+    "Session:Screening & discussion NB# 58445c43e74f4aa9a9ceec7baad757a3": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483110900"
+            "1482962400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://c3subtitles.de/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!"
+            "upcoming screening of NB, with director and presenters of 33c3 session"
         ], 
-        "Has session type": [
-            "Meeting"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -12567,24 +12608,24 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Cube", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
+                "fulltext": "User:Vavoida", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Vavoida", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Subtitles-Angelmeetings"
+            "Screening & discussion NB"
         ], 
         "Has duration": [
-            30
+            150
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Screening_%26_discussion_NB", 
         "Has end time": [
-            "1483112700"
+            "1482971400"
         ]
     }, 
     "Session:Dn42: Decentralised Network 42# 9b201eed6d36944aaacf547859e2262e": {
@@ -12838,54 +12879,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
             "1482956100"
-        ]
-    }, 
-    "Session:Open Data Gesetz Deutschland# 7cf58915fabc48294a0a779d65d19a49": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1482944400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "In dieser Session arbeiten wir die letzten Kommentare zum Open Data Gesetz Entwurf bis 30.12 ein. \nSiehe https://okfn.de/blog/2016/12/odgesetz/"
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Vavoida", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Vavoida", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Open Data Gesetz Deutschland"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Open_Data_Gesetz_Deutschland", 
-        "Has end time": [
-            "1482946200"
         ]
     }, 
     "Session:Stage Manager Angel Introduction# 000a0488f2404d1ea417ad9f2f124e43": {
@@ -13214,21 +13207,19 @@
             "1482890100"
         ]
     }, 
-    "Session:Skillconvention c# e359d1f9d3b1ca042ad6170cb80f550f": {
+    "Session:Hackademia Meetup# 3451bb0112cf590af9f83fe6b622c3ad": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483057800"
+            "1482847200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://thereisnogame.de"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "all travelers of a certain skill will be invited to join their respective convention"
+            "This is a gathering for academic researchers who are a part of Hackademia (the listserv, IRC channel, summer school, etc). We will gather together to share our work, exchange ideas about methods, challenges, and gaps, and discuss recent developments in research involving hacker communities. Though this is a meant to be a private session for people already involved in the group, please contact us beforehand if you\u2019d like to join!"
         ], 
         "Has session type": [
             "Meeting"
@@ -13244,14 +13235,14 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Reisende", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                "fulltext": "User:Swest", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Swest", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Skillconvention c"
+            "Hackademia Meetup"
         ], 
         "Has duration": [
             60
@@ -13259,9 +13250,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackademia_Meetup", 
         "Has end time": [
-            "1483061400"
+            "1482850800"
         ]
     }, 
     "Session:Engeleinf\u00fchrung Kasse# ee801a90e5daedb2c650cc246ed2108e": {
@@ -13406,54 +13397,62 @@
             "1482937200"
         ]
     }, 
-    "Session:Privacy by default with pretty Easy privacy (p\u2261p)# 59be5c85949ce87027b75f249e4d8589": {
+    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482861600"
+            "1482786000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://pep.foundation/"
+            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
         ], 
         "Has description": [
-            "The pretty Easy privacy project (p\u2261p) is a project to turn the cyberpunk movement's dream into reality that everyone should be able to protect his/her privacy using technical tools. Overall p\u2261p is about changing today's default of digital written communications from unencrypted, unanonymized and unverified to encrypted, anonymized and verified. p\u2261p's vision is to offer an automatic and easy to use solution to make all end-to-end written digital communications over the Internet \u2018Private and Secure by Default and Design\u2018. With that 'unencrypted' e-mails become the exception not the norm. The p\u2261p project aims at encrypting existing written digital communications and does not force users to switch to platform-centric or other crypto solutions, in which users are likely to be locked."
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
         ], 
         "Has session type": [
-            "Talk"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Couchsofa opening DJ set on day 0"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Privacy by default with pretty Easy privacy (p\u2261p)"
+            "Klangteppich"
         ], 
         "Has duration": [
-            60
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Privacy_by_default_with_pretty_Easy_privacy_(p%E2%89%A1p)", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
-            "1482865200"
+            "1482796800"
         ]
     }, 
     "Session:VOC Engelmeeting# 6c7712cd8c07af6fc45588ac8e3f3c56": {
@@ -13518,54 +13517,102 @@
             "1483027200"
         ]
     }, 
-    "Session:Whiskyleaks# 5c60b8f080fa565c157bf2f447c54bef": {
+    "Session:Open Data Gesetz Deutschland# 049b72d92dc51818ac97a0ec40e0c9de": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1483045200"
+            "1482940800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://milliways.info/pad/p/33c3-whiskyleaks"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "As always milliways is doing its nice whiskyleaks again."
+            "In dieser Session arbeiten wir die letzten Kommentare zum Open Data Gesetz Entwurf bis 30.12 ein. \nSiehe https://okfn.de/blog/2016/12/odgesetz/"
         ], 
         "Has session type": [
-            "Meeting"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Milliways", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Mc.fly", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mc.fly", 
+                "fulltext": "User:Vavoida", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Vavoida", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Whiskyleaks"
+            "Open Data Gesetz Deutschland"
         ], 
         "Has duration": [
-            180
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Whiskyleaks", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Open_Data_Gesetz_Deutschland", 
         "Has end time": [
-            "1483056000"
+            "1482942600"
+        ]
+    }, 
+    "Session:Privacy by default with pretty Easy privacy (p\u2261p)# 59be5c85949ce87027b75f249e4d8589": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482861600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pep.foundation/"
+        ], 
+        "Has description": [
+            "The pretty Easy privacy project (p\u2261p) is a project to turn the cyberpunk movement's dream into reality that everyone should be able to protect his/her privacy using technical tools. Overall p\u2261p is about changing today's default of digital written communications from unencrypted, unanonymized and unverified to encrypted, anonymized and verified. p\u2261p's vision is to offer an automatic and easy to use solution to make all end-to-end written digital communications over the Internet \u2018Private and Secure by Default and Design\u2018. With that 'unencrypted' e-mails become the exception not the norm. The p\u2261p project aims at encrypting existing written digital communications and does not force users to switch to platform-centric or other crypto solutions, in which users are likely to be locked."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Privacy by default with pretty Easy privacy (p\u2261p)"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Privacy_by_default_with_pretty_Easy_privacy_(p%E2%89%A1p)", 
+        "Has end time": [
+            "1482865200"
         ]
     }, 
     "Session:Eris Rising# 041120007c5283bda6bce6a6905ff6d5": {
@@ -13605,27 +13652,53 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Eris_Rising", 
         "Has end time": []
     }, 
-    "Session:Emacs rehab center (vim workshop)# 3a87c7b6d527de196e1cfc9c6281cc95": {
-        "Held in language": [], 
-        "Has start time": [], 
+    "Session:An Introduction to Intel Software Guard Extensions (SGX)# deb1a11af4dd0e3a88e338f9432bf1c5": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482942600"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Emacs rehab center (vim workshop)"
+        "Has description": [
+            "Intel Software Guard Extensions (Intel SGX) are a new extension of the x86 instruction set allowing the creation of so-called enclaves. Enclaves are isolated, secure parts of normal applications \nThis talk gives an overview about SGX, how it can be used to secure existing applications, what are its limitations and pitfalls and technical details about its implementation."
         ], 
-        "Has duration": [], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Envy", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Envy", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "An Introduction to Intel Software Guard Extensions (SGX)"
+        ], 
+        "Has duration": [
+            60
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_Introduction_to_Intel_Software_Guard_Extensions_(SGX)", 
+        "Has end time": [
+            "1482946200"
+        ]
     }, 
     "Session:Translation meetings# 36252d5cc335293f00e927b0b6eba7fb": {
         "Held in language": [
@@ -14418,24 +14491,23 @@
             "1483008120"
         ]
     }, 
-    "Session:News vom F\u00f6rderverein freie Netzwerke e.V.# a40e5348ebd90b6b392c6ff5d0df23f1": {
+    "Session:Coffee Break# 564529d15da47a81c4220a1ec5deca10": {
         "Held in language": [
-            "de - German"
+            "de - German", 
+            "en - English"
         ], 
         "Has start time": [
-            "1482926400"
+            "1482937200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://foerderverein.freie-netzwerke.de"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Was hat der F\u00f6rderverein in diesem Jahr getan, was haben wir erreicht, welche Neuigkeiten gibt es?"
+            "Calm down and have a chat with us"
         ], 
         "Has session type": [
-            "Discussion"
+            "Other"
         ], 
         "Has session location": [
             {
@@ -14455,7 +14527,7 @@
             }
         ], 
         "Has title": [
-            "News vom F\u00f6rderverein freie Netzwerke e.V."
+            "Coffee Break"
         ], 
         "Has duration": [
             30
@@ -14463,9 +14535,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:News_vom_F%C3%B6rderverein_freie_Netzwerke_e.V.", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coffee_Break", 
         "Has end time": [
-            "1482928200"
+            "1482939000"
         ]
     }, 
     "Session:Skillconvention a# 27b5025dd294b5fa15d8915eac1b6f73": {
@@ -15277,64 +15349,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Cider_Flows", 
         "Has end time": []
     }, 
-    "Session:Klangteppich# a33e122a93f95fe8add42f678dc1b55c": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482879600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
-        ], 
-        "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:JayDee2202", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Klangteppich"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
-        "Has end time": [
-            "1482886800"
-        ]
-    }, 
     "Session:Entscheidungsfindung/Konsens# f101552c897eef3afa3eccf5d908a032": {
         "Held in language": [
             "de - German"
@@ -15528,60 +15542,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
             "1483042500"
-        ]
-    }, 
-    "Session:You've hardened your OS- now harden your hacker community# 79a06dbfedb5cf587036255d578ee72a": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482957900"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Hackers don't thoughtlessly trust the mechanics of their computer, apps, or in general the world around them........So why would we trust the mechanics of the governments' justice system? In this workshop we'll discuss alternatives using texts and exercises."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ontological", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ontological", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Mdik", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mdik", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "You've hardened your OS- now harden your hacker community"
-        ], 
-        "Has duration": [
-            115
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:You%27ve_hardened_your_OS-_now_harden_your_hacker_community", 
-        "Has end time": [
-            "1482964800"
         ]
     }, 
     "Session:Owasp Bug Bounty# 186e762ec645a2d469aae8b1b8a1301e": {
@@ -15949,54 +15909,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Numerical_Weather_Prediction_Tutorial", 
         "Has end time": [
             "1483020000"
-        ]
-    }, 
-    "Session:DDJ-Chaos-Meetup# 8332875e71fc3d65fb94150406a0a36a": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483023600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Hackers, Designers, Journalists in Newsrooms unite! Present your latest work, discuss your plans for 2017 and connect!"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Stwe", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stwe", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "DDJ-Chaos-Meetup"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:DDJ-Chaos-Meetup", 
-        "Has end time": [
-            "1483027200"
         ]
     }, 
     "Session:VOC Engelmeeting# da904f0f6639dd430983667df8b38a91": {
@@ -16542,12 +16454,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -16566,7 +16478,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -16587,7 +16499,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }
 }
