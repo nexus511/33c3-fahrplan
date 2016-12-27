@@ -663,6 +663,56 @@
             "1483020000"
         ]
     }, 
+    "Session:Instant Matrix Games# 19edd636222e0cd0c80c7fd060e4e78c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483012800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Instant Matrix Games is a framework for the rapid development of an educational or analytical environment."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Anarchist Village", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Anarchist_Village", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "PAST"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Klemens", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Instant Matrix Games"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Instant_Matrix_Games", 
+        "Has end time": [
+            "1483020000"
+        ]
+    }, 
     "Session:UMUM# f8e579f83b5d861b4995f59d9dde973b": {
         "Held in language": [
             "en - English"
@@ -909,6 +959,56 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:%22My%22_software,_like_%22my%22_hand_or_like_%22my_car%22%3F", 
         "Has end time": []
+    }, 
+    "Session:Instant Matrix Games# 870ebe8da21e2ac9f36815632a518a22": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483021800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Instant Matrix Games is a framework for the rapid development of an educational or analytical environment."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Anarchist Village", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Anarchist_Village", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "PRESENT"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Klemens", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Instant Matrix Games"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Instant_Matrix_Games", 
+        "Has end time": [
+            "1483029000"
+        ]
     }, 
     "Session:Browsing JS on Embedded# 468fd369ff728118f9a0584e0d3e691d": {
         "Held in language": [
@@ -2166,44 +2266,40 @@
             "1482948000"
         ]
     }, 
-    "Session:Train the CryptoParty Trainer# 15d77550626146b226d51911f3ea7155": {
+    "Session:Kreatives beschimpfen# 797d848adf0d312b34d637b95c553997": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482946200"
+            "1482867000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://www.cryptoparty.in/33c3"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Training our own trainers we can help grow the CryptoParty. In this session we'd like to share concepts and ideas on what works."
+            "Angewandte malediktion"
         ], 
-        "Has session type": [
-            "Meeting"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Mensch meier and friends", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Mensch_meier_and_friends", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Dawning-sun", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dawning-sun", 
+                "fulltext": "User:Noja", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Noja", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Train the CryptoParty Trainer"
+            "Kreatives beschimpfen"
         ], 
         "Has duration": [
             90
@@ -2211,9 +2307,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Train_the_CryptoParty_Trainer", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Kreatives_beschimpfen", 
         "Has end time": [
-            "1482951600"
+            "1482872400"
         ]
     }, 
     "Session:DIY Duct-Tape Wallets# 9abeec38dfb772ad0f95b77ce9a7817f": {
@@ -5174,56 +5270,6 @@
             "1482878700"
         ]
     }, 
-    "Session:Schleuder v3# 6072e066ca214526491788d56d82ca24": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483054200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://schleuder.nadir.org/"
-        ], 
-        "Has description": [
-            "Short workshop on the new version of Schleuder, the crypto mailinglist manager: what's new, what's different, how to set it up, etc.\n\nAlso a possibility to shoot questions at or get help from the developers."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Paz", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paz", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Schleuder v3"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Schleuder_v3", 
-        "Has end time": [
-            "1483057800"
-        ]
-    }, 
     "Session:Prototype Fund - 1.2 Million Euros for Free Software Projects# e4648cc036bc044ba52e220226e31772": {
         "Held in language": [
             "en - English"
@@ -5781,12 +5827,62 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Schleuder v3# 77a77189d72f5202261a19e08a76e79c": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483043400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://schleuder.nadir.org/"
+        ], 
+        "Has description": [
+            "Short workshop on the new version of Schleuder, the crypto mailinglist manager: what's new, what's different, how to set it up, etc.\n\nAlso a possibility to shoot questions at or get help from the developers."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Paz", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paz", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Schleuder v3"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Schleuder_v3", 
+        "Has end time": [
+            "1483047000"
+        ]
+    }, 
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -5805,7 +5901,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -5826,7 +5922,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -8392,12 +8488,62 @@
             "1482940800"
         ]
     }, 
-    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
+    "Session:Whiskyleaks# 5c60b8f080fa565c157bf2f447c54bef": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482786000"
+            "1483045200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://milliways.info/pad/p/33c3-whiskyleaks"
+        ], 
+        "Has description": [
+            "As always milliways is doing its nice whiskyleaks again."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Milliways", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mc.fly", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mc.fly", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Whiskyleaks"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Whiskyleaks", 
+        "Has end time": [
+            "1483056000"
+        ]
+    }, 
+    "Session:Klangteppich# a33e122a93f95fe8add42f678dc1b55c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482879600"
         ], 
         "Has event track": [
             "Session"
@@ -8420,7 +8566,7 @@
             }
         ], 
         "Has subtitle": [
-            "Couchsofa opening DJ set on day 0"
+            "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop"
         ], 
         "Is organized by": [
             {
@@ -8440,14 +8586,14 @@
             "Klangteppich"
         ], 
         "Has duration": [
-            180
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
-            "1482796800"
+            "1482886800"
         ]
     }, 
     "Session:Film-Blocker# e8e7292727500d0072186d9f2d0d0add": {
@@ -11176,6 +11322,56 @@
             "1482978600"
         ]
     }, 
+    "Session:\u00d6ffentliche F\u00f6rderung f\u00fcr Freifunk# 1d46c2f14d0a1c78c711cbe94aa1fc7b": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482933600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://freifunk.net"
+        ], 
+        "Has description": [
+            "Wie sieht die F\u00f6rderung von Freifunk in den einzelnen Bundesl\u00e4ndern aus? Ein Erfahrungsaustausch. u.A. \u00fcber Berlin, NDS, Sachsen-Anhalt, NRW, Th\u00fcringen"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eriu", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eriu", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "\u00d6ffentliche F\u00f6rderung f\u00fcr Freifunk"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:%C3%96ffentliche_F%C3%B6rderung_f%C3%BCr_Freifunk", 
+        "Has end time": [
+            "1482936300"
+        ]
+    }, 
     "Session:Beweise ohne Worte (Wondrous Mathematics)# 8fd7b99a730266e74d42286bb08f8d70": {
         "Held in language": [
             "de - German"
@@ -13205,54 +13401,62 @@
             "1482937200"
         ]
     }, 
-    "Session:Privacy by default with pretty Easy privacy (p\u2261p)# 59be5c85949ce87027b75f249e4d8589": {
+    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482861600"
+            "1482786000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://pep.foundation/"
+            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
         ], 
         "Has description": [
-            "The pretty Easy privacy project (p\u2261p) is a project to turn the cyberpunk movement's dream into reality that everyone should be able to protect his/her privacy using technical tools. Overall p\u2261p is about changing today's default of digital written communications from unencrypted, unanonymized and unverified to encrypted, anonymized and verified. p\u2261p's vision is to offer an automatic and easy to use solution to make all end-to-end written digital communications over the Internet \u2018Private and Secure by Default and Design\u2018. With that 'unencrypted' e-mails become the exception not the norm. The p\u2261p project aims at encrypting existing written digital communications and does not force users to switch to platform-centric or other crypto solutions, in which users are likely to be locked."
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
         ], 
         "Has session type": [
-            "Talk"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Couchsofa opening DJ set on day 0"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Privacy by default with pretty Easy privacy (p\u2261p)"
+            "Klangteppich"
         ], 
         "Has duration": [
-            60
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Privacy_by_default_with_pretty_Easy_privacy_(p%E2%89%A1p)", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
-            "1482865200"
+            "1482796800"
         ]
     }, 
     "Session:VOC Engelmeeting# 6c7712cd8c07af6fc45588ac8e3f3c56": {
@@ -13317,54 +13521,54 @@
             "1483027200"
         ]
     }, 
-    "Session:Whiskyleaks# 5c60b8f080fa565c157bf2f447c54bef": {
+    "Session:Privacy by default with pretty Easy privacy (p\u2261p)# 59be5c85949ce87027b75f249e4d8589": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483045200"
+            "1482861600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://milliways.info/pad/p/33c3-whiskyleaks"
+            "https://pep.foundation/"
         ], 
         "Has description": [
-            "As always milliways is doing its nice whiskyleaks again."
+            "The pretty Easy privacy project (p\u2261p) is a project to turn the cyberpunk movement's dream into reality that everyone should be able to protect his/her privacy using technical tools. Overall p\u2261p is about changing today's default of digital written communications from unencrypted, unanonymized and unverified to encrypted, anonymized and verified. p\u2261p's vision is to offer an automatic and easy to use solution to make all end-to-end written digital communications over the Internet \u2018Private and Secure by Default and Design\u2018. With that 'unencrypted' e-mails become the exception not the norm. The p\u2261p project aims at encrypting existing written digital communications and does not force users to switch to platform-centric or other crypto solutions, in which users are likely to be locked."
         ], 
         "Has session type": [
-            "Meeting"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Milliways", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Mc.fly", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mc.fly", 
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Whiskyleaks"
+            "Privacy by default with pretty Easy privacy (p\u2261p)"
         ], 
         "Has duration": [
-            180
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Whiskyleaks", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Privacy_by_default_with_pretty_Easy_privacy_(p%E2%89%A1p)", 
         "Has end time": [
-            "1483056000"
+            "1482865200"
         ]
     }, 
     "Session:Eris Rising# 041120007c5283bda6bce6a6905ff6d5": {
@@ -14231,6 +14435,56 @@
             "1482886500"
         ]
     }, 
+    "Session:Train the CryptoParty Trainer# 15d77550626146b226d51911f3ea7155": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482946200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.cryptoparty.in/33c3"
+        ], 
+        "Has description": [
+            "Training our own trainers we can help grow the CryptoParty. In this session we'd like to share concepts and ideas on what works."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Dawning-sun", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dawning-sun", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Train the CryptoParty Trainer"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Train_the_CryptoParty_Trainer", 
+        "Has end time": [
+            "1482951600"
+        ]
+    }, 
     "Session:News vom F\u00f6rderverein freie Netzwerke e.V.# a40e5348ebd90b6b392c6ff5d0df23f1": {
         "Held in language": [
             "de - German"
@@ -14978,64 +15232,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Cider_Flows", 
         "Has end time": []
     }, 
-    "Session:Klangteppich# a33e122a93f95fe8add42f678dc1b55c": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482879600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
-        ], 
-        "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:JayDee2202", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Klangteppich"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
-        "Has end time": [
-            "1482886800"
-        ]
-    }, 
     "Session:Entscheidungsfindung/Konsens# f101552c897eef3afa3eccf5d908a032": {
         "Held in language": [
             "de - German"
@@ -15700,54 +15896,54 @@
             "1482935400"
         ]
     }, 
-    "Session:\u00d6ffentliche F\u00f6rderung f\u00fcr Freifunk# 1d46c2f14d0a1c78c711cbe94aa1fc7b": {
+    "Session:Instant Matrix Games# 7716b3b475bdcbee9ebfc30c761b5e41": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482933600"
+            "1483030800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://freifunk.net"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Wie sieht die F\u00f6rderung von Freifunk in den einzelnen Bundesl\u00e4ndern aus? Ein Erfahrungsaustausch. u.A. \u00fcber Berlin, NDS, Sachsen-Anhalt, NRW, Th\u00fcringen"
+            "Instant Matrix Games is a framework for the rapid development of an educational or analytical environment."
         ], 
         "Has session type": [
-            "Discussion"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "fulltext": "Assembly:Anarchist Village", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Anarchist_Village", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "FUTURE"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Eriu", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eriu", 
+                "fulltext": "User:Klemens", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "\u00d6ffentliche F\u00f6rderung f\u00fcr Freifunk"
+            "Instant Matrix Games"
         ], 
         "Has duration": [
-            45
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:%C3%96ffentliche_F%C3%B6rderung_f%C3%BCr_Freifunk", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Instant_Matrix_Games", 
         "Has end time": [
-            "1482936300"
+            "1483038000"
         ]
     }, 
     "Session:Hebocon Registration and testfights# c96f8241b40551474bf5e709887c4192": {
@@ -16133,12 +16329,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -16157,7 +16353,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -16178,7 +16374,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:42birds: Missing RSS Feed? Create Your Own!# b86c3c8fc3a77d7f1486ceeaf014d506": {
