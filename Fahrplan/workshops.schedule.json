@@ -43,7 +43,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1260, 
+                                "id": 1261, 
                                 "guid": "efb088d3ad2beedd6f23811add22a097", 
                                 "logo": null, 
                                 "date": "2016-12-26T21:00:00+01:00", 
@@ -432,15 +432,15 @@
                             }, 
                             {
                                 "id": 1248, 
-                                "guid": "14941c8507e11bfca519c6a8a9a360aa", 
+                                "guid": "82fc8f185c93ad0529656beecd829618", 
                                 "logo": null, 
-                                "date": "2016-12-27T17:30:00+01:00", 
-                                "start": "17:30", 
+                                "date": "2016-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:10", 
                                 "room": "Hall C.2", 
                                 "slug": "", 
                                 "title": "Space Hacking", 
-                                "subtitle": "KulturKunstPartyPolitik! - Teil2: Urban Intervention", 
+                                "subtitle": "KulturKunstPartyPolitik! - Teil1: Collective Space", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -463,15 +463,15 @@
                             }, 
                             {
                                 "id": 1249, 
-                                "guid": "82fc8f185c93ad0529656beecd829618", 
+                                "guid": "14941c8507e11bfca519c6a8a9a360aa", 
                                 "logo": null, 
-                                "date": "2016-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2016-12-27T17:30:00+01:00", 
+                                "start": "17:30", 
                                 "duration": "1:10", 
                                 "room": "Hall C.2", 
                                 "slug": "", 
                                 "title": "Space Hacking", 
-                                "subtitle": "KulturKunstPartyPolitik! - Teil1: Collective Space", 
+                                "subtitle": "KulturKunstPartyPolitik! - Teil2: Urban Intervention", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -1235,7 +1235,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1119, 
+                                "id": 1118, 
                                 "guid": "d0288fe6dd4e0bc74b5b7e0302906c53", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -1296,7 +1296,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1218, 
+                                "id": 1220, 
                                 "guid": "4383e4aa7ebb80d2f9a2b041a302bf80", 
                                 "logo": null, 
                                 "date": "2016-12-27T12:00:00+01:00", 
@@ -1408,10 +1408,10 @@
                             }, 
                             {
                                 "id": 1257, 
-                                "guid": "10fee5225d917f2650ea518ea0e2f909", 
+                                "guid": "33d15813452eabff67587b00e4525369", 
                                 "logo": null, 
-                                "date": "2016-12-27T10:00:00+01:00", 
-                                "start": "10:00", 
+                                "date": "2016-12-27T15:15:00+01:00", 
+                                "start": "15:15", 
                                 "duration": "0:30", 
                                 "room": "Hall A.1", 
                                 "slug": "", 
@@ -1435,11 +1435,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1261, 
-                                "guid": "33d15813452eabff67587b00e4525369", 
+                                "id": 1262, 
+                                "guid": "10fee5225d917f2650ea518ea0e2f909", 
                                 "logo": null, 
-                                "date": "2016-12-27T15:15:00+01:00", 
-                                "start": "15:15", 
+                                "date": "2016-12-27T10:00:00+01:00", 
+                                "start": "10:00", 
                                 "duration": "0:30", 
                                 "room": "Hall A.1", 
                                 "slug": "", 
@@ -1761,7 +1761,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1220, 
+                                "id": 1218, 
                                 "guid": "039324be71857d6183d494118ab69f47", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
@@ -2514,6 +2514,35 @@
                             }, 
                             {
                                 "id": 1303, 
+                                "guid": "71ee3f1c08d4d04914c27cac159a56da", 
+                                "logo": null, 
+                                "date": "2016-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "We Fix the Net", 
+                                "subtitle": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
+                                        "public_name": "Jeffburdges"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://gnunet.org", 
+                                    "http://pep.foundation/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net"
+                                ]
+                            }, 
+                            {
+                                "id": 1304, 
                                 "guid": "bbb81a0158a76477271da3f3095201e4", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -2542,7 +2571,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1304, 
+                                "id": 1305, 
                                 "guid": "929ba2a8a173dad4fb8ab1125b31a656", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:45:00+01:00", 
@@ -2552,35 +2581,6 @@
                                 "slug": "", 
                                 "title": "We Fix the Net", 
                                 "subtitle": "Opertunistic Email Encryption", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
-                                        "public_name": "Jeffburdges"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://gnunet.org", 
-                                    "http://pep.foundation/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net"
-                                ]
-                            }, 
-                            {
-                                "id": 1305, 
-                                "guid": "71ee3f1c08d4d04914c27cac159a56da", 
-                                "logo": null, 
-                                "date": "2016-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "We Fix the Net", 
-                                "subtitle": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "en", 
@@ -3173,7 +3173,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1118, 
+                                "id": 1120, 
                                 "guid": "2b55e4c20c327a0fbe6204663002bb03", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -4165,7 +4165,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1065, 
+                                "id": 1066, 
                                 "guid": "9b201eed6d36944aaacf547859e2262e", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -4457,7 +4457,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1219, 
+                                "id": 1221, 
                                 "guid": "977f9c1640dada93a94769a499595c3b", 
                                 "logo": null, 
                                 "date": "2016-12-29T12:00:00+01:00", 
@@ -4791,7 +4791,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1262, 
+                                "id": 1259, 
                                 "guid": "f48797b83b3006b88510ce3136aec9e2", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:15:00+01:00", 
@@ -5310,7 +5310,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1120, 
+                                "id": 1119, 
                                 "guid": "84dbea847aa14b670fb6f45d765521f4", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -5624,7 +5624,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1259, 
+                                "id": 1260, 
                                 "guid": "17595f694e88dd271208bb120d2ded5d", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:15:00+01:00", 
@@ -5824,7 +5824,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1221, 
+                                "id": 1219, 
                                 "guid": "9f88eaeae6526edd6c5b4074bac528de", 
                                 "logo": null, 
                                 "date": "2016-12-30T12:00:00+01:00", 
