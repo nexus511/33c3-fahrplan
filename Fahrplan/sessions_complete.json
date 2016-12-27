@@ -1283,54 +1283,6 @@
             "1482946200"
         ]
     }, 
-    "Session:An Introduction to Intel Software Guard Extensions (SGX)# deb1a11af4dd0e3a88e338f9432bf1c5": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482942600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Intel Software Guard Extensions (Intel SGX) are a new extension of the x86 instruction set allowing the creation of so-called enclaves. Enclaves are isolated, secure parts of normal applications \nThis talk gives an overview about SGX, how it can be used to secure existing applications, what are its limitations and pitfalls and technical details about its implementation."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Envy", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Envy", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "An Introduction to Intel Software Guard Extensions (SGX)"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_Introduction_to_Intel_Software_Guard_Extensions_(SGX)", 
-        "Has end time": [
-            "1482946200"
-        ]
-    }, 
     "Session:Schiko-Meeting# 977f9c1640dada93a94769a499595c3b": {
         "Held in language": [
             "de - German"
@@ -2379,53 +2331,65 @@
             "1483113600"
         ]
     }, 
-    "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482757200"
-        ], 
+    "Session:Emacs rehab center (vim workshop)# 3a87c7b6d527de196e1cfc9c6281cc95": {
+        "Held in language": [], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Emacs rehab center (vim workshop)"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
+        "Has end time": []
+    }, 
+    "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://p0stap0calyptic.wordpress.com/"
+        ], 
+        "Has description": [
+            "we make jewellery from found objects from the congress, leftovers of other workshops or provided stuff as electronic scrap. \n\nwir stellen schmuck aus \u00fcberresten der zivilisation her, aus fundst\u00fccken von kongress selbst, aus resten anderer workshops oder mitgebrachtem (elektro-)schrott."
+        ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Buildup- and welcome meeting"
-        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "fulltext": "User:Paulaner", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paulaner", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Engelmeeting"
+            "Postapocalyptic jewellery"
         ], 
-        "Has duration": [
-            60
-        ], 
+        "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482760800"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
+        "Has end time": []
     }, 
     "Session:Cyberthingy# 9a2fa42323647e5d4218ad0a23599c58": {
         "Held in language": [
@@ -3264,43 +3228,53 @@
             "1482957000"
         ]
     }, 
-    "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
+    "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482757200"
+        ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://p0stap0calyptic.wordpress.com/"
-        ], 
-        "Has description": [
-            "we make jewellery from found objects from the congress, leftovers of other workshops or provided stuff as electronic scrap. \n\nwir stellen schmuck aus \u00fcberresten der zivilisation her, aus fundst\u00fccken von kongress selbst, aus resten anderer workshops oder mitgebrachtem (elektro-)schrott."
-        ], 
+        "Has website": [], 
+        "Has description": [], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Buildup- and welcome meeting"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Paulaner", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paulaner", 
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Postapocalyptic jewellery"
+            "Engelmeeting"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            60
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1482760800"
+        ]
     }, 
     "Session:Coffee Break# 66aec1439006361abdf3fcf23947cd4f": {
         "Held in language": [
@@ -4813,72 +4787,60 @@
             "1482962400"
         ]
     }, 
-    "Session:State of the InterNAT - Freifunk Rheinland AS201701 Update# 42bf8c1eb323807f1a0155b261e1358b": {
+    "Session:Shitty Robot - Workshop# 12470f635ed45e2e1806399e15369cd1": {
         "Held in language": [
             "de - German"
         ], 
         "Has start time": [
-            "1483009200"
+            "1482926400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://ffrl.de"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Statusupdate from Freifunk Rheinland Backbone (AS201701). Was war, was ist, was wird."
+            "Workshop f\u00fcr die Shitty Robots/Vorbereitung auf Shitty Robot /Hebocon Battle.\n\nF\u00fcr das Sumo battle siehe: https://events.ccc.de/congress/2016/wiki/index.php?title=Session:Shitty_Robot_/Hebocon_Battle"
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Openlab Augsburg", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Openlab_Augsburg", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "shitty robots - workshop"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Barbarossa", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Barbarossa", 
+                "fulltext": "User:Fluktusdukt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Fluktusdukt", 
                 "namespace": 2, 
                 "exists": true
             }, 
             {
-                "fulltext": "User:Takt", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Takt", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Lars", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Lars", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:ThomasDOTwtf", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:ThomasDOTwtf", 
+                "fulltext": "User:Konfusius", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Konfusius", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "State of the InterNAT - Freifunk Rheinland AS201701 Update"
+            "Shitty Robot - Workshop"
         ], 
         "Has duration": [
-            60
+            360
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:State_of_the_InterNAT_-_Freifunk_Rheinland_AS201701_Update", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shitty_Robot_-_Workshop", 
         "Has end time": [
-            "1483012800"
+            "1482948000"
         ]
     }, 
     "Session:Let's sing together the Free Software Song# 6406d2f0fdc8227ae4da6eb1b5bd2d42": {
@@ -5787,12 +5749,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -5811,7 +5773,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -5832,7 +5794,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -9737,6 +9699,74 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Line-of-sight_visualizer", 
         "Has end time": []
     }, 
+    "Session:State of the InterNAT - Freifunk Rheinland AS201701 Update# 42bf8c1eb323807f1a0155b261e1358b": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483009200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://ffrl.de"
+        ], 
+        "Has description": [
+            "Statusupdate from Freifunk Rheinland Backbone (AS201701). Was war, was ist, was wird."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Barbarossa", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Barbarossa", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Takt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Takt", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Lars", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Lars", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:ThomasDOTwtf", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:ThomasDOTwtf", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "State of the InterNAT - Freifunk Rheinland AS201701 Update"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:State_of_the_InterNAT_-_Freifunk_Rheinland_AS201701_Update", 
+        "Has end time": [
+            "1483012800"
+        ]
+    }, 
     "Session:Queer Feminist Geeks Gathering# 4a992d9add2bc71db38142ddb1e0d6c2": {
         "Held in language": [
             "en - English"
@@ -13429,27 +13459,53 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Eris_Rising", 
         "Has end time": []
     }, 
-    "Session:Emacs rehab center (vim workshop)# 3a87c7b6d527de196e1cfc9c6281cc95": {
-        "Held in language": [], 
-        "Has start time": [], 
+    "Session:An Introduction to Intel Software Guard Extensions (SGX)# deb1a11af4dd0e3a88e338f9432bf1c5": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482942600"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Emacs rehab center (vim workshop)"
+        "Has description": [
+            "Intel Software Guard Extensions (Intel SGX) are a new extension of the x86 instruction set allowing the creation of so-called enclaves. Enclaves are isolated, secure parts of normal applications \nThis talk gives an overview about SGX, how it can be used to secure existing applications, what are its limitations and pitfalls and technical details about its implementation."
         ], 
-        "Has duration": [], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Envy", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Envy", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "An Introduction to Intel Software Guard Extensions (SGX)"
+        ], 
+        "Has duration": [
+            60
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_Introduction_to_Intel_Software_Guard_Extensions_(SGX)", 
+        "Has end time": [
+            "1482946200"
+        ]
     }, 
     "Session:LearnToSolder# 1708e12825a580ad6d6e1505a4f06a8a": {
         "Held in language": [
@@ -13647,56 +13703,50 @@
             "1482960600"
         ]
     }, 
-    "Session:Shitty Robot - Workshop# fc336b85271ca517879c6a129a7556d4": {
+    "Session:What makes a secure mobile messenger? -- A comparison of WhatsApp competitors# 73db3246145a85eb6d6d6835c00e578e": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482926400"
+            "1482944400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Workshop f\u00fcr die Shitty Robots/Vorbereitung auf Shitty Robot /Hebocon Battle.\n\nF\u00fcr das Sumo battle siehe: https://events.ccc.de/congress/2016/wiki/index.php?title=Session:Shitty_Robot_/Hebocon_Battle"
+            "There are an increasing number of mobile SMS-like applications that offer different levels of crypto and privacy features. This talk will give an overview over some popular and some less well known apps and discuss certain aspects that get too little attention in mainstream debates.\n\nNote that this talk is not about the details of crypto protocols or implementations, but more general issues like trust, integrity and availability in regard to the software, network infrastructure and the companies/projects behind them. The talk is 100% newbie-friendly."
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Openlab Augsburg", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Openlab_Augsburg", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Fluktusdukt", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Fluktusdukt", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Konfusius", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Konfusius", 
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Shitty Robot - Workshop"
+            "What makes a secure mobile messenger? -- A comparison of WhatsApp competitors"
         ], 
         "Has duration": [
-            360
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shitty_Robot_-_Workshop", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:What_makes_a_secure_mobile_messenger%3F_--_A_comparison_of_WhatsApp_competitors", 
         "Has end time": [
             "1482948000"
         ]
@@ -16004,54 +16054,6 @@
             "1482855300"
         ]
     }, 
-    "Session:What makes a secure mobile messenger? -- A comparison of WhatsApp competitors# 73db3246145a85eb6d6d6835c00e578e": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482944400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "There are an increasing number of mobile SMS-like applications that offer different levels of crypto and privacy features. This talk will give an overview over some popular and some less well known apps and discuss certain aspects that get too little attention in mainstream debates.\n\nNote that this talk is not about the details of crypto protocols or implementations, but more general issues like trust, integrity and availability in regard to the software, network infrastructure and the companies/projects behind them. The talk is 100% newbie-friendly."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "What makes a secure mobile messenger? -- A comparison of WhatsApp competitors"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:What_makes_a_secure_mobile_messenger%3F_--_A_comparison_of_WhatsApp_competitors", 
-        "Has end time": [
-            "1482948000"
-        ]
-    }, 
     "Session:Shadowrun# 4be598368f77191f13298533f068f3ea": {
         "Held in language": [
             "de - German"
@@ -16375,12 +16377,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -16399,7 +16401,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -16420,7 +16422,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:42birds: Missing RSS Feed? Create Your Own!# b86c3c8fc3a77d7f1486ceeaf014d506": {
