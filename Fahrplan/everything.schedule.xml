@@ -12861,7 +12861,30 @@ Manfred Kloiber, Jan R&#228;hm und Peter Welchering.</abstract>
         <attachments/>
       </event>
     </room>
-    <room name="Sendezentrumsb&#252;hne"/>
+    <room name="Sendezentrumsb&#252;hne">
+      <event id="418" guid="e3a9504b-8286-47ec-84cd-04a26af55ce9">
+        <logo>/system/events/logos/000/000/418/large/chaosradio-icon-300_400x400.jpg?1482846416</logo>
+        <date>2016-12-30T12:05:00+01:00</date>
+        <start>12:05</start>
+        <duration>02:00</duration>
+        <room>Sendezentrumsb&#252;hne</room>
+        <slug>33c3-418-chaosradio</slug>
+        <title>Chaosradio</title>
+        <subtitle/>
+        <track>Sendezentrumsb&#252;hne</track>
+        <type/>
+        <language>de</language>
+        <abstract>Chaosradio ist der unterhaltsame Live-Talk-Radio-Klassiker des Chaos Computer Clubs aus Berlin und eines der &#228;ltesten Tech-Radios &#252;berhaupt. Chaosradio informiert seit 1995 &#252;ber wechselnde Themen rund um Technologie und Gesellschaft. </abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
     <room name="Podcastingtisch">
       <event id="380" guid="c4c36fc5-e462-4193-bd2c-85ec1a21fbe5">
         <logo>/system/events/logos/000/000/380/large/cropped-CD-Cover-Web-1400x1400.jpg?1478881923</logo>

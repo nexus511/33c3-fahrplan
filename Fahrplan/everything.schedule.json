@@ -14913,7 +14913,30 @@
                                 "attachments": []
                             }
                         ], 
-                        "Sendezentrumsb\u00fchne": [], 
+                        "Sendezentrumsb\u00fchne": [
+                            {
+                                "id": 418, 
+                                "guid": "e3a9504b-8286-47ec-84cd-04a26af55ce9", 
+                                "logo": "/system/events/logos/000/000/418/large/chaosradio-icon-300_400x400.jpg?1482846416", 
+                                "date": "2016-12-30T12:05:00+01:00", 
+                                "start": "12:05", 
+                                "duration": "02:00", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-418-chaosradio", 
+                                "title": "Chaosradio", 
+                                "subtitle": "", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "Chaosradio ist der unterhaltsame Live-Talk-Radio-Klassiker des Chaos Computer Clubs aus Berlin und eines der \u00e4ltesten Tech-Radios \u00fcberhaupt. Chaosradio informiert seit 1995 \u00fcber wechselnde Themen rund um Technologie und Gesellschaft. ", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [], 
+                                "attachments": []
+                            }
+                        ], 
                         "Podcastingtisch": [
                             {
                                 "id": 380, 
