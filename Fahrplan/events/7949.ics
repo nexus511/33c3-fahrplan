@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T141500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T134500
-DTSTAMP;VALUE=DATE-TIME:20161213T213932Z
+DTSTAMP;VALUE=DATE-TIME:20161226T151600Z
 UID:10b11771-c76f-44d5-9b65-9ebca428d8ff@frab.cccv.de
 DESCRIPTION:Secure random number generators play a crucial role in the wi
  der security ecosystem. In the absence of a dedicated hardware True Rand

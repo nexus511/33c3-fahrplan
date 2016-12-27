@@ -251,17 +251,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T190000
-DTSTAMP;VALUE=DATE-TIME:20161215T110002Z
+DTSTAMP;VALUE=DATE-TIME:20161226T172040Z
 UID:dca06c58-ad2a-4b14-8be6-e6422e0dc94f@frab.cccv.de
-DESCRIPTION:This talk describes the journey of dissecting the old "Kellog
- g's" Jump'n'Run DOS game developed back in 1994 by Rauser Advertainment 
- and Factor 5. We summarize a 9 months effort of creating a full-fledged 
- map editor for this game\, covering the structure of the game's data fil
- es\, nifty VGA programming tricks as well as insane space-optimization s
- trategies employed by the original developers. Prepare for tons of data 
- structures\, bit magic\, and of course 16 bit x86 assembly code.
+DESCRIPTION:Talk cancelled due to illness.
 URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8274.html
-SUMMARY:Back to the 16bit Era - kirschju
+SUMMARY:Back to the 16bit Era -- CANCELLED - kirschju
 LOCATION:Saal G
 END:VEVENT
 BEGIN:VEVENT
@@ -281,7 +275,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T124500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T121500
-DTSTAMP;VALUE=DATE-TIME:20161213T214545Z
+DTSTAMP;VALUE=DATE-TIME:20161226T163648Z
 UID:e26852ae-9efe-47a0-9e65-3bbd120f7422@frab.cccv.de
 DESCRIPTION:With recent development in capture technology\, preserving on
  e's’ daily experiences and one's’ knowledge becomes richer and more comp
@@ -373,8 +367,8 @@ DESCRIPTION:Software Defined Radios (SDRs) became a mainstream tool for w
   for a high performance SDR like XTRX\, how this leads to certain design
   decisions and share pitfalls and gotchas we encountered (and solved).
 URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8338.html
-SUMMARY:Building a high throughput low-latency PCIe based SDR - ipse\, Se
- rgey Kostanbaev
+SUMMARY:Building a high throughput low-latency PCIe based SDR - Alexander
+  Chemeris\, Sergey Kostanbaev
 LOCATION:Saal G
 END:VEVENT
 BEGIN:VEVENT
@@ -465,7 +459,7 @@ DESCRIPTION:Today virtually everything we do is monitored in some way. Th
  gly transparent\, companies take control of the recorded data.
 URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8414.html
 SUMMARY:Corporate surveillance\, digital tracking\, big data & privacy - 
- wchr
+ Wolfie Christl
 LOCATION:Saal 6
 END:VEVENT
 BEGIN:VEVENT
@@ -1196,7 +1190,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T150000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T124500
-DTSTAMP;VALUE=DATE-TIME:20161222T100523Z
+DTSTAMP;VALUE=DATE-TIME:20161227T083152Z
 UID:090675f6-f86e-4082-886b-e13c9c837ecb@frab.cccv.de
 DESCRIPTION:Lightning Talks are short lectures (almost) any congress part
  icipant may give! Bring your infectious enthusiasm to an audience with a
@@ -1210,7 +1204,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T150000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T124500
-DTSTAMP;VALUE=DATE-TIME:20161222T100657Z
+DTSTAMP;VALUE=DATE-TIME:20161227T083212Z
 UID:853f2681-504c-45bf-b9af-cbabd005c376@frab.cccv.de
 DESCRIPTION:Lightning Talks are short lectures (almost) any congress part
  icipant may give! Bring your infectious enthusiasm to an audience with a
@@ -1224,7 +1218,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T150000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T124500
-DTSTAMP;VALUE=DATE-TIME:20161222T100728Z
+DTSTAMP;VALUE=DATE-TIME:20161227T083228Z
 UID:c6decee9-310c-40b9-90af-5937df22e1aa@frab.cccv.de
 DESCRIPTION:Lightning Talks are short lectures (almost) any congress part
  icipant may give! Bring your infectious enthusiasm to an audience with a
@@ -1455,14 +1449,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T183000
-DTSTAMP;VALUE=DATE-TIME:20161223T142120Z
+DTSTAMP;VALUE=DATE-TIME:20161226T175641Z
 UID:65833373-6cae-4f9d-947b-c93a83ff1ba1@frab.cccv.de
 DESCRIPTION:Lauri Love has never set foot in the United States\, yet he i
  s facing a potential century in jail if extradited for his alleged invol
  vement in #OpLastResort\, an Anonymous-related protest action that occur
  red in response to the death of Aaron Swartz.
 URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8438.html
-SUMMARY:No Love for the US Gov. - Jake Davis\, Lauri Love
+SUMMARY:No Love for the US Gov. - Jake Davis\, Lauri Love\, Mustafa Al-Ba
+ ssam
 LOCATION:Saal 1
 END:VEVENT
 BEGIN:VEVENT
@@ -1565,7 +1560,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T150000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T140000
-DTSTAMP;VALUE=DATE-TIME:20161213T214534Z
+DTSTAMP;VALUE=DATE-TIME:20161226T215243Z
 UID:1efa803c-d280-49f0-bd17-8ec8f28e054f@frab.cccv.de
 DESCRIPTION:We analyze the generation and management of WPA2 group keys. 
  These keys protect broadcast and multicast Wi-Fi traffic. We discovered 
@@ -1590,26 +1585,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T141500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T134500
-DTSTAMP;VALUE=DATE-TIME:20161213T214612Z
+DTSTAMP;VALUE=DATE-TIME:20161226T160407Z
 UID:bc9fff95-ca0f-4448-9c4c-875609353da7@frab.cccv.de
 DESCRIPTION:Cities are emerging as a space for local action and local cha
  nge but also as dangerous spaces where social engineering\, exclusion by
   design and privatised policing take place rapidly\, without adequate fr
  ames to catch up and assure fundamental rights. Is the city the answer t
  o a new digital ecosystem\, with effective mechanisms to enforce it\, in
-  the local government powers? \n\nSophisticated surveillance systems are
-  approved by\, funded by and deployed by local authorities\, Cities are 
- emerging as the spaces where everything is controlled by invisible techn
- ology\, almost imperceptible in daily life. Those surveillance cameras n
- ow visible on street corners are replaced by systems of constant monitor
- ing integrated in the landscape. Cities of sensors collecting our data a
- ll day long\, where each movement is registered and stored\, where decis
- ions are automated and dehumanised. Monetised to optimise consumption\, 
- predict behaviour. Control people and the local and micro local level. \
- n\nBut cities are also the spaces where a different form of politics is 
- emerging\, from Rome to Barcelona\, from Madrid to Paris\, citizens are 
- taking back the domestic infrastructure. Is there the answer for digital
-  sovereignty?\n
+  the local government powers?
 URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8248.html
 SUMMARY:Rebel Cities - renataavila
 LOCATION:Saal 2
@@ -1671,7 +1654,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T180000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T173000
-DTSTAMP;VALUE=DATE-TIME:20161223T011906Z
+DTSTAMP;VALUE=DATE-TIME:20161226T151500Z
 UID:fc959f0c-5e93-4b23-8a63-5b6478adb700@frab.cccv.de
 DESCRIPTION:Nach drei Jahren wurde endlich die nutzerunfreundliche Praxis
   des Routerzwangs („Compulsory Routers“) gesetzlich für unzulässig erklä
@@ -2037,7 +2020,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T210000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T203000
-DTSTAMP;VALUE=DATE-TIME:20161213T214926Z
+DTSTAMP;VALUE=DATE-TIME:20161226T132707Z
 UID:f1e2dc22-8925-4a8a-8cd3-4d03aa0e33b7@frab.cccv.de
 DESCRIPTION:Since the early successes of moon missions in the Sixtie\, ma
  nkind has moved on to the earth orbit and other deep space missions. But
@@ -2353,7 +2336,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T141500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T134500
-DTSTAMP;VALUE=DATE-TIME:20161213T213932Z
+DTSTAMP;VALUE=DATE-TIME:20161226T151600Z
 UID:10b11771-c76f-44d5-9b65-9ebca428d8ff@frab.cccv.de
 DESCRIPTION:Secure random number generators play a crucial role in the wi
  der security ecosystem. In the absence of a dedicated hardware True Rand

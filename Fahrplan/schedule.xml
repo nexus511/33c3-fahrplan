@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <schedule>
-<version>BEING REFACTORED ANYWAY</version>
+<version>WORKS FOR ME</version>
 <conference>
 <acronym>33c3</acronym>
 <title>33. Chaos Communication Congress</title>
@@ -466,6 +466,7 @@ In this talk, I'll explain which modulation, coding and framing is used for the 
 <link href='https://github.com/daniestevez/gr-outernet'>gr-outernet GNUradio OOT module to receive the Outernet signal with an SDR</link>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/003/103/original/slides.pdf?1482827177'>PDF slides</attachment>
 </attachments>
 </event>
 <event guid='5a517be2-220b-4eb6-88c3-e7ef08c98ace' id='8127'>
@@ -507,6 +508,7 @@ The result is knowledge of the transport stream scrambling modes and knowledge o
 <links>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/003/101/original/33C3_-_How_Do_I_Crack_Satellite_and_Cable_Pay_TV_slides.pdf?1482707610'>33C3 - How Do I Crack Satellite and Cable Pay TV slides (PDF)</attachment>
 </attachments>
 </event>
 <event guid='61f9d4c6-a3de-4958-a57c-efcf941668fa' id='7821'>
@@ -916,7 +918,7 @@ The talk will be given as a joint presentation by Clémentine Maurice and Moritz
 We will talk about when to use PCIe and when not to use PCIe and why did we choose it for XTRX; FPGA implementation of PCIe with optimization for low latency and high throughput; Linux kernel driver for this PCIe device; integration with various SDR platforms; all the various issues we encountered and how you can avoid them.</description>
 <logo>/system/events/logos/000/008/338/large/XTRX_in_hands.jpg?1479260196</logo>
 <persons>
-<person id='3000'>ipse</person>
+<person id='3000'>Alexander Chemeris</person>
 <person id='6941'>Sergey Kostanbaev</person>
 </persons>
 <links>
@@ -1115,19 +1117,18 @@ I will outline the implementation problem areas of this approach and some possib
 <start>19:00</start>
 <duration>00:30</duration>
 <room>Saal G</room>
-<slug>33c3-8274-back_to_the_16bit_era</slug>
+<slug>33c3-8274-back_to_the_16bit_era_--_cancelled</slug>
 <recording>
 <license>CC BY 4.0</license>
 <optout>false</optout>
 </recording>
-<title>Back to the 16bit Era</title>
+<title>Back to the 16bit Era -- CANCELLED</title>
 <subtitle>Open Sourcing a 22 Years Old Game</subtitle>
 <track>Hardware &amp; Making</track>
 <type>lecture</type>
 <language>en</language>
-<abstract>This talk describes the journey of dissecting the old &quot;Kellogg's&quot; Jump'n'Run DOS game developed back in 1994 by Rauser Advertainment and Factor 5. We summarize a 9 months effort of creating a full-fledged map editor for this game, covering the structure of the game's data files, nifty VGA programming tricks as well as insane space-optimization strategies employed by the original developers. Prepare for tons of data structures, bit magic, and of course 16 bit x86 assembly code.</abstract>
-<description>During this 30-minutes talk we will cover all major aspects of a 22 year old game engine. Starting from basic 16bit assembly, segmentation and DOS syscalls, attendants will learn about how the graphics pipeline looked like back in the 90s, covering the &quot;secret&quot; Mode X of the VGA, and how to build a physics engine on top of a 16bit processor / OS. One of the main findings is that space and CPU cycles are precious - the developers spent a significant effort to keep resource usage low.
-With increasing understanding of the inner structure of the game, we developed a map editor in Python which we will open source after the presentation. A modified version of the game created using the editor was used as a reverse engineering challenge during a Capture The Flag event in October earlier this year.</description>
+<abstract>Talk cancelled due to illness.</abstract>
+<description>Talk cancelled due to illness.</description>
 <logo></logo>
 <persons>
 <person id='6994'>kirschju</person>
@@ -1315,7 +1316,7 @@ The internals of the language implementation changed quite dramatically, and now
 <language>en</language>
 <abstract>We analyze the generation and management of WPA2 group keys. These keys protect broadcast and multicast Wi-Fi traffic. We discovered several issues and illustrate their importance by decrypting all group (and unicast) traffic of a typical Wi-Fi network.</abstract>
 <description>First we show that the 802.11 random number generator is flawed by design, and provides an insufficient amount of entropy. This is confirmed by predicting randomly generated group keys on several platforms. We then examine whether group keys are securely transmitted to clients. Here we discover a downgrade attack that forces usage of RC4 to encrypt the group key when transmitted in the 4-way handshake. The per-message RC4 key is the concatenation of a public 16-byte initialization vector with a secret 16-byte key, and the first 256 keystream bytes are dropped. We study this peculiar usage of RC4, and find that capturing 2 billion handshakes can be sufficient to recover (i.e., decrypt) a 128-bit group key. We also examine whether group traffic is properly isolated from unicast traffic. We find that this is not the case, and show that the group key can be used to inject and decrypt unicast traffic. Finally, we propose and study a new random number generator tailored for 802.11 platforms.</description>
-<logo></logo>
+<logo>/system/events/logos/000/008/195/large/icon.jpg?1482789163</logo>
 <persons>
 <person id='5456'>Mathy Vanhoef</person>
 </persons>
@@ -1323,7 +1324,6 @@ The internals of the language implementation changed quite dramatically, and now
 </links>
 <attachments>
 <attachment href='/system/event_attachments/attachments/000/003/036/original/33c3-wifi.pdf?1475269216'>Research paper</attachment>
-<attachment href='/system/event_attachments/attachments/000/003/040/original/slides_summary.pdf?1475270740'>Summary presentation</attachment>
 </attachments>
 </event>
 <event guid='f62fb3be-656f-4e7b-9619-11f3cdb2da26' id='7925'>
@@ -1602,6 +1602,8 @@ In particular, we will explain how they tend to operate and we will dive into te
 <attachments>
 </attachments>
 </event>
+</room>
+<room name='dradio'>
 </room>
 </day>
 <day date='2016-12-28' end='2016-12-29T04:00:00+01:00' index='2' start='2016-12-28T10:00:00+01:00'>
@@ -2112,7 +2114,7 @@ Findings from investigations have been used by Human Rights Watch, the United Na
 <link href='http://www.konscience.de/tag/anthropozaen/'>KonScience-Episoden zu dem Thema</link>
 <link href='https://www2.le.ac.uk/offices/press/press-releases/2016/august/media-note-anthropocene-working-group-awg'>AWG's status in Aug.'16</link>
 <link href='http://quaternary.stratigraphy.org/workinggroups/anthropocene/'>AWG homepage</link>
-<link href='http://slides.com/kaleimai/deck-1'>draft slides</link>
+<link href='http://slides.com/kaleimai/33c3-welcome-anthropocene'>draft slides</link>
 </links>
 <attachments>
 </attachments>
@@ -2448,7 +2450,7 @@ Although the new hardware-revision of the button makes use of the controller loc
 <language>en</language>
 <abstract>Lightning Talks are short lectures (almost) any congress participant may give! Bring your infectious enthusiasm to an audience with a short attention span! Discuss a program, system or technique! Pitch your projects and ideas or try to rally a crew of people to your party or assembly! Whatever you bring, make it quick! </abstract>
 <description>To get involved and learn more about what is happening please visit &lt;a href=&quot;https://events.ccc.de/congress/2016/wiki/Static:Lightning_Talks&quot;&gt;the Lightning Talks Wikipage&lt;/a&gt;.</description>
-<logo>/system/events/logos/000/008/087/large/events-logos-000-006-563-large-fd_30c0.JPG?1479210638</logo>
+<logo>/system/events/logos/000/008/087/large/YNMibW_C.jpg?1482827512</logo>
 <persons>
 <person id='5263'>gedsic</person>
 <person id='4601'>bigalex</person>
@@ -3064,6 +3066,8 @@ If time permits, the researchers will also update the status of paging system us
 </attachments>
 </event>
 </room>
+<room name='dradio'>
+</room>
 </day>
 <day date='2016-12-29' end='2016-12-30T04:00:00+01:00' index='3' start='2016-12-29T10:00:00+01:00'>
 <room name='Saal 1'>
@@ -3245,6 +3249,7 @@ All code and materials and hardware covered in this talk are released under OSI 
 <link href='https://www.youtube.com/playlist?list=PLp9YIOv6BlKkvc3knKtI7ocRkCwc1jn0E'>TimVideos related videos</link>
 <link href='https://github.com/mithro/tmds_encoding'>TMDS Encoding GitHub Repo</link>
 <link href='https://github.com/mithro'>Mithro's GitHub</link>
+<link href='https://j.mp/hdmi-33c3'>Talk Slides</link>
 </links>
 <attachments>
 </attachments>
@@ -3288,6 +3293,7 @@ Lauri, and what are the changes we should be fighting for?</description>
 <persons>
 <person id='7235'>Jake Davis</person>
 <person id='7239'>Lauri Love</person>
+<person id='4905'>Mustafa Al-Bassam</person>
 </persons>
 <links>
 </links>
@@ -3889,7 +3895,7 @@ deployment. With this presentation we aim to convey insights into:
 <language>en</language>
 <abstract>Lightning Talks are short lectures (almost) any congress participant may give! Bring your infectious enthusiasm to an audience with a short attention span! Discuss a program, system or technique! Pitch your projects and ideas or try to rally a crew of people to your party or assembly! Whatever you bring, make it quick! </abstract>
 <description>To get involved and learn more about what is happening please visit &lt;a href=&quot;https://events.ccc.de/congress/2016/wiki/Static:Lightning_Talks&quot;&gt;the Lightning Talks Wikipage&lt;/a&gt;.</description>
-<logo>/system/events/logos/000/008/088/large/events-logos-000-006-563-large-fd_30c0.JPG?1479210675</logo>
+<logo>/system/events/logos/000/008/088/large/YNMibW_C.jpg?1482827532</logo>
 <persons>
 <person id='5263'>gedsic</person>
 <person id='4601'>bigalex</person>
@@ -4222,7 +4228,7 @@ Eigentlich ein Podcast der alle 14 Tage erscheint. Nach dem großen Erfolg auf d
 Based on many examples, Wolfie Christl will give an overview of his research: Who are the players in today's surveillance economy? How do networks of online platforms, tech companies and data brokers really collect, analyze, trade and make use of personal data? What can be inferred from our purchases, web searches and likes? How is analytics based on personal information already used in fields such as insurance, finance, healthcare and employment to treat people differently? And, what are the societal implications and risks of ubiquitous corporate surveillance?</description>
 <logo></logo>
 <persons>
-<person id='3587'>wchr</person>
+<person id='3587'>Wolfie Christl</person>
 </persons>
 <links>
 <link href='http://crackedlabs.org/en/networksofcontrol'>Wolfie Christl, Sarah Spiekermann (2016): Networks of Control. A Report on Corporate Surveillance, Digital Tracking, Big Data &amp; Privacy. Facultas, Vienna. PDF Download:</link>
@@ -4603,6 +4609,8 @@ Based on ongoing research about the development of artifical intelligence in the
 </attachments>
 </event>
 </room>
+<room name='dradio'>
+</room>
 </day>
 <day date='2016-12-30' end='2016-12-30T23:00:00+01:00' index='4' start='2016-12-30T10:00:00+01:00'>
 <room name='Saal 1'>
@@ -4922,7 +4930,7 @@ The speaker by education is Computational Linguist, Sociologist and Neuroinforma
 <optout>false</optout>
 </recording>
 <title>Beyond Virtual and Augmented Reality</title>
-<subtitle>Reimagining Experience Sharing and Skill Transfer</subtitle>
+<subtitle>From Superhuman Sports to Amplifying Human Senses</subtitle>
 <track>Science</track>
 <type>lecture</type>
 <language>en</language>
@@ -4944,13 +4952,14 @@ In the end, I give an outlook on projects that push the limits for experience sh
 
 
 I’m a researcher in the wearable computing, AR and VR field organizing a Dagstuhl Seminar on a similar topic, I’m also a founding member of the Japanese Super Human Sports Society.</description>
-<logo></logo>
+<logo>/system/events/logos/000/008/225/large/Slice.png?1482770208</logo>
 <persons>
 <person id='1891'>Kai Kunze</person>
 </persons>
 <links>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/003/018/original/%E8%B6%85%E4%BA%BA%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%80%80Bubble_Jumper-5554.mp4?1475255983'>Bubble Jumper (Superhuman Sports Example)</attachment>
 <attachment href='/system/event_attachments/attachments/000/003/019/original/AffectiveWear-v10.mp4?1475256535'>Affective Wear (detecting facial expressions using smart glasses)</attachment>
 </attachments>
 </event>
@@ -4995,17 +5004,16 @@ I’m a researcher in the wearable computing, AR and VR field organizing a Dagst
 <optout>false</optout>
 </recording>
 <title>Rebel Cities</title>
-<subtitle>owards A Global Network Of Neighbourhoods And Cities Rejecting Surveillance</subtitle>
+<subtitle>Towards A Global Network Of Neighbourhoods And Cities Rejecting Surveillance</subtitle>
 <track>Ethics, Society &amp; Politics</track>
 <type>lecture</type>
 <language>en</language>
-<abstract>Cities are emerging as a space for local action and local change but also as dangerous spaces where social engineering, exclusion by design and privatised policing take place rapidly, without adequate frames to catch up and assure fundamental rights. Is the city the answer to a new digital ecosystem, with effective mechanisms to enforce it, in the local government powers? 
-
-Sophisticated surveillance systems are approved by, funded by and deployed by local authorities, Cities are emerging as the spaces where everything is controlled by invisible technology, almost imperceptible in daily life. Those surveillance cameras now visible on street corners are replaced by systems of constant monitoring integrated in the landscape. Cities of sensors collecting our data all day long, where each movement is registered and stored, where decisions are automated and dehumanised. Monetised to optimise consumption, predict behaviour. Control people and the local and micro local level. 
+<abstract>Cities are emerging as a space for local action and local change but also as dangerous spaces where social engineering, exclusion by design and privatised policing take place rapidly, without adequate frames to catch up and assure fundamental rights. Is the city the answer to a new digital ecosystem, with effective mechanisms to enforce it, in the local government powers?</abstract>
+<description>Sophisticated surveillance systems are approved by, funded by and deployed by local authorities, Cities are emerging as the spaces where everything is controlled by invisible technology, almost imperceptible in daily life. Those surveillance cameras now visible on street corners are replaced by systems of constant monitoring integrated in the landscape. Cities of sensors collecting our data all day long, where each movement is registered and stored, where decisions are automated and dehumanised. Monetised to optimise consumption, predict behaviour. Control people and the local and micro local level. 
 
 But cities are also the spaces where a different form of politics is emerging, from Rome to Barcelona, from Madrid to Paris, citizens are taking back the domestic infrastructure. Is there the answer for digital sovereignty?
-</abstract>
-<description>Today, cities of sensors collecting our data all day long, where each movement is registered and stored, where decisions are automated and dehumanised. Monetised to optimise consumption, predict behaviour. Control people. The benefits of not knowing who decides and why, stand to be gained by the same conglomerate who bets on this vision. A few companies developing software, hardware and capacities in countries that can be counted on one hand. A market of US$8 billion, which is expected to grow tenfold by the year 2020. 
+
+Today, cities of sensors collecting our data all day long, where each movement is registered and stored, where decisions are automated and dehumanised. Monetised to optimise consumption, predict behaviour. Control people. The benefits of not knowing who decides and why, stand to be gained by the same conglomerate who bets on this vision. A few companies developing software, hardware and capacities in countries that can be counted on one hand. A market of US$8 billion, which is expected to grow tenfold by the year 2020. 
 
 Although discourses keep feeding the imaginary, descriptions of cameras detecting pickpockets, this is something radically different. Matrices that combine lots of data in real-time. This vision for the city of the future, promoted by a small group of technology conglomerates, is one where quality of life is directly proportional to the predictability and homogeneity of its inhabitants, clashing with the struggle for diversity and diverse behaviors. To achieve this vision, much more is sacrificed than privacy. We pawn off our security to those in the sealed-off control room. It is to sacrifice the purest form of democracy we have, our right to protest freely and anonymously in the town square.
 
@@ -5013,14 +5021,13 @@ The talk will explore how local surveillance systems are rapidly expanding acros
 
 The talk will also look into the public policy and budgetary implications of the surveillance city, when contracts that are signed tie the hands of more than one public institution, borrowing from future municipal budgets, with a coordinated marketing and data machinery that does not offer solid evidence to prove effectiveness. Public authorities assure us that cameras, scenario modelling and mass surveillance will eliminate the problem of insecurity, advancing these over other public policies meant to attack extreme poverty and inequality of access to basic services, as well as the recovery of public space. The studies that vouch for the effectiveness of surveillance as a crime reduction measure are incomplete; they do not take local internal and external factors into account, and cannot be applied to different contexts.
 
-The talk will also look into current efforts to reverse the smart city model into a humane city and how the local power could be the formula to challenge the surveillance space and take back our fundamental rights. 
-</description>
+The talk will also look into current efforts to reverse the smart city model into a humane city and how the local power could be the formula to challenge the surveillance space and take back our fundamental rights.</description>
 <logo>/system/events/logos/000/008/248/large/IMG_3259.JPG?1481097468</logo>
 <persons>
 <person id='3560'>renataavila</person>
 </persons>
 <links>
-<link href='https://decentralize.today/rebel-cities-towards-a-global-network-of-neighbourhoods-and-cities-rejecting-surveillance-6a92e68243a8#.46hvql5he'>Rebel Cities — Towards A Global Network Of Neighbourhoods And Cities Rejecting Surveillance</link>
+<link href='https://decentralize.today/rebel-cities-towards-a-global-network-of-neighbourhoods-and-cities-rejecting-surveillance-6a92e68243a8#.46hvql5he'>Rebel Cities  – Towards A Global Network Of Neighbourhoods And Cities Rejecting Surveillance</link>
 </links>
 <attachments>
 </attachments>
@@ -5130,7 +5137,7 @@ As a hybrid between computer scientist and media artist, I am creating works at 
 <language>en</language>
 <abstract>Lightning Talks are short lectures (almost) any congress participant may give! Bring your infectious enthusiasm to an audience with a short attention span! Discuss a program, system or technique! Pitch your projects and ideas or try to rally a crew of people to your party or assembly! Whatever you bring, make it quick! </abstract>
 <description>To get involved and learn more about what is happening please visit &lt;a href=&quot;https://events.ccc.de/congress/2016/wiki/Static:Lightning_Talks&quot;&gt;the Lightning Talks Wikipage&lt;/a&gt;.</description>
-<logo>/system/events/logos/000/008/089/large/events-logos-000-006-563-large-fd_30c0.JPG?1479210693</logo>
+<logo>/system/events/logos/000/008/089/large/YNMibW_C.jpg?1482827548</logo>
 <persons>
 <person id='5263'>gedsic</person>
 <person id='4601'>bigalex</person>
@@ -5265,6 +5272,8 @@ Making secure boot actually secure was a bigger effort than we initially expecte
 <attachments>
 </attachments>
 </event>
+</room>
+<room name='dradio'>
 </room>
 </day>
 </schedule>

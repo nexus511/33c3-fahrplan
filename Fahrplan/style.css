@@ -59,6 +59,22 @@
   background-color: #fff374;
 }
 
+.event.track-deutschlandradio {
+  background-color: #0000FF;
+  border-color: #0000FF;
+}
+.event.track-deutschlandradio div.event-header {
+  background-color: #0000FF;
+}
+
+.event.track-deutschlandradio div.event-header a {
+  color: #fff;
+}
+
+#colorkeys .track-deutschlandradio {
+  background-color: #0000FF;
+}
+
 .event.track-entertainment {
   background-color: #a2c617;
   border-color: #a2c617;
