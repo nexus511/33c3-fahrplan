@@ -1,5 +1,5 @@
 <schedule>
-  <version>WORKS FOR ME</version>
+  <version>WONTFIX</version>
   <conference>
     <acronym>33c3</acronym>
     <title>33. Chaos Communication Congress</title>
@@ -759,6 +759,7 @@ TLS 1.3 is not in the distant future. The draft is almost finalized, and at Clou
         </recording>
         <persons>
           <person id="6145">Filippo Valsorda</person>
+          <person id="5003">Nick Sullivan</person>
         </persons>
         <links/>
         <attachments/>
@@ -1030,13 +1031,15 @@ Bildcredit: Konrad Twardowski, CC BY-SA 2.0</description>
           <link href="https://fsfe.org/activities/routers/">Informationen zum Routerzwang</link>
           <link href="https://fsfe.org/activities/radiodirective/">Informationen zur Funkabschottung</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/107/original/20161227-mm-33C3.de.pdf?1482843619">Slides (German)</attachment>
+        </attachments>
       </event>
       <event id="8014" guid="c3844820-b5ed-4b12-9094-cfc67aff60be">
         <logo/>
         <date>2016-12-27T18:15:00+01:00</date>
         <start>18:15</start>
-        <duration>00:30</duration>
+        <duration>01:00</duration>
         <room>Saal G</room>
         <slug>33c3-8014-untrusting_the_cpu</slug>
         <title>Untrusting the CPU</title>
@@ -1064,34 +1067,6 @@ I will outline the implementation problem areas of this approach and some possib
           <person id="6903">jaseg</person>
         </persons>
         <links/>
-        <attachments/>
-      </event>
-      <event id="8274" guid="dca06c58-ad2a-4b14-8be6-e6422e0dc94f">
-        <logo/>
-        <date>2016-12-27T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>00:30</duration>
-        <room>Saal G</room>
-        <slug>33c3-8274-back_to_the_16bit_era_--_cancelled</slug>
-        <title>Back to the 16bit Era -- CANCELLED</title>
-        <subtitle>Open Sourcing a 22 Years Old Game</subtitle>
-        <track>Hardware &amp; Making</track>
-        <type>lecture</type>
-        <language>en</language>
-        <abstract>Talk cancelled due to illness.</abstract>
-        <description>Talk cancelled due to illness.</description>
-        <recording>
-          <license>CC BY 4.0</license>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="6994">kirschju</person>
-        </persons>
-        <links>
-          <link href="https://kirschju.re/static/W1L3.png">Sample Dump of Level 1-3</link>
-          <link href="https://kirschju.re/static/W2L1.png">Sample Dump of Level 2-1</link>
-          <link href="https://kirschju.re/static/editor.png">Sample Screenshot of the Vi-Like Map Editor</link>
-        </links>
         <attachments/>
       </event>
       <event id="7911" guid="143759c6-2cad-4fc8-a120-86dcc8de97e6">
@@ -1212,7 +1187,9 @@ This talk will present Certificate Transparency in full details. Beginning from 
           <person id="7009">Martin Schmiedecker</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/104/original/33c3_CT.pdf?1482832180">Slides</attachment>
+        </attachments>
       </event>
       <event id="7858" guid="798573a8-f544-48f0-abaf-ebc405f03f4a">
         <logo/>
@@ -1560,7 +1537,59 @@ In particular, we will explain how they tend to operate and we will dive into te
         </links>
       </event>
     </room>
-    <room name="dradio"/>
+    <room name="dradio">
+      <event id="8449" guid="6faab5a9-1b48-48e4-8d89-1377060792ac">
+        <logo>/system/events/logos/000/008/449/large/dradio.png?1482609657</logo>
+        <date>2016-12-27T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>dradio</room>
+        <slug>dradio33c3-8449-dlf_forschung_aktuell_studio_live</slug>
+        <title>DLF "Forschung Aktuell" &#8211; Studio/Live</title>
+        <subtitle>Berichte vom 33C3</subtitle>
+        <track>Deutschlandradio</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Live-Ausstrahlung der Sendung Forschung Aktuell des Deutschlandfunks. Direkt vom 33C3 zugeschaltet werden die DLF-Reporter vor Ort.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7280">Manfred Kloiber</person>
+        </persons>
+        <links>
+          <link href="http://www.deutschlandfunk.de/forschung-aktuell.675.de.html">DLF Forschung Aktuell</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="8451" guid="9a13c662-31ee-48be-a35c-bc899c0b2087">
+        <logo>/system/events/logos/000/008/451/large/dradio.png?1482609968</logo>
+        <date>2016-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:45</duration>
+        <room>dradio</room>
+        <slug>dradio33c3-8451-deutschlandfunk_studio-talk</slug>
+        <title>Deutschlandfunk Studio-Talk</title>
+        <subtitle>Wissenschaftsberichterstattung im Radio</subtitle>
+        <track>Deutschlandradio</track>
+        <type>podium</type>
+        <language>de</language>
+        <abstract>Das Publikum in Saal 17 fragt, Manfred Kloiber und Peter Welchering antworten.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7280">Manfred Kloiber</person>
+          <person id="7281">Peter Welchering</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
     <room name="Sendezentrumsb&#252;hne">
       <event id="383" guid="226e244c-4781-47e4-8dd7-2d74607ae02f">
         <logo>/system/events/logos/000/000/383/large/qx8g3qfa_400x400.jpg?1482079808</logo>
@@ -4027,7 +4056,8 @@ Findings from investigations have been used by Human Rights Watch, the United Na
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="6068">Syrian Archive</person>
+          <person id="6068">Jeff Deutch</person>
+          <person id="7289">Hadi Al-Khatib</person>
         </persons>
         <links>
           <link href="https://syrianarchive.org">Syrian Archive</link>
@@ -4990,7 +5020,98 @@ If time permits, the researchers will also update the status of paging system us
         </links>
       </event>
     </room>
-    <room name="dradio"/>
+    <room name="dradio">
+      <event id="8450" guid="17758771-c896-49e1-b01e-feaaf3fa4997">
+        <logo>/system/events/logos/000/008/450/large/dradio.png?1482609769</logo>
+        <date>2016-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>dradio</room>
+        <slug>dradio33c3-8450-dlf_das_kulturgesprach</slug>
+        <title>DLF "Das Kulturgespr&#228;ch"</title>
+        <subtitle>Aus der Traum? - Warum das Internet die Welt (doch nicht) retten kann</subtitle>
+        <track>Deutschlandradio</track>
+        <type>podium</type>
+        <language>de</language>
+        <abstract>Aufzeichnung der Sendung, die am 30.12.2016 um 19:15 Uhr im Deutschlandfunk ausgestrahlt wird.</abstract>
+        <description>Die Erwartungen der Netzaktivisten waren gro&#223;, als die ersten kommerziellen Internet-Provider Anfang der neunziger Jahres in Deutschland an den Start gingen. &#8222;Wenn jeder zum Sender wird, demokratisiert sich diese Gesellschaft rasant&#8220;, prognostizierte Frank Da Cruz, der Entwickler der legend&#228;ren Kommunikationssoftware Kermit. Brechts Radiotheorie sollte mit dem Internet nun endlich Wirklichkeit werden.&#13;
+&#8222;Fuck you Facebook&#8220;, meinte statt dessen der Silicon-Valley-Veteran Michael Abehsera nach der Wahl von Donald Trump zum US-Pr&#228;sidenten. Social-Media-Plattformen haben diese Wahl erst m&#246;glich werden lassen. Abehsera gibt eine d&#252;stere Prognose: Mit einer geschickten Social-Media-Strategie k&#246;nnen heute Diktatoren und Propagandisten wie Hitler und Goebbels ein Land leicht &#252;bernehmen.&#13;
+Das Internet gilt mittlerweile nicht mehr als Medium der Hoffnung f&#252;r mehr gesellschaftliche Teilhabe, sondern als Feind der rechtsstaatlichen Demokratie. Konventionelle Medien nehmen ihre Aufgabe, Orientierung zu bieten immer weniger wahr. Soziale Medien dagegen bieten weitgehende Desorientierung. Und es kommt noch schlimmer: Digitalkonzerne, die alle Daten der Nutzer abgreifen und verkaufen, sorgen mit ihren intransparenten Algorithmen f&#252;r eine Filterblase. Dabei geht es nicht um Wahrheit oder Meinungsvielfalt, sondern um m&#246;glichst viele Klicks. Und die gibt es f&#252;r Provokation, Hassreden und Best&#228;tigung der eigenen Sicht der Dinge. Das nutzen in den westlichen Demokratien Populisten aller Coleur.&#13;
+Wie reagiert die Netzgemeinde hierzulande auf diese Entwicklungen? M&#252;ssen die demokratischen Kr&#228;fte ob dieser &#220;bermacht der Netzmanipulation kapitulieren? Oder gibt es noch Ans&#228;tze und Chancen, Internet-Plattformen dienlich f&#252;r die Demokratie zu nutzen?&#13;
+&#13;
+G&#228;ste:	&#13;
+Jens Best, Open-Data- und Web-Aktivist&#13;
+Prof. Dr. Gabriele Hooffacker, HWT Leipzig und Journalistenakademie M&#252;nchen&#13;
+Andy M&#252;ller-Maguhn, Netzaktivist&#13;
+Jimmy Schultz, Netzpolitiker, FDP&#13;
+&#13;
+Moderation:&#13;
+Manfred Kloiber und Peter Welchering</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7280">Manfred Kloiber</person>
+          <person id="7281">Peter Welchering</person>
+        </persons>
+        <links>
+          <link href="http://www.deutschlandfunk.de/das-kulturgespraech.1300.de.html">DLF Das Kulturgespr&#228;ch</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="8452" guid="5f5fa8e0-9b38-4a49-bff4-09c251380498">
+        <logo>/system/events/logos/000/008/452/large/dradio.png?1482610187</logo>
+        <date>2016-12-28T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>dradio</room>
+        <slug>dradio33c3-8452-dlf_forschung_aktuell_studio_live</slug>
+        <title>DLF "Forschung Aktuell" &#8211; Studio/Live</title>
+        <subtitle>Berichte vom 33C3</subtitle>
+        <track>Deutschlandradio</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Live-Ausstrahlung der Sendung Forschung Aktuell des Deutschlandfunks. Direkt vom 33C3 zugeschaltet werden die DLF-Reporter vor Ort.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7281">Peter Welchering</person>
+        </persons>
+        <links>
+          <link href="http://www.deutschlandfunk.de/forschung-aktuell.675.de.html">DLF Forschung Aktuell</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="8453" guid="f9560ab7-3485-4854-aa7b-1264c2d3abbf">
+        <logo>/system/events/logos/000/008/453/large/dradio.png?1482610337</logo>
+        <date>2016-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:45</duration>
+        <room>dradio</room>
+        <slug>dradio33c3-8453-deutschlandfunk_studio-talk</slug>
+        <title>Deutschlandfunk Studio-Talk</title>
+        <subtitle>Wissenschaftsberichterstattung im Radio</subtitle>
+        <track>Deutschlandradio</track>
+        <type>podium</type>
+        <language>de</language>
+        <abstract>Das Publikum in Saal 17 fragt, Manfred Kloiber und Peter Welchering antworten.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7280">Manfred Kloiber</person>
+          <person id="7281">Peter Welchering</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
     <room name="Sendezentrumsb&#252;hne">
       <event id="412" guid="4eb317dd-2644-4bf2-868c-fb178322e982">
         <logo>/system/events/logos/000/000/412/large/Hello_World.jpg?1482757857</logo>
@@ -8099,7 +8220,7 @@ Lauri, and what are the changes we should be fighting for?</description>
         <language>en</language>
         <abstract>The long term survival of the human species requires that we become an interplanetary species. But we must answer two big questions: where are we going, and how do we get there? We explore what scientists know (and don&#8217;t know) about humanity&#8217;s potential future homes both inside and outside the solar system, and then we&#8217;ll dive into the technological challenges of (and potential solutions for) getting humans to and colonizing a new planet.</abstract>
         <description>Long the realm of science fiction, interplanetary colonization is now taken more and more seriously by scientists and space agencies alike as technologies come within reach. We will evaluate obstacles and solutions by looking at two topics: Where to go? and How to get there?&#13;
-Part 1 explores the options that humans have in expanding to new planets. There are now 3,518 exoplanets in 2,635 planetary systems confirmed. We&#8217;ll discuss how astronomers find planets, and how they learn about the conditions there. How do we pick a colonization target based on the data we can gather when there is no way of sending probes there and getting information back in reasonable time like we do in our solar system?&#13;
+Part 1 explores the options that humans have in expanding to new planets. There are now 3,439 exoplanets in 2,569 planetary systems confirmed. We&#8217;ll discuss how astronomers find planets, and how they learn about the conditions there. How do we pick a colonization target based on the data we can gather when there is no way of sending probes there and getting information back in reasonable time like we do in our solar system?&#13;
 Part 2 gives an overview of technologies currently available to get humans to other planets, and what that means in terms of humanity&#8217;s expansion. We'll also talk about the technology advancements necessary for truly interstellar colonization.</description>
         <recording>
           <license>CC BY 4.0</license>
@@ -9337,7 +9458,94 @@ Based on ongoing research about the development of artifical intelligence in the
         </links>
       </event>
     </room>
-    <room name="dradio"/>
+    <room name="dradio">
+      <event id="8454" guid="3a209632-961f-458f-8d0b-442767d9589a">
+        <logo>/system/events/logos/000/008/454/large/dradio.png?1482610513</logo>
+        <date>2016-12-29T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>01:30</duration>
+        <room>dradio</room>
+        <slug>dradio33c3-8454-dlf_marktplatz_live</slug>
+        <title>DLF "Marktplatz" &#8211; Live</title>
+        <subtitle>Optimal anonym - Wie sch&#252;tze ich meine Daten und Identit&#228;t im Netz</subtitle>
+        <track>Deutschlandradio</track>
+        <type>podium</type>
+        <language>de</language>
+        <abstract>Wer im Netz ist wei&#223; es: Big Brother is watching you. Doch sind es in der Regel nicht die Geheimdienste, die sich f&#252;r die Surftouren ganz normaler Internet-Nutzer interessieren, sondern die Werbeindustrie und vor allem Computer-Kriminelle, die nach Schwachstellen und digitalen Verwundbarkeiten suchen. Deshalb raten viele Experten, sich im Netz unsichtbar zu machen, eine digitale Tarnkappe aufzuziehen und anonym durchs Netz zu browsen.</abstract>
+        <description>Zahlreiche IT-Sicherheitsanbieter werben neuerdings f&#252;r anonyme Webdienste oder Zusatzger&#228;te, sogenannte VPN-Browser und -Boxen, die dabei helfen sollen, unerkannt im Netz aktiv zu sein. Gleichzeitig versprechen viele dieser Dienste auch die Verschleierung des geografischen Standortes, um L&#228;nderbezogene Nutzungsbeschr&#228;nkungen bei den gro&#223;en Videoportalen zu umgehen. Im Marktplatz diskutieren Expertinnen und Experten mit den H&#246;rerinnen und H&#246;rern die Qualit&#228;t solcher Angebote. Wird man durch VPN-Surfing wirklich &#8222;unsichtbar&#8220; oder machen es die Dienste sogar leichter, Personen zu identifizieren. Welche Alternativen gibt es? Und: Ist es &#252;berhaupt ratsam, eigene Identit&#228;t zu verschleiern?&#13;
+&#13;
+G&#228;ste:&#13;
+Falk Garbsch, Chaos Computer Club&#13;
+Marit Hansen, Unabh&#228;ngiges Landeszentrum f&#252;r Datenschutz Schleswig Holstein&#13;
+Peter Knaak, Stiftung Warentest&#13;
+Cornelius Kopke, BITKOM e.V.&#13;
+&#13;
+Moderation: &#13;
+Manfred Kloiber</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7280">Manfred Kloiber</person>
+        </persons>
+        <links>
+          <link href="http://www.deutschlandfunk.de/marktplatz.771.de.html">DLF Marktplatz</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="8455" guid="b20cdd6a-76a0-4666-8aa6-69028582e010">
+        <logo>/system/events/logos/000/008/455/large/dradio.png?1482610632</logo>
+        <date>2016-12-29T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>dradio</room>
+        <slug>dradio33c3-8455-dlf_forschung_aktuell_studio_live</slug>
+        <title>DLF "Forschung Aktuell" &#8211; Studio/Live</title>
+        <subtitle>Berichte vom 33C3</subtitle>
+        <track>Deutschlandradio</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Live-Ausstrahlung der Sendung Forschung Aktuell des Deutschlandfunks. Direkt vom 33C3 zugeschaltet werden die DLF-Reporter vor Ort.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7280">Manfred Kloiber</person>
+        </persons>
+        <links>
+          <link href="http://www.deutschlandfunk.de/forschung-aktuell.675.de.html">DLF Forschung Aktuell</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="8456" guid="0fa86ed6-1787-431a-98fe-9246c562a500">
+        <logo>/system/events/logos/000/008/456/large/dradio.png?1482610750</logo>
+        <date>2016-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:45</duration>
+        <room>dradio</room>
+        <slug>dradio33c3-8456-deutschlandfunk_studio-talk</slug>
+        <title>Deutschlandfunk Studio-Talk</title>
+        <subtitle>Wissenschaftsberichterstattung im Radio</subtitle>
+        <track>Deutschlandradio</track>
+        <type>podium</type>
+        <language>de</language>
+        <abstract>Das Publikum in Saal 17 fragt, Manfred Kloiber und Peter Welchering antworten.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7280">Manfred Kloiber</person>
+          <person id="7281">Peter Welchering</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
     <room name="Sendezentrumsb&#252;hne">
       <event id="391" guid="57333763-6035-4945-bbe5-10a090126c21">
         <logo>/system/events/logos/000/000/391/large/cyber.jpg?1482576980</logo>
@@ -12527,7 +12735,88 @@ Making secure boot actually secure was a bigger effort than we initially expecte
         </links>
       </event>
     </room>
-    <room name="dradio"/>
+    <room name="dradio">
+      <event id="8457" guid="dd550c3b-6171-48e1-9b1c-8316fbeee4f4">
+        <logo>/system/events/logos/000/008/457/large/dradio.png?1482611230</logo>
+        <date>2016-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>dradio</room>
+        <slug>dradio33c3-8457-dlf_computer_und_kommunikation</slug>
+        <title>DLF "Computer und Kommunikation"</title>
+        <subtitle>Works for me - Der 33C3 in Hamburg</subtitle>
+        <track>Deutschlandradio</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Eine Zusammenfassung der wichtigsten Congress-Themen von und mit&#13;
+Manfred Kloiber, Jan R&#228;hm und Peter Welchering.</abstract>
+        <description>Aufzeichnung der Sendung, die am 31.12.2016 um 16:30 Uhr im Deutschlandfunk ausgestrahlt wird.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7280">Manfred Kloiber</person>
+          <person id="7281">Peter Welchering</person>
+          <person id="7282">Jan R&#228;hm</person>
+        </persons>
+        <links>
+          <link href="http://www.deutschlandfunk.de/computer-und-kommunikation.683.de.html">DLF Computer und Kommunikation</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="8458" guid="c65c42a8-bc15-4e60-bb4c-802ae2e6f4fd">
+        <logo>/system/events/logos/000/008/458/large/dradio.png?1482611379</logo>
+        <date>2016-12-30T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>dradio</room>
+        <slug>dradio33c3-8458-dlf_forschung_aktuell_studio_live</slug>
+        <title>DLF "Forschung Aktuell" &#8211; Studio/Live</title>
+        <subtitle>Berichte vom 33C3</subtitle>
+        <track>Deutschlandradio</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Live-Ausstrahlung der Sendung Forschung Aktuell des Deutschlandfunks. Direkt vom 33C3 zugeschaltet werden die DLF-Reporter vor Ort.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7281">Peter Welchering</person>
+        </persons>
+        <links>
+          <link href="http://www.deutschlandfunk.de/forschung-aktuell.675.de.html">DLF Forschung Aktuell</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="8459" guid="aae4aac9-0506-41d0-9e3d-0c65c9e1cf67">
+        <logo>/system/events/logos/000/008/459/large/dradio.png?1482611470</logo>
+        <date>2016-12-30T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:45</duration>
+        <room>dradio</room>
+        <slug>dradio33c3-8459-deutschlandfunk_studio-talk</slug>
+        <title>Deutschlandfunk Studio-Talk</title>
+        <subtitle>Wissenschaftsberichterstattung im Radio</subtitle>
+        <track>Deutschlandradio</track>
+        <type>podium</type>
+        <language>de</language>
+        <abstract>Das Publikum in Saal 17 fragt, Manfred Kloiber und Peter Welchering antworten.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7280">Manfred Kloiber</person>
+          <person id="7281">Peter Welchering</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
     <room name="Sendezentrumsb&#252;hne"/>
     <room name="Podcastingtisch">
       <event id="380" guid="c4c36fc5-e462-4193-bd2c-85ec1a21fbe5">
