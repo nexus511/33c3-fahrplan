@@ -31,7 +31,7 @@
           <link>https://events.ccc.de/congress/2016/wiki/Session:Subtitle_Coordinator_Angelmeetings</link>
         </links>
       </event>
-      <event id="1258" guid="efb088d3ad2beedd6f23811add22a097">
+      <event id="1259" guid="efb088d3ad2beedd6f23811add22a097">
         <logo/>
         <date>2016-12-26T21:00:00+01:00</date>
         <start>21:00</start>
@@ -84,7 +84,7 @@ During this Session we will introduce you to your dutys as a stage manager and t
       </event>
     </room>
     <room name="Hall B">
-      <event id="1074" guid="8dfd36020c289da34158859546960fe4">
+      <event id="1076" guid="8dfd36020c289da34158859546960fe4">
         <logo/>
         <date>2016-12-26T13:00:00+01:00</date>
         <start>13:00</start>
@@ -105,7 +105,7 @@ During this Session we will introduce you to your dutys as a stage manager and t
           <link>https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1076" guid="7609f4184e8e8b2c2145f6a02bb27577">
+      <event id="1078" guid="7609f4184e8e8b2c2145f6a02bb27577">
         <logo/>
         <date>2016-12-26T19:45:00+01:00</date>
         <start>19:45</start>
@@ -126,7 +126,7 @@ During this Session we will introduce you to your dutys as a stage manager and t
           <link>https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1078" guid="82605b18023ab9bf304023036613d153">
+      <event id="1080" guid="82605b18023ab9bf304023036613d153">
         <logo/>
         <date>2016-12-26T15:00:00+01:00</date>
         <start>15:00</start>
@@ -149,7 +149,7 @@ During this Session we will introduce you to your dutys as a stage manager and t
       </event>
     </room>
     <room name="Hall 13-14">
-      <event id="1288" guid="b4642dca82f3b99a0285cda5da1d8655">
+      <event id="1282" guid="b4642dca82f3b99a0285cda5da1d8655">
         <logo/>
         <date>2016-12-26T20:00:00+01:00</date>
         <start>20:00</start>
@@ -174,7 +174,7 @@ During this Session we will introduce you to your dutys as a stage manager and t
   </day>
   <day date="2016-12-27" index="2" end="2016-12-28T04:00:00+01:00" start="2016-12-27T06:00:00+01:00">
     <room name="Hall C.1">
-      <event id="1020" guid="a5a1f9f1e38b6dd01be85740aa155bc6">
+      <event id="1019" guid="a5a1f9f1e38b6dd01be85740aa155bc6">
         <logo/>
         <date>2016-12-27T12:00:00+01:00</date>
         <start>12:00</start>
@@ -586,7 +586,28 @@ mit den Freimeutern, Interbrigadas, .WAV, Graffitiarchiv, &#220;berraschungsg&#2
       </event>
     </room>
     <room name="Hall B">
-      <event id="1073" guid="36dbc1feca09488704db9acac8b61603">
+      <event id="1073" guid="dfad004af29a4928e21fc593833ccad8">
+        <logo/>
+        <date>2016-12-27T19:45:00+01:00</date>
+        <start>19:45</start>
+        <duration>0:30</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Engelmeeting</title>
+        <subtitle>Angelmeeting Day 1</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Knuth">Knuth</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting</link>
+        </links>
+      </event>
+      <event id="1075" guid="36dbc1feca09488704db9acac8b61603">
         <logo/>
         <date>2016-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -607,7 +628,7 @@ mit den Freimeutern, Interbrigadas, .WAV, Graffitiarchiv, &#220;berraschungsg&#2
           <link>https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1080" guid="00888f6062ff7c2f3f8fa508c3fd5ae4">
+      <event id="1082" guid="00888f6062ff7c2f3f8fa508c3fd5ae4">
         <logo/>
         <date>2016-12-27T13:00:00+01:00</date>
         <start>13:00</start>
@@ -616,27 +637,6 @@ mit den Freimeutern, Interbrigadas, .WAV, Graffitiarchiv, &#220;berraschungsg&#2
         <slug/>
         <title>Engelmeeting</title>
         <subtitle>Angel meeting day 1</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Knuth">Knuth</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting</link>
-        </links>
-      </event>
-      <event id="1082" guid="dfad004af29a4928e21fc593833ccad8">
-        <logo/>
-        <date>2016-12-27T19:45:00+01:00</date>
-        <start>19:45</start>
-        <duration>0:30</duration>
-        <room>Hall B</room>
-        <slug/>
-        <title>Engelmeeting</title>
-        <subtitle>Angelmeeting Day 1</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -909,7 +909,7 @@ To learn all that you need to learn the basic networking concepts. You're in luc
           <link>https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a</link>
         </links>
       </event>
-      <event id="1282" guid="0a4fe5181783d435230396b59ecd3fe6">
+      <event id="1284" guid="0a4fe5181783d435230396b59ecd3fe6">
         <logo/>
         <date>2016-12-27T19:40:00+01:00</date>
         <start>19:40</start>
@@ -930,7 +930,7 @@ To learn all that you need to learn the basic networking concepts. You're in luc
           <link>https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings</link>
         </links>
       </event>
-      <event id="1286" guid="d6363e66156d0473f5f996f9726e7805">
+      <event id="1288" guid="d6363e66156d0473f5f996f9726e7805">
         <logo/>
         <date>2016-12-27T15:10:00+01:00</date>
         <start>15:10</start>
@@ -1131,7 +1131,7 @@ Welcome to the Subtitles Angelmeeting!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings</link>
         </links>
       </event>
-      <event id="1259" guid="33d15813452eabff67587b00e4525369">
+      <event id="1258" guid="33d15813452eabff67587b00e4525369">
         <logo/>
         <date>2016-12-27T15:15:00+01:00</date>
         <start>15:15</start>
@@ -1888,7 +1888,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2016/wiki/Session:A_walk_through_the_inner_core_of_pEp</link>
         </links>
       </event>
-      <event id="1075" guid="8e5b07a7ad7ea771c8b3f9d10ca70ad5">
+      <event id="1077" guid="8e5b07a7ad7ea771c8b3f9d10ca70ad5">
         <logo/>
         <date>2016-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -1909,7 +1909,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1077" guid="80dd81cc8c3b304d9b1707f131c929b7">
+      <event id="1079" guid="80dd81cc8c3b304d9b1707f131c929b7">
         <logo/>
         <date>2016-12-28T19:45:00+01:00</date>
         <start>19:45</start>
@@ -2167,7 +2167,29 @@ Applying is as easy as possible and the next deadline at the begin of February. 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Prototype_Fund_-_1.2_Million_Euros_for_Free_Software_Projects</link>
         </links>
       </event>
-      <event id="1234" guid="b71ce3ffa02dca5f83180aaf66581567">
+      <event id="1234" guid="390998a1ab9f42dbefdc4f9bf1f69e29">
+        <logo/>
+        <date>2016-12-29T00:30:00+01:00</date>
+        <start>00:30</start>
+        <duration>1:00</duration>
+        <room>Hall 13-14</room>
+        <slug/>
+        <title>Skillconvention b</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>all travelers of a certain skill will be invented to join their respective session</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Reisende">Reisende</person>
+        </persons>
+        <links>
+          <link>http://thereisnogame.de</link>
+          <link>https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b</link>
+        </links>
+      </event>
+      <event id="1236" guid="b71ce3ffa02dca5f83180aaf66581567">
         <logo/>
         <date>2016-12-29T01:30:00+01:00</date>
         <start>01:30</start>
@@ -2189,32 +2211,10 @@ Applying is as easy as possible and the next deadline at the begin of February. 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b</link>
         </links>
       </event>
-      <event id="1235" guid="b06e4dfefe4629fdaf4c0ae1e5116d41">
+      <event id="1237" guid="b06e4dfefe4629fdaf4c0ae1e5116d41">
         <logo/>
         <date>2016-12-29T02:30:00+01:00</date>
         <start>02:30</start>
-        <duration>1:00</duration>
-        <room>Hall 13-14</room>
-        <slug/>
-        <title>Skillconvention b</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>all travelers of a certain skill will be invented to join their respective session</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Reisende">Reisende</person>
-        </persons>
-        <links>
-          <link>http://thereisnogame.de</link>
-          <link>https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b</link>
-        </links>
-      </event>
-      <event id="1237" guid="390998a1ab9f42dbefdc4f9bf1f69e29">
-        <logo/>
-        <date>2016-12-29T00:30:00+01:00</date>
-        <start>00:30</start>
         <duration>1:00</duration>
         <room>Hall 13-14</room>
         <slug/>
@@ -2259,15 +2259,15 @@ Self-empowerment never was so easy!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:The_user-friendly_guide_to_mobile_freedom</link>
         </links>
       </event>
-      <event id="1283" guid="415473cd68f9363bb56f229dfd94bb7b">
+      <event id="1281" guid="d18b6c2f9bccb7fcaae47ed524788ae1">
         <logo/>
-        <date>2016-12-28T15:10:00+01:00</date>
-        <start>15:10</start>
+        <date>2016-12-28T19:40:00+01:00</date>
+        <start>19:40</start>
         <duration>0:50</duration>
         <room>Hall 13-14</room>
         <slug/>
         <title>Translation meetings</title>
-        <subtitle>day 2, afternoon meeting</subtitle>
+        <subtitle>day 2, evening meeting</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language>en</language>
@@ -2280,15 +2280,15 @@ Self-empowerment never was so easy!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings</link>
         </links>
       </event>
-      <event id="1287" guid="d18b6c2f9bccb7fcaae47ed524788ae1">
+      <event id="1285" guid="415473cd68f9363bb56f229dfd94bb7b">
         <logo/>
-        <date>2016-12-28T19:40:00+01:00</date>
-        <start>19:40</start>
+        <date>2016-12-28T15:10:00+01:00</date>
+        <start>15:10</start>
         <duration>0:50</duration>
         <room>Hall 13-14</room>
         <slug/>
         <title>Translation meetings</title>
-        <subtitle>day 2, evening meeting</subtitle>
+        <subtitle>day 2, afternoon meeting</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language>en</language>
@@ -2572,10 +2572,10 @@ Siehe https://okfn.de/blog/2016/12/odgesetz/</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Screening_%26_discussion_NB</link>
         </links>
       </event>
-      <event id="1233" guid="58e0cb7cce31f817c96521e059bf40e1">
+      <event id="1233" guid="70c8429502d619a4df08c3b41d47c88c">
         <logo/>
-        <date>2016-12-29T01:30:00+01:00</date>
-        <start>01:30</start>
+        <date>2016-12-29T00:30:00+01:00</date>
+        <start>00:30</start>
         <duration>1:00</duration>
         <room>Hall A.1</room>
         <slug/>
@@ -2594,10 +2594,10 @@ Siehe https://okfn.de/blog/2016/12/odgesetz/</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b</link>
         </links>
       </event>
-      <event id="1236" guid="70c8429502d619a4df08c3b41d47c88c">
+      <event id="1235" guid="58e0cb7cce31f817c96521e059bf40e1">
         <logo/>
-        <date>2016-12-29T00:30:00+01:00</date>
-        <start>00:30</start>
+        <date>2016-12-29T01:30:00+01:00</date>
+        <start>01:30</start>
         <duration>1:00</duration>
         <room>Hall A.1</room>
         <slug/>
@@ -2856,7 +2856,7 @@ CryptoParties have been organized all over the world for more than four years. T
           <link>https://events.ccc.de/congress/2016/wiki/Session:How_to_Organize_a_CryptoParty</link>
         </links>
       </event>
-      <event id="1242" guid="aa9e9ee7e459ed3b4d191db2246d22f7">
+      <event id="1243" guid="aa9e9ee7e459ed3b4d191db2246d22f7">
         <logo/>
         <date>2016-12-29T20:15:00+01:00</date>
         <start>20:15</start>
@@ -3406,15 +3406,15 @@ Find a 7-min-intro on what this is about on: https://media.ccc.de/v/DS2016-7782-
           <link>https://events.ccc.de/congress/2016/wiki/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen</link>
         </links>
       </event>
-      <event id="1079" guid="b667c273cc0ea6bfc41077c37c7daca4">
+      <event id="1072" guid="7b2a2ebb53b4e58845bc13580d788dad">
         <logo/>
-        <date>2016-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>1:00</duration>
+        <date>2016-12-29T19:45:00+01:00</date>
+        <start>19:45</start>
+        <duration>0:30</duration>
         <room>Hall B</room>
         <slug/>
         <title>Engelmeeting</title>
-        <subtitle>Angelmeeting day 3</subtitle>
+        <subtitle>Angel meeting day 3</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -3427,15 +3427,15 @@ Find a 7-min-intro on what this is about on: https://media.ccc.de/v/DS2016-7782-
           <link>https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1081" guid="7b2a2ebb53b4e58845bc13580d788dad">
+      <event id="1081" guid="b667c273cc0ea6bfc41077c37c7daca4">
         <logo/>
-        <date>2016-12-29T19:45:00+01:00</date>
-        <start>19:45</start>
-        <duration>0:30</duration>
+        <date>2016-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
         <room>Hall B</room>
         <slug/>
         <title>Engelmeeting</title>
-        <subtitle>Angel meeting day 3</subtitle>
+        <subtitle>Angelmeeting day 3</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -3492,7 +3492,7 @@ Find a 7-min-intro on what this is about on: https://media.ccc.de/v/DS2016-7782-
           <link>https://events.ccc.de/congress/2016/wiki/Session:Schiko-Meeting</link>
         </links>
       </event>
-      <event id="1243" guid="3b37eebbde0ae5877170aef80a7a1a7d">
+      <event id="1242" guid="3b37eebbde0ae5877170aef80a7a1a7d">
         <logo/>
         <date>2016-12-29T20:45:00+01:00</date>
         <start>20:45</start>
@@ -3937,7 +3937,7 @@ The workshop will start with a small intro on the tools, and we can go deeper in
           <link>https://events.ccc.de/congress/2016/wiki/Session:OpenPGP_use_cases_beyond_email</link>
         </links>
       </event>
-      <event id="1238" guid="a1496422476dce53d2f614263adbeeca">
+      <event id="1239" guid="a1496422476dce53d2f614263adbeeca">
         <logo/>
         <date>2016-12-30T01:30:00+01:00</date>
         <start>01:30</start>
@@ -3959,7 +3959,7 @@ The workshop will start with a small intro on the tools, and we can go deeper in
           <link>https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c</link>
         </links>
       </event>
-      <event id="1239" guid="e359d1f9d3b1ca042ad6170cb80f550f">
+      <event id="1240" guid="e359d1f9d3b1ca042ad6170cb80f550f">
         <logo/>
         <date>2016-12-30T00:30:00+01:00</date>
         <start>00:30</start>
@@ -4009,7 +4009,7 @@ How might the future be looking with the recent work by W3C Social WG.</descript
           <link>https://events.ccc.de/congress/2016/wiki/Session:The_Federation</link>
         </links>
       </event>
-      <event id="1281" guid="36252d5cc335293f00e927b0b6eba7fb">
+      <event id="1283" guid="36252d5cc335293f00e927b0b6eba7fb">
         <logo/>
         <date>2016-12-29T19:40:00+01:00</date>
         <start>19:40</start>
@@ -4030,7 +4030,7 @@ How might the future be looking with the recent work by W3C Social WG.</descript
           <link>https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings</link>
         </links>
       </event>
-      <event id="1284" guid="7ced348984f17dd88a5c96ea1e3435ec">
+      <event id="1286" guid="7ced348984f17dd88a5c96ea1e3435ec">
         <logo/>
         <date>2016-12-29T15:10:00+01:00</date>
         <start>15:10</start>
@@ -4213,7 +4213,7 @@ Often on the internet there is a trade-off between anonymity and accountability.
           <link>https://events.ccc.de/congress/2016/wiki/Session:PoParty</link>
         </links>
       </event>
-      <event id="1240" guid="15f21480446aabdd28aa3fe571253266">
+      <event id="1238" guid="15f21480446aabdd28aa3fe571253266">
         <logo/>
         <date>2016-12-30T00:30:00+01:00</date>
         <start>00:30</start>
@@ -4357,7 +4357,7 @@ We're happy to advise visitors interested in setting up GNU Taler exchanges as w
           <link>https://events.ccc.de/congress/2016/wiki/Session:A-NOC</link>
         </links>
       </event>
-      <event id="1019" guid="dd95e8a0bc6dcebefc291461f0a81cfe">
+      <event id="1020" guid="dd95e8a0bc6dcebefc291461f0a81cfe">
         <logo/>
         <date>2016-12-30T12:00:00+01:00</date>
         <start>12:00</start>
@@ -4549,7 +4549,7 @@ Additionally, we are looking for concrete feedback from critical thinkers in the
       </event>
     </room>
     <room name="Hall B">
-      <event id="1072" guid="a9980c368a3480f25ab2bd4588283ecf">
+      <event id="1074" guid="a9980c368a3480f25ab2bd4588283ecf">
         <logo/>
         <date>2016-12-30T13:00:00+01:00</date>
         <start>13:00</start>
@@ -4661,7 +4661,7 @@ CADUS e.V. arbeitet seit &#252;ber 2 Jahren in verschiedenen Krisenregionen. In 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Pixel_Art_Workshop</link>
         </links>
       </event>
-      <event id="1285" guid="660e4d0d3a22279ed18e88982d5006fa">
+      <event id="1287" guid="660e4d0d3a22279ed18e88982d5006fa">
         <logo/>
         <date>2016-12-30T15:10:00+01:00</date>
         <start>15:10</start>

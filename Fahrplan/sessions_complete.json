@@ -7867,6 +7867,114 @@
             "1483030800"
         ]
     }, 
+    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482786000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
+        ], 
+        "Has description": [
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Couchsofa opening DJ set on day 0"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Klangteppich"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
+        "Has end time": [
+            "1482796800"
+        ]
+    }, 
+    "Session:Implications of the EU copyright reform on Free Software# 2e3ae7e1eed32991d1e513792a5bcc0e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482937200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://fsfe.org/news/2016/news-20160928-01.en.html"
+        ], 
+        "Has description": [
+            "The session is designed to discuss and exchange the views about the implications of on-going copyright reform on Free Software, in particular the inclusion of far-reaching DRM measures in the latest proposal for the directive and how this can have an impact on Free Software. The session will start with a small presentation on the topic, followed by the discussion with the participants."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Implications of the EU copyright reform on Free Software"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Implications_of_the_EU_copyright_reform_on_Free_Software", 
+        "Has end time": [
+            "1482940800"
+        ]
+    }, 
     "Session:Klangteppich# a33e122a93f95fe8add42f678dc1b55c": {
         "Held in language": [
             "en - English"
@@ -7923,56 +8031,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
             "1482886800"
-        ]
-    }, 
-    "Session:Implications of the EU copyright reform on Free Software# 2e3ae7e1eed32991d1e513792a5bcc0e": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482937200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://fsfe.org/news/2016/news-20160928-01.en.html"
-        ], 
-        "Has description": [
-            "The session is designed to discuss and exchange the views about the implications of on-going copyright reform on Free Software, in particular the inclusion of far-reaching DRM measures in the latest proposal for the directive and how this can have an impact on Free Software. The session will start with a small presentation on the topic, followed by the discussion with the participants."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Implications of the EU copyright reform on Free Software"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Implications_of_the_EU_copyright_reform_on_Free_Software", 
-        "Has end time": [
-            "1482940800"
         ]
     }, 
     "Session:Film-Abend# fbc9e7ed36a705cf72c554aa7c10ff35": {
@@ -16136,64 +16194,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Wikidata,_the_encyclopedia_by_bots,_for_bots", 
         "Has end time": [
             "1482937200"
-        ]
-    }, 
-    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482786000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
-        ], 
-        "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Couchsofa opening DJ set on day 0"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:JayDee2202", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Klangteppich"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
-        "Has end time": [
-            "1482796800"
         ]
     }, 
     "Session:Translation meetings# 36252d5cc335293f00e927b0b6eba7fb": {
