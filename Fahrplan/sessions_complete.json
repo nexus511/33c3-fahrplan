@@ -5978,54 +5978,6 @@
             "1483029000"
         ]
     }, 
-    "Session:Translation meetings# d6363e66156d0473f5f996f9726e7805": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482851400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "day 1, afternoon meeting"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Translation meetings"
-        ], 
-        "Has duration": [
-            50
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
-        "Has end time": [
-            "1482854400"
-        ]
-    }, 
     "Session:IT-solutions for humanitarian crisis problems# 20371a76b601f1e4bea5b1c0244d0cc9": {
         "Held in language": [
             "en - English"
@@ -9698,48 +9650,53 @@
             "1483048800"
         ]
     }, 
-    "Session:Shitty Robot - Workshop# 5a610ab63c3729347e2a39460a4295c3": {
+    "Session:Translation meetings# d6363e66156d0473f5f996f9726e7805": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482851400"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Workshop f\u00fcr die Shitty Robots/Vorbereitung auf Shitty Robot /Hebocon Battle.\n\nF\u00fcr das Sumo battle siehe: https://events.ccc.de/congress/2016/wiki/index.php?title=Session:Shitty_Robot_/Hebocon_Battle"
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
         ], 
-        "Has session type": [
-            "Workshop"
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
         ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "day 1, afternoon meeting"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Fluktusdukt", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Fluktusdukt", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Konfusius", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Konfusius", 
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Shitty Robot - Workshop"
+            "Translation meetings"
         ], 
         "Has duration": [
-            360
+            50
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shitty_Robot_-_Workshop", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "Has end time": [
+            "1482854400"
+        ]
     }, 
     "Session:Open Science Workshop# d93aeca26ff9fa5a1b03992460914abb": {
         "Held in language": [
@@ -10494,6 +10451,53 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
         "Has end time": [
             "1482854400"
+        ]
+    }, 
+    "Session:Shitty Robot - Workshop# 4c7edcb63708de38b826f82b4ad16d64": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482926400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Workshop f\u00fcr die Shitty Robots/Vorbereitung auf Shitty Robot /Hebocon Battle.\n\nF\u00fcr das Sumo battle siehe: https://events.ccc.de/congress/2016/wiki/index.php?title=Session:Shitty_Robot_/Hebocon_Battle"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Fluktusdukt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Fluktusdukt", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Konfusius", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Konfusius", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Shitty Robot - Workshop"
+        ], 
+        "Has duration": [
+            360
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shitty_Robot_-_Workshop", 
+        "Has end time": [
+            "1482948000"
         ]
     }, 
     "Session:3D scan yourself# 419977ca84111491ee44c770a82bc1f8": {
