@@ -2070,7 +2070,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1116, 
+                                "id": 1117, 
                                 "guid": "d0288fe6dd4e0bc74b5b7e0302906c53", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -2242,11 +2242,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1251, 
-                                "guid": "33d15813452eabff67587b00e4525369", 
+                                "id": 1250, 
+                                "guid": "10fee5225d917f2650ea518ea0e2f909", 
                                 "logo": null, 
-                                "date": "2016-12-27T15:15:00+01:00", 
-                                "start": "15:15", 
+                                "date": "2016-12-27T10:00:00+01:00", 
+                                "start": "10:00", 
                                 "duration": "0:30", 
                                 "room": "Hall A.1", 
                                 "slug": "", 
@@ -2271,10 +2271,10 @@
                             }, 
                             {
                                 "id": 1254, 
-                                "guid": "10fee5225d917f2650ea518ea0e2f909", 
+                                "guid": "33d15813452eabff67587b00e4525369", 
                                 "logo": null, 
-                                "date": "2016-12-27T10:00:00+01:00", 
-                                "start": "10:00", 
+                                "date": "2016-12-27T15:15:00+01:00", 
+                                "start": "15:15", 
                                 "duration": "0:30", 
                                 "room": "Hall A.1", 
                                 "slug": "", 
@@ -2584,7 +2584,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1246, 
+                                "id": 1247, 
                                 "guid": "82bab9758cf59aa2590ae41b3e81cd3f", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:30:00+01:00", 
@@ -2718,15 +2718,15 @@
                             }, 
                             {
                                 "id": 1236, 
-                                "guid": "14941c8507e11bfca519c6a8a9a360aa", 
+                                "guid": "82fc8f185c93ad0529656beecd829618", 
                                 "logo": null, 
-                                "date": "2016-12-27T17:30:00+01:00", 
-                                "start": "17:30", 
+                                "date": "2016-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:10", 
                                 "room": "Hall C.2", 
                                 "slug": "", 
                                 "title": "Space Hacking", 
-                                "subtitle": "KulturKunstPartyPolitik! - Teil2: Urban Intervention", 
+                                "subtitle": "KulturKunstPartyPolitik! - Teil1: Collective Space", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -2749,15 +2749,15 @@
                             }, 
                             {
                                 "id": 1237, 
-                                "guid": "82fc8f185c93ad0529656beecd829618", 
+                                "guid": "14941c8507e11bfca519c6a8a9a360aa", 
                                 "logo": null, 
-                                "date": "2016-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2016-12-27T17:30:00+01:00", 
+                                "start": "17:30", 
                                 "duration": "1:10", 
                                 "room": "Hall C.2", 
                                 "slug": "", 
                                 "title": "Space Hacking", 
-                                "subtitle": "KulturKunstPartyPolitik! - Teil1: Collective Space", 
+                                "subtitle": "KulturKunstPartyPolitik! - Teil2: Urban Intervention", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -3403,7 +3403,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1047, 
+                                "id": 1048, 
                                 "guid": "09dc806817705dc5d7ad3cf12a70cb12", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -3629,7 +3629,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1147, 
+                                "id": 1149, 
                                 "guid": "0ec83008f8dd23e209fe4e06e9197631", 
                                 "logo": null, 
                                 "date": "2016-12-28T01:00:00+01:00", 
@@ -3804,16 +3804,16 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1148, 
-                                "guid": "43636d9b169a5b4efd4a2ac28a2f0933", 
+                                "id": 1144, 
+                                "guid": "a33e122a93f95fe8add42f678dc1b55c", 
                                 "logo": null, 
-                                "date": "2016-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "3:00", 
+                                "date": "2016-12-27T23:00:00+01:00", 
+                                "start": "23:00", 
+                                "duration": "2:00", 
                                 "room": "Assembly:Chaos West", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno", 
+                                "subtitle": "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "en", 
@@ -3837,16 +3837,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1149, 
-                                "guid": "a33e122a93f95fe8add42f678dc1b55c", 
+                                "id": 1145, 
+                                "guid": "43636d9b169a5b4efd4a2ac28a2f0933", 
                                 "logo": null, 
-                                "date": "2016-12-27T23:00:00+01:00", 
-                                "start": "23:00", 
-                                "duration": "2:00", 
+                                "date": "2016-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "3:00", 
                                 "room": "Assembly:Chaos West", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop", 
+                                "subtitle": "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "en", 
@@ -4038,7 +4038,7 @@
                         ], 
                         "Assembly:Free Software Foundation Europe": [
                             {
-                                "id": 1162, 
+                                "id": 1163, 
                                 "guid": "f6a08b0981e982f4d9312d7bd8c5cffe", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:00:00+01:00", 
@@ -6380,7 +6380,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1118, 
+                                "id": 1116, 
                                 "guid": "2b55e4c20c327a0fbe6204663002bb03", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -6490,7 +6490,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1239, 
+                                "id": 1240, 
                                 "guid": "24d51cd703f53fb90adff0184890fcf9", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -6518,7 +6518,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1249, 
+                                "id": 1251, 
                                 "guid": "3f394b79cf5c8d868ddc732d38346a06", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:15:00+01:00", 
@@ -6548,8 +6548,8 @@
                         ], 
                         "Hall A.2": [
                             {
-                                "id": 1044, 
-                                "guid": "7081efae0d2b2db54ad63837bf469802", 
+                                "id": 1041, 
+                                "guid": "749a8725051538239ab5ac1044bb58f9", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
                                 "start": "10:00", 
@@ -6557,7 +6557,7 @@
                                 "room": "Hall A.2", 
                                 "slug": "", 
                                 "title": "Coder Dojo", 
-                                "subtitle": "Coder Dojo (gesamter Zeitraum)", 
+                                "subtitle": "Junghackertag Workshops", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -6699,35 +6699,6 @@
                             }, 
                             {
                                 "id": 1292, 
-                                "guid": "71ee3f1c08d4d04914c27cac159a56da", 
-                                "logo": null, 
-                                "date": "2016-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "We Fix the Net", 
-                                "subtitle": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
-                                        "public_name": "Jeffburdges"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://gnunet.org", 
-                                    "http://pep.foundation/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net"
-                                ]
-                            }, 
-                            {
-                                "id": 1293, 
                                 "guid": "bbb81a0158a76477271da3f3095201e4", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -6756,7 +6727,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1294, 
+                                "id": 1293, 
                                 "guid": "929ba2a8a173dad4fb8ab1125b31a656", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:45:00+01:00", 
@@ -6766,6 +6737,35 @@
                                 "slug": "", 
                                 "title": "We Fix the Net", 
                                 "subtitle": "Opertunistic Email Encryption", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
+                                        "public_name": "Jeffburdges"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://gnunet.org", 
+                                    "http://pep.foundation/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net"
+                                ]
+                            }, 
+                            {
+                                "id": 1294, 
+                                "guid": "71ee3f1c08d4d04914c27cac159a56da", 
+                                "logo": null, 
+                                "date": "2016-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "We Fix the Net", 
+                                "subtitle": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "en", 
@@ -7187,7 +7187,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1040, 
+                                "id": 1042, 
                                 "guid": "82b6f15ab0e1d33b37e9817f997864d8", 
                                 "logo": null, 
                                 "date": "2016-12-28T11:00:00+01:00", 
@@ -7225,7 +7225,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1041, 
+                                "id": 1043, 
                                 "guid": "8ba93735bba7d3bfbd659432e4e1a209", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
@@ -7263,7 +7263,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1042, 
+                                "id": 1044, 
                                 "guid": "63e139952a00c3892483056b952e5625", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -7417,7 +7417,7 @@
                         ], 
                         "Hall C.4": [
                             {
-                                "id": 1043, 
+                                "id": 1040, 
                                 "guid": "ce369fbaa66a09e01586ffcab4b39c4a", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -8113,7 +8113,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1145, 
+                                "id": 1147, 
                                 "guid": "1d417fdc38d9002139dfa87a15a17e0e", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -8661,7 +8661,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1048, 
+                                "id": 1045, 
                                 "guid": "564529d15da47a81c4220a1ec5deca10", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -9092,7 +9092,7 @@
                         ], 
                         "Assembly:Free Software Foundation Europe": [
                             {
-                                "id": 1163, 
+                                "id": 1162, 
                                 "guid": "2e3e91c23a1e9b472b42cb23c76be0d9", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:30:00+01:00", 
@@ -11308,7 +11308,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1117, 
+                                "id": 1118, 
                                 "guid": "84dbea847aa14b670fb6f45d765521f4", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -11397,7 +11397,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1240, 
+                                "id": 1241, 
                                 "guid": "391e226a6dc0aa72ad5b79b718ed0cfa", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -11956,6 +11956,11 @@
                                         "id": 0, 
                                         "url": "https://events.ccc.de/congress/2016/wiki/User:Karl_Weber", 
                                         "public_name": "Karl Weber"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Magic", 
+                                        "public_name": "Magic"
                                     }
                                 ], 
                                 "links": [
@@ -12488,7 +12493,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1247, 
+                                "id": 1246, 
                                 "guid": "f5d865fef0629079b8e1d8cd125457e2", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:00:00+01:00", 
@@ -12659,11 +12664,11 @@
                             }, 
                             {
                                 "id": 1174, 
-                                "guid": "4712451863c504ac72d4e643f6a79938", 
+                                "guid": "e81169038db8e5ffee3fa6db477d956c", 
                                 "logo": null, 
-                                "date": "2016-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "2:15", 
+                                "date": "2016-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "3:00", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Movie Night", 
@@ -12680,11 +12685,11 @@
                             }, 
                             {
                                 "id": 1175, 
-                                "guid": "e81169038db8e5ffee3fa6db477d956c", 
+                                "guid": "4712451863c504ac72d4e643f6a79938", 
                                 "logo": null, 
-                                "date": "2016-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "3:00", 
+                                "date": "2016-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:15", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Movie Night", 
@@ -12732,7 +12737,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1253, 
+                                "id": 1249, 
                                 "guid": "f48797b83b3006b88510ce3136aec9e2", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:15:00+01:00", 
@@ -13293,7 +13298,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1045, 
+                                "id": 1046, 
                                 "guid": "66aec1439006361abdf3fcf23947cd4f", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -13680,7 +13685,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1144, 
+                                "id": 1146, 
                                 "guid": "8f2144006158cc65262cd392541cf8c7", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:00:00+01:00", 
@@ -13713,7 +13718,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1146, 
+                                "id": 1150, 
                                 "guid": "e7efaa00f19b51ad38201d9ba027d3b6", 
                                 "logo": null, 
                                 "date": "2016-12-29T23:00:00+01:00", 
@@ -14811,7 +14816,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1250, 
+                                "id": 1252, 
                                 "guid": "17595f694e88dd271208bb120d2ded5d", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:15:00+01:00", 
@@ -15159,7 +15164,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1046, 
+                                "id": 1047, 
                                 "guid": "344833a144e5511fc5cb35044e92d1e9", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
