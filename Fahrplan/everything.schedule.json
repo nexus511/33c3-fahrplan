@@ -2208,11 +2208,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1244, 
-                                "guid": "33d15813452eabff67587b00e4525369", 
+                                "id": 1243, 
+                                "guid": "10fee5225d917f2650ea518ea0e2f909", 
                                 "logo": null, 
-                                "date": "2016-12-27T15:15:00+01:00", 
-                                "start": "15:15", 
+                                "date": "2016-12-27T10:00:00+01:00", 
+                                "start": "10:00", 
                                 "duration": "0:30", 
                                 "room": "Hall A.1", 
                                 "slug": "", 
@@ -2237,10 +2237,10 @@
                             }, 
                             {
                                 "id": 1245, 
-                                "guid": "10fee5225d917f2650ea518ea0e2f909", 
+                                "guid": "33d15813452eabff67587b00e4525369", 
                                 "logo": null, 
-                                "date": "2016-12-27T10:00:00+01:00", 
-                                "start": "10:00", 
+                                "date": "2016-12-27T15:15:00+01:00", 
+                                "start": "15:15", 
                                 "duration": "0:30", 
                                 "room": "Hall A.1", 
                                 "slug": "", 
@@ -3118,8 +3118,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1112, 
-                                "guid": "d556895bd62c1aea6bf682e4f9096b06", 
+                                "id": 1113, 
+                                "guid": "2008f5a420ab39892d5d9e0e361255f3", 
                                 "logo": null, 
                                 "date": "2016-12-27T22:00:00+01:00", 
                                 "start": "22:00", 
@@ -3127,12 +3127,12 @@
                                 "room": "Hall 13-14", 
                                 "slug": "", 
                                 "title": "Hacker workflows", 
-                                "subtitle": "Hackbases I", 
+                                "subtitle": "", 
                                 "track": "self organized sessions", 
-                                "type": "", 
+                                "type": "discussion", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "", 
+                                "description": "WHAT DO YOU USE FOR X?\nCall out the best and worst open source software, websites, and practices. Relaxed get-together + Pad note-taking + Learn.\nFocus: Groupware / Collaboration / \"Workflow\".", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -3574,7 +3574,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1145, 
+                                "id": 1144, 
                                 "guid": "0ec83008f8dd23e209fe4e06e9197631", 
                                 "logo": null, 
                                 "date": "2016-12-28T01:00:00+01:00", 
@@ -7766,7 +7766,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1111, 
+                                "id": 1112, 
                                 "guid": "4d0f52b022672f45d07ebff0f02a8b54", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:45:00+01:00", 
@@ -14779,21 +14779,21 @@
                         "Hall F": [], 
                         "Hall 13-14": [
                             {
-                                "id": 1113, 
-                                "guid": "20498842da28d0599c7207c1883bba42", 
+                                "id": 1111, 
+                                "guid": "123da14d03e74209f19f4e0279f943f2", 
                                 "logo": null, 
                                 "date": "2016-12-30T18:00:00+01:00", 
                                 "start": "18:00", 
                                 "duration": "1:00", 
                                 "room": "Hall 13-14", 
                                 "slug": "", 
-                                "title": "Hacker workflows", 
-                                "subtitle": "Hackbases II", 
+                                "title": "Hackbases 5 years", 
+                                "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "", 
+                                "description": "Hackbases are similar to hackerspaces but people also live in them.", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -14802,7 +14802,8 @@
                                     }
                                 ], 
                                 "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Hacker_workflows"
+                                    "http://totalism.org", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Hackbases_5_years"
                                 ]
                             }, 
                             {

@@ -620,59 +620,54 @@
             "1483020000"
         ]
     }, 
-    "Session:Space Hacking# 14941c8507e11bfca519c6a8a9a360aa": {
+    "Session:UMUM# f8e579f83b5d861b4995f59d9dde973b": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482859800"
+            "1482930000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://www.reclaimyourcity.net", 
-            "http://www.w3arevisual.wordpress.com", 
-            "http://interbrigadas.org", 
-            "http://www.anarche.noblogs.org"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "KulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten, Hausfassaden, die innerhalb weniger Minuten in Farbe getaucht werden\u2026\n\nWie nehmen wir uns den \u00f6ffentlichen Raum, umgehen seine Vorschriften und Reglementierungen?\nWie schaffen wir Orte f\u00fcr Kollektivit\u00e4t und basisdemokratisches Zusammenleben?\n\nmit den Freimeutern, Interbrigadas, .WAV, Graffitiarchiv, \u00dcberraschungsg\u00e4sten und Mensch Meier."
+            "Meeting of users and not-yet-users of MikroTik devices  to get in contact and share their wisdom. This meeting is private organized!"
         ], 
         "Has session type": [
-            "Talk"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "KulturKunstPartyPolitik! - Teil2: Urban Intervention"
+            "Friends Of MikroTik Meeting"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Jona", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jona", 
+                "fulltext": "User:Njumaen", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Njumaen", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Space Hacking"
+            "UMUM"
         ], 
         "Has duration": [
-            70
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Space_Hacking", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:UMUM", 
         "Has end time": [
-            "1482864000"
+            "1482935400"
         ]
     }, 
     "Session:In kurzer Zeit zur Schl\u00fcsselwurst# 0936add29a07c5b130fe33a8deb42d7f": {
@@ -1230,54 +1225,62 @@
             "1482834600"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Open Education Workshop# afb476729e7b1c943d0120dec5187fcc": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1482940800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://c3subtitles.de/"
+            "http://education.okfn.org/"
         ], 
         "Has description": [
-            "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!"
+            "Despite high expectations, \"digital education\" has not much advanced beyond sharing single-purpose worksheets as pdf. Existing Open Educational Resources (OER) often tend to reinforce current teaching scenarios and top-down structures, missing out on the potential for new forms of participation. To prepare new education projects, we invite you to share your experiences and ideas: How can digital methods / concepts / tools contribute to a more inclusive pedagogy, enabling and motivating learners for co-creation? What else can we do within existing frameworks, and how to approach it effectively in class?"
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "New school, Old school - How can we hack education?"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Cube", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
+                "fulltext": "User:NMarkus", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NMarkus", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:PeterVanPan", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:PeterVanPan", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Subtitles-Angelmeetings"
+            "Open Education Workshop"
         ], 
         "Has duration": [
-            30
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Open_Education_Workshop", 
         "Has end time": [
-            "1482853500"
+            "1482946200"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
@@ -3473,6 +3476,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:AI:_He_will_be_amazed_if_he_stays_dead!_-_Der_wird_sich_wundern,_wenn_er_tot_bleibt!", 
         "Has end time": [
             "1482960600"
+        ]
+    }, 
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483024500"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3subtitles.de/"
+        ], 
+        "Has description": [
+            "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Subtitles-Angelmeetings"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
+        "Has end time": [
+            "1483026300"
         ]
     }, 
     "Session:Haecksenraum# 84dbea847aa14b670fb6f45d765521f4": {
@@ -7735,12 +7788,12 @@
             "1482880500"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -7756,8 +7809,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -7782,7 +7835,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:Klangteppich# e7efaa00f19b51ad38201d9ba027d3b6": {
@@ -8071,40 +8124,42 @@
             "1483039800"
         ]
     }, 
-    "Session:Hacker workflows# d556895bd62c1aea6bf682e4f9096b06": {
+    "Session:Vegan Replacements \u2013 Hacking Food Traditions# 117523505da5a6fba2fef7c184e69b8f": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482876000"
+            "1482854400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
+        "Has description": [
+            "We want to share our favourite ways to satisfy our cravings for childhood-memory-food through vegan substitutes. We won\u2019t cook that much but, share and taste visions and experiences. \n \nCome, if you want to share your favourite substitute, bring a sample or recipe.\n\nCome, if you search for a vegan alternative for your favourite dish and pose a challenge."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Hackbases I"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Dcht00", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dcht00", 
+                "fulltext": "User:Momio", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Momio", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Hacker workflows"
+            "Vegan Replacements \u2013 Hacking Food Traditions"
         ], 
         "Has duration": [
             60
@@ -8112,9 +8167,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hacker_workflows", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Vegan_Replacements_%E2%80%93_Hacking_Food_Traditions", 
         "Has end time": [
-            "1482879600"
+            "1482858000"
         ]
     }, 
     "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
@@ -8601,56 +8656,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_beginners", 
         "Has end time": [
             "1483023600"
-        ]
-    }, 
-    "Session:UMUM# f8e579f83b5d861b4995f59d9dde973b": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482930000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Meeting of users and not-yet-users of MikroTik devices  to get in contact and share their wisdom. This meeting is private organized!"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Friends Of MikroTik Meeting"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Njumaen", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Njumaen", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "UMUM"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:UMUM", 
-        "Has end time": [
-            "1482935400"
         ]
     }, 
     "Session:Engelmeeting# dfad004af29a4928e21fc593833ccad8": {
@@ -9462,54 +9467,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Boat_instruments_hacking", 
         "Has end time": [
             "1482940800"
-        ]
-    }, 
-    "Session:Vegan Replacements \u2013 Hacking Food Traditions# 117523505da5a6fba2fef7c184e69b8f": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482854400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "We want to share our favourite ways to satisfy our cravings for childhood-memory-food through vegan substitutes. We won\u2019t cook that much but, share and taste visions and experiences. \n \nCome, if you want to share your favourite substitute, bring a sample or recipe.\n\nCome, if you search for a vegan alternative for your favourite dish and pose a challenge."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Momio", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Momio", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Vegan Replacements \u2013 Hacking Food Traditions"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Vegan_Replacements_%E2%80%93_Hacking_Food_Traditions", 
-        "Has end time": [
-            "1482858000"
         ]
     }, 
     "Session:Brewing beer for beginners# eb4776d6275a8b61006251d6425bfcf8": {
@@ -11035,62 +10992,52 @@
             "1483055100"
         ]
     }, 
-    "Session:Open Education Workshop# afb476729e7b1c943d0120dec5187fcc": {
+    "Session:Hackbases 5 years# 123da14d03e74209f19f4e0279f943f2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482940800"
+            "1483120800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://education.okfn.org/"
+            "http://totalism.org"
         ], 
         "Has description": [
-            "Despite high expectations, \"digital education\" has not much advanced beyond sharing single-purpose worksheets as pdf. Existing Open Educational Resources (OER) often tend to reinforce current teaching scenarios and top-down structures, missing out on the potential for new forms of participation. To prepare new education projects, we invite you to share your experiences and ideas: How can digital methods / concepts / tools contribute to a more inclusive pedagogy, enabling and motivating learners for co-creation? What else can we do within existing frameworks, and how to approach it effectively in class?"
+            "Hackbases are similar to hackerspaces but people also live in them."
         ], 
-        "Has session type": [
-            "Workshop"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "New school, Old school - How can we hack education?"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:NMarkus", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NMarkus", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:PeterVanPan", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:PeterVanPan", 
+                "fulltext": "User:Dcht00", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dcht00", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Open Education Workshop"
+            "Hackbases 5 years"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Open_Education_Workshop", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackbases_5_years", 
         "Has end time": [
-            "1482946200"
+            "1483124400"
         ]
     }, 
     "Session:Skillconvention b# b71ce3ffa02dca5f83180aaf66581567": {
@@ -11271,6 +11218,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Eine_Botschaft_an_Au%C3%9Ferirdische_(Wondrous_Mathematics)", 
         "Has end time": [
             "1482930000"
+        ]
+    }, 
+    "Session:Hacker workflows# 2008f5a420ab39892d5d9e0e361255f3": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482876000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "WHAT DO YOU USE FOR X?\nCall out the best and worst open source software, websites, and practices. Relaxed get-together + Pad note-taking + Learn.\nFocus: Groupware / Collaboration / \"Workflow\"."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Dcht00", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dcht00", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Hacker workflows"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hacker_workflows", 
+        "Has end time": [
+            "1482879600"
         ]
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# e8d4aeb2d2ef0415687e34e714ed7c92": {
@@ -15419,50 +15414,59 @@
             "1482951600"
         ]
     }, 
-    "Session:Hacker workflows# 20498842da28d0599c7207c1883bba42": {
+    "Session:Space Hacking# 14941c8507e11bfca519c6a8a9a360aa": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1483120800"
+            "1482859800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
+        "Has website": [
+            "http://www.reclaimyourcity.net", 
+            "http://www.w3arevisual.wordpress.com", 
+            "http://interbrigadas.org", 
+            "http://www.anarche.noblogs.org"
+        ], 
+        "Has description": [
+            "KulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten, Hausfassaden, die innerhalb weniger Minuten in Farbe getaucht werden\u2026\n\nWie nehmen wir uns den \u00f6ffentlichen Raum, umgehen seine Vorschriften und Reglementierungen?\nWie schaffen wir Orte f\u00fcr Kollektivit\u00e4t und basisdemokratisches Zusammenleben?\n\nmit den Freimeutern, Interbrigadas, .WAV, Graffitiarchiv, \u00dcberraschungsg\u00e4sten und Mensch Meier."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Hackbases II"
+            "KulturKunstPartyPolitik! - Teil2: Urban Intervention"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Dcht00", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dcht00", 
+                "fulltext": "User:Jona", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jona", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Hacker workflows"
+            "Space Hacking"
         ], 
         "Has duration": [
-            60
+            70
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hacker_workflows", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Space_Hacking", 
         "Has end time": [
-            "1483124400"
+            "1482864000"
         ]
     }, 
     "Session:42birds: Randomized Signature Block for Emails# 71a6af2b3a1575eb67bffdd387212a5f": {
