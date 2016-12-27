@@ -2821,53 +2821,52 @@
             "1482883140"
         ]
     }, 
-    "Session:Your own Glowing Micropet!# e32112845c816d8bd5135c4b748134b3": {
+    "Session:Klingon War of Succession# 4e261b0c4abedbfd3aedc2d50da5100d": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1483030800"
+            "1482926400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Enter this Workshop to get a sample of your very own glow-in-the-dark pet! We will be playing around with Aliibvibrio Fischeri, a bioluminescent bacterium living all over the world's oceans."
+            "demonstration of serious games as teaching and/or analysis tool with a well known star trek scenario."
         ], 
         "Has session type": [
-            "Hands-On"
+            "Game"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Anarchist Village", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Anarchist_Village", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:A.Vibrio.F.", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:A.Vibrio.F.", 
+                "fulltext": "User:Klemens", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Your own Glowing Micropet!"
+            "Klingon War of Succession"
         ], 
         "Has duration": [
-            120
+            210
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Your_own_Glowing_Micropet!", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klingon_War_of_Succession", 
         "Has end time": [
-            "1483038000"
+            "1482939000"
         ]
     }, 
     "Session:Subtitles-Angelmeetings# 3f394b79cf5c8d868ddc732d38346a06": {
@@ -6033,6 +6032,55 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
             "1482879600"
+        ]
+    }, 
+    "Session:Your own Glowing Micropet!# e32112845c816d8bd5135c4b748134b3": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483030800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Enter this Workshop to get a sample of your very own glow-in-the-dark pet! We will be playing around with Aliibvibrio Fischeri, a bioluminescent bacterium living all over the world's oceans."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:A.Vibrio.F.", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:A.Vibrio.F.", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Your own Glowing Micropet!"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Your_own_Glowing_Micropet!", 
+        "Has end time": [
+            "1483038000"
         ]
     }, 
     "Session:42birds: Randomized Signature Block for Emails# f946632eebd4786b62ceee97367d23aa": {
@@ -14054,7 +14102,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "1Open Milling  - PCB Milling with the othermill"
+            "Open Milling  - Mill your PCB Design, Learn PCB Milling"
         ], 
         "Has session type": [
             "Workshop"
