@@ -2162,6 +2162,55 @@
             "1483102800"
         ]
     }, 
+    "Session:Your own Glowing Micropet!# e32112845c816d8bd5135c4b748134b3": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483030800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Enter this Workshop to get a sample of your very own glow-in-the-dark pet! We will be playing around with Aliibvibrio Fischeri, a bioluminescent bacterium living all over the world's oceans."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:A.Vibrio.F.", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:A.Vibrio.F.", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Your own Glowing Micropet!"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Your_own_Glowing_Micropet!", 
+        "Has end time": [
+            "1483038000"
+        ]
+    }, 
     "Session:We Fix the Net# 929ba2a8a173dad4fb8ab1125b31a656": {
         "Held in language": [
             "en - English"
@@ -6142,53 +6191,53 @@
             "1482879600"
         ]
     }, 
-    "Session:Your own Glowing Micropet!# e32112845c816d8bd5135c4b748134b3": {
+    "Session:Wizard of Berlin's Freifunk Firmware# 830aec1022069379f6d194205cff0c04": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1483030800"
+            "1482867000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Enter this Workshop to get a sample of your very own glow-in-the-dark pet! We will be playing around with Aliibvibrio Fischeri, a bioluminescent bacterium living all over the world's oceans."
+            "We'll present our new wizard for configuring Freifunk routers"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:A.Vibrio.F.", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:A.Vibrio.F.", 
+                "fulltext": "User:Andrenarchy", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andrenarchy", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Your own Glowing Micropet!"
+            "Wizard of Berlin's Freifunk Firmware"
         ], 
         "Has duration": [
-            120
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Your_own_Glowing_Micropet!", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Wizard_of_Berlin%27s_Freifunk_Firmware", 
         "Has end time": [
-            "1483038000"
+            "1482868800"
         ]
     }, 
     "Session:42birds: Randomized Signature Block for Emails# f946632eebd4786b62ceee97367d23aa": {
@@ -6934,41 +6983,6 @@
         "Has end time": [
             "1482940800"
         ]
-    }, 
-    "Session:Wizard of Berlin's Freifunk Firmware# 5c511c0633d1e142ab295af9eb175d0e": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "We'll present our new wizard for configuring Freifunk routers"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Wizard of Berlin's Freifunk Firmware"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Wizard_of_Berlin%27s_Freifunk_Firmware", 
-        "Has end time": []
     }, 
     "Session:ComputerSaysNo# 13af61c600a6fcdf5d9106c6678d97fe": {
         "Held in language": [
