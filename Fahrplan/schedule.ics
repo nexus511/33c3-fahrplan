@@ -1312,7 +1312,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T134500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T124500
-DTSTAMP;VALUE=DATE-TIME:20161213T214109Z
+DTSTAMP;VALUE=DATE-TIME:20161227T171045Z
 UID:4c92b3f4-e32a-483b-9e5f-4e8201849284@frab.cccv.de
 DESCRIPTION:We are 4 security researchers who have collectively worked on
   3 different attack techniques that all (ab)use memory deduplication in 
@@ -2332,7 +2332,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T224500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T214500
-DTSTAMP;VALUE=DATE-TIME:20161214T203456Z
+DTSTAMP;VALUE=DATE-TIME:20161227T172920Z
 UID:530f0400-e4e8-4d99-909d-4cfc8121c0b0@frab.cccv.de
 DESCRIPTION:Travel booking systems are among the oldest global IT infrast
  ructures\, and have changed surprisingly little since the 80s. The perso
