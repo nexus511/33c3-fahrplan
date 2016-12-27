@@ -21,9 +21,8 @@ DESCRIPTION:We present DROWN\, a novel cross-protocol attack on TLS that
  uses a server supporting SSLv2 as an oracle to decrypt modern TLS connec
  tions. Using Internet-wide scans\, we find that 33% of all HTTPS servers
   are vulnerable to this protocol-level attack.
-URL://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7821.html
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7821.html
 SUMMARY:The DROWN Attack
-ORGANIZER:33c3
 LOCATION:33c3 - Saal 2
 END:VEVENT
 END:VCALENDAR

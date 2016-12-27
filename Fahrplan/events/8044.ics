@@ -26,9 +26,8 @@ DESCRIPTION:Hardware is often considered as an abstract layer that behave
  demonstrate how to perform cache attacks without a single memory access\
  , as well as how to bypass kernel ASLR. This talk does not require any k
  nowledge about assembly. We promise.
-URL://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8044.html
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8044.html
 SUMMARY:What could possibly go wrong with <insert x86 instruction here>?
-ORGANIZER:33c3
 LOCATION:33c3 - Saal G
 END:VEVENT
 END:VCALENDAR

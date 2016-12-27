@@ -33,22 +33,6 @@ SUMMARY: From Server Farm to Data Table - Ingrid Burrington
 LOCATION:Saal 6
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T180000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T173000
-DTSTAMP;VALUE=DATE-TIME:20161213T214213Z
-UID:3eadf072-8762-461d-a210-a3ea4df66e8a@frab.cccv.de
-DESCRIPTION:Die Dynamik der globalen Agrarmärkte hat sich in den letzten 
- Jahren verstärkt und birgt neue Herausforderungen für die Landwirte. Hof
- fnungsträger sind ähnlich wie in anderen Branchen auch Sensor- & Datenve
- rarbeitungstechnik sowie das Internet: Produktionsprozesse steuern sich 
- selbst\, Anhänger werden halbautomatisch mittels Bilderkennung beladen\,
-  Maschinen kommunizieren mittels Maschinen und Fahrzeuge steuern sich we
- itestgehend schon jetzt autonom.\n
-URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8045.html
-SUMMARY:0en & 1en auf dem Acker - Fritz Herzrasen\, Lisa Tschorn
-LOCATION:Saal 6
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T171500
 DTSTAMP;VALUE=DATE-TIME:20161221T152747Z
@@ -247,16 +231,6 @@ DESCRIPTION:I would like to present my project called Anthropology for ki
 URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8420.html
 SUMMARY:Anthropology for kids - What is privacy? - Nika Dubrovsky
 LOCATION:Saal 6
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T193000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T190000
-DTSTAMP;VALUE=DATE-TIME:20161226T172040Z
-UID:dca06c58-ad2a-4b14-8be6-e6422e0dc94f@frab.cccv.de
-DESCRIPTION:Talk cancelled due to illness.
-URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8274.html
-SUMMARY:Back to the 16bit Era -- CANCELLED - kirschju
-LOCATION:Saal G
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T210000
@@ -508,7 +482,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T224500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T214500
-DTSTAMP;VALUE=DATE-TIME:20161213T214833Z
+DTSTAMP;VALUE=DATE-TIME:20161227T105324Z
 UID:a1a52c4c-8233-403b-8f04-db981df016c1@frab.cccv.de
 DESCRIPTION:Transport Layer Security (TLS) 1.3 is almost here. The protoc
  ol that protects most of the Internet secure connections is getting the 
@@ -521,7 +495,7 @@ DESCRIPTION:Transport Layer Security (TLS) 1.3 is almost here. The protoc
  nting and deploying this protocol.
 URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8348.html
 SUMMARY:Deploying TLS 1.3: the great\, the good and the bad - Filippo Val
- sorda
+ sorda\, Nick Sullivan
 LOCATION:Saal 2
 END:VEVENT
 BEGIN:VEVENT
@@ -1070,7 +1044,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T214500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T211500
-DTSTAMP;VALUE=DATE-TIME:20161215T160954Z
+DTSTAMP;VALUE=DATE-TIME:20161227T112134Z
 UID:c4211c94-7cea-457d-9214-7ccf5d7c89cc@frab.cccv.de
 DESCRIPTION:The long term survival of the human species requires that we 
  become an interplanetary species. But we must answer two big questions: 
@@ -1846,14 +1820,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T124500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T121500
-DTSTAMP;VALUE=DATE-TIME:20161213T213847Z
+DTSTAMP;VALUE=DATE-TIME:20161227T102549Z
 UID:e0758eb2-0282-40d7-9c41-de607eb3d494@frab.cccv.de
 DESCRIPTION:Journalists and human rights groups need to find and use veri
  fied visual evidence in order to accurately report about what’s happenin
  g in conflict zones. In the case of Syria\, there are more hours of onli
  ne footage online than there have been hours of conflict.
 URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7909.html
-SUMMARY:Syrian Archive - Syrian Archive
+SUMMARY:Syrian Archive - Jeff Deutch\, Hadi Al-Khatib
 LOCATION:Saal 2
 END:VEVENT
 BEGIN:VEVENT
@@ -2144,9 +2118,9 @@ SUMMARY:Understanding the Snooper’s Charter - Hendrik Obelöer
 LOCATION:Saal 6
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T184500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T191500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T181500
-DTSTAMP;VALUE=DATE-TIME:20161213T214026Z
+DTSTAMP;VALUE=DATE-TIME:20161227T105253Z
 UID:c3844820-b5ed-4b12-9094-cfc67aff60be@frab.cccv.de
 DESCRIPTION:It is a sad fact of reality that we can no longer trust our C
  PUs to only run the things we want and to not have exploitable flaws. I 
@@ -2231,7 +2205,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T133000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T130000
-DTSTAMP;VALUE=DATE-TIME:20161218T095840Z
+DTSTAMP;VALUE=DATE-TIME:20161227T140121Z
 UID:599ef527-fc3f-4474-8137-cf0e49cf118f@frab.cccv.de
 DESCRIPTION:The Anthropocene is widely understood to mean the current <em
  >&quot\;period of Earth's history during which humans have a decisive in
@@ -2253,9 +2227,7 @@ DESCRIPTION:The Anthropocene is widely understood to mean the current <em
  y.org/index.php/ics-chart-timescale" title="International Chronostratigr
  aphic Chart AKA Geological Timescale">geological epochs</a>? This talk b
  oils the scientific background of the Anthropocene debate down for non-s
- tratigraphers. We'll also learn about potential environmental trajectori
- es\, and the choices we and our civilisation will face in a geological e
- poch of our own making.
+ tratigraphers.
 URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7860.html
 SUMMARY:Welcome to the Anthropocene? - KaLeiMai
 LOCATION:Saal 2
@@ -2390,7 +2362,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T000000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T230000
-DTSTAMP;VALUE=DATE-TIME:20161213T214220Z
+DTSTAMP;VALUE=DATE-TIME:20161227T135130Z
 UID:ac80424a-f4dc-431d-95f3-3f85664ba2dc@frab.cccv.de
 DESCRIPTION:In this talk we will explore and present various IPv6 scannin
  g techniques that allow attackers to peek into IPv6 networks. With the a

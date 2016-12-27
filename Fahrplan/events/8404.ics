@@ -18,9 +18,8 @@ DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T113000
 DTSTAMP;VALUE=DATE-TIME:20161222T161844Z
 UID:88cc14c0-8962-4906-9b37-06ff82ce159c@frab.cccv.de
 DESCRIPTION:
-URL://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8404.html
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8404.html
 SUMMARY:Patterns
-ORGANIZER:33c3
 LOCATION:33c3 - Saal G
 END:VEVENT
 END:VCALENDAR

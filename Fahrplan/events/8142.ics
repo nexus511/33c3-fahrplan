@@ -21,9 +21,8 @@ DESCRIPTION:Over the last two years secure boot support for virtual machi
  nes was added to qemu\, kvm (linux kernel) and ovmf (edk2/tianocore).  T
  his talk covers the implementation details and the issues we had to deal
   with along the way.
-URL://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8142.html
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8142.html
 SUMMARY:Virtual Secure Boot
-ORGANIZER:33c3
 LOCATION:33c3 - Saal 6
 END:VEVENT
 END:VCALENDAR

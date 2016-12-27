@@ -27,9 +27,8 @@ DESCRIPTION:Pseudo-random number generators (PRNGs) are critical pieces o
  kes incidents.\nWe also present a PRNG analysis method that we developed
   and give\nspecific recommendations to implementors of software producin
  g or\nconsuming pseudo-random numbers to ensure correctness.\n
-URL://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8099.html
+URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8099.html
 SUMMARY:How do we know our PRNGs work properly?
-ORGANIZER:33c3
 LOCATION:33c3 - Saal G
 END:VEVENT
 END:VCALENDAR

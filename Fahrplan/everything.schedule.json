@@ -2108,7 +2108,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1113, 
+                                "id": 1115, 
                                 "guid": "d0288fe6dd4e0bc74b5b7e0302906c53", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -2280,7 +2280,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1251, 
+                                "id": 1250, 
                                 "guid": "10fee5225d917f2650ea518ea0e2f909", 
                                 "logo": null, 
                                 "date": "2016-12-27T10:00:00+01:00", 
@@ -3075,7 +3075,7 @@
                         ], 
                         "Hall 13-14": [
                             {
-                                "id": 1046, 
+                                "id": 1045, 
                                 "guid": "dab9b0fa02061064724f04702afe682d", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:00:00+01:00", 
@@ -3386,7 +3386,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1040, 
+                                "id": 1039, 
                                 "guid": "09dc806817705dc5d7ad3cf12a70cb12", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -3754,7 +3754,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1143, 
+                                "id": 1144, 
                                 "guid": "cd2679eb8595fea15886cbec5c288b96", 
                                 "logo": null, 
                                 "date": "2016-12-28T01:00:00+01:00", 
@@ -3787,7 +3787,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1146, 
+                                "id": 1145, 
                                 "guid": "a33e122a93f95fe8add42f678dc1b55c", 
                                 "logo": null, 
                                 "date": "2016-12-27T23:00:00+01:00", 
@@ -6385,7 +6385,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1045, 
+                                "id": 1044, 
                                 "guid": "8b165ece02b1d870610d15256031bca9", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:00:00+01:00", 
@@ -6499,7 +6499,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1115, 
+                                "id": 1114, 
                                 "guid": "2b55e4c20c327a0fbe6204663002bb03", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -6691,7 +6691,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1253, 
+                                "id": 1254, 
                                 "guid": "3f394b79cf5c8d868ddc732d38346a06", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:15:00+01:00", 
@@ -6833,35 +6833,6 @@
                             }, 
                             {
                                 "id": 1293, 
-                                "guid": "bbb81a0158a76477271da3f3095201e4", 
-                                "logo": null, 
-                                "date": "2016-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "3:45", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "We Fix the Net", 
-                                "subtitle": "We Fix The Net Short Talks", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
-                                        "public_name": "Jeffburdges"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://gnunet.org", 
-                                    "http://pep.foundation/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net"
-                                ]
-                            }, 
-                            {
-                                "id": 1294, 
                                 "guid": "929ba2a8a173dad4fb8ab1125b31a656", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:45:00+01:00", 
@@ -6890,7 +6861,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1295, 
+                                "id": 1294, 
                                 "guid": "71ee3f1c08d4d04914c27cac159a56da", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -6900,6 +6871,35 @@
                                 "slug": "", 
                                 "title": "We Fix the Net", 
                                 "subtitle": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
+                                        "public_name": "Jeffburdges"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://gnunet.org", 
+                                    "http://pep.foundation/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net"
+                                ]
+                            }, 
+                            {
+                                "id": 1295, 
+                                "guid": "bbb81a0158a76477271da3f3095201e4", 
+                                "logo": null, 
+                                "date": "2016-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "3:45", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "We Fix the Net", 
+                                "subtitle": "We Fix The Net Short Talks", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "en", 
@@ -8073,7 +8073,7 @@
                         "Lounge DisKo": [], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1001, 
+                                "id": 1000, 
                                 "guid": "2c77fd96698a5987b24b960a589b731e", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -8100,7 +8100,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1144, 
+                                "id": 1143, 
                                 "guid": "1d417fdc38d9002139dfa87a15a17e0e", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -8764,7 +8764,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1041, 
+                                "id": 1040, 
                                 "guid": "564529d15da47a81c4220a1ec5deca10", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -11507,7 +11507,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1114, 
+                                "id": 1113, 
                                 "guid": "84dbea847aa14b670fb6f45d765521f4", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -12788,11 +12788,11 @@
                         "Hall F": [
                             {
                                 "id": 1087, 
-                                "guid": "dc97ce7587e6de93f68f0bb1fbfdbd9c", 
+                                "guid": "fbc9e7ed36a705cf72c554aa7c10ff35", 
                                 "logo": null, 
-                                "date": "2016-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "2:15", 
+                                "date": "2016-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "3:00", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Film-Abend", 
@@ -12809,11 +12809,11 @@
                             }, 
                             {
                                 "id": 1088, 
-                                "guid": "fbc9e7ed36a705cf72c554aa7c10ff35", 
+                                "guid": "dc97ce7587e6de93f68f0bb1fbfdbd9c", 
                                 "logo": null, 
-                                "date": "2016-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "3:00", 
+                                "date": "2016-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:15", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Film-Abend", 
@@ -13001,7 +13001,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1254, 
+                                "id": 1253, 
                                 "guid": "f48797b83b3006b88510ce3136aec9e2", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:15:00+01:00", 
@@ -13091,7 +13091,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1044, 
+                                "id": 1046, 
                                 "guid": "2e3f2fb0d4424c378f1bf5ffa0eab463", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -13568,7 +13568,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1042, 
+                                "id": 1041, 
                                 "guid": "66aec1439006361abdf3fcf23947cd4f", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -13840,33 +13840,6 @@
                         "Assembly:Anarchist Village": [
                             {
                                 "id": 1131, 
-                                "guid": "7716b3b475bdcbee9ebfc30c761b5e41", 
-                                "logo": null, 
-                                "date": "2016-12-29T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "2:00", 
-                                "room": "Assembly:Anarchist Village", 
-                                "slug": "", 
-                                "title": "Instant Matrix Games", 
-                                "subtitle": "FUTURE", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Instant Matrix Games is a framework for the rapid development of an educational or analytical environment.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
-                                        "public_name": "Klemens"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Instant_Matrix_Games"
-                                ]
-                            }, 
-                            {
-                                "id": 1132, 
                                 "guid": "870ebe8da21e2ac9f36815632a518a22", 
                                 "logo": null, 
                                 "date": "2016-12-29T14:30:00+01:00", 
@@ -13893,7 +13866,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1133, 
+                                "id": 1132, 
                                 "guid": "19edd636222e0cd0c80c7fd060e4e78c", 
                                 "logo": null, 
                                 "date": "2016-12-29T12:00:00+01:00", 
@@ -13903,6 +13876,33 @@
                                 "slug": "", 
                                 "title": "Instant Matrix Games", 
                                 "subtitle": "PAST", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Instant Matrix Games is a framework for the rapid development of an educational or analytical environment.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
+                                        "public_name": "Klemens"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Instant_Matrix_Games"
+                                ]
+                            }, 
+                            {
+                                "id": 1133, 
+                                "guid": "7716b3b475bdcbee9ebfc30c761b5e41", 
+                                "logo": null, 
+                                "date": "2016-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Anarchist Village", 
+                                "slug": "", 
+                                "title": "Instant Matrix Games", 
+                                "subtitle": "FUTURE", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "en", 
@@ -13955,7 +13955,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1147, 
+                                "id": 1146, 
                                 "guid": "e7efaa00f19b51ad38201d9ba027d3b6", 
                                 "logo": null, 
                                 "date": "2016-12-29T23:00:00+01:00", 
@@ -15473,7 +15473,7 @@
                         "Lounge DisKo": [], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1000, 
+                                "id": 1001, 
                                 "guid": "4b3f5839ed1b234ff52a3dc742e8f263", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
@@ -15561,7 +15561,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1039, 
+                                "id": 1042, 
                                 "guid": "344833a144e5511fc5cb35044e92d1e9", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 

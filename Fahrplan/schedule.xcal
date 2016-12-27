@@ -149,7 +149,7 @@ In this talk, we explore the new memory internals of the language from exploiter
 <dtend>20161228T133000</dtend>
 <duration>003000</duration>
 <summary>Welcome to the Anthropocene?- (Did) We Accidentally a New Geological Epoch(?)</summary>
-<description>The Anthropocene is widely understood to mean the current &lt;em&gt;&amp;quot;period of Earth's history during which humans have a decisive influence on the state, dynamics and future&amp;quot;&lt;/em&gt; of this planet. For several years, scientists in the &lt;a href=&quot;http://quaternary.stratigraphy.org/workinggroups/anthropocene/&quot; title=&quot;Website of the Working Group on the &amp;#39;Anthropocene&amp;#39; (AWG)&quot;&gt;Working Group on the 'Anthropocene' (AWG)&lt;/a&gt; have &lt;a href=&quot;https://www2.le.ac.uk/offices/press/press-releases/2016/august/media-note-anthropocene-working-group-awg&quot; title=&quot;Media note on AWG recommendations&quot;&gt;worked (and voted!)&lt;/a&gt; on defining the beginning of the Anthropocene in geochemical terms. The mid-20&lt;sup&gt;th&lt;/sup&gt; century provides an obvious geochemical 'timestamp': fallout from &lt;a href=&quot;https://media.ccc.de/v/31c3_-_6121_-_en_-_saal_2_-_201412291715_-_what_ever_happened_to_nuclear_weapons_-_michael_buker&quot; title=&quot;Michael Büker&amp;#39;s &amp;#39;What Ever Happened to Nuclear Weapons?&amp;#39; talk at 31c3&quot;&gt;nuclear weapons detonations&lt;/a&gt;. Which other chemicals and timestamps are being considered for marking the Anthropocene's start? How is 'define-by-committee' even working out for &lt;a href=&quot;http://www.stratigraphy.org/index.php/ics-chart-timescale&quot; title=&quot;International Chronostratigraphic Chart AKA Geological Timescale&quot;&gt;geological epochs&lt;/a&gt;? This talk boils the scientific background of the Anthropocene debate down for non-stratigraphers. We'll also learn about potential environmental trajectories, and the choices we and our civilisation will face in a geological epoch of our own making.</description>
+<description>The Anthropocene is widely understood to mean the current &lt;em&gt;&amp;quot;period of Earth's history during which humans have a decisive influence on the state, dynamics and future&amp;quot;&lt;/em&gt; of this planet. For several years, scientists in the &lt;a href=&quot;http://quaternary.stratigraphy.org/workinggroups/anthropocene/&quot; title=&quot;Website of the Working Group on the &amp;#39;Anthropocene&amp;#39; (AWG)&quot;&gt;Working Group on the 'Anthropocene' (AWG)&lt;/a&gt; have &lt;a href=&quot;https://www2.le.ac.uk/offices/press/press-releases/2016/august/media-note-anthropocene-working-group-awg&quot; title=&quot;Media note on AWG recommendations&quot;&gt;worked (and voted!)&lt;/a&gt; on defining the beginning of the Anthropocene in geochemical terms. The mid-20&lt;sup&gt;th&lt;/sup&gt; century provides an obvious geochemical 'timestamp': fallout from &lt;a href=&quot;https://media.ccc.de/v/31c3_-_6121_-_en_-_saal_2_-_201412291715_-_what_ever_happened_to_nuclear_weapons_-_michael_buker&quot; title=&quot;Michael Büker&amp;#39;s &amp;#39;What Ever Happened to Nuclear Weapons?&amp;#39; talk at 31c3&quot;&gt;nuclear weapons detonations&lt;/a&gt;. Which other chemicals and timestamps are being considered for marking the Anthropocene's start? How is 'define-by-committee' even working out for &lt;a href=&quot;http://www.stratigraphy.org/index.php/ics-chart-timescale&quot; title=&quot;International Chronostratigraphic Chart AKA Geological Timescale&quot;&gt;geological epochs&lt;/a&gt;? This talk boils the scientific background of the Anthropocene debate down for non-stratigraphers.</description>
 <class>PUBLIC</class>
 <status>CONFIRMED</status>
 <category>Lecture</category>
@@ -348,7 +348,8 @@ Also a new technique called &quot;prometheus&quot; will be introduced which allo
 <category>Lecture</category>
 <url>//fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7909.html</url>
 <location>Saal 2</location>
-<attendee>Syrian Archive</attendee>
+<attendee>Jeff Deutch</attendee>
+<attendee>Hadi Al-Khatib</attendee>
 </vevent>
 <vevent>
 <method>PUBLISH</method>
@@ -791,8 +792,8 @@ The association &quot;Seawatch e.V.&quot; has bought two well equipped Ships to 
 <pentabarf:language>English</pentabarf:language>
 <pentabarf:language-code>en</pentabarf:language-code>
 <dtstart>20161227T181500</dtstart>
-<dtend>20161227T184500</dtend>
-<duration>003000</duration>
+<dtend>20161227T191500</dtend>
+<duration>010000</duration>
 <summary>Untrusting the CPU- A proposal for secure computing in an age where we cannot trust our CPUs anymore</summary>
 <description>It is a sad fact of reality that we can no longer trust our CPUs to only run the things we want and to not have exploitable flaws. I will provide an proposal for a system to restore (some) trust in communication secrecy and system security even in this day and age without compromising too much the benefits in usability and speed modern systems provide.</description>
 <class>PUBLIC</class>
@@ -1184,29 +1185,6 @@ We have presented primary results of the studies at various academic conferences
 <location>Saal G</location>
 <attendee>Clémentine Maurice</attendee>
 <attendee>Moritz Lipp</attendee>
-</vevent>
-<vevent>
-<method>PUBLISH</method>
-<uid>8045@33c3@pentabarf.org</uid>
-<pentabarf:event-id>8045</pentabarf:event-id>
-<pentabarf:event-slug>33c3-8045-0en_1en_auf_dem_acker</pentabarf:event-slug>
-<pentabarf:title>0en &amp; 1en auf dem Acker</pentabarf:title>
-<pentabarf:subtitle>Was die Sensor &amp; Automatisierungstechnik in der Landwirtschaft heute schon leisten kann – Ein Einblick</pentabarf:subtitle>
-<pentabarf:language>German</pentabarf:language>
-<pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20161227T173000</dtstart>
-<dtend>20161227T180000</dtend>
-<duration>003000</duration>
-<summary>0en &amp; 1en auf dem Acker- Was die Sensor &amp; Automatisierungstechnik in der Landwirtschaft heute schon leisten kann – Ein Einblick</summary>
-<description>Die Dynamik der globalen Agrarmärkte hat sich in den letzten Jahren verstärkt und birgt neue Herausforderungen für die Landwirte. Hoffnungsträger sind ähnlich wie in anderen Branchen auch Sensor- &amp; Datenverarbeitungstechnik sowie das Internet: Produktionsprozesse steuern sich selbst, Anhänger werden halbautomatisch mittels Bilderkennung beladen, Maschinen kommunizieren mittels Maschinen und Fahrzeuge steuern sich weitestgehend schon jetzt autonom.
-</description>
-<class>PUBLIC</class>
-<status>CONFIRMED</status>
-<category>Lecture</category>
-<url>//fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8045.html</url>
-<location>Saal 6</location>
-<attendee>Fritz Herzrasen</attendee>
-<attendee>Lisa Tschorn</attendee>
 </vevent>
 <vevent>
 <method>PUBLISH</method>
@@ -2440,27 +2418,6 @@ Join me and see how Smart Energy is making our lives a little bit better, but al
 </vevent>
 <vevent>
 <method>PUBLISH</method>
-<uid>8274@33c3@pentabarf.org</uid>
-<pentabarf:event-id>8274</pentabarf:event-id>
-<pentabarf:event-slug>33c3-8274-back_to_the_16bit_era_--_cancelled</pentabarf:event-slug>
-<pentabarf:title>Back to the 16bit Era -- CANCELLED</pentabarf:title>
-<pentabarf:subtitle>Open Sourcing a 22 Years Old Game</pentabarf:subtitle>
-<pentabarf:language>English</pentabarf:language>
-<pentabarf:language-code>en</pentabarf:language-code>
-<dtstart>20161227T190000</dtstart>
-<dtend>20161227T193000</dtend>
-<duration>003000</duration>
-<summary>Back to the 16bit Era -- CANCELLED- Open Sourcing a 22 Years Old Game</summary>
-<description>Talk cancelled due to illness.</description>
-<class>PUBLIC</class>
-<status>CONFIRMED</status>
-<category>Lecture</category>
-<url>//fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8274.html</url>
-<location>Saal G</location>
-<attendee>kirschju</attendee>
-</vevent>
-<vevent>
-<method>PUBLISH</method>
 <uid>8280@33c3@pentabarf.org</uid>
 <pentabarf:event-id>8280</pentabarf:event-id>
 <pentabarf:event-slug>33c3-8280-von_alpakas_hasenbaren_und_einhornern_uber_anerkennungskultur</pentabarf:event-slug>
@@ -2763,6 +2720,7 @@ We will show how we managed to exploit them in novel ways and discuss why we thi
 <url>//fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8348.html</url>
 <location>Saal 2</location>
 <attendee>Filippo Valsorda</attendee>
+<attendee>Nick Sullivan</attendee>
 </vevent>
 <vevent>
 <method>PUBLISH</method>

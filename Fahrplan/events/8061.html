@@ -60,49 +60,24 @@ Friday
 </div>
 <div id="main-content">
 <p class="release">
-Version WONTFIX
+Version NOT OUR BUG
 </p>
 <h2>lecture: You can -j REJECT but you can not hide: Global scanning of the IPv6 Internet</h2>
 <h3 class="title">Finding interesting targets in 128bit of entropy</h3>
 <div class="column left" id="basic">
 <div class="image large"><img src="/congress/2016/Fahrplan/assets/event_large-4b8aa978adbb7c8e80151f5a83c6782a12e763374ae3a042a55e7e626a64d93b.png" alt="Event large"></div>
 <p class="abstract">In this talk we will explore and present various IPv6 scanning techniques that allow attackers to peek into IPv6 networks. With the already known difference between IPv4 and IPv6 firewalling (the latter is worse... ) we then demonstrate how these techniques can be combined and used to obtain a large-scale view on the state of IPv6 in infrastructures and data centers. To give the whole issue a somewhat more fun dimension, we will also look at some (security) sensitive applications of this technique. Complimentary code-snippets will be provided.</p>
-<p class="description">Scanning networks is a basic tool for security researchers. Software
-<br>misconfiguration like with unprotected key-value stores and  software bugs like
-<br>heartbleed are analyzed and investigated in the wild using scanning of
-<br>networks.</p>
+<p class="description">Scanning networks is a basic tool for security researchers. Software misconfiguration like with unprotected key-value stores and  software bugs like heartbleed are analyzed and investigated in the wild using scanning of networks.</p>
 
-<p class="description">At least since the rise of zMap, scanning the I---Pv4---nternet has become a
-<br>rather simple endeavour. When one happens to be at a conference that tends to
-<br>supply 1gE or 10gE ports on the access layer, scanning the Internet can be done
-<br>in 60-10 Minutes. Scanning the 2^32 possible addresses (with certain
-<br>limitations) of IPv4 has become cheap.</p>
+<p class="description">At least since the rise of zMap, scanning the I---Pv4---nternet has become a rather simple endeavour. When one happens to be at a conference that tends to supply 1gE or 10gE ports on the access layer, scanning the Internet can be done in 60-10 Minutes. Scanning the 2^32 possible addresses (with certain limitations) of IPv4 has become cheap.</p>
 
-<p class="description">However, the small searchspace of IPv4 that makes it so scannable is also what
-<br>renders it increasingly obsolete. To overcome this issue, IPv6 was designed.
-<br>Along with IPv6 we receive a theoretical maximum of 2^128 different addresses.
-<br>Scanning this larger space is a challenge that---so far---has been mostly
-<br>approached by researchers. Specifically, not security but network measurement
-<br>researchers. Their works usually focus on having access to large datasets of 
-<br>IPv6 addresses, the most famous ones using the access logs of a large CDN. </p>
+<p class="description">However, the small searchspace of IPv4 that makes it so scannable is also what renders it increasingly obsolete. To overcome this issue, IPv6 was designed. Along with IPv6 we receive a theoretical maximum of 2^128 different addresses. Scanning this larger space is a challenge that---so far---has been mostly approached by researchers. Specifically, not security but network measurement researchers. Their works usually focus on having access to large datasets of  IPv6 addresses, the most famous ones using the access logs of a large CDN. </p>
 
-<p class="description">With the average nerd lacking a small enterprise scale CDN in the basement, we 
-<br>set out to utilize other techniques for enumerating IPv6 that only utilizes
-<br>public data sources. Following RFC7707, we found various interesting candidate
-<br>techniques. Especially probing the PTR sets of IPv6 networks sounded promising.</p>
+<p class="description">With the average nerd lacking a small enterprise scale CDN in the basement, we set out to utilize other techniques for enumerating IPv6 that only utilizes public data sources. Following RFC7707, we found various interesting candidate techniques. Especially probing the PTR sets of IPv6 networks sounded promising.</p>
 
-<p class="description">However, when implementing the techniques, we had to realize that these were not
-<br>yet ready to be used on a global scale. During the last couple of months we 
-<br>discovered pitfalls, adjusted the tools and ran enumerations.</p>
+<p class="description">However, when implementing the techniques, we had to realize that these were not yet ready to be used on a global scale. During the last couple of months we discovered pitfalls, adjusted the tools and ran enumerations.</p>
 
-<p class="description">In this talk we will present the approaches we used to enumerate IPv6. From
-<br>this presentation, the average person in the audience should be able to easily
-<br>implement these tools for them self---with subsequent "spasz am geraet".
-<br>Furthermore, we will present anecdotes, case-studies and investigations on the
-<br>data we gathered so far. This includes peeks into transit networks of large
-<br>ISPs, datacenters of global cloud providers and a suprisingly high amount of
-<br>things one would not expect (or hope to be) on the Internet.
-</p>
+<p class="description">In this talk we will present the approaches we used to enumerate IPv6. From this presentation, the average person in the audience should be able to easily implement these tools for them self---with subsequent "spasz am geraet". Furthermore, we will present anecdotes, case-studies and investigations on the data we gathered so far. This includes peeks into transit networks of large ISPs, datacenters of global cloud providers and a suprisingly high amount of things one would not expect (or hope to be) on the Internet.</p>
 </div>
 <div class="column left" id="details">
 <h3>Info</h3>
