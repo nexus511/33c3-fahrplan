@@ -5749,12 +5749,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -5773,7 +5773,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -5794,7 +5794,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -6973,43 +6973,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Schiko-Meeting", 
         "Has end time": [
             "1482843600"
-        ]
-    }, 
-    "Session:There is no network# 81fa4c3d32e398ec75dbc2e1cf069d6b": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482957000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "There is no network"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:There_is_no_network", 
-        "Has end time": [
-            "1482964200"
         ]
     }, 
     "Session:Type 1 Diabetes Hacking# ae9e7ef82ce8dffc8e934ce0e6190c21": {
@@ -10087,27 +10050,27 @@
             "1483030800"
         ]
     }, 
-    "Session:A-NOC# 7fdd3b347b17ec9e84e4e367d31c9b6e": {
+    "Session:Veripeditus AR Game Framework# 0428c11c8ade33fd85d5ca946d66fc2d": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483113600"
+            "1482937200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "NOC for activist camps."
+            "Veripeditus is the first free and open source framework that enables everyone to develop augmented reality mobile games like Ingress or Pok\u00e9mon Go. It brings the creative side of such games to everyone, including, but not limited to, class rooms, along with a great new way of learning programming skills with Python.\n\nPresented by Nik, a 26 year-old software developer and network admin from Bonn, but better known as head of Teckids e.V., a youth organisation establishing a FOSS community among children."
         ], 
         "Has session type": [
-            "Meeting"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -10115,14 +10078,14 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Txt.file", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Txt.file", 
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "A-NOC"
+            "Veripeditus AR Game Framework"
         ], 
         "Has duration": [
             60
@@ -10130,9 +10093,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:A-NOC", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Veripeditus_AR_Game_Framework", 
         "Has end time": [
-            "1483117200"
+            "1482940800"
         ]
     }, 
     "Session:Tales from the Trenches# 53d1ada5066255b80cb0ec357f51756b": {
@@ -10423,54 +10386,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:42birds:_Creative_Coding_with_Processing", 
         "Has end time": [
             "1482921720"
-        ]
-    }, 
-    "Session:Veripeditus AR Game Framework# 0428c11c8ade33fd85d5ca946d66fc2d": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482937200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Veripeditus is the first free and open source framework that enables everyone to develop augmented reality mobile games like Ingress or Pok\u00e9mon Go. It brings the creative side of such games to everyone, including, but not limited to, class rooms, along with a great new way of learning programming skills with Python.\n\nPresented by Nik, a 26 year-old software developer and network admin from Bonn, but better known as head of Teckids e.V., a youth organisation establishing a FOSS community among children."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Veripeditus AR Game Framework"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Veripeditus_AR_Game_Framework", 
-        "Has end time": [
-            "1482940800"
         ]
     }, 
     "Session:We Fix the Net# 71ee3f1c08d4d04914c27cac159a56da": {
@@ -15753,6 +15668,52 @@
             "1482836220"
         ]
     }, 
+    "Session:Scapy in 15 minutes# 9fa3a45737851eb731ead98a86cc6922": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482933600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://github.com/secdev/scapy"
+        ], 
+        "Has description": [
+            "Scapy is a powerful Python-based interactive packet manipulation program and library. It can be used to forge or decode packets for a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more.\n\nThis talk will show you Scapy basics in 15 minutes !"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Guedou", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Guedou", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Scapy in 15 minutes"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Scapy_in_15_minutes", 
+        "Has end time": []
+    }, 
     "Session:FSaaS: Challenges for 'Free Software as a Service' in business# d132d8604f7ecac61db1cbf423ca9e6e": {
         "Held in language": [
             "en - English"
@@ -16377,12 +16338,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -16401,7 +16362,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -16422,7 +16383,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:42birds: Missing RSS Feed? Create Your Own!# b86c3c8fc3a77d7f1486ceeaf014d506": {
