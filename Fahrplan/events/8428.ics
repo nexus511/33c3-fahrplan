@@ -18,8 +18,9 @@ DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T183000
 DTSTAMP;VALUE=DATE-TIME:20161215T211410Z
 UID:b1a28d62-75e9-48de-bec9-44df4e611685@frab.cccv.de
 DESCRIPTION:
-URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8428.html
+URL://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8428.html
 SUMMARY:33C3 Closing Ceremony
+ORGANIZER:33c3
 LOCATION:33c3 - Saal 1
 END:VEVENT
 END:VCALENDAR

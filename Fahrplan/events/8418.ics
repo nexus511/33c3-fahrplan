@@ -18,8 +18,9 @@ DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T143000
 DTSTAMP;VALUE=DATE-TIME:20161213T214952Z
 UID:69ce21df-4bf5-43ce-a500-ac7707ee64b7@frab.cccv.de
 DESCRIPTION:
-URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8418.html
+URL://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8418.html
 SUMMARY:Von Kaffeeriechern\, Abtrittanbietern und Fischbeinreißern
+ORGANIZER:33c3
 LOCATION:33c3 - Saal 6
 END:VEVENT
 END:VCALENDAR

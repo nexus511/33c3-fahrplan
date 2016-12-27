@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T224500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T214500
-DTSTAMP;VALUE=DATE-TIME:20161213T214833Z
+DTSTAMP;VALUE=DATE-TIME:20161227T105324Z
 UID:a1a52c4c-8233-403b-8f04-db981df016c1@frab.cccv.de
 DESCRIPTION:Transport Layer Security (TLS) 1.3 is almost here. The protoc
  ol that protects most of the Internet secure connections is getting the 
@@ -26,8 +26,9 @@ DESCRIPTION:Transport Layer Security (TLS) 1.3 is almost here. The protoc
  mption. At Cloudflare we will be the first to deploy TLS 1.3 on a wide s
  cale\, and we’ll be able to discuss the insights we gained while impleme
  nting and deploying this protocol.
-URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8348.html
+URL://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8348.html
 SUMMARY:Deploying TLS 1.3: the great\, the good and the bad
+ORGANIZER:33c3
 LOCATION:33c3 - Saal 2
 END:VEVENT
 END:VCALENDAR

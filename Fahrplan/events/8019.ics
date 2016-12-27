@@ -24,8 +24,9 @@ DESCRIPTION:"Smart" devices using BTLE\, a mobile phone and the Internet
  art after all. And that even AES128 on top of the BTLE layer doesn't hav
  e to mean "unbreakable". Our main target will be electronic locks\, but 
  the methods shown apply to many other smart devices as well...
-URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8019.html
+URL://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8019.html
 SUMMARY:Lockpicking in the IoT
+ORGANIZER:33c3
 LOCATION:33c3 - Saal 1
 END:VEVENT
 END:VCALENDAR
