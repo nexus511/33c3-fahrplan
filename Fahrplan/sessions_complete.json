@@ -620,54 +620,59 @@
             "1483020000"
         ]
     }, 
-    "Session:UMUM# f8e579f83b5d861b4995f59d9dde973b": {
+    "Session:Space Hacking# 14941c8507e11bfca519c6a8a9a360aa": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482930000"
+            "1482859800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://www.reclaimyourcity.net", 
+            "http://www.w3arevisual.wordpress.com", 
+            "http://interbrigadas.org", 
+            "http://www.anarche.noblogs.org"
+        ], 
         "Has description": [
-            "Meeting of users and not-yet-users of MikroTik devices  to get in contact and share their wisdom. This meeting is private organized!"
+            "KulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten, Hausfassaden, die innerhalb weniger Minuten in Farbe getaucht werden\u2026\n\nWie nehmen wir uns den \u00f6ffentlichen Raum, umgehen seine Vorschriften und Reglementierungen?\nWie schaffen wir Orte f\u00fcr Kollektivit\u00e4t und basisdemokratisches Zusammenleben?\n\nmit den Freimeutern, Interbrigadas, .WAV, Graffitiarchiv, \u00dcberraschungsg\u00e4sten und Mensch Meier."
         ], 
         "Has session type": [
-            "Meeting"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Friends Of MikroTik Meeting"
+            "KulturKunstPartyPolitik! - Teil2: Urban Intervention"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Njumaen", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Njumaen", 
+                "fulltext": "User:Jona", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jona", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "UMUM"
+            "Space Hacking"
         ], 
         "Has duration": [
-            90
+            70
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:UMUM", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Space_Hacking", 
         "Has end time": [
-            "1482935400"
+            "1482864000"
         ]
     }, 
     "Session:In kurzer Zeit zur Schl\u00fcsselwurst# 0936add29a07c5b130fe33a8deb42d7f": {
@@ -1273,54 +1278,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
             "1482853500"
-        ]
-    }, 
-    "Session:An Introduction to Intel Software Guard Extensions (SGX)# deb1a11af4dd0e3a88e338f9432bf1c5": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482942600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Intel Software Guard Extensions (Intel SGX) are a new extension of the x86 instruction set allowing the creation of so-called enclaves. Enclaves are isolated, secure parts of normal applications \nThis talk gives an overview about SGX, how it can be used to secure existing applications, what are its limitations and pitfalls and technical details about its implementation."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Envy", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Envy", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "An Introduction to Intel Software Guard Extensions (SGX)"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_Introduction_to_Intel_Software_Guard_Extensions_(SGX)", 
-        "Has end time": [
-            "1482946200"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
@@ -2325,53 +2282,65 @@
             "1483113600"
         ]
     }, 
-    "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482757200"
-        ], 
+    "Session:Emacs rehab center (vim workshop)# 3a87c7b6d527de196e1cfc9c6281cc95": {
+        "Held in language": [], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Emacs rehab center (vim workshop)"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
+        "Has end time": []
+    }, 
+    "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://p0stap0calyptic.wordpress.com/"
+        ], 
+        "Has description": [
+            "we make jewellery from found objects from the congress, leftovers of other workshops or provided stuff as electronic scrap. \n\nwir stellen schmuck aus \u00fcberresten der zivilisation her, aus fundst\u00fccken von kongress selbst, aus resten anderer workshops oder mitgebrachtem (elektro-)schrott."
+        ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Buildup- and welcome meeting"
-        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "fulltext": "User:Paulaner", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paulaner", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Engelmeeting"
+            "Postapocalyptic jewellery"
         ], 
-        "Has duration": [
-            60
-        ], 
+        "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482760800"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
+        "Has end time": []
     }, 
     "Session:Cyberthingy# 9a2fa42323647e5d4218ad0a23599c58": {
         "Held in language": [
@@ -3160,43 +3129,53 @@
             "1482957000"
         ]
     }, 
-    "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
+    "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482757200"
+        ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://p0stap0calyptic.wordpress.com/"
-        ], 
-        "Has description": [
-            "we make jewellery from found objects from the congress, leftovers of other workshops or provided stuff as electronic scrap. \n\nwir stellen schmuck aus \u00fcberresten der zivilisation her, aus fundst\u00fccken von kongress selbst, aus resten anderer workshops oder mitgebrachtem (elektro-)schrott."
-        ], 
+        "Has website": [], 
+        "Has description": [], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Buildup- and welcome meeting"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Paulaner", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paulaner", 
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Postapocalyptic jewellery"
+            "Engelmeeting"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            60
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1482760800"
+        ]
     }, 
     "Session:Coffee Break# 66aec1439006361abdf3fcf23947cd4f": {
         "Held in language": [
@@ -3663,6 +3642,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
         "Has end time": [
             "1482922800"
+        ]
+    }, 
+    "Session:Translation meetings# 36252d5cc335293f00e927b0b6eba7fb": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483040400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "day 3, evening meeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Translation meetings"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "Has end time": [
+            "1483043400"
         ]
     }, 
     "Session:Translation meetings# b4642dca82f3b99a0285cda5da1d8655": {
@@ -5585,12 +5612,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -5609,7 +5636,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -5630,7 +5657,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -8044,42 +8071,40 @@
             "1483039800"
         ]
     }, 
-    "Session:Vegan Replacements \u2013 Hacking Food Traditions# 117523505da5a6fba2fef7c184e69b8f": {
+    "Session:Hacker workflows# d556895bd62c1aea6bf682e4f9096b06": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482854400"
+            "1482876000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "We want to share our favourite ways to satisfy our cravings for childhood-memory-food through vegan substitutes. We won\u2019t cook that much but, share and taste visions and experiences. \n \nCome, if you want to share your favourite substitute, bring a sample or recipe.\n\nCome, if you search for a vegan alternative for your favourite dish and pose a challenge."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
+        "Has description": [], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Hackbases I"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Momio", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Momio", 
+                "fulltext": "User:Dcht00", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dcht00", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Vegan Replacements \u2013 Hacking Food Traditions"
+            "Hacker workflows"
         ], 
         "Has duration": [
             60
@@ -8087,9 +8112,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Vegan_Replacements_%E2%80%93_Hacking_Food_Traditions", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hacker_workflows", 
         "Has end time": [
-            "1482858000"
+            "1482879600"
         ]
     }, 
     "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
@@ -8576,6 +8601,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_beginners", 
         "Has end time": [
             "1483023600"
+        ]
+    }, 
+    "Session:UMUM# f8e579f83b5d861b4995f59d9dde973b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482930000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Meeting of users and not-yet-users of MikroTik devices  to get in contact and share their wisdom. This meeting is private organized!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Friends Of MikroTik Meeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Njumaen", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Njumaen", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "UMUM"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:UMUM", 
+        "Has end time": [
+            "1482935400"
         ]
     }, 
     "Session:Engelmeeting# dfad004af29a4928e21fc593833ccad8": {
@@ -9387,6 +9462,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Boat_instruments_hacking", 
         "Has end time": [
             "1482940800"
+        ]
+    }, 
+    "Session:Vegan Replacements \u2013 Hacking Food Traditions# 117523505da5a6fba2fef7c184e69b8f": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482854400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We want to share our favourite ways to satisfy our cravings for childhood-memory-food through vegan substitutes. We won\u2019t cook that much but, share and taste visions and experiences. \n \nCome, if you want to share your favourite substitute, bring a sample or recipe.\n\nCome, if you search for a vegan alternative for your favourite dish and pose a challenge."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Momio", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Momio", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Vegan Replacements \u2013 Hacking Food Traditions"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Vegan_Replacements_%E2%80%93_Hacking_Food_Traditions", 
+        "Has end time": [
+            "1482858000"
         ]
     }, 
     "Session:Brewing beer for beginners# eb4776d6275a8b61006251d6425bfcf8": {
@@ -12063,6 +12186,62 @@
             "1482930000"
         ]
     }, 
+    "Session:Nootropics# d8f946310e562167f1d80fbf16b40fe5": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483030800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://pad.totalism.org/p/33c3-nootropics"
+        ], 
+        "Has description": [
+            "Nootropics (also called smart drugs, neuro enhancers ...) are substances that improve one or more aspects of cognitive performance. Bring your noots and notes."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:HairyFotr", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:HairyFotr", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Dcht00", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dcht00", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Nootropics"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Nootropics", 
+        "Has end time": [
+            "1483034400"
+        ]
+    }, 
     "Session:Radio Lockdown Directive: coordinating future steps# 1c31dc167d00b0f7457e1611738004ac": {
         "Held in language": [
             "en - English"
@@ -13041,74 +13220,102 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Eris_Rising", 
         "Has end time": []
     }, 
-    "Session:Emacs rehab center (vim workshop)# 3a87c7b6d527de196e1cfc9c6281cc95": {
-        "Held in language": [], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Emacs rehab center (vim workshop)"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
-        "Has end time": []
-    }, 
-    "Session:Translation meetings# 36252d5cc335293f00e927b0b6eba7fb": {
+    "Session:An Introduction to Intel Software Guard Extensions (SGX)# deb1a11af4dd0e3a88e338f9432bf1c5": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483040400"
+            "1482942600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+            "Intel Software Guard Extensions (Intel SGX) are a new extension of the x86 instruction set allowing the creation of so-called enclaves. Enclaves are isolated, secure parts of normal applications \nThis talk gives an overview about SGX, how it can be used to secure existing applications, what are its limitations and pitfalls and technical details about its implementation."
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Talk"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "day 3, evening meeting"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "fulltext": "User:Envy", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Envy", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Translation meetings"
+            "An Introduction to Intel Software Guard Extensions (SGX)"
         ], 
         "Has duration": [
-            50
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_Introduction_to_Intel_Software_Guard_Extensions_(SGX)", 
         "Has end time": [
-            "1483043400"
+            "1482946200"
+        ]
+    }, 
+    "Session:LearnToSolder# 1708e12825a580ad6d6e1505a4f06a8a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483009200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 3"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Maltman23", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "LearnToSolder"
+        ], 
+        "Has duration": [
+            779
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LearnToSolder", 
+        "Has end time": [
+            "1483055940"
         ]
     }, 
     "Session:DVB-S: Pirate or Amateur Digital TV Stations# 0c1cb8e54b2502a30f1b65fad7046862": {
@@ -13948,54 +14155,52 @@
             "1482894000"
         ]
     }, 
-    "Session:LearnToSolder# 1708e12825a580ad6d6e1505a4f06a8a": {
+    "Session:Hackbases 5 years# 4d0f52b022672f45d07ebff0f02a8b54": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483009200"
+            "1482950700"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://totalism.org"
+        ], 
         "Has description": [
-            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
+            "Hackbases are similar to hackerspaces but people also live in them."
         ], 
-        "Has session type": [
-            "Workshop"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Day 3"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Maltman23", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Maltman23", 
+                "fulltext": "User:Dcht00", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dcht00", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "LearnToSolder"
+            "Hackbases 5 years"
         ], 
         "Has duration": [
-            779
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LearnToSolder", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackbases_5_years", 
         "Has end time": [
-            "1483055940"
+            "1482954300"
         ]
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# 423151d2bd90d5fe5bc5e9ffd2d9e687": {
@@ -15214,59 +15419,50 @@
             "1482951600"
         ]
     }, 
-    "Session:Space Hacking# 14941c8507e11bfca519c6a8a9a360aa": {
+    "Session:Hacker workflows# 20498842da28d0599c7207c1883bba42": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482859800"
+            "1483120800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://www.reclaimyourcity.net", 
-            "http://www.w3arevisual.wordpress.com", 
-            "http://interbrigadas.org", 
-            "http://www.anarche.noblogs.org"
-        ], 
-        "Has description": [
-            "KulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten, Hausfassaden, die innerhalb weniger Minuten in Farbe getaucht werden\u2026\n\nWie nehmen wir uns den \u00f6ffentlichen Raum, umgehen seine Vorschriften und Reglementierungen?\nWie schaffen wir Orte f\u00fcr Kollektivit\u00e4t und basisdemokratisches Zusammenleben?\n\nmit den Freimeutern, Interbrigadas, .WAV, Graffitiarchiv, \u00dcberraschungsg\u00e4sten und Mensch Meier."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "KulturKunstPartyPolitik! - Teil2: Urban Intervention"
+            "Hackbases II"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Jona", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jona", 
+                "fulltext": "User:Dcht00", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dcht00", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Space Hacking"
+            "Hacker workflows"
         ], 
         "Has duration": [
-            70
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Space_Hacking", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hacker_workflows", 
         "Has end time": [
-            "1482864000"
+            "1483124400"
         ]
     }, 
     "Session:42birds: Randomized Signature Block for Emails# 71a6af2b3a1575eb67bffdd387212a5f": {
@@ -15991,12 +16187,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -16015,7 +16211,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -16036,7 +16232,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:42birds: Missing RSS Feed? Create Your Own!# b86c3c8fc3a77d7f1486ceeaf014d506": {
