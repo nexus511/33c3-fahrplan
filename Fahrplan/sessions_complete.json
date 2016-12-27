@@ -6381,6 +6381,54 @@
             "1483055940"
         ]
     }, 
+    "Session:EGP Meetup: From Tree-Huggers to WiFi-Lovers# 2736c9205c168ecba8d39e097de2b751": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482938100"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "An informal meetup for the members of the EGP and associated parliamentary groups who made it to 33C3. \nNo formal topics as of yet, just a meet and greet / networking type of meeting.\nPlease refrain from display insignia/merchandise of the EGP"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Anti Error Lounge", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Anti_Error_Lounge", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bj00rn", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bj00rn", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "EGP Meetup: From Tree-Huggers to WiFi-Lovers"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:EGP_Meetup:_From_Tree-Huggers_to_WiFi-Lovers", 
+        "Has end time": [
+            "1482940800"
+        ]
+    }, 
     "Session:Goldsmithing 101 by SawuGo# 099e89a4aef34af88da0259a570f9b8f": {
         "Held in language": [
             "af - Afrikaans", 
@@ -7825,114 +7873,6 @@
             "1483030800"
         ]
     }, 
-    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482786000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
-        ], 
-        "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Couchsofa opening DJ set on day 0"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:JayDee2202", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Klangteppich"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
-        "Has end time": [
-            "1482796800"
-        ]
-    }, 
-    "Session:Implications of the EU copyright reform on Free Software# 2e3ae7e1eed32991d1e513792a5bcc0e": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482937200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://fsfe.org/news/2016/news-20160928-01.en.html"
-        ], 
-        "Has description": [
-            "The session is designed to discuss and exchange the views about the implications of on-going copyright reform on Free Software, in particular the inclusion of far-reaching DRM measures in the latest proposal for the directive and how this can have an impact on Free Software. The session will start with a small presentation on the topic, followed by the discussion with the participants."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Implications of the EU copyright reform on Free Software"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Implications_of_the_EU_copyright_reform_on_Free_Software", 
-        "Has end time": [
-            "1482940800"
-        ]
-    }, 
     "Session:Klangteppich# a33e122a93f95fe8add42f678dc1b55c": {
         "Held in language": [
             "en - English"
@@ -7989,6 +7929,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
             "1482886800"
+        ]
+    }, 
+    "Session:Implications of the EU copyright reform on Free Software# 2e3ae7e1eed32991d1e513792a5bcc0e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482937200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://fsfe.org/news/2016/news-20160928-01.en.html"
+        ], 
+        "Has description": [
+            "The session is designed to discuss and exchange the views about the implications of on-going copyright reform on Free Software, in particular the inclusion of far-reaching DRM measures in the latest proposal for the directive and how this can have an impact on Free Software. The session will start with a small presentation on the topic, followed by the discussion with the participants."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Implications of the EU copyright reform on Free Software"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Implications_of_the_EU_copyright_reform_on_Free_Software", 
+        "Has end time": [
+            "1482940800"
         ]
     }, 
     "Session:Film-Abend# fbc9e7ed36a705cf72c554aa7c10ff35": {
@@ -10340,12 +10330,12 @@
             "1482876000"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
@@ -10361,8 +10351,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -10387,7 +10377,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482853500"
+            "1483026300"
         ]
     }, 
     "Session:Documentation Sprint# abeb1d0d0846b45f47590f3f961ded05": {
@@ -13094,12 +13084,12 @@
             "1483029900"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -13115,8 +13105,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -13141,7 +13131,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
@@ -14441,54 +14431,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
         "Has end time": [
             "1482856200"
-        ]
-    }, 
-    "Session:EGP Meetup: From Tree-Huggers to WiFi-Lovers# 26fc63cdaa04e62f7d49f6fff8015471": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482939000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "An informal meetup for the members of the EGP and associated parliamentary groups who made it to 33C3. \nNo formal topics as of yet, just a meet and greet / networking type of meeting.\nPlease refrain from display insignia/merchandise of the EGP"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Anti Error Lounge", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Anti_Error_Lounge", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bj00rn", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bj00rn", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "EGP Meetup: From Tree-Huggers to WiFi-Lovers"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:EGP_Meetup:_From_Tree-Huggers_to_WiFi-Lovers", 
-        "Has end time": [
-            "1482940800"
         ]
     }, 
     "Session:E-Voting: Defend our right to vote!# c07f62480415eb9de87ef98231523b32": {
@@ -16361,6 +16303,64 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Wikidata,_the_encyclopedia_by_bots,_for_bots", 
         "Has end time": [
             "1482937200"
+        ]
+    }, 
+    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482786000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
+        ], 
+        "Has description": [
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Couchsofa opening DJ set on day 0"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Klangteppich"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
+        "Has end time": [
+            "1482796800"
         ]
     }, 
     "Session:Translation meetings# 36252d5cc335293f00e927b0b6eba7fb": {
