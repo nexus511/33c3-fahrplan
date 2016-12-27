@@ -942,56 +942,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:%22My%22_software,_like_%22my%22_hand_or_like_%22my_car%22%3F", 
         "Has end time": []
     }, 
-    "Session:Maritime Hackers# 68eb0464ed5df3a6c1d0db44924b90dd": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483030800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Come and present your idea/software/hardware/... or get inspired by other hackers' projects!"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:C-base", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:C-base", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Meet & Greet"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Riot", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Riot", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Maritime Hackers"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Maritime_Hackers", 
-        "Has end time": [
-            "1483036200"
-        ]
-    }, 
     "Session:Browsing JS on Embedded# 468fd369ff728118f9a0584e0d3e691d": {
         "Held in language": [
             "de - German"
@@ -4785,8 +4735,8 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "fulltext": "User:Margott", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Margott", 
                 "namespace": 2, 
                 "exists": true
             }
@@ -5368,6 +5318,68 @@
             "1482855300"
         ]
     }, 
+    "Session:VOC Engelmeeting# da904f0f6639dd430983667df8b38a91": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482937200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "Daily meeting for all VOC Angels."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Saal 6", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Saal_6", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:V0tti", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:V0tti", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Felixs", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Felixs", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "VOC Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
+        "Has end time": [
+            "1482940800"
+        ]
+    }, 
     "Session:Prototype Fund - 1.2 Million Euros for Free Software Projects# e4648cc036bc044ba52e220226e31772": {
         "Held in language": [
             "en - English"
@@ -5690,48 +5702,47 @@
             "1482944400"
         ]
     }, 
-    "Session:Simple Nomic# b102345583487c805c193718c2b6756b": {
+    "Session:JAZ HRO# 26fb52a3bb21e62ac5d64cd199ec5450": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
-        "Has start time": [
-            "1483023600"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "4 simple rules:\n# The name of the game is Nomic.\n# The rules are to be applied in the order as written here.\n# The rules can be changed.\n# The first to reach 100 points wins."
+            "Doku \u00fcber das JAZ in rostock, rock on."
         ], 
-        "Has session type": [
-            "Workshop"
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Mensch meier and friends", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Mensch_meier_and_friends", 
+                "namespace": 504, 
+                "exists": true
+            }
         ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "Simple Nomic Session 1"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Trapicki", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Trapicki", 
+                "fulltext": "User:Noja", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Noja", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Simple Nomic"
+            "JAZ HRO"
         ], 
         "Has duration": [
-            180
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Simple_Nomic", 
-        "Has end time": [
-            "1483034400"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:JAZ_HRO", 
+        "Has end time": []
     }, 
     "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# 55620133ab3c2944fdc7d1b7f8f239c0": {
         "Held in language": [
@@ -7090,56 +7101,54 @@
             "1482894000"
         ]
     }, 
-    "Session:Calliope Workshop# 7ef34395586322536de8211fe0ad9fdc": {
+    "Session:Maritime Hackers# 68eb0464ed5df3a6c1d0db44924b90dd": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482930000"
+            "1483030800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://calliope.cc/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Wir werden bis zum 20 Kindern das Experimentieren mit dem Calliope Board zeigen. Mit dem Calliope Editor werden wir die ersten Schritte zum eigenen Programm machen."
+            "Come and present your idea/software/hardware/... or get inspired by other hackers' projects!"
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
-                "namespace": 516, 
+                "fulltext": "Assembly:C-base", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:C-base", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Calliope Workshop 01 / Junghackertag"
+            "Meet & Greet"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:DerMicha", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:DerMicha", 
+                "fulltext": "User:Riot", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Riot", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Calliope Workshop"
+            "Maritime Hackers"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Calliope_Workshop", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Maritime_Hackers", 
         "Has end time": [
-            "1482933600"
+            "1483036200"
         ]
     }, 
     "Session:ComputerSaysNo# 13af61c600a6fcdf5d9106c6678d97fe": {
@@ -8613,62 +8622,12 @@
             "1482858000"
         ]
     }, 
-    "Session:Whiskyleaks# 5c60b8f080fa565c157bf2f447c54bef": {
+    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483045200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://milliways.info/pad/p/33c3-whiskyleaks"
-        ], 
-        "Has description": [
-            "As always milliways is doing its nice whiskyleaks again."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Milliways", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Mc.fly", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mc.fly", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Whiskyleaks"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Whiskyleaks", 
-        "Has end time": [
-            "1483056000"
-        ]
-    }, 
-    "Session:Klangteppich# a33e122a93f95fe8add42f678dc1b55c": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482879600"
+            "1482786000"
         ], 
         "Has event track": [
             "Session"
@@ -8691,7 +8650,7 @@
             }
         ], 
         "Has subtitle": [
-            "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop"
+            "Couchsofa opening DJ set on day 0"
         ], 
         "Is organized by": [
             {
@@ -8711,14 +8670,14 @@
             "Klangteppich"
         ], 
         "Has duration": [
-            120
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
-            "1482886800"
+            "1482796800"
         ]
     }, 
     "Session:Film-Blocker# e8e7292727500d0072186d9f2d0d0add": {
@@ -9547,6 +9506,55 @@
             "1482850800"
         ]
     }, 
+    "Session:Coffee Break# 344833a144e5511fc5cb35044e92d1e9": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483110000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Calm down and have a chat with us"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Monic", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Coffee Break"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coffee_Break", 
+        "Has end time": [
+            "1483111800"
+        ]
+    }, 
     "Session:Dn42: Decentralised Network 42# 4a80950934f4ea3dbd5f529e36a5c8ff": {
         "Held in language": [
             "en - English"
@@ -9694,67 +9702,52 @@
             "1483038000"
         ]
     }, 
-    "Session:VOC Engelmeeting# 6fb34c92d05b83c60d241c1e8caeeeb0": {
+    "Session:Shitty Robots# 1ba27cebdb12a39b5b347eec7c4b8641": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
-        "Has start time": [
-            "1483110000"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://c3voc.de/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Daily meeting for all VOC Angels."
+            "see project/siehe Projekt\nAnmerkung: Kinderfreundlich, aber auch f\u00fcr Erwachsene"
         ], 
         "Has session type": [
-            "Discussion"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Saal 6", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Saal_6", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Openlab Augsburg", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Openlab_Augsburg", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Registration for the Shitty Robot fight"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Jwacalex", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:V0tti", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:V0tti", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Felixs", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Felixs", 
+                "fulltext": "User:Fluktusdukt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Fluktusdukt", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "VOC Engelmeeting"
+            "Shitty Robots"
         ], 
         "Has duration": [
-            60
+            75
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
-        "Has end time": [
-            "1483113600"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shitty_Robots", 
+        "Has end time": []
     }, 
     "Session:Kefir Making# 972eaaeb236c73484555e8a23a5a4d14": {
         "Held in language": [
@@ -9912,56 +9905,47 @@
             "1482940800"
         ]
     }, 
-    "Session:Stage Manager Angel Introduction# 391e226a6dc0aa72ad5b79b718ed0cfa": {
+    "Session:Simple Nomic# b102345583487c805c193718c2b6756b": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483038000"
+            "1483023600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
+            "4 simple rules:\n# The name of the game is Nomic.\n# The rules are to be applied in the order as written here.\n# The rules can be changed.\n# The first to reach 100 points wins."
         ], 
         "Has session type": [
             "Workshop"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
+        "Has session location": [], 
         "Has subtitle": [
-            "Day3 Introduction Stagemanagers"
+            "Simple Nomic Session 1"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Ijon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
+                "fulltext": "User:Trapicki", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Trapicki", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Stage Manager Angel Introduction"
+            "Simple Nomic"
         ], 
         "Has duration": [
-            60
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Simple_Nomic", 
         "Has end time": [
-            "1483041600"
+            "1483034400"
         ]
     }, 
     "Session:How to train - and reprogram - your quadcopter# 040312df7c23adf7010e3b3568d8c92e": {
@@ -10159,6 +10143,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Teledildonics_Meetup", 
         "Has end time": [
             "1483106400"
+        ]
+    }, 
+    "Session:Translation meetings# d6363e66156d0473f5f996f9726e7805": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482851400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "day 1, afternoon meeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Translation meetings"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "Has end time": [
+            "1482854400"
         ]
     }, 
     "Session:Open Science Workshop# d93aeca26ff9fa5a1b03992460914abb": {
@@ -12881,53 +12913,56 @@
             "1482948000"
         ]
     }, 
-    "Session:Coffee Break# 344833a144e5511fc5cb35044e92d1e9": {
+    "Session:Calliope Workshop# e18e8f778bac6fc1aa3182aef4a09690": {
         "Held in language": [
-            "de - German", 
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1483110000"
+            "1482930000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://calliope.cc/"
+        ], 
         "Has description": [
-            "Calm down and have a chat with us"
+            "Wir werden bis zum 20 Kindern das Experimentieren mit dem Calliope Board zeigen. Mit dem Calliope Editor werden wir die ersten Schritte zum eigenen Programm machen."
         ], 
         "Has session type": [
-            "Other"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "fulltext": "Assembly:Jugend hackt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Jugend_hackt", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Calliope Workshop 01 / Junghackertag"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Monic", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
+                "fulltext": "User:DerMicha", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:DerMicha", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Coffee Break"
+            "Calliope Workshop"
         ], 
         "Has duration": [
-            30
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coffee_Break", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Calliope_Workshop", 
         "Has end time": [
-            "1483111800"
+            "1482933600"
         ]
     }, 
     "Session:Off flavours in homebrewed beer# 06a0553985d2992394fd660075bbde7a": {
@@ -13548,62 +13583,54 @@
             "1482937200"
         ]
     }, 
-    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
+    "Session:Privacy by default with pretty Easy privacy (p\u2261p)# 59be5c85949ce87027b75f249e4d8589": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482786000"
+            "1482861600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
+            "https://pep.foundation/"
         ], 
         "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
+            "The pretty Easy privacy project (p\u2261p) is a project to turn the cyberpunk movement's dream into reality that everyone should be able to protect his/her privacy using technical tools. Overall p\u2261p is about changing today's default of digital written communications from unencrypted, unanonymized and unverified to encrypted, anonymized and verified. p\u2261p's vision is to offer an automatic and easy to use solution to make all end-to-end written digital communications over the Internet \u2018Private and Secure by Default and Design\u2018. With that 'unencrypted' e-mails become the exception not the norm. The p\u2261p project aims at encrypting existing written digital communications and does not force users to switch to platform-centric or other crypto solutions, in which users are likely to be locked."
         ], 
         "Has session type": [
-            "Other"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Couchsofa opening DJ set on day 0"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:JayDee2202", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Klangteppich"
+            "Privacy by default with pretty Easy privacy (p\u2261p)"
         ], 
         "Has duration": [
-            180
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Privacy_by_default_with_pretty_Easy_privacy_(p%E2%89%A1p)", 
         "Has end time": [
-            "1482796800"
+            "1482865200"
         ]
     }, 
     "Session:VOC Engelmeeting# 6c7712cd8c07af6fc45588ac8e3f3c56": {
@@ -13716,54 +13743,54 @@
             "1482942600"
         ]
     }, 
-    "Session:Privacy by default with pretty Easy privacy (p\u2261p)# 59be5c85949ce87027b75f249e4d8589": {
+    "Session:Whiskyleaks# 5c60b8f080fa565c157bf2f447c54bef": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482861600"
+            "1483045200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://pep.foundation/"
+            "https://milliways.info/pad/p/33c3-whiskyleaks"
         ], 
         "Has description": [
-            "The pretty Easy privacy project (p\u2261p) is a project to turn the cyberpunk movement's dream into reality that everyone should be able to protect his/her privacy using technical tools. Overall p\u2261p is about changing today's default of digital written communications from unencrypted, unanonymized and unverified to encrypted, anonymized and verified. p\u2261p's vision is to offer an automatic and easy to use solution to make all end-to-end written digital communications over the Internet \u2018Private and Secure by Default and Design\u2018. With that 'unencrypted' e-mails become the exception not the norm. The p\u2261p project aims at encrypting existing written digital communications and does not force users to switch to platform-centric or other crypto solutions, in which users are likely to be locked."
+            "As always milliways is doing its nice whiskyleaks again."
         ], 
         "Has session type": [
-            "Talk"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Milliways", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "fulltext": "User:Mc.fly", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mc.fly", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Privacy by default with pretty Easy privacy (p\u2261p)"
+            "Whiskyleaks"
         ], 
         "Has duration": [
-            60
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Privacy_by_default_with_pretty_Easy_privacy_(p%E2%89%A1p)", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Whiskyleaks", 
         "Has end time": [
-            "1482865200"
+            "1483056000"
         ]
     }, 
     "Session:Eris Rising# 041120007c5283bda6bce6a6905ff6d5": {
@@ -15519,6 +15546,64 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Cider_Flows", 
         "Has end time": []
     }, 
+    "Session:Klangteppich# a33e122a93f95fe8add42f678dc1b55c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482879600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
+        ], 
+        "Has description": [
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Klangteppich"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
+        "Has end time": [
+            "1482886800"
+        ]
+    }, 
     "Session:Entscheidungsfindung/Konsens# f101552c897eef3afa3eccf5d908a032": {
         "Held in language": [
             "de - German"
@@ -15560,52 +15645,56 @@
             "1482850800"
         ]
     }, 
-    "Session:Translation meetings# d6363e66156d0473f5f996f9726e7805": {
+    "Session:Stage Manager Angel Introduction# 391e226a6dc0aa72ad5b79b718ed0cfa": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851400"
+            "1483038000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        "Has website": [
+            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
         ], 
-        "Has session type": [], 
+        "Has description": [
+            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "day 1, afternoon meeting"
+            "Day3 Introduction Stagemanagers"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Translation meetings"
+            "Stage Manager Angel Introduction"
         ], 
         "Has duration": [
-            50
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
         "Has end time": [
-            "1482854400"
+            "1483041600"
         ]
     }, 
     "Session:Klangteppich# 1d417fdc38d9002139dfa87a15a17e0e": {
@@ -16081,29 +16170,29 @@
             "1483020000"
         ]
     }, 
-    "Session:VOC Engelmeeting# da904f0f6639dd430983667df8b38a91": {
+    "Session:DNS und ICVPN - .freifunk# 237d9688a280a98c5ca21bf5981b5bcd": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482937200"
+            "1483106400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://c3voc.de/"
+            "https://wiki.freifunk.net/IC-VPN"
         ], 
         "Has description": [
-            "Daily meeting for all VOC Angels."
+            ".freifunk - und andere Dienste im Freifunk ICVPN. DNS-Resolver auf Plaste-Routern"
         ], 
         "Has session type": [
             "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Saal 6", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Saal_6", 
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -16111,36 +16200,24 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Jwacalex", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:V0tti", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:V0tti", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Felixs", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Felixs", 
+                "fulltext": "User:Yanosz", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Yanosz", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "VOC Engelmeeting"
+            "DNS und ICVPN - .freifunk"
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:DNS_und_ICVPN_-_.freifunk", 
         "Has end time": [
-            "1482940800"
+            "1483108200"
         ]
     }, 
     "Session:12V SolarPower & Sound# 2c77fd96698a5987b24b960a589b731e": {
@@ -16708,6 +16785,68 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
             "1482768000"
+        ]
+    }, 
+    "Session:VOC Engelmeeting# 6fb34c92d05b83c60d241c1e8caeeeb0": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483110000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "Daily meeting for all VOC Angels."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Saal 6", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Saal_6", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:V0tti", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:V0tti", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Felixs", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Felixs", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "VOC Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
+        "Has end time": [
+            "1483113600"
         ]
     }
 }
