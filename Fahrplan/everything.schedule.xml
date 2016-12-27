@@ -1,5 +1,5 @@
 <schedule>
-  <version>WONTFIX</version>
+  <version>NOT OUR BUG</version>
   <conference>
     <acronym>33c3</acronym>
     <title>33. Chaos Communication Congress</title>
@@ -777,42 +777,17 @@ TLS 1.3 is not in the distant future. The draft is almost finalized, and at Clou
         <type>lecture</type>
         <language>en</language>
         <abstract>In this talk we will explore and present various IPv6 scanning techniques that allow attackers to peek into IPv6 networks. With the already known difference between IPv4 and IPv6 firewalling (the latter is worse... ) we then demonstrate how these techniques can be combined and used to obtain a large-scale view on the state of IPv6 in infrastructures and data centers. To give the whole issue a somewhat more fun dimension, we will also look at some (security) sensitive applications of this technique. Complimentary code-snippets will be provided.</abstract>
-        <description>Scanning networks is a basic tool for security researchers. Software&#13;
-misconfiguration like with unprotected key-value stores and  software bugs like&#13;
-heartbleed are analyzed and investigated in the wild using scanning of&#13;
-networks.&#13;
+        <description>Scanning networks is a basic tool for security researchers. Software misconfiguration like with unprotected key-value stores and  software bugs like heartbleed are analyzed and investigated in the wild using scanning of networks.&#13;
 &#13;
-At least since the rise of zMap, scanning the I---Pv4---nternet has become a&#13;
-rather simple endeavour. When one happens to be at a conference that tends to&#13;
-supply 1gE or 10gE ports on the access layer, scanning the Internet can be done&#13;
-in 60-10 Minutes. Scanning the 2^32 possible addresses (with certain&#13;
-limitations) of IPv4 has become cheap.&#13;
+At least since the rise of zMap, scanning the I---Pv4---nternet has become a rather simple endeavour. When one happens to be at a conference that tends to supply 1gE or 10gE ports on the access layer, scanning the Internet can be done in 60-10 Minutes. Scanning the 2^32 possible addresses (with certain limitations) of IPv4 has become cheap.&#13;
 &#13;
-However, the small searchspace of IPv4 that makes it so scannable is also what&#13;
-renders it increasingly obsolete. To overcome this issue, IPv6 was designed.&#13;
-Along with IPv6 we receive a theoretical maximum of 2^128 different addresses.&#13;
-Scanning this larger space is a challenge that---so far---has been mostly&#13;
-approached by researchers. Specifically, not security but network measurement&#13;
-researchers. Their works usually focus on having access to large datasets of &#13;
-IPv6 addresses, the most famous ones using the access logs of a large CDN. &#13;
+However, the small searchspace of IPv4 that makes it so scannable is also what renders it increasingly obsolete. To overcome this issue, IPv6 was designed. Along with IPv6 we receive a theoretical maximum of 2^128 different addresses. Scanning this larger space is a challenge that---so far---has been mostly approached by researchers. Specifically, not security but network measurement researchers. Their works usually focus on having access to large datasets of  IPv6 addresses, the most famous ones using the access logs of a large CDN. &#13;
 &#13;
-With the average nerd lacking a small enterprise scale CDN in the basement, we &#13;
-set out to utilize other techniques for enumerating IPv6 that only utilizes&#13;
-public data sources. Following RFC7707, we found various interesting candidate&#13;
-techniques. Especially probing the PTR sets of IPv6 networks sounded promising.&#13;
+With the average nerd lacking a small enterprise scale CDN in the basement, we set out to utilize other techniques for enumerating IPv6 that only utilizes public data sources. Following RFC7707, we found various interesting candidate techniques. Especially probing the PTR sets of IPv6 networks sounded promising.&#13;
 &#13;
-However, when implementing the techniques, we had to realize that these were not&#13;
-yet ready to be used on a global scale. During the last couple of months we &#13;
-discovered pitfalls, adjusted the tools and ran enumerations.&#13;
+However, when implementing the techniques, we had to realize that these were not yet ready to be used on a global scale. During the last couple of months we discovered pitfalls, adjusted the tools and ran enumerations.&#13;
 &#13;
-In this talk we will present the approaches we used to enumerate IPv6. From&#13;
-this presentation, the average person in the audience should be able to easily&#13;
-implement these tools for them self---with subsequent "spasz am geraet".&#13;
-Furthermore, we will present anecdotes, case-studies and investigations on the&#13;
-data we gathered so far. This includes peeks into transit networks of large&#13;
-ISPs, datacenters of global cloud providers and a suprisingly high amount of&#13;
-things one would not expect (or hope to be) on the Internet.&#13;
-</description>
+In this talk we will present the approaches we used to enumerate IPv6. From this presentation, the average person in the audience should be able to easily implement these tools for them self---with subsequent "spasz am geraet". Furthermore, we will present anecdotes, case-studies and investigations on the data we gathered so far. This includes peeks into transit networks of large ISPs, datacenters of global cloud providers and a suprisingly high amount of things one would not expect (or hope to be) on the Internet.</description>
         <recording>
           <license>CC BY 4.0</license>
           <optout>false</optout>
@@ -1299,36 +1274,8 @@ Her practice evolved from visual arts, journalism, internet culture and publishi
           <person id="7123">Nika Dubrovsky</person>
         </persons>
         <links/>
-        <attachments/>
-      </event>
-      <event id="8045" guid="3eadf072-8762-461d-a210-a3ea4df66e8a">
-        <logo>/system/events/logos/000/008/045/large/Trecker_im_Schnee.jpg?1481063171</logo>
-        <date>2016-12-27T17:30:00+01:00</date>
-        <start>17:30</start>
-        <duration>00:30</duration>
-        <room>Saal 6</room>
-        <slug>33c3-8045-0en_1en_auf_dem_acker</slug>
-        <title>0en &amp; 1en auf dem Acker</title>
-        <subtitle>Was die Sensor &amp; Automatisierungstechnik in der Landwirtschaft heute schon leisten kann &#8211; Ein Einblick</subtitle>
-        <track>Science</track>
-        <type>lecture</type>
-        <language>de</language>
-        <abstract>Die Dynamik der globalen Agrarm&#228;rkte hat sich in den letzten Jahren verst&#228;rkt und birgt neue Herausforderungen f&#252;r die Landwirte. Hoffnungstr&#228;ger sind &#228;hnlich wie in anderen Branchen auch Sensor- &amp; Datenverarbeitungstechnik sowie das Internet: Produktionsprozesse steuern sich selbst, Anh&#228;nger werden halbautomatisch mittels Bilderkennung beladen, Maschinen kommunizieren mittels Maschinen und Fahrzeuge steuern sich weitestgehend schon jetzt autonom.&#13;
-</abstract>
-        <description>Die Dynamik der globalen Agrarm&#228;rkte hat sich in den letzten Jahren verst&#228;rkt und birgt neue Herausforderungen f&#252;r die Landwirte. Ebenso &#228;ndert sich das vielfach verbreitete Berufsbild des Landwirts oder des Bauers zunehmend hin zu einem landwirtschaftlichen Unternehmer, der das komplette Spektrum des aktuellen Standes des Technik einzusetzen vermag. Themen wie Ressourcenknappheit, Ver&#228;nderungen im Klima sowie die weltweit steigende Nachfrage nach Nahrungsmitteln und nachwachsenden Rohstoffen zwingen dabei auch in Deutschland die Bauern bzw. landwirtschaftlichen Unternehmer &#252;ber neue Strategien und Arbeitstechniken nachzudenken um Produktivit&#228;t und Effizienz zu steigern.&#13;
-Die rasante Entwicklung in der Sensor- &amp; Datenverarbeitungstechnik in Verbindung mit dem Internet ist dabei einer der Schl&#252;ssel der helfen kann den aktuellen Herausforderungen der Landwirtschaft zu begegnen. Dabei sind &#8211; ohne dass ein Gro&#223;teil der Bev&#246;lkerung dies vermuten w&#252;rde &#8211; gerade in der Landwirtschaft und dem landwirtschaftlichen kommunalen Dienstleistungssektor gro&#223;e Fortschritte in Arbeitsabl&#228;ufen und Arbeitserledigungen vollzogen worden. Es darf dabei &#8211; g&#228;nzlich modern &amp; smart von Landwirtschaft 4.0 gesprochen werden: Produktionsprozesse steuern sich selbst, Anh&#228;nger werden halbautomatisch mittels Bilderkennung beladen, Maschinen kommunizieren mittels Maschinen und Fahrzeuge steuern sich weitestgehend schon jetzt autonom.</description>
-        <recording>
-          <license>CC BY 4.0</license>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="6938">Fritz Herzrasen</person>
-          <person id="6991">Lisa Tschorn</person>
-        </persons>
-        <links/>
         <attachments>
-          <attachment href="/system/event_attachments/attachments/000/002/973/original/33C3-Vortrag-Abstract.pdf?1475073318">33C3-Vortrag-Abstract.pdf</attachment>
-          <attachment href="/attachments/original/missing.png">file</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/108/original/Privacy__ccc_last.pdf?1482847358">Privacy__ccc_last.pdf</attachment>
         </attachments>
       </event>
       <event id="7999" guid="600ca67d-e18d-49d8-8e5d-08d5b38ec528">
@@ -1537,59 +1484,7 @@ In particular, we will explain how they tend to operate and we will dive into te
         </links>
       </event>
     </room>
-    <room name="dradio">
-      <event id="8449" guid="6faab5a9-1b48-48e4-8d89-1377060792ac">
-        <logo>/system/events/logos/000/008/449/large/dradio.png?1482609657</logo>
-        <date>2016-12-27T16:30:00+01:00</date>
-        <start>16:30</start>
-        <duration>00:30</duration>
-        <room>dradio</room>
-        <slug>dradio33c3-8449-dlf_forschung_aktuell_studio_live</slug>
-        <title>DLF "Forschung Aktuell" &#8211; Studio/Live</title>
-        <subtitle>Berichte vom 33C3</subtitle>
-        <track>Deutschlandradio</track>
-        <type>lecture</type>
-        <language>de</language>
-        <abstract>Live-Ausstrahlung der Sendung Forschung Aktuell des Deutschlandfunks. Direkt vom 33C3 zugeschaltet werden die DLF-Reporter vor Ort.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="7280">Manfred Kloiber</person>
-        </persons>
-        <links>
-          <link href="http://www.deutschlandfunk.de/forschung-aktuell.675.de.html">DLF Forschung Aktuell</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="8451" guid="9a13c662-31ee-48be-a35c-bc899c0b2087">
-        <logo>/system/events/logos/000/008/451/large/dradio.png?1482609968</logo>
-        <date>2016-12-27T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>00:45</duration>
-        <room>dradio</room>
-        <slug>dradio33c3-8451-deutschlandfunk_studio-talk</slug>
-        <title>Deutschlandfunk Studio-Talk</title>
-        <subtitle>Wissenschaftsberichterstattung im Radio</subtitle>
-        <track>Deutschlandradio</track>
-        <type>podium</type>
-        <language>de</language>
-        <abstract>Das Publikum in Saal 17 fragt, Manfred Kloiber und Peter Welchering antworten.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="7280">Manfred Kloiber</person>
-          <person id="7281">Peter Welchering</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
+    <room name="dradio"/>
     <room name="Sendezentrumsb&#252;hne">
       <event id="383" guid="226e244c-4781-47e4-8dd7-2d74607ae02f">
         <logo>/system/events/logos/000/000/383/large/qx8g3qfa_400x400.jpg?1482079808</logo>
@@ -4055,9 +3950,9 @@ Findings from investigations have been used by Human Rights Watch, the United Na
         <track>Science</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>The Anthropocene is widely understood to mean the current &lt;em&gt;&amp;quot;period of Earth's history during which humans have a decisive influence on the state, dynamics and future&amp;quot;&lt;/em&gt; of this planet. For several years, scientists in the &lt;a href="http://quaternary.stratigraphy.org/workinggroups/anthropocene/" title="Website of the Working Group on the &amp;#39;Anthropocene&amp;#39; (AWG)"&gt;Working Group on the 'Anthropocene' (AWG)&lt;/a&gt; have &lt;a href="https://www2.le.ac.uk/offices/press/press-releases/2016/august/media-note-anthropocene-working-group-awg" title="Media note on AWG recommendations"&gt;worked (and voted!)&lt;/a&gt; on defining the beginning of the Anthropocene in geochemical terms. The mid-20&lt;sup&gt;th&lt;/sup&gt; century provides an obvious geochemical 'timestamp': fallout from &lt;a href="https://media.ccc.de/v/31c3_-_6121_-_en_-_saal_2_-_201412291715_-_what_ever_happened_to_nuclear_weapons_-_michael_buker" title="Michael B&#252;ker&amp;#39;s &amp;#39;What Ever Happened to Nuclear Weapons?&amp;#39; talk at 31c3"&gt;nuclear weapons detonations&lt;/a&gt;. Which other chemicals and timestamps are being considered for marking the Anthropocene's start? How is 'define-by-committee' even working out for &lt;a href="http://www.stratigraphy.org/index.php/ics-chart-timescale" title="International Chronostratigraphic Chart AKA Geological Timescale"&gt;geological epochs&lt;/a&gt;? This talk boils the scientific background of the Anthropocene debate down for non-stratigraphers. We'll also learn about potential environmental trajectories, and the choices we and our civilisation will face in a geological epoch of our own making.</abstract>
-        <description>&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Stratigraphy" title="Wikipedia: Stratigraphy"&gt;Stratigraphers&lt;/a&gt; are geologists, who focus on sediment, rock or ice layers, etc. These 'strata' form by deposition of organic or inorganic material (such as microorganisms or volcanic ash). Over time, upper strata compress the lower ones into permanent records of the history of our planet's surface. Because chemical signals such as gas bubbles, isotopes, etc. are captured in the strata, scientists can analyse the geochemistry of the past, date certain events, and more. That kind of data ultimately underlies &lt;a href="https://xkcd.com/1732/" title="xkcd comic &amp;#39;Earth Temperature Timeline&amp;#39;"&gt;xkcd's recent 'Earth Temperature Timeline'&lt;/a&gt;. Direct measurements of geochemical signals such as &lt;a href="https://scripps.ucsd.edu/programs/keelingcurve/" title="Keeling curve of CO2 concentrations"&gt;atmospheric CO&lt;sub&gt;2&lt;/sub&gt; concentration&lt;/a&gt; and ocean pH has started in the mid-20&lt;sup&gt;th&lt;/sup&gt; century.&lt;/p&gt;&#13;
-&lt;p&gt;Besides the &lt;a href="https://ipcc.ch/" title="Website of the Intergovernmental Panel on Climate Change"&gt;Intergovernmental Panel on Climate Change&lt;/a&gt;, the AWG is possibly the scientific committee with most public attention currently. It is composed of (specialised) geologists (Duh!), archaeologists, geographers, anthropologists, political and climate scientists, and others. Therefore, formalising the Anthropocene definition is a multi-disciplinary, collaborative scientific effort, as well as an inherently political statement. This talk will explain why.&lt;/p&gt;&#13;
+        <abstract>The Anthropocene is widely understood to mean the current &lt;em&gt;&amp;quot;period of Earth's history during which humans have a decisive influence on the state, dynamics and future&amp;quot;&lt;/em&gt; of this planet. For several years, scientists in the &lt;a href="http://quaternary.stratigraphy.org/workinggroups/anthropocene/" title="Website of the Working Group on the &amp;#39;Anthropocene&amp;#39; (AWG)"&gt;Working Group on the 'Anthropocene' (AWG)&lt;/a&gt; have &lt;a href="https://www2.le.ac.uk/offices/press/press-releases/2016/august/media-note-anthropocene-working-group-awg" title="Media note on AWG recommendations"&gt;worked (and voted!)&lt;/a&gt; on defining the beginning of the Anthropocene in geochemical terms. The mid-20&lt;sup&gt;th&lt;/sup&gt; century provides an obvious geochemical 'timestamp': fallout from &lt;a href="https://media.ccc.de/v/31c3_-_6121_-_en_-_saal_2_-_201412291715_-_what_ever_happened_to_nuclear_weapons_-_michael_buker" title="Michael B&#252;ker&amp;#39;s &amp;#39;What Ever Happened to Nuclear Weapons?&amp;#39; talk at 31c3"&gt;nuclear weapons detonations&lt;/a&gt;. Which other chemicals and timestamps are being considered for marking the Anthropocene's start? How is 'define-by-committee' even working out for &lt;a href="http://www.stratigraphy.org/index.php/ics-chart-timescale" title="International Chronostratigraphic Chart AKA Geological Timescale"&gt;geological epochs&lt;/a&gt;? This talk boils the scientific background of the Anthropocene debate down for non-stratigraphers.</abstract>
+        <description>&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Stratigraphy" title="Wikipedia: Stratigraphy"&gt;Stratigraphers&lt;/a&gt; are geologists, who focus on sediment, rock or ice layers, etc. These 'strata' form by deposition of organic or inorganic material (such as microorganisms or volcanic ash) and provide a records of the history of our planet's surface. Because gas bubbles, isotopes, etc. are captured in the strata, scientists can analyse the geochemistry of the past, date certain events, and more. That kind of data ultimately underlies &lt;a href="https://xkcd.com/1732/" title="xkcd comic &amp;#39;Earth Temperature Timeline&amp;#39;"&gt;xkcd's recent 'Earth Temperature Timeline'&lt;/a&gt;. Direct measurements of geochemical signals such as &lt;a href="https://scripps.ucsd.edu/programs/keelingcurve/" title="Keeling curve of CO2 concentrations"&gt;atmospheric CO&lt;sub&gt;2&lt;/sub&gt; concentration&lt;/a&gt; and ocean pH started only in the mid-20&lt;sup&gt;th&lt;/sup&gt; century.&lt;/p&gt;&#13;
+&lt;p&gt;Besides the &lt;a href="https://ipcc.ch/" title="Website of the Intergovernmental Panel on Climate Change"&gt;Intergovernmental Panel on Climate Change&lt;/a&gt;, the AWG is possibly the most diverse scientific committee with most public attention currently. Therefore, defining the Anthropocene is a multi-disciplinary, collaborative scientific effort, as well as an inherently political statement. This talk will explain why.&lt;/p&gt;&#13;
 </description>
         <recording>
           <license>CC BY 4.0</license>
@@ -4071,7 +3966,7 @@ Findings from investigations have been used by Human Rights Watch, the United Na
           <link href="http://www.konscience.de/tag/anthropozaen/">KonScience-Episoden zu dem Thema</link>
           <link href="https://www2.le.ac.uk/offices/press/press-releases/2016/august/media-note-anthropocene-working-group-awg">AWG's status in Aug.'16</link>
           <link href="http://quaternary.stratigraphy.org/workinggroups/anthropocene/">AWG homepage</link>
-          <link href="http://slides.com/kaleimai/33c3-welcome-anthropocene">draft slides</link>
+          <link href="http://slides.com/kaleimai/33c3-welcome-anthropocene">slides</link>
         </links>
         <attachments/>
       </event>
@@ -4999,98 +4894,7 @@ If time permits, the researchers will also update the status of paging system us
         </links>
       </event>
     </room>
-    <room name="dradio">
-      <event id="8450" guid="17758771-c896-49e1-b01e-feaaf3fa4997">
-        <logo>/system/events/logos/000/008/450/large/dradio.png?1482609769</logo>
-        <date>2016-12-28T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>01:00</duration>
-        <room>dradio</room>
-        <slug>dradio33c3-8450-dlf_das_kulturgesprach</slug>
-        <title>DLF "Das Kulturgespr&#228;ch"</title>
-        <subtitle>Aus der Traum? - Warum das Internet die Welt (doch nicht) retten kann</subtitle>
-        <track>Deutschlandradio</track>
-        <type>podium</type>
-        <language>de</language>
-        <abstract>Aufzeichnung der Sendung, die am 30.12.2016 um 19:15 Uhr im Deutschlandfunk ausgestrahlt wird.</abstract>
-        <description>Die Erwartungen der Netzaktivisten waren gro&#223;, als die ersten kommerziellen Internet-Provider Anfang der neunziger Jahres in Deutschland an den Start gingen. &#8222;Wenn jeder zum Sender wird, demokratisiert sich diese Gesellschaft rasant&#8220;, prognostizierte Frank Da Cruz, der Entwickler der legend&#228;ren Kommunikationssoftware Kermit. Brechts Radiotheorie sollte mit dem Internet nun endlich Wirklichkeit werden.&#13;
-&#8222;Fuck you Facebook&#8220;, meinte statt dessen der Silicon-Valley-Veteran Michael Abehsera nach der Wahl von Donald Trump zum US-Pr&#228;sidenten. Social-Media-Plattformen haben diese Wahl erst m&#246;glich werden lassen. Abehsera gibt eine d&#252;stere Prognose: Mit einer geschickten Social-Media-Strategie k&#246;nnen heute Diktatoren und Propagandisten wie Hitler und Goebbels ein Land leicht &#252;bernehmen.&#13;
-Das Internet gilt mittlerweile nicht mehr als Medium der Hoffnung f&#252;r mehr gesellschaftliche Teilhabe, sondern als Feind der rechtsstaatlichen Demokratie. Konventionelle Medien nehmen ihre Aufgabe, Orientierung zu bieten immer weniger wahr. Soziale Medien dagegen bieten weitgehende Desorientierung. Und es kommt noch schlimmer: Digitalkonzerne, die alle Daten der Nutzer abgreifen und verkaufen, sorgen mit ihren intransparenten Algorithmen f&#252;r eine Filterblase. Dabei geht es nicht um Wahrheit oder Meinungsvielfalt, sondern um m&#246;glichst viele Klicks. Und die gibt es f&#252;r Provokation, Hassreden und Best&#228;tigung der eigenen Sicht der Dinge. Das nutzen in den westlichen Demokratien Populisten aller Coleur.&#13;
-Wie reagiert die Netzgemeinde hierzulande auf diese Entwicklungen? M&#252;ssen die demokratischen Kr&#228;fte ob dieser &#220;bermacht der Netzmanipulation kapitulieren? Oder gibt es noch Ans&#228;tze und Chancen, Internet-Plattformen dienlich f&#252;r die Demokratie zu nutzen?&#13;
-&#13;
-G&#228;ste:	&#13;
-Jens Best, Open-Data- und Web-Aktivist&#13;
-Prof. Dr. Gabriele Hooffacker, HWT Leipzig und Journalistenakademie M&#252;nchen&#13;
-Andy M&#252;ller-Maguhn, Netzaktivist&#13;
-Jimmy Schultz, Netzpolitiker, FDP&#13;
-&#13;
-Moderation:&#13;
-Manfred Kloiber und Peter Welchering</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="7280">Manfred Kloiber</person>
-          <person id="7281">Peter Welchering</person>
-        </persons>
-        <links>
-          <link href="http://www.deutschlandfunk.de/das-kulturgespraech.1300.de.html">DLF Das Kulturgespr&#228;ch</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="8452" guid="5f5fa8e0-9b38-4a49-bff4-09c251380498">
-        <logo>/system/events/logos/000/008/452/large/dradio.png?1482610187</logo>
-        <date>2016-12-28T16:30:00+01:00</date>
-        <start>16:30</start>
-        <duration>00:30</duration>
-        <room>dradio</room>
-        <slug>dradio33c3-8452-dlf_forschung_aktuell_studio_live</slug>
-        <title>DLF "Forschung Aktuell" &#8211; Studio/Live</title>
-        <subtitle>Berichte vom 33C3</subtitle>
-        <track>Deutschlandradio</track>
-        <type>lecture</type>
-        <language>de</language>
-        <abstract>Live-Ausstrahlung der Sendung Forschung Aktuell des Deutschlandfunks. Direkt vom 33C3 zugeschaltet werden die DLF-Reporter vor Ort.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="7281">Peter Welchering</person>
-        </persons>
-        <links>
-          <link href="http://www.deutschlandfunk.de/forschung-aktuell.675.de.html">DLF Forschung Aktuell</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="8453" guid="f9560ab7-3485-4854-aa7b-1264c2d3abbf">
-        <logo>/system/events/logos/000/008/453/large/dradio.png?1482610337</logo>
-        <date>2016-12-28T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>00:45</duration>
-        <room>dradio</room>
-        <slug>dradio33c3-8453-deutschlandfunk_studio-talk</slug>
-        <title>Deutschlandfunk Studio-Talk</title>
-        <subtitle>Wissenschaftsberichterstattung im Radio</subtitle>
-        <track>Deutschlandradio</track>
-        <type>podium</type>
-        <language>de</language>
-        <abstract>Das Publikum in Saal 17 fragt, Manfred Kloiber und Peter Welchering antworten.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="7280">Manfred Kloiber</person>
-          <person id="7281">Peter Welchering</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
+    <room name="dradio"/>
     <room name="Sendezentrumsb&#252;hne">
       <event id="412" guid="4eb317dd-2644-4bf2-868c-fb178322e982">
         <logo>/system/events/logos/000/000/412/large/Hello_World.jpg?1482757857</logo>
@@ -5137,7 +4941,9 @@ kurzen Vorstellung des Chaos Communication Congresses und der vielen tollen Ange
         </recording>
         <persons>
           <person id="217">Matthias</person>
-          <person id="252">Sebastian Beschke</person>
+          <person id="275">sjekutsch</person>
+          <person id="277">sjordan</person>
+          <person id="276">alorenzen</person>
         </persons>
         <links>
           <link href="http://faire-computer.de">Faire Computer</link>
@@ -9470,94 +9276,7 @@ Based on ongoing research about the development of artifical intelligence in the
         </links>
       </event>
     </room>
-    <room name="dradio">
-      <event id="8454" guid="3a209632-961f-458f-8d0b-442767d9589a">
-        <logo>/system/events/logos/000/008/454/large/dradio.png?1482610513</logo>
-        <date>2016-12-29T10:00:00+01:00</date>
-        <start>10:00</start>
-        <duration>01:30</duration>
-        <room>dradio</room>
-        <slug>dradio33c3-8454-dlf_marktplatz_live</slug>
-        <title>DLF "Marktplatz" &#8211; Live</title>
-        <subtitle>Optimal anonym - Wie sch&#252;tze ich meine Daten und Identit&#228;t im Netz</subtitle>
-        <track>Deutschlandradio</track>
-        <type>podium</type>
-        <language>de</language>
-        <abstract>Wer im Netz ist wei&#223; es: Big Brother is watching you. Doch sind es in der Regel nicht die Geheimdienste, die sich f&#252;r die Surftouren ganz normaler Internet-Nutzer interessieren, sondern die Werbeindustrie und vor allem Computer-Kriminelle, die nach Schwachstellen und digitalen Verwundbarkeiten suchen. Deshalb raten viele Experten, sich im Netz unsichtbar zu machen, eine digitale Tarnkappe aufzuziehen und anonym durchs Netz zu browsen.</abstract>
-        <description>Zahlreiche IT-Sicherheitsanbieter werben neuerdings f&#252;r anonyme Webdienste oder Zusatzger&#228;te, sogenannte VPN-Browser und -Boxen, die dabei helfen sollen, unerkannt im Netz aktiv zu sein. Gleichzeitig versprechen viele dieser Dienste auch die Verschleierung des geografischen Standortes, um L&#228;nderbezogene Nutzungsbeschr&#228;nkungen bei den gro&#223;en Videoportalen zu umgehen. Im Marktplatz diskutieren Expertinnen und Experten mit den H&#246;rerinnen und H&#246;rern die Qualit&#228;t solcher Angebote. Wird man durch VPN-Surfing wirklich &#8222;unsichtbar&#8220; oder machen es die Dienste sogar leichter, Personen zu identifizieren. Welche Alternativen gibt es? Und: Ist es &#252;berhaupt ratsam, eigene Identit&#228;t zu verschleiern?&#13;
-&#13;
-G&#228;ste:&#13;
-Falk Garbsch, Chaos Computer Club&#13;
-Marit Hansen, Unabh&#228;ngiges Landeszentrum f&#252;r Datenschutz Schleswig Holstein&#13;
-Peter Knaak, Stiftung Warentest&#13;
-Cornelius Kopke, BITKOM e.V.&#13;
-&#13;
-Moderation: &#13;
-Manfred Kloiber</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="7280">Manfred Kloiber</person>
-        </persons>
-        <links>
-          <link href="http://www.deutschlandfunk.de/marktplatz.771.de.html">DLF Marktplatz</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="8455" guid="b20cdd6a-76a0-4666-8aa6-69028582e010">
-        <logo>/system/events/logos/000/008/455/large/dradio.png?1482610632</logo>
-        <date>2016-12-29T16:30:00+01:00</date>
-        <start>16:30</start>
-        <duration>00:30</duration>
-        <room>dradio</room>
-        <slug>dradio33c3-8455-dlf_forschung_aktuell_studio_live</slug>
-        <title>DLF "Forschung Aktuell" &#8211; Studio/Live</title>
-        <subtitle>Berichte vom 33C3</subtitle>
-        <track>Deutschlandradio</track>
-        <type>lecture</type>
-        <language>de</language>
-        <abstract>Live-Ausstrahlung der Sendung Forschung Aktuell des Deutschlandfunks. Direkt vom 33C3 zugeschaltet werden die DLF-Reporter vor Ort.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="7280">Manfred Kloiber</person>
-        </persons>
-        <links>
-          <link href="http://www.deutschlandfunk.de/forschung-aktuell.675.de.html">DLF Forschung Aktuell</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="8456" guid="0fa86ed6-1787-431a-98fe-9246c562a500">
-        <logo>/system/events/logos/000/008/456/large/dradio.png?1482610750</logo>
-        <date>2016-12-29T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>00:45</duration>
-        <room>dradio</room>
-        <slug>dradio33c3-8456-deutschlandfunk_studio-talk</slug>
-        <title>Deutschlandfunk Studio-Talk</title>
-        <subtitle>Wissenschaftsberichterstattung im Radio</subtitle>
-        <track>Deutschlandradio</track>
-        <type>podium</type>
-        <language>de</language>
-        <abstract>Das Publikum in Saal 17 fragt, Manfred Kloiber und Peter Welchering antworten.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="7280">Manfred Kloiber</person>
-          <person id="7281">Peter Welchering</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
+    <room name="dradio"/>
     <room name="Sendezentrumsb&#252;hne">
       <event id="391" guid="57333763-6035-4945-bbe5-10a090126c21">
         <logo>/system/events/logos/000/000/391/large/cyber.jpg?1482576980</logo>
@@ -12816,88 +12535,7 @@ Making secure boot actually secure was a bigger effort than we initially expecte
         </links>
       </event>
     </room>
-    <room name="dradio">
-      <event id="8457" guid="dd550c3b-6171-48e1-9b1c-8316fbeee4f4">
-        <logo>/system/events/logos/000/008/457/large/dradio.png?1482611230</logo>
-        <date>2016-12-30T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>00:30</duration>
-        <room>dradio</room>
-        <slug>dradio33c3-8457-dlf_computer_und_kommunikation</slug>
-        <title>DLF "Computer und Kommunikation"</title>
-        <subtitle>Works for me - Der 33C3 in Hamburg</subtitle>
-        <track>Deutschlandradio</track>
-        <type>lecture</type>
-        <language>de</language>
-        <abstract>Eine Zusammenfassung der wichtigsten Congress-Themen von und mit&#13;
-Manfred Kloiber, Jan R&#228;hm und Peter Welchering.</abstract>
-        <description>Aufzeichnung der Sendung, die am 31.12.2016 um 16:30 Uhr im Deutschlandfunk ausgestrahlt wird.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="7280">Manfred Kloiber</person>
-          <person id="7281">Peter Welchering</person>
-          <person id="7282">Jan R&#228;hm</person>
-        </persons>
-        <links>
-          <link href="http://www.deutschlandfunk.de/computer-und-kommunikation.683.de.html">DLF Computer und Kommunikation</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="8458" guid="c65c42a8-bc15-4e60-bb4c-802ae2e6f4fd">
-        <logo>/system/events/logos/000/008/458/large/dradio.png?1482611379</logo>
-        <date>2016-12-30T16:30:00+01:00</date>
-        <start>16:30</start>
-        <duration>00:30</duration>
-        <room>dradio</room>
-        <slug>dradio33c3-8458-dlf_forschung_aktuell_studio_live</slug>
-        <title>DLF "Forschung Aktuell" &#8211; Studio/Live</title>
-        <subtitle>Berichte vom 33C3</subtitle>
-        <track>Deutschlandradio</track>
-        <type>lecture</type>
-        <language>de</language>
-        <abstract>Live-Ausstrahlung der Sendung Forschung Aktuell des Deutschlandfunks. Direkt vom 33C3 zugeschaltet werden die DLF-Reporter vor Ort.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="7281">Peter Welchering</person>
-        </persons>
-        <links>
-          <link href="http://www.deutschlandfunk.de/forschung-aktuell.675.de.html">DLF Forschung Aktuell</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="8459" guid="aae4aac9-0506-41d0-9e3d-0c65c9e1cf67">
-        <logo>/system/events/logos/000/008/459/large/dradio.png?1482611470</logo>
-        <date>2016-12-30T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>00:45</duration>
-        <room>dradio</room>
-        <slug>dradio33c3-8459-deutschlandfunk_studio-talk</slug>
-        <title>Deutschlandfunk Studio-Talk</title>
-        <subtitle>Wissenschaftsberichterstattung im Radio</subtitle>
-        <track>Deutschlandradio</track>
-        <type>podium</type>
-        <language>de</language>
-        <abstract>Das Publikum in Saal 17 fragt, Manfred Kloiber und Peter Welchering antworten.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="7280">Manfred Kloiber</person>
-          <person id="7281">Peter Welchering</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
+    <room name="dradio"/>
     <room name="Sendezentrumsb&#252;hne">
       <event id="418" guid="e3a9504b-8286-47ec-84cd-04a26af55ce9">
         <logo>/system/events/logos/000/000/418/large/chaosradio-icon-300_400x400.jpg?1482846416</logo>
