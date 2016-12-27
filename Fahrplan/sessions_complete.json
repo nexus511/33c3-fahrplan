@@ -309,51 +309,6 @@
             "1482953400"
         ]
     }, 
-    "Session:Shadowrun# 4be598368f77191f13298533f068f3ea": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1482868800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://rpgzweinull.de/profile/tomorrowland"
-        ], 
-        "Has description": [
-            "A short introductory session for the cyberpunk role-playing game of Shadowrun."
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "Day 1"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:SnakeBDD", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:SnakeBDD", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Shadowrun"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shadowrun", 
-        "Has end time": [
-            "1482879600"
-        ]
-    }, 
     "Session:NewPipe# c61b9a40163f12ce5d0a42bc1defe320": {
         "Held in language": [
             "en - English"
@@ -946,56 +901,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:%22My%22_software,_like_%22my%22_hand_or_like_%22my_car%22%3F", 
         "Has end time": []
     }, 
-    "Session:Instant Matrix Games# 870ebe8da21e2ac9f36815632a518a22": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483021800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Instant Matrix Games is a framework for the rapid development of an educational or analytical environment."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Anarchist Village", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Anarchist_Village", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "PRESENT"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Klemens", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Instant Matrix Games"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Instant_Matrix_Games", 
-        "Has end time": [
-            "1483029000"
-        ]
-    }, 
     "Session:Browsing JS on Embedded# 468fd369ff728118f9a0584e0d3e691d": {
         "Held in language": [
             "de - German"
@@ -1458,6 +1363,54 @@
             "1482853500"
         ]
     }, 
+    "Session:An Introduction to Intel Software Guard Extensions (SGX)# deb1a11af4dd0e3a88e338f9432bf1c5": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482942600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Intel Software Guard Extensions (Intel SGX) are a new extension of the x86 instruction set allowing the creation of so-called enclaves. Enclaves are isolated, secure parts of normal applications \nThis talk gives an overview about SGX, how it can be used to secure existing applications, what are its limitations and pitfalls and technical details about its implementation."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Envy", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Envy", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "An Introduction to Intel Software Guard Extensions (SGX)"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_Introduction_to_Intel_Software_Guard_Extensions_(SGX)", 
+        "Has end time": [
+            "1482946200"
+        ]
+    }, 
     "Session:Schiko-Meeting# 977f9c1640dada93a94769a499595c3b": {
         "Held in language": [
             "de - German"
@@ -1849,54 +1802,47 @@
             "1483045200"
         ]
     }, 
-    "Session:Skillconvention b# 70c8429502d619a4df08c3b41d47c88c": {
+    "Session:Surface Mount Electronics Assembly for Terrified Beginners# 423151d2bd90d5fe5bc5e9ffd2d9e687": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482971400"
+            "1482933600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://thereisnogame.de"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "all travelers of a certain skill will be invented to join their respective session"
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
+        "Has session location": [], 
+        "Has subtitle": [
+            "Day 2 - AltSession 0 - !!!At ALT33c3!!!"
         ], 
-        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Reisende", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Skillconvention b"
+            "Surface Mount Electronics Assembly for Terrified Beginners"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
         "Has end time": [
-            "1482975000"
+            "1482939000"
         ]
     }, 
     "Session:Congress Everywhere Greet & Meet# dab9b0fa02061064724f04702afe682d": {
@@ -2603,65 +2549,53 @@
             "1483113600"
         ]
     }, 
-    "Session:Emacs rehab center (vim workshop)# 3a87c7b6d527de196e1cfc9c6281cc95": {
-        "Held in language": [], 
-        "Has start time": [], 
+    "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482757200"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [], 
-        "Has session type": [], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Emacs rehab center (vim workshop)"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
-        "Has end time": []
-    }, 
-    "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://p0stap0calyptic.wordpress.com/"
-        ], 
-        "Has description": [
-            "we make jewellery from found objects from the congress, leftovers of other workshops or provided stuff as electronic scrap. \n\nwir stellen schmuck aus \u00fcberresten der zivilisation her, aus fundst\u00fccken von kongress selbst, aus resten anderer workshops oder mitgebrachtem (elektro-)schrott."
-        ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Buildup- and welcome meeting"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Paulaner", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paulaner", 
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Postapocalyptic jewellery"
+            "Engelmeeting"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            60
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1482760800"
+        ]
     }, 
     "Session:Cyberthingy# 9a2fa42323647e5d4218ad0a23599c58": {
         "Held in language": [
@@ -3499,53 +3433,43 @@
             "1482957000"
         ]
     }, 
-    "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
+    "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
-        "Has start time": [
-            "1482757200"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
+        "Has website": [
+            "https://p0stap0calyptic.wordpress.com/"
+        ], 
+        "Has description": [
+            "we make jewellery from found objects from the congress, leftovers of other workshops or provided stuff as electronic scrap. \n\nwir stellen schmuck aus \u00fcberresten der zivilisation her, aus fundst\u00fccken von kongress selbst, aus resten anderer workshops oder mitgebrachtem (elektro-)schrott."
+        ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Buildup- and welcome meeting"
-        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "fulltext": "User:Paulaner", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Paulaner", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Engelmeeting"
+            "Postapocalyptic jewellery"
         ], 
-        "Has duration": [
-            60
-        ], 
+        "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482760800"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
+        "Has end time": []
     }, 
     "Session:Coffee Break# 66aec1439006361abdf3fcf23947cd4f": {
         "Held in language": [
@@ -5891,12 +5815,12 @@
             "1483027200"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -5915,7 +5839,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -5936,7 +5860,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -6577,42 +6501,46 @@
             "1483020000"
         ]
     }, 
-    "Session:3D printing for beginners# 3e34e23260a6991b946f86b764eb0767": {
+    "Session:An UnCivilization Commune ReWilded Life Shared with Squirrels# dd95e8a0bc6dcebefc291461f0a81cfe": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483106400"
+            "1483099200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://unciv.nl"
+        ], 
         "Has description": [
-            "Never used a 3D printer? No idea how to use CAD? This workshops is for you. From ABS to Z-Axis, you'll learn basics of 3D printing."
+            "Looking forward to meet new and old friends interested in UnCivilization! \n\nWe are a group of people interested in intersection of technology & society, politics, activism, art, and critical of techno-optimism. We share a mailing list since 2012, called UnCivilization, inspired (but not otherwise connected to) Dark Mountain \"Uncivilization Manifesto\", as well as Ursula LeGuin, Derrick Jensen, Heather Marsh, John Zerzan, Naomi Klein, Daniel Quinn, Ursula Franklin, and other feminist, anarchist, anti-supremacist authors. \n\nGoal of this meetup is to catch-up, give each other hugs & support, and plan our activities for the next months & years (e.g. another LikaCamp?!)"
         ], 
         "Has session type": [
-            "Workshop"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:3D Hackspace", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Second meetup"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Obelix", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                "fulltext": "User:Becha", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Becha", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "3D printing for beginners"
+            "An UnCivilization Commune ReWilded Life Shared with Squirrels"
         ], 
         "Has duration": [
             60
@@ -6620,9 +6548,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_beginners", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_UnCivilization_Commune_ReWilded_Life_Shared_with_Squirrels", 
         "Has end time": [
-            "1483110000"
+            "1483102800"
         ]
     }, 
     "Session:Let's sing together the Free Software Song# 2e3e91c23a1e9b472b42cb23c76be0d9": {
@@ -6979,52 +6907,62 @@
             "1482948000"
         ]
     }, 
-    "Session:Update on declaratory action (Feststellungsklagen)# 9ad8db76233fa345ad2f433b51c77bf5": {
+    "Session:Klangteppich# cd2679eb8595fea15886cbec5c288b96": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482939000"
+            "1482886800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
+        ], 
         "Has description": [
-            "Bea gives us an update on our \"Feststellungsklagen\" we are running"
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
         ], 
         "Has session type": [
-            "Talk"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "[[User:majorx|MajorX234]] DJ set: Dub, Bass, IDM, UK Garage"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Monic", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Update on declaratory action (Feststellungsklagen)"
+            "Klangteppich"
         ], 
         "Has duration": [
-            30
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Update_on_declaratory_action_(Feststellungsklagen)", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
-            "1482940800"
+            "1482894000"
         ]
     }, 
     "Session:Maritime Hackers# 68eb0464ed5df3a6c1d0db44924b90dd": {
@@ -7629,49 +7567,6 @@
             "1482928200"
         ]
     }, 
-    "Session:Surface Mount Electronics Assembly for Terrified Beginners# 423151d2bd90d5fe5bc5e9ffd2d9e687": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482933600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "Day 2 - AltSession 0 - !!!At ALT33c3!!!"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Surface Mount Electronics Assembly for Terrified Beginners"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
-        "Has end time": [
-            "1482939000"
-        ]
-    }, 
     "Session:MAKE-IT: Interactive presentation of the EU research project about the Maker Movement# c46b6326e1bd62427baf22eeffef5893": {
         "Held in language": [
             "en - English"
@@ -8024,6 +7919,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b", 
         "Has end time": [
             "1482978600"
+        ]
+    }, 
+    "Session:Welcome & Icebreaker# eb3c23b712c97b14cc547c9e72571550": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482852600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Come to the freifunk Assembly, say hello, introduce yourself, see who's there, get to know others..."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bobo PK", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bobo_PK", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Welcome & Icebreaker"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Welcome_%26_Icebreaker", 
+        "Has end time": [
+            "1482855300"
         ]
     }, 
     "Session:KiCad PCB Design for Eagle-Users# 832f7e6eba661f2bc245213ccf903f0c": {
@@ -8745,52 +8688,6 @@
             "1483030800"
         ]
     }, 
-    "Session:3D with OpenSCAD# 5776bd71fae769a361f6a5ee7222cfb5": {
-        "Held in language": [], 
-        "Has start time": [
-            "1482876000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Learn how to create 3D shapes with OpenSCAD. You'll learn how to create your own name tag or bottle clip with a few lines of code."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:3D Hackspace", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Obelix", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "3D with OpenSCAD"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:3D_with_OpenSCAD", 
-        "Has end time": [
-            "1482879600"
-        ]
-    }, 
     "Session:Skillconvention a# 06de81ba9b71b450d9cbf61661471ee5": {
         "Held in language": [
             "en - English"
@@ -9381,42 +9278,50 @@
             "1482854400"
         ]
     }, 
-    "Session:Welcome & Icebreaker# eb3c23b712c97b14cc547c9e72571550": {
+    "Session:OParl: Politik vor Ort maschinenlesbar# 6600e70c2e763f7444cd999e84bc2bff": {
         "Held in language": [
             "de - German"
         ], 
         "Has start time": [
-            "1482852600"
+            "1483034400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://oparl.org"
+        ], 
         "Has description": [
-            "Come to the freifunk Assembly, say hello, introduce yourself, see who's there, get to know others..."
+            "OParl ist eine Initiative zur Standardisierung des offenen Zugriffs auf parlamentarische Informationssysteme in Deutschland. Das Ziel von OParl ist die Schaffung einer Standard-API f\u00fcr den Zugang zu \u00f6ffentlichen Inhalten in kommunalen Ratsinformationssystemen, damit die Inhalte daraus im Sinne von Open Data f\u00fcr m\u00f6glichst viele verschiedene Zwecke eingesetzt werden k\u00f6nnen."
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Bobo PK", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bobo_PK", 
+                "fulltext": "User:Cardea", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cardea", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Robbi5", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Robbi5", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Welcome & Icebreaker"
+            "OParl: Politik vor Ort maschinenlesbar"
         ], 
         "Has duration": [
             45
@@ -9424,9 +9329,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Welcome_%26_Icebreaker", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:OParl:_Politik_vor_Ort_maschinenlesbar", 
         "Has end time": [
-            "1482855300"
+            "1483037100"
         ]
     }, 
     "Session:Infra-meetup# 83dfe895851bd11308d47e40e11f3542": {
@@ -10886,54 +10791,66 @@
             "1482897600"
         ]
     }, 
-    "Session:Freifunk und die VDS# 2e04b5c579a580421eb70139baa92fb3": {
+    "Session:Queer Feminist Geeks Gathering# 4a992d9add2bc71db38142ddb1e0d6c2": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1483005600"
+            "1482856200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://freifunk-rheinland.net"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Philip von Freifunk Rheinland gibt einen Ein- und \u00dcberblick \u00fcber die aktuellen Entwicklungen zur VDS, den aktuellen Status der Klage sowie Infos zu unserem Antrag auf Aussetzung und den Konsequenzen f\u00fcr unseren Backbone (AS201701)."
+            "A meetup for all the queer feminist geek folk.\n\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking. \n\nThis is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly"
         ], 
         "Has session type": [
-            "Talk"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Spare room in case we split up groups"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Pberndro", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pberndro", 
+                "fulltext": "User:Obaz", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obaz", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:UMT", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:UMT", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:CoopDot", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:CoopDot", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Freifunk und die VDS"
+            "Queer Feminist Geeks Gathering"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_und_die_VDS", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Queer_Feminist_Geeks_Gathering", 
         "Has end time": [
-            "1483009200"
+            "1482861600"
         ]
     }, 
     "Session:Rust on the rad1o# 076a742f960202d697c620f2c02f055e": {
@@ -11574,52 +11491,54 @@
             "1482930000"
         ]
     }, 
-    "Session:Hacker workflows# 2008f5a420ab39892d5d9e0e361255f3": {
+    "Session:Instant Matrix Games# 870ebe8da21e2ac9f36815632a518a22": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482876000"
+            "1483021800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "WHAT DO YOU USE FOR X?\nCall out the best and worst open source software, websites, and practices. Relaxed get-together + Pad note-taking + Learn.\nFocus: Groupware / Collaboration / \"Workflow\"."
+            "Instant Matrix Games is a framework for the rapid development of an educational or analytical environment."
         ], 
         "Has session type": [
-            "Discussion"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Anarchist Village", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Anarchist_Village", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "PRESENT"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Dcht00", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dcht00", 
+                "fulltext": "User:Klemens", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Hacker workflows"
+            "Instant Matrix Games"
         ], 
         "Has duration": [
-            60
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hacker_workflows", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Instant_Matrix_Games", 
         "Has end time": [
-            "1482879600"
+            "1483029000"
         ]
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# e8d4aeb2d2ef0415687e34e714ed7c92": {
@@ -11870,40 +11789,42 @@
             "1482854400"
         ]
     }, 
-    "Session:3D with OpenSCAD# 1fc6307febfa515db3061b3bd0b9d40f": {
-        "Held in language": [], 
+    "Session:Hacker workflows# 2008f5a420ab39892d5d9e0e361255f3": {
+        "Held in language": [
+            "en - English"
+        ], 
         "Has start time": [
-            "1483048800"
+            "1482876000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Learn how to create 3D shapes with OpenSCAD. You'll learn how to create your own name tag or bottle clip with a few lines of code."
+            "WHAT DO YOU USE FOR X?\nCall out the best and worst open source software, websites, and practices. Relaxed get-together + Pad note-taking + Learn.\nFocus: Groupware / Collaboration / \"Workflow\"."
         ], 
         "Has session type": [
-            "Workshop"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:3D Hackspace", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Obelix", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                "fulltext": "User:Dcht00", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dcht00", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "3D with OpenSCAD"
+            "Hacker workflows"
         ], 
         "Has duration": [
             60
@@ -11911,9 +11832,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:3D_with_OpenSCAD", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hacker_workflows", 
         "Has end time": [
-            "1483052400"
+            "1482879600"
         ]
     }, 
     "Session:Shitty Robots# bdc0026767dacbe0b69c07c2ca3c2bed": {
@@ -13124,40 +13045,44 @@
             "1483027200"
         ]
     }, 
-    "Session:3D with OpenSCAD# c9cbb15eaf341d2391c5e6ed0fe41fa9": {
-        "Held in language": [], 
+    "Session:Skillconvention b# 70c8429502d619a4df08c3b41d47c88c": {
+        "Held in language": [
+            "en - English"
+        ], 
         "Has start time": [
-            "1482962400"
+            "1482971400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://thereisnogame.de"
+        ], 
         "Has description": [
-            "Learn how to create 3D shapes with OpenSCAD. You'll learn how to create your own name tag or bottle clip with a few lines of code."
+            "all travelers of a certain skill will be invented to join their respective session"
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:3D Hackspace", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Obelix", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                "fulltext": "User:Reisende", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "3D with OpenSCAD"
+            "Skillconvention b"
         ], 
         "Has duration": [
             60
@@ -13165,9 +13090,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:3D_with_OpenSCAD", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b", 
         "Has end time": [
-            "1482966000"
+            "1482975000"
         ]
     }, 
     "Session:NerfgunBattle# 85435a592d38924922f9c488a75ad73d": {
@@ -13698,53 +13623,27 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Eris_Rising", 
         "Has end time": []
     }, 
-    "Session:An Introduction to Intel Software Guard Extensions (SGX)# deb1a11af4dd0e3a88e338f9432bf1c5": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482942600"
-        ], 
+    "Session:Emacs rehab center (vim workshop)# 3a87c7b6d527de196e1cfc9c6281cc95": {
+        "Held in language": [], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "Intel Software Guard Extensions (Intel SGX) are a new extension of the x86 instruction set allowing the creation of so-called enclaves. Enclaves are isolated, secure parts of normal applications \nThis talk gives an overview about SGX, how it can be used to secure existing applications, what are its limitations and pitfalls and technical details about its implementation."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Envy", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Envy", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "An Introduction to Intel Software Guard Extensions (SGX)"
+            "Emacs rehab center (vim workshop)"
         ], 
-        "Has duration": [
-            60
-        ], 
+        "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_Introduction_to_Intel_Software_Guard_Extensions_(SGX)", 
-        "Has end time": [
-            "1482946200"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
+        "Has end time": []
     }, 
     "Session:Translation meetings# 36252d5cc335293f00e927b0b6eba7fb": {
         "Held in language": [
@@ -14246,57 +14145,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
             "1482834600"
-        ]
-    }, 
-    "Session:Klangteppich# 0ec83008f8dd23e209fe4e06e9197631": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482886800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
-        ], 
-        "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "[[User:majorx|MajorX234]] DJ set Dub,Bass,IDM, UK Garage"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:JayDee2202", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Klangteppich"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
-        "Has end time": [
-            "1482894000"
         ]
     }, 
     "Session:DIY Duct-Tape Wallets# 25965de67a9e17c0f94c5830013b78f2": {
@@ -14869,46 +14717,42 @@
             "1482861600"
         ]
     }, 
-    "Session:An UnCivilization Commune ReWilded Life Shared with Squirrels# dd95e8a0bc6dcebefc291461f0a81cfe": {
+    "Session:3D printing for beginners# 3e34e23260a6991b946f86b764eb0767": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483099200"
+            "1483106400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://unciv.nl"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Looking forward to meet new and old friends interested in UnCivilization! \n\nWe are a group of people interested in intersection of technology & society, politics, activism, art, and critical of techno-optimism. We share a mailing list since 2012, called UnCivilization, inspired (but not otherwise connected to) Dark Mountain \"Uncivilization Manifesto\", as well as Ursula LeGuin, Derrick Jensen, Heather Marsh, John Zerzan, Naomi Klein, Daniel Quinn, Ursula Franklin, and other feminist, anarchist, anti-supremacist authors. \n\nGoal of this meetup is to catch-up, give each other hugs & support, and plan our activities for the next months & years (e.g. another LikaCamp?!)"
+            "Never used a 3D printer? No idea how to use CAD? This workshops is for you. From ABS to Z-Axis, you'll learn basics of 3D printing."
         ], 
         "Has session type": [
-            "Other"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Second meetup"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Becha", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Becha", 
+                "fulltext": "User:Obelix", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "An UnCivilization Commune ReWilded Life Shared with Squirrels"
+            "3D printing for beginners"
         ], 
         "Has duration": [
             60
@@ -14916,9 +14760,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_UnCivilization_Commune_ReWilded_Life_Shared_with_Squirrels", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_beginners", 
         "Has end time": [
-            "1483102800"
+            "1483110000"
         ]
     }, 
     "Session:Full schedule test session# 9bf85a0870c3dba222b3d18c9dc80679": {
@@ -15316,6 +15160,54 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Herbal_brewing", 
         "Has end time": []
+    }, 
+    "Session:Update on declaratory action (Feststellungsklagen)# 9ad8db76233fa345ad2f433b51c77bf5": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482939000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Bea gives us an update on our \"Feststellungsklagen\" we are running"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Monic", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Update on declaratory action (Feststellungsklagen)"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Update_on_declaratory_action_(Feststellungsklagen)", 
+        "Has end time": [
+            "1482940800"
+        ]
     }, 
     "Session:Cider Flows# 3a2c466ac95eee73eded8a2e7c215656": {
         "Held in language": [
@@ -16188,66 +16080,49 @@
             "1482855300"
         ]
     }, 
-    "Session:Queer Feminist Geeks Gathering# 4a992d9add2bc71db38142ddb1e0d6c2": {
+    "Session:Shadowrun# 4be598368f77191f13298533f068f3ea": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482856200"
+            "1482868800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://rpgzweinull.de/profile/tomorrowland"
+        ], 
         "Has description": [
-            "A meetup for all the queer feminist geek folk.\n\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking. \n\nThis is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly"
+            "A short introductory session for the cyberpunk role-playing game of Shadowrun."
         ], 
         "Has session type": [
-            "Meeting"
+            "Game"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
+        "Has session location": [], 
         "Has subtitle": [
-            "Spare room in case we split up groups"
+            "Day 1"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Obaz", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obaz", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:UMT", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:UMT", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:CoopDot", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:CoopDot", 
+                "fulltext": "User:SnakeBDD", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:SnakeBDD", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Queer Feminist Geeks Gathering"
+            "Shadowrun"
         ], 
         "Has duration": [
-            90
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Queer_Feminist_Geeks_Gathering", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shadowrun", 
         "Has end time": [
-            "1482861600"
+            "1482879600"
         ]
     }, 
     "Session:Introduction to Soy Bean Fermentation - Tempeh Making# 888bd7ac6bac7fad362323cf6d81eae6": {
@@ -16402,6 +16277,56 @@
             "1482879600"
         ]
     }, 
+    "Session:Freifunk und die VDS# 2f6d42f24ec055e2a1a88a9f616fb6ad": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483041600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://freifunk-rheinland.net"
+        ], 
+        "Has description": [
+            "Philip von Freifunk Rheinland gibt einen Ein- und \u00dcberblick \u00fcber die aktuellen Entwicklungen zur VDS, den aktuellen Status der Klage sowie Infos zu unserem Antrag auf Aussetzung und den Konsequenzen f\u00fcr unseren Backbone (AS201701)."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Pberndro", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pberndro", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Freifunk und die VDS"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_und_die_VDS", 
+        "Has end time": [
+            "1483045200"
+        ]
+    }, 
     "Session:Translation meetings# d18b6c2f9bccb7fcaae47ed524788ae1": {
         "Held in language": [
             "en - English"
@@ -16528,12 +16453,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -16552,7 +16477,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -16573,7 +16498,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }
 }
