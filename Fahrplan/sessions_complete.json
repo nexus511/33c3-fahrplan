@@ -1345,12 +1345,12 @@
             "1483027200"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -1369,7 +1369,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -1390,7 +1390,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Flunkyball# 3464118d555bc81519f9e26273225748": {
@@ -1479,6 +1479,54 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
         "Has end time": []
+    }, 
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483102800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Abbaumeeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1483106400"
+        ]
     }, 
     "Session:Translation meetings# 7ced348984f17dd88a5c96ea1e3435ec": {
         "Held in language": [
@@ -3682,29 +3730,29 @@
             "1482865200"
         ]
     }, 
-    "Session:Netzpolitik in der Schweiz 2017# 5f82deed17bcbda99f3adf3343ea86db": {
+    "Session:Nootropics# d8f946310e562167f1d80fbf16b40fe5": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482873300"
+            "1483030800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://www.digitale-gesellschaft.ch"
+            "http://pad.totalism.org/p/33c3-nootropics"
         ], 
         "Has description": [
-            "Das ausgehende Jahr war ein schwieriges Jahr auch f\u00fcr die Netzpolitik in der Schweiz. Wir stecken den Kopf deswegen jedoch nicht in den Sand. Nach dem Talk zur \u00abNetzpolitik in der Schweiz 2016\u00bb (27.12.16, 20:30 Uhr, Saal 6) treffen wir uns daher zu einer ausgedehnten Diskussions-, Frage und Planungssession."
+            "Nootropics (also called smart drugs, neuro enhancers ...) are substances that improve one or more aspects of cognitive performance. Bring your noots, notes, and laptops."
         ], 
         "Has session type": [
-            "Meeting"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -3712,24 +3760,30 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Kire", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kire", 
+                "fulltext": "User:HairyFotr", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:HairyFotr", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Dcht00", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dcht00", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Netzpolitik in der Schweiz 2017"
+            "Nootropics"
         ], 
         "Has duration": [
-            120
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Netzpolitik_in_der_Schweiz_2017", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Nootropics", 
         "Has end time": [
-            "1482880500"
+            "1483034400"
         ]
     }, 
     "Session:Film-Blocker# afdd31277e2c1f456697250610dab6c4": {
@@ -4240,54 +4294,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
         "Has end time": [
             "1482854400"
-        ]
-    }, 
-    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482937800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "day 2, afternoon meeting"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Translation meetings"
-        ], 
-        "Has duration": [
-            50
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
-        "Has end time": [
-            "1482940800"
         ]
     }, 
     "Session:Numerical Weather Prediction Tutorial# 1991d7c2adefc5daab2a75f4b429a67d": {
@@ -6706,47 +6712,6 @@
             "1482934500"
         ]
     }, 
-    "Session:Intro to Qubes OS: A reasonably secure operating systerm# 5119dbce4d4206a0a61b1290c090f395": {
-        "Held in language": [
-            "de - German", 
-            "en - English", 
-            "pl - Polish"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.qubes-os.org"
-        ], 
-        "Has description": [
-            "Come by to learn about Qubes OS, the privacy- & security-focused operating system!"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Intro to Qubes OS: A reasonably secure operating systerm"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Intro_to_Qubes_OS:_A_reasonably_secure_operating_systerm", 
-        "Has end time": []
-    }, 
     "Session:Introduction Into Anarchism# d097953aa456a2811f11950bebf9a4ba": {
         "Held in language": [
             "en - English"
@@ -8904,52 +8869,52 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1482937800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
+        "Has description": [
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
         ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "day 2, afternoon meeting"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Engelmeeting"
+            "Translation meetings"
         ], 
         "Has duration": [
-            60
+            50
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
         "Has end time": [
-            "1482768000"
+            "1482940800"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -16467,29 +16432,29 @@
             "1482930000"
         ]
     }, 
-    "Session:Nootropics# d8f946310e562167f1d80fbf16b40fe5": {
+    "Session:Netzpolitik in der Schweiz 2017# 5f82deed17bcbda99f3adf3343ea86db": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1483030800"
+            "1482873300"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://pad.totalism.org/p/33c3-nootropics"
+            "https://www.digitale-gesellschaft.ch"
         ], 
         "Has description": [
-            "Nootropics (also called smart drugs, neuro enhancers ...) are substances that improve one or more aspects of cognitive performance. Bring your noots, notes, and laptops."
+            "Das ausgehende Jahr war ein schwieriges Jahr auch f\u00fcr die Netzpolitik in der Schweiz. Wir stecken den Kopf deswegen jedoch nicht in den Sand. Nach dem Talk zur \u00abNetzpolitik in der Schweiz 2016\u00bb (27.12.16, 20:30 Uhr, Saal 6) treffen wir uns daher zu einer ausgedehnten Diskussions-, Frage und Planungssession."
         ], 
         "Has session type": [
-            "Discussion"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -16497,30 +16462,24 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:HairyFotr", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:HairyFotr", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Dcht00", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dcht00", 
+                "fulltext": "User:Kire", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kire", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Nootropics"
+            "Netzpolitik in der Schweiz 2017"
         ], 
         "Has duration": [
-            60
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Nootropics", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Netzpolitik_in_der_Schweiz_2017", 
         "Has end time": [
-            "1483034400"
+            "1482880500"
         ]
     }, 
     "Session:Gemeinn\u00fctzigkeit# 04b99605e09f26ae97c336883e31c840": {
@@ -17158,6 +17117,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Der_33_Jahrer%C3%BCckblick:_Technology_and_Politics_in_Congress_Talks,_from_1984_to_now_--_Post-Lecture_Discussion!", 
         "Has end time": [
             "1483030800"
+        ]
+    }, 
+    "Session:Intro to Qubes OS: A reasonably secure operating systerm# 362b95ee14a170df5f82c437c58430f4": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483047000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.qubes-os.org"
+        ], 
+        "Has description": [
+            "Come by to learn about Qubes OS, the privacy- & security-focused operating system!"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mfc", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mfc", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Intro to Qubes OS: A reasonably secure operating systerm"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Intro_to_Qubes_OS:_A_reasonably_secure_operating_systerm", 
+        "Has end time": [
+            "1483052400"
         ]
     }, 
     "Session:Geheimkamera Workshop# 1097a62dd154a80177c58a9b46a6849b": {
