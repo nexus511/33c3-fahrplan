@@ -2218,7 +2218,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1267, 
+                                "id": 1266, 
                                 "guid": "10fee5225d917f2650ea518ea0e2f909", 
                                 "logo": null, 
                                 "date": "2016-12-27T10:00:00+01:00", 
@@ -3694,16 +3694,16 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1157, 
-                                "guid": "a33e122a93f95fe8add42f678dc1b55c", 
+                                "id": 1154, 
+                                "guid": "cd2679eb8595fea15886cbec5c288b96", 
                                 "logo": null, 
-                                "date": "2016-12-27T23:00:00+01:00", 
-                                "start": "23:00", 
+                                "date": "2016-12-28T01:00:00+01:00", 
+                                "start": "01:00", 
                                 "duration": "2:00", 
                                 "room": "Assembly:Chaos West", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop", 
+                                "subtitle": "[[User:majorx|MajorX234]] DJ set: Dub, Bass, IDM, UK Garage", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "en", 
@@ -3728,15 +3728,15 @@
                             }, 
                             {
                                 "id": 1158, 
-                                "guid": "cd2679eb8595fea15886cbec5c288b96", 
+                                "guid": "a33e122a93f95fe8add42f678dc1b55c", 
                                 "logo": null, 
-                                "date": "2016-12-28T01:00:00+01:00", 
-                                "start": "01:00", 
+                                "date": "2016-12-27T23:00:00+01:00", 
+                                "start": "23:00", 
                                 "duration": "2:00", 
                                 "room": "Assembly:Chaos West", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "[[User:majorx|MajorX234]] DJ set: Dub, Bass, IDM, UK Garage", 
+                                "subtitle": "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "en", 
@@ -8058,7 +8058,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1155, 
+                                "id": 1156, 
                                 "guid": "a1cb76ade506810f49f54971445a573e", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:00:00+01:00", 
@@ -8127,6 +8127,33 @@
                         "Assembly:3D Hackspace": [
                             {
                                 "id": 1006, 
+                                "guid": "02cd43140492eb642349209ad6d7b446", 
+                                "logo": null, 
+                                "date": "2016-12-28T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "0:15", 
+                                "room": "Assembly:3D Hackspace", 
+                                "slug": "", 
+                                "title": "3D printing for kids", 
+                                "subtitle": "Group 2", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Learn how to design 3D parts and print them!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                                        "public_name": "Obelix"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids"
+                                ]
+                            }, 
+                            {
+                                "id": 1007, 
                                 "guid": "d0014771e6e9ce6319072f8a38b2319c", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -8153,7 +8180,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1007, 
+                                "id": 1008, 
                                 "guid": "9a897b2d6a23fb8ef8280624c6ef0e1d", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:30:00+01:00", 
@@ -8180,7 +8207,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1008, 
+                                "id": 1009, 
                                 "guid": "d9ed73113bf031810aacdb723021c0c8", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -8190,33 +8217,6 @@
                                 "slug": "", 
                                 "title": "3D printing for kids", 
                                 "subtitle": "Group 1", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Learn how to design 3D parts and print them!", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
-                                        "public_name": "Obelix"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids"
-                                ]
-                            }, 
-                            {
-                                "id": 1009, 
-                                "guid": "02cd43140492eb642349209ad6d7b446", 
-                                "logo": null, 
-                                "date": "2016-12-28T14:30:00+01:00", 
-                                "start": "14:30", 
-                                "duration": "0:15", 
-                                "room": "Assembly:3D Hackspace", 
-                                "slug": "", 
-                                "title": "3D printing for kids", 
-                                "subtitle": "Group 2", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -8262,15 +8262,15 @@
                             }, 
                             {
                                 "id": 1287, 
-                                "guid": "e28d8e0aa91ecdf33ed2bab8be9ff4d3", 
+                                "guid": "191385c3c2feb97bfc34a59caa8957b6", 
                                 "logo": null, 
-                                "date": "2016-12-28T12:00:00+01:00", 
-                                "start": "12:00", 
+                                "date": "2016-12-28T12:30:00+01:00", 
+                                "start": "12:30", 
                                 "duration": "0:30", 
                                 "room": "Assembly:3D Hackspace", 
                                 "slug": "", 
                                 "title": "Thermal pictures for kids", 
-                                "subtitle": "Group 1", 
+                                "subtitle": "Group 2", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "de", 
@@ -8289,15 +8289,15 @@
                             }, 
                             {
                                 "id": 1288, 
-                                "guid": "191385c3c2feb97bfc34a59caa8957b6", 
+                                "guid": "e28d8e0aa91ecdf33ed2bab8be9ff4d3", 
                                 "logo": null, 
-                                "date": "2016-12-28T12:30:00+01:00", 
-                                "start": "12:30", 
+                                "date": "2016-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
                                 "duration": "0:30", 
                                 "room": "Assembly:3D Hackspace", 
                                 "slug": "", 
                                 "title": "Thermal pictures for kids", 
-                                "subtitle": "Group 2", 
+                                "subtitle": "Group 1", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "de", 
@@ -8550,6 +8550,44 @@
                             }, 
                             {
                                 "id": 1042, 
+                                "guid": "3b6185153881b48a51e5a2ea906683a5", 
+                                "logo": null, 
+                                "date": "2016-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Jugend hackt", 
+                                "slug": "", 
+                                "title": "Coder Dojo", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert).", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                                        "public_name": "Nana berlin"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
+                                        "public_name": "Cyber-phil"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
+                                        "public_name": "Niccokunzmann"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://coderdojo.com", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
+                                ]
+                            }, 
+                            {
+                                "id": 1043, 
                                 "guid": "46a092251bb8885b51cac7b6f0fc2b6e", 
                                 "logo": null, 
                                 "date": "2016-12-28T11:00:00+01:00", 
@@ -8587,49 +8625,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1043, 
+                                "id": 1044, 
                                 "guid": "4fd8c54c43cc07c6e57ee2a98d9b20eb", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
                                 "start": "12:00", 
-                                "duration": "1:00", 
-                                "room": "Assembly:Jugend hackt", 
-                                "slug": "", 
-                                "title": "Coder Dojo", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert).", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                                        "public_name": "Nana berlin"
-                                    }, 
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
-                                        "public_name": "Cyber-phil"
-                                    }, 
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
-                                        "public_name": "Niccokunzmann"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://coderdojo.com", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
-                                ]
-                            }, 
-                            {
-                                "id": 1044, 
-                                "guid": "3b6185153881b48a51e5a2ea906683a5", 
-                                "logo": null, 
-                                "date": "2016-12-28T13:00:00+01:00", 
-                                "start": "13:00", 
                                 "duration": "1:00", 
                                 "room": "Assembly:Jugend hackt", 
                                 "slug": "", 
@@ -13157,7 +13157,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1266, 
+                                "id": 1267, 
                                 "guid": "f48797b83b3006b88510ce3136aec9e2", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:15:00+01:00", 
@@ -14144,7 +14144,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1154, 
+                                "id": 1155, 
                                 "guid": "8f2144006158cc65262cd392541cf8c7", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:00:00+01:00", 

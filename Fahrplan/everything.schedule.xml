@@ -2003,7 +2003,7 @@ Welcome to the Subtitles Angelmeeting!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings</link>
         </links>
       </event>
-      <event id="1267" guid="10fee5225d917f2650ea518ea0e2f909">
+      <event id="1266" guid="10fee5225d917f2650ea518ea0e2f909">
         <logo/>
         <date>2016-12-27T10:00:00+01:00</date>
         <start>10:00</start>
@@ -3179,15 +3179,15 @@ Come, if you search for a vegan alternative for your favourite dish and pose a c
       </event>
     </room>
     <room name="Assembly:Chaos West">
-      <event id="1157" guid="a33e122a93f95fe8add42f678dc1b55c">
+      <event id="1154" guid="cd2679eb8595fea15886cbec5c288b96">
         <logo/>
-        <date>2016-12-27T23:00:00+01:00</date>
-        <start>23:00</start>
+        <date>2016-12-28T01:00:00+01:00</date>
+        <start>01:00</start>
         <duration>2:00</duration>
         <room>Assembly:Chaos West</room>
         <slug/>
         <title>Klangteppich</title>
-        <subtitle>[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop</subtitle>
+        <subtitle>[[User:majorx|MajorX234]] DJ set: Dub, Bass, IDM, UK Garage</subtitle>
         <track>self organized sessions</track>
         <type>other</type>
         <language>en</language>
@@ -3202,15 +3202,15 @@ Come, if you search for a vegan alternative for your favourite dish and pose a c
           <link>https://events.ccc.de/congress/2016/wiki/Session:Klangteppich</link>
         </links>
       </event>
-      <event id="1158" guid="cd2679eb8595fea15886cbec5c288b96">
+      <event id="1158" guid="a33e122a93f95fe8add42f678dc1b55c">
         <logo/>
-        <date>2016-12-28T01:00:00+01:00</date>
-        <start>01:00</start>
+        <date>2016-12-27T23:00:00+01:00</date>
+        <start>23:00</start>
         <duration>2:00</duration>
         <room>Assembly:Chaos West</room>
         <slug/>
         <title>Klangteppich</title>
-        <subtitle>[[User:majorx|MajorX234]] DJ set: Dub, Bass, IDM, UK Garage</subtitle>
+        <subtitle>[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop</subtitle>
         <track>self organized sessions</track>
         <type>other</type>
         <language>en</language>
@@ -6937,7 +6937,7 @@ Note that this talk is not about the details of crypto protocols or implementati
           <link>https://events.ccc.de/congress/2016/wiki/Session:12V_SolarPower_%26_Sound</link>
         </links>
       </event>
-      <event id="1155" guid="a1cb76ade506810f49f54971445a573e">
+      <event id="1156" guid="a1cb76ade506810f49f54971445a573e">
         <logo/>
         <date>2016-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -6985,7 +6985,28 @@ Note that this talk is not about the details of crypto protocols or implementati
       </event>
     </room>
     <room name="Assembly:3D Hackspace">
-      <event id="1006" guid="d0014771e6e9ce6319072f8a38b2319c">
+      <event id="1006" guid="02cd43140492eb642349209ad6d7b446">
+        <logo/>
+        <date>2016-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>0:15</duration>
+        <room>Assembly:3D Hackspace</room>
+        <slug/>
+        <title>3D printing for kids</title>
+        <subtitle>Group 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Learn how to design 3D parts and print them!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Obelix">Obelix</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids</link>
+        </links>
+      </event>
+      <event id="1007" guid="d0014771e6e9ce6319072f8a38b2319c">
         <logo/>
         <date>2016-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -7006,7 +7027,7 @@ Note that this talk is not about the details of crypto protocols or implementati
           <link>https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids</link>
         </links>
       </event>
-      <event id="1007" guid="9a897b2d6a23fb8ef8280624c6ef0e1d">
+      <event id="1008" guid="9a897b2d6a23fb8ef8280624c6ef0e1d">
         <logo/>
         <date>2016-12-28T15:30:00+01:00</date>
         <start>15:30</start>
@@ -7027,7 +7048,7 @@ Note that this talk is not about the details of crypto protocols or implementati
           <link>https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids</link>
         </links>
       </event>
-      <event id="1008" guid="d9ed73113bf031810aacdb723021c0c8">
+      <event id="1009" guid="d9ed73113bf031810aacdb723021c0c8">
         <logo/>
         <date>2016-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -7036,27 +7057,6 @@ Note that this talk is not about the details of crypto protocols or implementati
         <slug/>
         <title>3D printing for kids</title>
         <subtitle>Group 1</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Learn how to design 3D parts and print them!</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Obelix">Obelix</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids</link>
-        </links>
-      </event>
-      <event id="1009" guid="02cd43140492eb642349209ad6d7b446">
-        <logo/>
-        <date>2016-12-28T14:30:00+01:00</date>
-        <start>14:30</start>
-        <duration>0:15</duration>
-        <room>Assembly:3D Hackspace</room>
-        <slug/>
-        <title>3D printing for kids</title>
-        <subtitle>Group 2</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -7090,15 +7090,15 @@ Note that this talk is not about the details of crypto protocols or implementati
           <link>https://events.ccc.de/congress/2016/wiki/Session:3D_scan_yourself</link>
         </links>
       </event>
-      <event id="1287" guid="e28d8e0aa91ecdf33ed2bab8be9ff4d3">
+      <event id="1287" guid="191385c3c2feb97bfc34a59caa8957b6">
         <logo/>
-        <date>2016-12-28T12:00:00+01:00</date>
-        <start>12:00</start>
+        <date>2016-12-28T12:30:00+01:00</date>
+        <start>12:30</start>
         <duration>0:30</duration>
         <room>Assembly:3D Hackspace</room>
         <slug/>
         <title>Thermal pictures for kids</title>
-        <subtitle>Group 1</subtitle>
+        <subtitle>Group 2</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>de</language>
@@ -7111,15 +7111,15 @@ Note that this talk is not about the details of crypto protocols or implementati
           <link>https://events.ccc.de/congress/2016/wiki/Session:Thermal_pictures_for_kids</link>
         </links>
       </event>
-      <event id="1288" guid="191385c3c2feb97bfc34a59caa8957b6">
+      <event id="1288" guid="e28d8e0aa91ecdf33ed2bab8be9ff4d3">
         <logo/>
-        <date>2016-12-28T12:30:00+01:00</date>
-        <start>12:30</start>
+        <date>2016-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
         <duration>0:30</duration>
         <room>Assembly:3D Hackspace</room>
         <slug/>
         <title>Thermal pictures for kids</title>
-        <subtitle>Group 2</subtitle>
+        <subtitle>Group 1</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>de</language>
@@ -7322,7 +7322,35 @@ Geeignet f&#252;r Kinder von 8-16.</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Calliope_Workshop</link>
         </links>
       </event>
-      <event id="1042" guid="46a092251bb8885b51cac7b6f0fc2b6e">
+      <event id="1042" guid="3b6185153881b48a51e5a2ea906683a5">
+        <logo/>
+        <date>2016-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Jugend hackt</room>
+        <slug/>
+        <title>Coder Dojo</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m&#246;chten.
+
+F&#252;r unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters&#252;tzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w&#228;hrend des kompletten Workshops zur Verf&#252;gung.
+
+Info: Wir stellen Dir kostenlos einen Leihcomputer f&#252;r den Workshop zur Verf&#252;gung. Wenn Du einen eigenen hast, dann kannst du Deinen nat&#252;rlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert).</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Nana_berlin">Nana berlin</person>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Cyber-phil">Cyber-phil</person>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann">Niccokunzmann</person>
+        </persons>
+        <links>
+          <link>http://coderdojo.com</link>
+          <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
+        </links>
+      </event>
+      <event id="1043" guid="46a092251bb8885b51cac7b6f0fc2b6e">
         <logo/>
         <date>2016-12-28T11:00:00+01:00</date>
         <start>11:00</start>
@@ -7350,38 +7378,10 @@ Info: Wir stellen Dir kostenlos einen Leihcomputer f&#252;r den Workshop zur Ver
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1043" guid="4fd8c54c43cc07c6e57ee2a98d9b20eb">
+      <event id="1044" guid="4fd8c54c43cc07c6e57ee2a98d9b20eb">
         <logo/>
         <date>2016-12-28T12:00:00+01:00</date>
         <start>12:00</start>
-        <duration>1:00</duration>
-        <room>Assembly:Jugend hackt</room>
-        <slug/>
-        <title>Coder Dojo</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m&#246;chten.
-
-F&#252;r unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters&#252;tzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w&#228;hrend des kompletten Workshops zur Verf&#252;gung.
-
-Info: Wir stellen Dir kostenlos einen Leihcomputer f&#252;r den Workshop zur Verf&#252;gung. Wenn Du einen eigenen hast, dann kannst du Deinen nat&#252;rlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert).</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Nana_berlin">Nana berlin</person>
-          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Cyber-phil">Cyber-phil</person>
-          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann">Niccokunzmann</person>
-        </persons>
-        <links>
-          <link>http://coderdojo.com</link>
-          <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
-        </links>
-      </event>
-      <event id="1044" guid="3b6185153881b48a51e5a2ea906683a5">
-        <logo/>
-        <date>2016-12-28T13:00:00+01:00</date>
-        <start>13:00</start>
         <duration>1:00</duration>
         <room>Assembly:Jugend hackt</room>
         <slug/>
@@ -11248,7 +11248,7 @@ https://events.ccc.de/congress/2016/wiki/index.php?title=Session:Shitty_Robot_-_
           <link>https://events.ccc.de/congress/2016/wiki/Session:Shitty_Robot_/Hebocon_Battle</link>
         </links>
       </event>
-      <event id="1266" guid="f48797b83b3006b88510ce3136aec9e2">
+      <event id="1267" guid="f48797b83b3006b88510ce3136aec9e2">
         <logo/>
         <date>2016-12-29T15:15:00+01:00</date>
         <start>15:15</start>
@@ -12047,7 +12047,7 @@ The conversation will focus mostly on Debian's Hamradio Blend (https://www.debia
           <link>https://events.ccc.de/congress/2016/wiki/Session:Klangteppich</link>
         </links>
       </event>
-      <event id="1154" guid="8f2144006158cc65262cd392541cf8c7">
+      <event id="1155" guid="8f2144006158cc65262cd392541cf8c7">
         <logo/>
         <date>2016-12-29T20:00:00+01:00</date>
         <start>20:00</start>
