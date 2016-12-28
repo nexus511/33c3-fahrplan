@@ -298,7 +298,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T213000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T203000
-DTSTAMP;VALUE=DATE-TIME:20161228T201629Z
+DTSTAMP;VALUE=DATE-TIME:20161228T204326Z
 UID:1f7eb981-2819-4824-8f40-4ddde0be7bf3@frab.cccv.de
 DESCRIPTION:When thinking about surveillance\, everyone worries about gov
  ernment agencies like the NSA and big corporations like Google and Faceb
@@ -496,7 +496,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T224500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T214500
-DTSTAMP;VALUE=DATE-TIME:20161228T151508Z
+DTSTAMP;VALUE=DATE-TIME:20161228T204809Z
 UID:a1a52c4c-8233-403b-8f04-db981df016c1@frab.cccv.de
 DESCRIPTION:Transport Layer Security (TLS) 1.3 is almost here. The protoc
  ol that protects most of the Internet secure connections is getting the 
@@ -677,7 +677,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T004500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T001500
-DTSTAMP;VALUE=DATE-TIME:20161228T153353Z
+DTSTAMP;VALUE=DATE-TIME:20161228T213219Z
 UID:9d36932f-616a-4677-b924-60c1986fbbfc@frab.cccv.de
 DESCRIPTION:Der Vortrag gibt einen Abriss über die Geschichte der Parlame
  ntsschlägerei\, ordnet diese politisch und geografisch ein - um dann die
@@ -686,7 +686,7 @@ DESCRIPTION:Der Vortrag gibt einen Abriss über die Geschichte der Parlame
  gemeinsam das weltweit einzige Fachblog für Parlamentsschlägereien.
 URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8021.html
 SUMMARY:Eine kleine Geschichte der Parlamentsschlägerei - Joachim Schaute
- nbach\, Pia Fortunata\, Mike Meckense
+ nbach\, Pia Fortunata
 LOCATION:Saal 1
 END:VEVENT
 BEGIN:VEVENT
@@ -1751,7 +1751,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T224500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T214500
-DTSTAMP;VALUE=DATE-TIME:20161228T112302Z
+DTSTAMP;VALUE=DATE-TIME:20161228T213319Z
 UID:c300b194-2a85-4705-92aa-b4e789882303@frab.cccv.de
 DESCRIPTION:Seit Mitte 2014 hat David fast 100.000 Artikel von Spiegel-On
  line systematisch gespeichert. Diese Datenmasse wird er in einem bunten 
@@ -1764,7 +1764,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T224500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T214500
-DTSTAMP;VALUE=DATE-TIME:20161215T102115Z
+DTSTAMP;VALUE=DATE-TIME:20161228T210216Z
 UID:a57b8f0e-62ae-48d9-aa89-5ebfe5fdc056@frab.cccv.de
 DESCRIPTION:Since too long we use VHDL and Verilog to describe hardware. 
  SpinalHDL is an alternative language which does its best to prove that i
@@ -1777,7 +1777,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T213000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T203000
-DTSTAMP;VALUE=DATE-TIME:20161218T201117Z
+DTSTAMP;VALUE=DATE-TIME:20161228T204731Z
 UID:2b9b6095-9dcd-49f3-9792-cf74aab88b16@frab.cccv.de
 DESCRIPTION:2016 has been marked by major shifts in political policy towa
  rds the Internet in Turkey and Thailand\, a renegotiation of the respons

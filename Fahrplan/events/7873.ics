@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T224500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T214500
-DTSTAMP;VALUE=DATE-TIME:20161215T102115Z
+DTSTAMP;VALUE=DATE-TIME:20161228T210216Z
 UID:a57b8f0e-62ae-48d9-aa89-5ebfe5fdc056@frab.cccv.de
 DESCRIPTION:Since too long we use VHDL and Verilog to describe hardware. 
  SpinalHDL is an alternative language which does its best to prove that i
