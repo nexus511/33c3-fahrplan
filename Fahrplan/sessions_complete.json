@@ -1204,6 +1204,47 @@
             "1483040400"
         ]
     }, 
+    "Session:ROS users meeting# d0d0bb39e8547885292d192ebe8c58e0": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483023600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "This is a spontaneous(ly organized) get-together for users of ROS(.org) - the Robot Operating System - and similar lifeforms.\nLet's come together, exchange use-cases, experience, flames and praise and your favorite software bug.\nAt least one PCL and one MoveIt maintainer will be around.\n\nWe will meet in front of Workshop Halls A and B."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:V4hn", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:V4hn", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "ROS users meeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:ROS_users_meeting", 
+        "Has end time": [
+            "1483027200"
+        ]
+    }, 
     "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
         "Held in language": [
             "en - English"
@@ -7348,6 +7389,56 @@
             "1482940800"
         ]
     }, 
+    "Session:IPFS Meetup# 57f352ef767ca892f6bd2ffa639ac41a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483038000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://ipfs.io/"
+        ], 
+        "Has description": [
+            "A meet up for people interested in IPFS."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Brodo", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Brodo", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "IPFS Meetup"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:IPFS_Meetup", 
+        "Has end time": [
+            "1483041600"
+        ]
+    }, 
     "Session:42birds: Creative Coding with Processing# a45b25cd5afab97a4b2f03e035c62072": {
         "Held in language": [
             "en - English"
@@ -7444,6 +7535,54 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Mate_Making", 
         "Has end time": []
+    }, 
+    "Session:Open Source in Amateur Radio# a323830f60f395e17c688d3ae7d482d2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483099200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "No one wants to turn out like Ham Radio Deluxe users - blacklisted from using their favourite software \n(https://www.reddit.com/r/amateurradio/comments/5jf4i2/ham_radio_deluxe_mega_thread/). \n\nLet's get together and talk about our favourite hobby and how to do it with real freedom!\n\nThe conversation will focus mostly on Debian's Hamradio Blend (https://www.debian.org/blends/hamradio/) and the software contained within as that's what the organiser is most familiar with, but I'm more than happy to talk about all things radio, not just the DFSG."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Hibby", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Hibby", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Open Source in Amateur Radio"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Open_Source_in_Amateur_Radio", 
+        "Has end time": [
+            "1483102800"
+        ]
     }, 
     "Session:Pixel Art Workshop# d19900c6fd4ab226d136adf7a484d43e": {
         "Held in language": [
@@ -7952,6 +8091,68 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Kinky_Geeks_Bondage_Workshop", 
         "Has end time": [
             "1482951600"
+        ]
+    }, 
+    "Session:VOC Engelmeeting# da904f0f6639dd430983667df8b38a91": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482937200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "Daily meeting for all VOC Angels."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Saal 6", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Saal_6", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:V0tti", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:V0tti", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Felixs", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Felixs", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "VOC Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
+        "Has end time": [
+            "1482940800"
         ]
     }, 
     "Session:Engeleinf\u00fchrung Kasse# ee801a90e5daedb2c650cc246ed2108e": {
@@ -9487,54 +9688,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Do_Butterflies_have_borders", 
         "Has end time": []
     }, 
-    "Session:Open Source in Amateur Radio# 8de4dd2c0216fbe01dac3fc2ec6810aa": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483023600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "No one wants to turn out like Ham Radio Deluxe users - blacklisted from using their favourite software \n(https://www.reddit.com/r/amateurradio/comments/5jf4i2/ham_radio_deluxe_mega_thread/). \n\nLet's get together and talk about our favourite hobby and how to do it with real freedom!\n\nThe conversation will focus mostly on Debian's Hamradio Blend (https://www.debian.org/blends/hamradio/) and the software contained within as that's what the organiser is most familiar with, but I'm more than happy to talk about all things radio, not just the DFSG."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Scottish Consulate", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Scottish_Consulate", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Hibby", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Hibby", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Open Source in Amateur Radio"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Open_Source_in_Amateur_Radio", 
-        "Has end time": [
-            "1483027200"
-        ]
-    }, 
     "Session:Queer Feminist Geeks Gathering# ab74b1ddd8dddae3bd8d62de3de60a88": {
         "Held in language": [
             "en - English"
@@ -10660,6 +10813,52 @@
             "1483021800"
         ]
     }, 
+    "Session:Documentation Sprint# abeb1d0d0846b45f47590f3f961ded05": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Let's get together and work on improving our project documentation. If you aren't currently working on any projects, we will help you find a project to contribute to and guide you with tips and advice on how to write good documentation."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Mozilla", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Mozilla", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Documentation Sprint(s)"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:ChrisChinchilla", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:ChrisChinchilla", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Documentation Sprint"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Documentation_Sprint", 
+        "Has end time": []
+    }, 
     "Session:Shadowrun# 3befab1a8948351427328afc76d2c4df": {
         "Held in language": [
             "de - German"
@@ -11041,52 +11240,6 @@
         "Has end time": [
             "1482853500"
         ]
-    }, 
-    "Session:Documentation Sprint# abeb1d0d0846b45f47590f3f961ded05": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Let's get together and work on improving our project documentation. If you aren't currently working on any projects, we will help you find a project to contribute to and guide you with tips and advice on how to write good documentation."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Mozilla", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Mozilla", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Documentation Sprint(s)"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:ChrisChinchilla", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:ChrisChinchilla", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Documentation Sprint"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Documentation_Sprint", 
-        "Has end time": []
     }, 
     "Session:Skillconvention a# 06de81ba9b71b450d9cbf61661471ee5": {
         "Held in language": [
@@ -13253,6 +13406,45 @@
             "1483110000"
         ]
     }, 
+    "Session:There is no network# eea68f9c602c7de98d16b09134069996": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482962400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "There is no network"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:There_is_no_network", 
+        "Has end time": [
+            "1482969600"
+        ]
+    }, 
     "Session:Developing Carana# 00a395b9cc6d2c5bf17e6a3fb89094ec": {
         "Held in language": [
             "en - English"
@@ -13490,56 +13682,45 @@
             "1482864000"
         ]
     }, 
-    "Session:VOC Engelmeeting# da904f0f6639dd430983667df8b38a91": {
+    "Session:Freiraumfiebel - Manual for self-organisation in urban space# 63e812e8257a446542c72662816b5783": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
-        "Has start time": [
-            "1482937200"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://c3voc.de/"
+            "http://hidden-institute.org/aktuelles/", 
+            "http://stadtstattstrand.de/das-buch-2/"
         ], 
         "Has description": [
-            "Daily meeting for all VOC Angels."
+            "Die Freiraumfibel ist ein Handbuch \u00fcber Aneignungsformen von urbanen R\u00e4umen und ihren rechtlichen Frameworks. Wir werden das Handbuch und seine Inhalte vorstellen, erz\u00e4hlen wie und warum wir das Buch erstellt haben und zu einer kritischen Diskussion \u00fcber die Fibel einladen. Dabei interessieren uns folgende Fragen: Braucht es solche Handb\u00fccher und wenn ja warum? Was kann die Fibel und was nicht? Was bedeutet \"kreative Aneignung von Freir\u00e4umen\"? etc. Mehr Infos siehe auch unter: http://hidden-institute.org/aktuelles/ oder unter http://stadtstattstrand.de/das-buch-2/"
         ], 
         "Has session type": [
-            "Discussion"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Saal 6", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Saal_6", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Mensch meier and friends", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Mensch_meier_and_friends", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Handbuch \u00fcber Aneignungen von Freir\u00e4umen in der Stadt"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Jwacalex", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:V0tti", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:V0tti", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Felixs", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Felixs", 
+                "fulltext": "User:Noja", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Noja", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "VOC Engelmeeting"
+            "Freiraumfiebel - Manual for self-organisation in urban space"
         ], 
         "Has duration": [
             60
@@ -13547,10 +13728,8 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
-        "Has end time": [
-            "1482940800"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freiraumfiebel_-_Manual_for_self-organisation_in_urban_space", 
+        "Has end time": []
     }, 
     "Session:Instant Matrix Games# 870ebe8da21e2ac9f36815632a518a22": {
         "Held in language": [
@@ -14802,52 +14981,6 @@
         "Has end time": [
             "1483102800"
         ]
-    }, 
-    "Session:IPFS Meetup# d38aac17f6ded2bacea1dbc6da870f50": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://ipfs.io/"
-        ], 
-        "Has description": [
-            "A meet up for people interested in IPFS."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Brodo", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Brodo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "IPFS Meetup"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:IPFS_Meetup", 
-        "Has end time": []
     }, 
     "Session:3D printing for kids# 02cd43140492eb642349209ad6d7b446": {
         "Held in language": [
