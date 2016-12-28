@@ -15,11 +15,15 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T113000
-DTSTAMP;VALUE=DATE-TIME:20161222T161844Z
+DTSTAMP;VALUE=DATE-TIME:20161228T192644Z
 UID:88cc14c0-8962-4906-9b37-06ff82ce159c@frab.cccv.de
-DESCRIPTION:
+DESCRIPTION:Mitch Altman (born December 22\, 1956) is a San Francisco-bas
+ ed hacker and inventor\, best known for inventing TV-B-Gone\, as feature
+ d speaker at hacker conferences\, as international expert on the hackers
+ pace movement\, and for teaching introductory electronics workshops. He 
+ is also Chief Scientist and CEO of Cornfield Electronics.
 URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8404.html
-SUMMARY:Patterns
+SUMMARY:Community
 LOCATION:33c3 - Saal G
 END:VEVENT
 END:VCALENDAR
