@@ -1245,52 +1245,52 @@
             "1483027200"
         ]
     }, 
-    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482937800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
         ], 
-        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "day 2, afternoon meeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Translation meetings"
+            "Engelmeeting"
         ], 
         "Has duration": [
-            50
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482940800"
+            "1482768000"
         ]
     }, 
     "Session:Flunkyball# 3464118d555bc81519f9e26273225748": {
@@ -1883,54 +1883,6 @@
             "1483111800"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482764400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Introduction Meeting for new angels"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Engelmeeting"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482768000"
-        ]
-    }, 
     "Session:Hackbases 5 years# 340e4d5ffc9c48124fa671c372796b8a": {
         "Held in language": [
             "en - English"
@@ -1942,12 +1894,14 @@
             "Session"
         ], 
         "Has website": [
-            "http://totalism.org"
+            "http://pad.totalism.org/p/33c3-hackbases"
         ], 
         "Has description": [
             "Hackbases are similar to hackerspaces but people also live in them."
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Discussion"
+        ], 
         "Has session location": [
             {
                 "fulltext": "Room:Hall 13-14", 
@@ -2985,6 +2939,60 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shitty_Robots", 
         "Has end time": [
             "1482858000"
+        ]
+    }, 
+    "Session:Mate# 3ff8b33aa5258a8ff682e5254c7d0758": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482948000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "You probably know Club Mate and Flora Mate, as they are available at the \n33c3. But there are more kinds of Mate and we will taste them!\nYou can bring own bottles by yourself, too. It is possible that we will \nnot have all existing brands."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Leodin", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Leodin", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Xilent", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Xilent", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Mate"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Mate", 
+        "Has end time": [
+            "1482953400"
         ]
     }, 
     "Session:Freifunk hilft# d9466ea251970f51adcce1b46c682a76": {
@@ -4192,6 +4200,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
         "Has end time": [
             "1482854400"
+        ]
+    }, 
+    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482937800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "day 2, afternoon meeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Translation meetings"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "Has end time": [
+            "1482940800"
         ]
     }, 
     "Session:FSaaS: Challenges for 'Free Software as a Service' in business# d132d8604f7ecac61db1cbf423ca9e6e": {
@@ -15946,27 +16002,29 @@
             "1482872400"
         ]
     }, 
-    "Session:Mate# 3ff8b33aa5258a8ff682e5254c7d0758": {
+    "Session:CiTiZEN KiNO: Strategies For Turtle Islands# cbd25334fbbc080f54b9d7100564eb83": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482948000"
+            "1483052400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://www.XLterrestrials.org/plog"
+        ], 
         "Has description": [
-            "You probably know Club Mate and Flora Mate, as they are available at the \n33c3. But there are more kinds of Mate and we will taste them!\nYou can bring own bottles by yourself, too. It is possible that we will \nnot have all existing brands."
+            "This CiTiZEN KiNO episode examines \"Strategies For Turtle Islands\" through the lens of the native american resistance to the fossil fuels industry, climate terror and various aspects of technotopian + krapitalist delusions in our acceleratingly disconnected society. From this perspective, technology is never neutral ! But as we can see from interviews with the indigenous drone pilots in Dakota, it may be co-opted for \"defending thethe sacred\" !  Other curated media will also be screened for this topic, which may help to understand and geo-locate our own struggles to defend our only habitat, planet earth. Mini Waconi ! Water is Life !"
         ], 
         "Has session type": [
-            "Meeting"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -15974,31 +16032,21 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Leodin", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Leodin", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Xilent", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Xilent", 
+                "fulltext": "User:Podinski", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Podinski", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Mate"
+            "CiTiZEN KiNO: Strategies For Turtle Islands"
         ], 
-        "Has duration": [
-            90
-        ], 
+        "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Mate", 
-        "Has end time": [
-            "1482953400"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:CiTiZEN_KiNO:_Strategies_For_Turtle_Islands", 
+        "Has end time": []
     }, 
     "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# c5626b218dcaf7fe2c0ab1eff5125d93": {
         "Held in language": [
@@ -18028,12 +18076,14 @@
             "Session"
         ], 
         "Has website": [
-            "http://totalism.org"
+            "http://pad.totalism.org/p/33c3-hackbases"
         ], 
         "Has description": [
             "Hackbases are similar to hackerspaces but people also live in them."
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Discussion"
+        ], 
         "Has session location": [
             {
                 "fulltext": "Room:Hall 13-14", 
