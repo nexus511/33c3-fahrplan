@@ -1345,12 +1345,12 @@
             "1483027200"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -1369,7 +1369,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -1390,7 +1390,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Flunkyball# 3464118d555bc81519f9e26273225748": {
@@ -1479,6 +1479,54 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
         "Has end time": []
+    }, 
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483102800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Abbaumeeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1483106400"
+        ]
     }, 
     "Session:Translation meetings# 7ced348984f17dd88a5c96ea1e3435ec": {
         "Held in language": [
@@ -1931,54 +1979,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:12V_SolarPower_%26_Sound", 
         "Has end time": [
             "1483111800"
-        ]
-    }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482764400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Introduction Meeting for new angels"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Engelmeeting"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482768000"
         ]
     }, 
     "Session:XTRX PCIe SDR# f8eb156180efd052791fd3c3ad4747d0": {
@@ -6253,6 +6253,49 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Off_Grid:_a_videogame_about_hacking,_data_privacy,_and_surveillance", 
         "Has end time": [
             "1482872400"
+        ]
+    }, 
+    "Session:Juggling Flashmob# 7f2ecbff542d16d9137673f072263068": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483038000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Let's juggle! Everyone is welcome, no matter if you never touched a juggling ball or if you are a professional stage juggler \u2013 let's teach each other! MEETING POINT: In front of the ball pit in the Kidspace (Floor 3, in front of Hall 1. Yes, we asked.) PLEASE be careful not to step on children!"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "Meeting point: In front of the ball pit in the Kidspace"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Blinry", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Blinry", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Juggling Flashmob"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Juggling_Flashmob", 
+        "Has end time": [
+            "1483039800"
         ]
     }, 
     "Session:42birds: Learn Version Control with Git# af1296861c8bc7124576cc908b20abd0": {
@@ -11282,12 +11325,12 @@
             "1482876000"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -11303,8 +11346,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -11329,7 +11372,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:Skillconvention a# 06de81ba9b71b450d9cbf61661471ee5": {
@@ -11466,6 +11509,55 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Lehrerstammtisch", 
         "Has end time": [
             "1483029900"
+        ]
+    }, 
+    "Session:LOC Teardown Meeting# 9b5845ce4d4752a0f364b663e69e57fc": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483020000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "LOC Teardown Meeting."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Psy", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Psy", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "LOC Teardown Meeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LOC_Teardown_Meeting", 
+        "Has end time": [
+            "1483023600"
         ]
     }, 
     "Session:Klingon War of Succession# 73561227a7b41f5480e83878a1aba7a9": {
@@ -14381,12 +14473,12 @@
             "1483029900"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
@@ -14402,8 +14494,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -14428,7 +14520,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482853500"
+            "1483026300"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
