@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T150000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T140000
-DTSTAMP;VALUE=DATE-TIME:20161213T214746Z
+DTSTAMP;VALUE=DATE-TIME:20161228T103200Z
 UID:64c07cb5-ec19-4972-a2c8-96c0e0df83c6@frab.cccv.de
 DESCRIPTION:Heads is an open source custom firmware and OS configuration 
  for laptops and servers that aims to provide slightly better physical se

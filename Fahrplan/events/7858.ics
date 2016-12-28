@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T134500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T124500
-DTSTAMP;VALUE=DATE-TIME:20161213T213810Z
+DTSTAMP;VALUE=DATE-TIME:20161227T215727Z
 UID:798573a8-f544-48f0-abaf-ebc405f03f4a@frab.cccv.de
 DESCRIPTION:PHP-7 is a new version of the most prevalent server-side lang
  uage in use today. Like previous version\, this version is also vulnerab
