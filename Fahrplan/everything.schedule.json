@@ -639,7 +639,12 @@
                                         "title": "News Article  #2"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/129/original/aylin_33c3.pdf?1482952039", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "id": 7966, 
@@ -15200,13 +15205,13 @@
                                 "start": "11:30", 
                                 "duration": "01:00", 
                                 "room": "Saal G", 
-                                "slug": "33c3-8404-patterns", 
-                                "title": "Patterns", 
-                                "subtitle": "Relevant patterns, subset of patterns, patterns and anti patterns", 
+                                "slug": "33c3-8404-community", 
+                                "title": "Community", 
+                                "subtitle": "Social Life & Life in the early 21st century", 
                                 "track": "Art & Culture", 
                                 "type": "lecture", 
                                 "language": "en", 
-                                "abstract": "", 
+                                "abstract": "Mitch Altman (born December 22, 1956) is a San Francisco-based hacker and inventor, best known for inventing TV-B-Gone, as featured speaker at hacker conferences, as international expert on the hackerspace movement, and for teaching introductory electronics workshops. He is also Chief Scientist and CEO of Cornfield Electronics.", 
                                 "description": "", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
