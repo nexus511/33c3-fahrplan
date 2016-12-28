@@ -485,6 +485,38 @@
             "1482760800"
         ]
     }, 
+    "Session:PEp User Interface Design# 833a25a38607d4dbd4e25e56ea5cfe8f": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483048800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pep.foundation"
+        ], 
+        "Has description": [
+            "If you are interested in pEp's design principles (since it is a User Interface Design Project), have suggestions, questions or ideas, please come to this session!\n\nMeeting point is at the GNUnet & pEp assembly."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "PEp User Interface Design"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:PEp_User_Interface_Design", 
+        "Has end time": []
+    }, 
     "Session:Are decentralized services unable to innovate?# 0043166f5c425145741cb5a178a7ac3c": {
         "Held in language": [
             "en - English"
@@ -994,66 +1026,66 @@
             "1482863400"
         ]
     }, 
-    "Session:Freifunk hilft# d9466ea251970f51adcce1b46c682a76": {
+    "Session:VOC Engelmeeting# 6c7712cd8c07af6fc45588ac8e3f3c56": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483025400"
+            "1483023600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://freifunk-hilft.de"
+            "https://c3voc.de/"
         ], 
         "Has description": [
-            "* Exchange with Imma & Eben from Refugees Emancipation e.V. about learnings/experiences\n* Freifunk f\u00fcr Fl\u00fcchtlinge - Erfahrungen, Vorgehen, Umsetzung, Tuning, Sponsoren (pkoerner81929)\n* Ideas regarding freifunk-hilft.de"
+            "Daily meeting for all VOC Angels."
         ], 
         "Has session type": [
             "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
+                "fulltext": "Room:Saal 6", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Saal_6", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Andibraeu", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andibraeu", 
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
                 "namespace": 2, 
                 "exists": true
             }, 
             {
-                "fulltext": "User:Pkoerner81929", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pkoerner81929", 
+                "fulltext": "User:V0tti", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:V0tti", 
                 "namespace": 2, 
                 "exists": true
             }, 
             {
-                "fulltext": "User:Monic", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
+                "fulltext": "User:Felixs", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Felixs", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Freifunk hilft"
+            "VOC Engelmeeting"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_hilft", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
         "Has end time": [
-            "1483030800"
+            "1483027200"
         ]
     }, 
     "Session:Open Science Workshop# d93aeca26ff9fa5a1b03992460914abb": {
@@ -1306,6 +1338,54 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
         "Has end time": []
+    }, 
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483102800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Abbaumeeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1483106400"
+        ]
     }, 
     "Session:Translation meetings# 7ced348984f17dd88a5c96ea1e3435ec": {
         "Held in language": [
@@ -1808,54 +1888,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:12V_SolarPower_%26_Sound", 
         "Has end time": [
             "1483111800"
-        ]
-    }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482764400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Introduction Meeting for new angels"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Engelmeeting"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482768000"
         ]
     }, 
     "Session:Hackbases 5 years# 340e4d5ffc9c48124fa671c372796b8a": {
@@ -2792,7 +2824,7 @@
             "https://pep.foundation"
         ], 
         "Has description": [
-            "If you are interested in learning how to integrate pEp into your development environment, have questions on this topic or want to understand better how pEp developments can be connected with different environments, we'd love to welcome you in this session.\n\nMeeting point is at the GNUnet & pEp assembly"
+            "If you are interested in learning how to integrate pEp into your development environment, have questions on this topic or want to understand better how pEp developments can be connected with different environments, we'd love to welcome you in this session.\n\nMeeting point is at the GNUnet & pEp assembly."
         ], 
         "Has session type": [
             "Hands-On"
@@ -2868,66 +2900,66 @@
             "1482858000"
         ]
     }, 
-    "Session:VOC Engelmeeting# 6c7712cd8c07af6fc45588ac8e3f3c56": {
+    "Session:Freifunk hilft# d9466ea251970f51adcce1b46c682a76": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483023600"
+            "1483025400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://c3voc.de/"
+            "https://freifunk-hilft.de"
         ], 
         "Has description": [
-            "Daily meeting for all VOC Angels."
+            "* Exchange with Imma & Eben from Refugees Emancipation e.V. about learnings/experiences\n* Freifunk f\u00fcr Fl\u00fcchtlinge - Erfahrungen, Vorgehen, Umsetzung, Tuning, Sponsoren (pkoerner81929)\n* Ideas regarding freifunk-hilft.de"
         ], 
         "Has session type": [
             "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Saal 6", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Saal_6", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Jwacalex", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
+                "fulltext": "User:Andibraeu", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andibraeu", 
                 "namespace": 2, 
                 "exists": true
             }, 
             {
-                "fulltext": "User:V0tti", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:V0tti", 
+                "fulltext": "User:Pkoerner81929", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pkoerner81929", 
                 "namespace": 2, 
                 "exists": true
             }, 
             {
-                "fulltext": "User:Felixs", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Felixs", 
+                "fulltext": "User:Monic", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "VOC Engelmeeting"
+            "Freifunk hilft"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_hilft", 
         "Has end time": [
-            "1483027200"
+            "1483030800"
         ]
     }, 
     "Session:Train the CryptoParty Trainer# 15d77550626146b226d51911f3ea7155": {
@@ -3221,6 +3253,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Schiko-Meeting", 
         "Has end time": [
             "1482930000"
+        ]
+    }, 
+    "Session:Fucked-up For A Cause# d4144d77f9cea95e08fec4fc19b57a98": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483052400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Grampa is telling tales from dark past. When looking at the documentation of the Atari 2600 VCS (one of the first console for video games), you'll notice a lot of fuck ups. These are there for a cause. Let me show you some of them and explain w y they are a more clever than you might expect."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:SvOlli", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:SvOlli", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Fucked-up For A Cause"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Fucked-up_For_A_Cause", 
+        "Has end time": [
+            "1483056000"
         ]
     }, 
     "Session:DNS und ICVPN: .freifunk und .ff# a67ef735384792f20a7aeb282d62353e": {
@@ -4495,7 +4575,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "I'll bring an industrial grade 3D scanner and you'll be able to get free high resolution scans of yourself, your friends etc..."
+            "REGISTRATION NEEDED: I'll bring an industrial grade 3D scanner and you'll be able to get free high resolution scans of yourself, your friends etc..."
         ], 
         "Has session type": [
             "Hands-On"
@@ -7733,6 +7813,45 @@
             "1483051500"
         ]
     }, 
+    "Session:The tech of current pEp releases# 2ec121afe0e31709812fa3ce922c65f2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482962400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pep.foundation"
+        ], 
+        "Has description": [
+            "If you are interested in technical details of current pEp releases come to this session. \n\nMeeting point is at the GNUnet & pEp assembly."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:GNUnet & pEp", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:GNUnet_%26_pEp", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "The tech of current pEp releases"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:The_tech_of_current_pEp_releases", 
+        "Has end time": []
+    }, 
     "Session:Kinky Geeks Bondage Workshop# a8c2bf5ff62d53b442926aca24782ea9": {
         "Held in language": [
             "de - German"
@@ -8062,45 +8181,6 @@
             "1482976800"
         ]
     }, 
-    "Session:The tech of current pEp releases# d8efbf4b731a4106eb1b95f8fd9dba54": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482933600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://pep.foundation"
-        ], 
-        "Has description": [
-            "If you are interested in technical details of current pEp releases come to this session. \n\nMeeting point is at the GNUnet & pEp assembly."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:GNUnet & pEp", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:GNUnet_%26_pEp", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "The tech of current pEp releases"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:The_tech_of_current_pEp_releases", 
-        "Has end time": []
-    }, 
     "Session:Tor# 36660adcf8dfee81c6941287bdc51382": {
         "Held in language": [
             "en - English"
@@ -8389,12 +8469,12 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -8413,7 +8493,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -8434,7 +8514,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -8875,7 +8955,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "I'll bring an industrial grade 3D scanner and you'll be able to get free high resolution scans of yourself, your friends etc..."
+            "REGISTRATION NEEDED: I'll bring an industrial grade 3D scanner and you'll be able to get free high resolution scans of yourself, your friends etc..."
         ], 
         "Has session type": [
             "Hands-On"
@@ -10579,6 +10659,38 @@
             "1483048800"
         ]
     }, 
+    "Session:PEp for Java Script# 57a5ed9573f9d25183b5b3bc422093ae": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483034400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pep.foundation"
+        ], 
+        "Has description": [
+            "In this session we will cover technical details, how to use pEp with Java Script. You are welcome to ask any (related) questions!\n\nMeeting point is at the GNUnet & pEp assembly."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "PEp for Java Script"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:PEp_for_Java_Script", 
+        "Has end time": []
+    }, 
     "Session:Plaintext accounting for hackerspaces# 12e95b6dcc45034c1a969ac05252ebb3": {
         "Held in language": [
             "de - German"
@@ -11524,7 +11636,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "I'll bring an industrial grade 3D scanner and you'll be able to get free high resolution scans of yourself, your friends etc..."
+            "REGISTRATION NEEDED: I'll bring an industrial grade 3D scanner and you'll be able to get free high resolution scans of yourself, your friends etc..."
         ], 
         "Has session type": [
             "Hands-On"
