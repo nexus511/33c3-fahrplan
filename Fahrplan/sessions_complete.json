@@ -487,54 +487,6 @@
             "1482760800"
         ]
     }, 
-    "Session:Klingon War of Succession# 4e261b0c4abedbfd3aedc2d50da5100d": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482926400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "demonstration of serious games as teaching and/or analysis tool with a well known star trek scenario."
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Anarchist Village", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Anarchist_Village", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Klemens", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Klingon War of Succession"
-        ], 
-        "Has duration": [
-            210
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klingon_War_of_Succession", 
-        "Has end time": [
-            "1482939000"
-        ]
-    }, 
     "Session:Are decentralized services unable to innovate?# 0043166f5c425145741cb5a178a7ac3c": {
         "Held in language": [
             "en - English"
@@ -1222,52 +1174,52 @@
             "1483040400"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1482937800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
+        "Has description": [
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
         ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "day 2, afternoon meeting"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Engelmeeting"
+            "Translation meetings"
         ], 
         "Has duration": [
-            60
+            50
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
         "Has end time": [
-            "1482768000"
+            "1482940800"
         ]
     }, 
     "Session:Linux Kernel Ninja Comment Karaoke# 2862e8fab22a5be1e6bab49ee12caaa2": {
@@ -1304,54 +1256,6 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
         "Has end time": []
-    }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483102800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Abbaumeeting"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Engelmeeting"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1483106400"
-        ]
     }, 
     "Session:Translation meetings# 7ced348984f17dd88a5c96ea1e3435ec": {
         "Held in language": [
@@ -1558,6 +1462,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitle_Coordinator_Angelmeetings", 
         "Has end time": [
             "1482787200"
+        ]
+    }, 
+    "Session:\u00d6ffentliche F\u00f6rderung f\u00fcr Freifunk# 17fabdca9b940fd2a082e6b010c3f524": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482935400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://freifunk.net"
+        ], 
+        "Has description": [
+            "Wie sieht die F\u00f6rderung von Freifunk in den einzelnen Bundesl\u00e4ndern aus? Ein Erfahrungsaustausch. u.A. \u00fcber Berlin, NDS, Sachsen-Anhalt, NRW, Th\u00fcringen"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eriu", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eriu", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "\u00d6ffentliche F\u00f6rderung f\u00fcr Freifunk"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:%C3%96ffentliche_F%C3%B6rderung_f%C3%BCr_Freifunk", 
+        "Has end time": [
+            "1482937200"
         ]
     }, 
     "Session:Cyberthingy# 14ec99a1dab184da63411875173a1978": {
@@ -1804,6 +1758,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:12V_SolarPower_%26_Sound", 
         "Has end time": [
             "1483111800"
+        ]
+    }, 
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482764400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Introduction Meeting for new angels"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1482768000"
         ]
     }, 
     "Session:Hackbases 5 years# 340e4d5ffc9c48124fa671c372796b8a": {
@@ -7689,56 +7691,6 @@
             "1482858000"
         ]
     }, 
-    "Session:\u00d6ffentliche F\u00f6rderung f\u00fcr Freifunk# 1d46c2f14d0a1c78c711cbe94aa1fc7b": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1482933600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://freifunk.net"
-        ], 
-        "Has description": [
-            "Wie sieht die F\u00f6rderung von Freifunk in den einzelnen Bundesl\u00e4ndern aus? Ein Erfahrungsaustausch. u.A. \u00fcber Berlin, NDS, Sachsen-Anhalt, NRW, Th\u00fcringen"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eriu", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eriu", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "\u00d6ffentliche F\u00f6rderung f\u00fcr Freifunk"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:%C3%96ffentliche_F%C3%B6rderung_f%C3%BCr_Freifunk", 
-        "Has end time": [
-            "1482936300"
-        ]
-    }, 
     "Session:Werewolf Party Game# d9d1c711aa9bf545ac47f177ce27dffd": {
         "Held in language": [
             "en - English"
@@ -8264,52 +8216,52 @@
             "1482855300"
         ]
     }, 
-    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482937800"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
         ], 
-        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "day 2, afternoon meeting"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Translation meetings"
+            "Engelmeeting"
         ], 
         "Has duration": [
-            50
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482940800"
+            "1483106400"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -10854,6 +10806,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Lehrerstammtisch", 
         "Has end time": [
             "1483029900"
+        ]
+    }, 
+    "Session:Klingon War of Succession# 73561227a7b41f5480e83878a1aba7a9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483039800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "NEW SESSION Scheduled!\nstrategic game in the star trek universe. Also a demonstration of serious games as teaching and/or analysis tool."
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Anarchist Village", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Anarchist_Village", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Klemens", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Klingon War of Succession"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klingon_War_of_Succession", 
+        "Has end time": [
+            "1483050600"
         ]
     }, 
     "Session:Freifunk@GSoC2016# e7ad65bb4d234f29ed12915bd5f4d74e": {
