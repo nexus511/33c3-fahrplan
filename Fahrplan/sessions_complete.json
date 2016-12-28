@@ -4527,60 +4527,6 @@
             "1482957000"
         ]
     }, 
-    "Session:DIY Duct-Tape Wallets# 25965de67a9e17c0f94c5830013b78f2": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482948000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "We will make wallets out of duct-tape allday at our assembly. Join us and make your own in just a few minutes!"
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Chaostreff Flensburg", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaostreff_Flensburg", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Roikiermedia", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Roikiermedia", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Scammo", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Scammo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "DIY Duct-Tape Wallets"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:DIY_Duct-Tape_Wallets", 
-        "Has end time": [
-            "1482951600"
-        ]
-    }, 
     "Session:Congress Everywhere Greet & Meet# dab9b0fa02061064724f04702afe682d": {
         "Held in language": [
             "de - German"
@@ -5662,6 +5608,60 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Prototype_Fund_-_1.2_Million_Euros_for_Free_Software_Projects", 
         "Has end time": [
             "1482962400"
+        ]
+    }, 
+    "Session:DIY Duct-Tape Wallets# ed0b9fb3e8518f3ca385b33789b9b35e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483030800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We will make wallets out of duct-tape allday at our assembly. Join us and make your own in just a few minutes!"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaostreff Flensburg", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaostreff_Flensburg", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Roikiermedia", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Roikiermedia", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Scammo", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Scammo", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "DIY Duct-Tape Wallets"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:DIY_Duct-Tape_Wallets", 
+        "Has end time": [
+            "1483034400"
         ]
     }, 
     "Session:Coffee Break# 564529d15da47a81c4220a1ec5deca10": {
