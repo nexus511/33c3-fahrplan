@@ -43,7 +43,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1274, 
+                                "id": 1273, 
                                 "guid": "efb088d3ad2beedd6f23811add22a097", 
                                 "logo": null, 
                                 "date": "2016-12-26T21:00:00+01:00", 
@@ -960,7 +960,7 @@
                         ], 
                         "Hall 13-14": [
                             {
-                                "id": 1053, 
+                                "id": 1054, 
                                 "guid": "dab9b0fa02061064724f04702afe682d", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:00:00+01:00", 
@@ -1235,7 +1235,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1130, 
+                                "id": 1129, 
                                 "guid": "d0288fe6dd4e0bc74b5b7e0302906c53", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -1296,7 +1296,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1237, 
+                                "id": 1236, 
                                 "guid": "4383e4aa7ebb80d2f9a2b041a302bf80", 
                                 "logo": null, 
                                 "date": "2016-12-27T12:00:00+01:00", 
@@ -1407,7 +1407,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1273, 
+                                "id": 1274, 
                                 "guid": "10fee5225d917f2650ea518ea0e2f909", 
                                 "logo": null, 
                                 "date": "2016-12-27T10:00:00+01:00", 
@@ -1623,34 +1623,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1109, 
-                                "guid": "c4ae02cda33772280603871915637893", 
-                                "logo": null, 
-                                "date": "2016-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "1:00", 
-                                "room": "Hall C.1", 
-                                "slug": "", 
-                                "title": "Freifunk und die VDS", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Philip von Freifunk Rheinland gibt einen Ein- und \u00dcberblick \u00fcber die aktuellen Entwicklungen zur VDS, den aktuellen Status der Klage sowie Infos zu unserem Antrag auf Aussetzung und den Konsequenzen f\u00fcr unseren Backbone (AS201701).", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Pberndro", 
-                                        "public_name": "Pberndro"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://freifunk-rheinland.net", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_und_die_VDS"
-                                ]
-                            }, 
-                            {
                                 "id": 1128, 
                                 "guid": "945f1586a6c6583e89e03bad18b89754", 
                                 "logo": null, 
@@ -1761,7 +1733,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1239, 
+                                "id": 1238, 
                                 "guid": "039324be71857d6183d494118ab69f47", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
@@ -2562,6 +2534,35 @@
                             }, 
                             {
                                 "id": 1322, 
+                                "guid": "71ee3f1c08d4d04914c27cac159a56da", 
+                                "logo": null, 
+                                "date": "2016-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "We Fix the Net", 
+                                "subtitle": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
+                                        "public_name": "Jeffburdges"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://gnunet.org", 
+                                    "http://pep.foundation/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net"
+                                ]
+                            }, 
+                            {
+                                "id": 1323, 
                                 "guid": "bbb81a0158a76477271da3f3095201e4", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -2590,7 +2591,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1323, 
+                                "id": 1324, 
                                 "guid": "929ba2a8a173dad4fb8ab1125b31a656", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:45:00+01:00", 
@@ -2600,35 +2601,6 @@
                                 "slug": "", 
                                 "title": "We Fix the Net", 
                                 "subtitle": "Opertunistic Email Encryption", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
-                                        "public_name": "Jeffburdges"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://gnunet.org", 
-                                    "http://pep.foundation/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net"
-                                ]
-                            }, 
-                            {
-                                "id": 1324, 
-                                "guid": "71ee3f1c08d4d04914c27cac159a56da", 
-                                "logo": null, 
-                                "date": "2016-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "We Fix the Net", 
-                                "subtitle": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "en", 
@@ -3108,7 +3080,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1055, 
+                                "id": 1053, 
                                 "guid": "8b165ece02b1d870610d15256031bca9", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:00:00+01:00", 
@@ -3222,7 +3194,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1129, 
+                                "id": 1131, 
                                 "guid": "2b55e4c20c327a0fbe6204663002bb03", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -3628,6 +3600,34 @@
                                 "links": [
                                     "http://opensourcedesign.net", 
                                     "https://events.ccc.de/congress/2016/wiki/Session:Design_in_Free_Software_%26_Open_Source"
+                                ]
+                            }, 
+                            {
+                                "id": 1109, 
+                                "guid": "5095c1dfad78739320274f6f070159e1", 
+                                "logo": null, 
+                                "date": "2016-12-29T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "Freifunk und die VDS", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Philip von Freifunk Rheinland gibt einen Ein- und \u00dcberblick \u00fcber die aktuellen Entwicklungen zur VDS, den aktuellen Status der Klage sowie Infos zu unserem Antrag auf Aussetzung und den Konsequenzen f\u00fcr unseren Backbone (AS201701).", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Pberndro", 
+                                        "public_name": "Pberndro"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://freifunk-rheinland.net", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_und_die_VDS"
                                 ]
                             }, 
                             {
@@ -4394,33 +4394,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1175, 
-                                "guid": "9b5845ce4d4752a0f364b663e69e57fc", 
-                                "logo": null, 
-                                "date": "2016-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "Hall C.4", 
-                                "slug": "", 
-                                "title": "LOC Teardown Meeting", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "LOC Teardown Meeting.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Psy", 
-                                        "public_name": "Psy"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:LOC_Teardown_Meeting"
-                                ]
-                            }, 
-                            {
                                 "id": 1206, 
                                 "guid": "1991d7c2adefc5daab2a75f4b429a67d", 
                                 "logo": null, 
@@ -4620,7 +4593,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1238, 
+                                "id": 1237, 
                                 "guid": "977f9c1640dada93a94769a499595c3b", 
                                 "logo": null, 
                                 "date": "2016-12-29T12:00:00+01:00", 
@@ -5049,7 +5022,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1054, 
+                                "id": 1055, 
                                 "guid": "2e3f2fb0d4424c378f1bf5ffa0eab463", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -5478,7 +5451,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1131, 
+                                "id": 1130, 
                                 "guid": "84dbea847aa14b670fb6f45d765521f4", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -5508,6 +5481,33 @@
                                 "links": [
                                     "http://many.haecksen.org/mediawiki/index.php/33C3", 
                                     "https://events.ccc.de/congress/2016/wiki/Session:Haecksenraum"
+                                ]
+                            }, 
+                            {
+                                "id": 1175, 
+                                "guid": "06832dcd9fbc77ee8c158fb5330e218b", 
+                                "logo": null, 
+                                "date": "2016-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:00", 
+                                "room": "Hall A.1", 
+                                "slug": "", 
+                                "title": "LOC Teardown Meeting", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "LOC Teardown Meeting.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Psy", 
+                                        "public_name": "Psy"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:LOC_Teardown_Meeting"
                                 ]
                             }, 
                             {
@@ -6047,7 +6047,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1236, 
+                                "id": 1239, 
                                 "guid": "9f88eaeae6526edd6c5b4074bac528de", 
                                 "logo": null, 
                                 "date": "2016-12-30T12:00:00+01:00", 

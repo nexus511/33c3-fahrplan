@@ -8474,6 +8474,62 @@
             "1483008120"
         ]
     }, 
+    "Session:How To Run A Bitcoin Node# 604c461088a5dddfa6c031af4cd054e4": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482940800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://github.com/jonasnick/bitcoin-node"
+        ], 
+        "Has description": [
+            "Bitcoin is among the world\u2019s most widely deployed decentralized cryptographic systems. We will give a short introduction into why financial privacy and Bitcoin is a critical tool for activists and briefly discuss the mechanisms behind Bitcoin. We will then dive into configuring a Bitcoin Core node suitable for running at home. Topics that will be covered include:\n\n* How to get statistics from the network and how to interpret them.\n* How to use the RPC interface to create (multisig-)transactions.\n* How to set limits on resource usage.\n* How to make use of Tor.\n* How to securely store coins."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Nickler", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nickler", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:BlueMatt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:BlueMatt", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "How To Run A Bitcoin Node"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:How_To_Run_A_Bitcoin_Node", 
+        "Has end time": [
+            "1482944400"
+        ]
+    }, 
     "Session:Solar powered freifunk mast# cefac11a128b232818f7665e7712ceaf": {
         "Held in language": [
             "de - German"
@@ -9321,6 +9377,55 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Tor_Relays_Operators_Meetup", 
         "Has end time": [
             "1483054200"
+        ]
+    }, 
+    "Session:LOC Teardown Meeting# 06832dcd9fbc77ee8c158fb5330e218b": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483038000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "LOC Teardown Meeting."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Psy", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Psy", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "LOC Teardown Meeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LOC_Teardown_Meeting", 
+        "Has end time": [
+            "1483041600"
         ]
     }, 
     "Session:3D scan yourself# 07fd3c770a47140f5c5c4fe19a8c3787": {
@@ -10238,29 +10343,29 @@
             "1483121700"
         ]
     }, 
-    "Session:How To Run A Bitcoin Node# 604c461088a5dddfa6c031af4cd054e4": {
+    "Session:Freifunk und die VDS# 5095c1dfad78739320274f6f070159e1": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482940800"
+            "1483023600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://github.com/jonasnick/bitcoin-node"
+            "https://freifunk-rheinland.net"
         ], 
         "Has description": [
-            "Bitcoin is among the world\u2019s most widely deployed decentralized cryptographic systems. We will give a short introduction into why financial privacy and Bitcoin is a critical tool for activists and briefly discuss the mechanisms behind Bitcoin. We will then dive into configuring a Bitcoin Core node suitable for running at home. Topics that will be covered include:\n\n* How to get statistics from the network and how to interpret them.\n* How to use the RPC interface to create (multisig-)transactions.\n* How to set limits on resource usage.\n* How to make use of Tor.\n* How to securely store coins."
+            "Philip von Freifunk Rheinland gibt einen Ein- und \u00dcberblick \u00fcber die aktuellen Entwicklungen zur VDS, den aktuellen Status der Klage sowie Infos zu unserem Antrag auf Aussetzung und den Konsequenzen f\u00fcr unseren Backbone (AS201701)."
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -10268,20 +10373,14 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Nickler", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nickler", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:BlueMatt", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:BlueMatt", 
+                "fulltext": "User:Pberndro", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pberndro", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "How To Run A Bitcoin Node"
+            "Freifunk und die VDS"
         ], 
         "Has duration": [
             60
@@ -10289,9 +10388,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:How_To_Run_A_Bitcoin_Node", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_und_die_VDS", 
         "Has end time": [
-            "1482944400"
+            "1483027200"
         ]
     }, 
     "Session:Simple Nomic# b102345583487c805c193718c2b6756b": {
@@ -11509,55 +11608,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Lehrerstammtisch", 
         "Has end time": [
             "1483029900"
-        ]
-    }, 
-    "Session:LOC Teardown Meeting# 9b5845ce4d4752a0f364b663e69e57fc": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483020000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "LOC Teardown Meeting."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Psy", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Psy", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "LOC Teardown Meeting"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LOC_Teardown_Meeting", 
-        "Has end time": [
-            "1483023600"
         ]
     }, 
     "Session:Klingon War of Succession# 73561227a7b41f5480e83878a1aba7a9": {
@@ -14917,56 +14967,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Eine_Botschaft_an_Au%C3%9Ferirdische_(Wondrous_Mathematics)", 
         "Has end time": [
             "1482930000"
-        ]
-    }, 
-    "Session:Freifunk und die VDS# c4ae02cda33772280603871915637893": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1482937200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://freifunk-rheinland.net"
-        ], 
-        "Has description": [
-            "Philip von Freifunk Rheinland gibt einen Ein- und \u00dcberblick \u00fcber die aktuellen Entwicklungen zur VDS, den aktuellen Status der Klage sowie Infos zu unserem Antrag auf Aussetzung und den Konsequenzen f\u00fcr unseren Backbone (AS201701)."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Pberndro", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pberndro", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Freifunk und die VDS"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_und_die_VDS", 
-        "Has end time": [
-            "1482940800"
         ]
     }, 
     "Session:Coffee Break# 09dc806817705dc5d7ad3cf12a70cb12": {
