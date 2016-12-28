@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "INVALID", 
+        "version": "DUPLICATE", 
         "conference": {
             "acronym": "33c3", 
             "title": "33. Chaos Communication Congress", 
@@ -4811,7 +4811,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/120/original/handout.pdf?1482926771", 
+                                        "title": "Handouts (revision 0.9)"
+                                    }
+                                ]
                             }, 
                             {
                                 "id": 8416, 
@@ -9491,7 +9496,7 @@
                                 "persons": [
                                     {
                                         "id": 6653, 
-                                        "public_name": "wrm"
+                                        "public_name": "Bill Marczak"
                                     }, 
                                     {
                                         "id": 7208, 
@@ -9800,6 +9805,28 @@
                                         "public_name": "Michael B\u00fcker"
                                     }
                                 ], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 8460, 
+                                "guid": "cfe31c23-3b1e-4dc3-a7ac-15f538cdfd18", 
+                                "logo": null, 
+                                "date": "2016-12-30T00:15:00+01:00", 
+                                "start": "00:15", 
+                                "duration": "01:30", 
+                                "room": "Saal 1", 
+                                "slug": "33c3-8460-methodisch_inkorrekt_stream", 
+                                "title": "Methodisch Inkorrekt Stream", 
+                                "subtitle": "", 
+                                "track": "Entertainment", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [], 
                                 "links": [], 
                                 "attachments": []
                             }
@@ -10152,28 +10179,6 @@
                                         "title": "Zerocoin paper (2013)"
                                     }
                                 ], 
-                                "attachments": []
-                            }, 
-                            {
-                                "id": 8460, 
-                                "guid": "cfe31c23-3b1e-4dc3-a7ac-15f538cdfd18", 
-                                "logo": null, 
-                                "date": "2016-12-30T00:15:00+01:00", 
-                                "start": "00:15", 
-                                "duration": "01:30", 
-                                "room": "Saal 2", 
-                                "slug": "33c3-8460-methodisch_inkorrekt_stream", 
-                                "title": "Methodisch Inkorrekt Stream", 
-                                "subtitle": "", 
-                                "track": "Entertainment", 
-                                "type": "other", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "recording_license": "", 
-                                "do_not_record": true, 
-                                "persons": [], 
-                                "links": [], 
                                 "attachments": []
                             }
                         ], 

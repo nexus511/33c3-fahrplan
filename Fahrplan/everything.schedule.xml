@@ -1,5 +1,5 @@
 <schedule>
-  <version>INVALID</version>
+  <version>DUPLICATE</version>
   <conference>
     <acronym>33c3</acronym>
     <title>33. Chaos Communication Congress</title>
@@ -4148,7 +4148,9 @@ Der Vortrag fokussiert auf die Blockchain-Technologie. Funktionen und Implementa
           <person id="6019">vimja</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/120/original/handout.pdf?1482926771">Handouts (revision 0.9)</attachment>
+        </attachments>
       </event>
       <event id="8416" guid="1b27dbeb-cffc-48a1-b2e6-b2011c338a50">
         <logo/>
@@ -8079,7 +8081,7 @@ Using the Mansoor attack as a case study, we will provide a window into how rese
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="6653">wrm</person>
+          <person id="6653">Bill Marczak</person>
           <person id="7208">John Scott-Railton</person>
         </persons>
         <links/>
@@ -8399,6 +8401,28 @@ Climb the distance ladder and get to know our place in Space from kilometers to 
         <persons>
           <person id="4920">Michael B&#252;ker</person>
         </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="8460" guid="cfe31c23-3b1e-4dc3-a7ac-15f538cdfd18">
+        <logo/>
+        <date>2016-12-30T00:15:00+01:00</date>
+        <start>00:15</start>
+        <duration>01:30</duration>
+        <room>Saal 1</room>
+        <slug>33c3-8460-methodisch_inkorrekt_stream</slug>
+        <title>Methodisch Inkorrekt Stream</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons/>
         <links/>
         <attachments/>
       </event>
@@ -8755,28 +8779,6 @@ Note: The presenter is not affiliated with the Zcash company.</description>
           <link href="http://zerocash-project.org/media/pdf/zerocash-oakland2014.pdf">Zerocash paper (2014)</link>
           <link href="http://zerocoin.org/media/pdf/ZerocoinOakland.pdf">Zerocoin paper (2013)</link>
         </links>
-        <attachments/>
-      </event>
-      <event id="8460" guid="cfe31c23-3b1e-4dc3-a7ac-15f538cdfd18">
-        <logo/>
-        <date>2016-12-30T00:15:00+01:00</date>
-        <start>00:15</start>
-        <duration>01:30</duration>
-        <room>Saal 2</room>
-        <slug>33c3-8460-methodisch_inkorrekt_stream</slug>
-        <title>Methodisch Inkorrekt Stream</title>
-        <subtitle/>
-        <track>Entertainment</track>
-        <type>other</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons/>
-        <links/>
         <attachments/>
       </event>
     </room>
