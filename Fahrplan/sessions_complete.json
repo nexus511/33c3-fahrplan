@@ -1381,89 +1381,6 @@
             "1483040400"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482764400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Introduction Meeting for new angels"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Engelmeeting"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482768000"
-        ]
-    }, 
-    "Session:Linux Kernel Ninja Comment Karaoke# 2862e8fab22a5be1e6bab49ee12caaa2": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Do you have it what it takes to be a Linux kernel hacker? This is your chance to prove it: At random a function (max 100 LoC) is selected from the +15M LoC of Linux kernel code and it is your task to karaoke that code snippets comments. If it has comments: Good for you. If not, show your inner (comment) ninja."
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Datenwolf", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Datenwolf", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Linux Kernel Ninja Comment Karaoke"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
-        "Has end time": []
-    }, 
     "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
@@ -1511,6 +1428,41 @@
         "Has end time": [
             "1483106400"
         ]
+    }, 
+    "Session:Linux Kernel Ninja Comment Karaoke# 2862e8fab22a5be1e6bab49ee12caaa2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Do you have it what it takes to be a Linux kernel hacker? This is your chance to prove it: At random a function (max 100 LoC) is selected from the +15M LoC of Linux kernel code and it is your task to karaoke that code snippets comments. If it has comments: Good for you. If not, show your inner (comment) ninja."
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Datenwolf", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Datenwolf", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Linux Kernel Ninja Comment Karaoke"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
+        "Has end time": []
     }, 
     "Session:Translation meetings# 7ced348984f17dd88a5c96ea1e3435ec": {
         "Held in language": [
@@ -1963,6 +1915,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:12V_SolarPower_%26_Sound", 
         "Has end time": [
             "1483111800"
+        ]
+    }, 
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482764400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Introduction Meeting for new angels"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1482768000"
         ]
     }, 
     "Session:Hackbases 5 years# 340e4d5ffc9c48124fa671c372796b8a": {
@@ -3620,6 +3620,64 @@
             "1482948000"
         ]
     }, 
+    "Session:Klangteppich# a1cb76ade506810f49f54971445a573e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482951600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
+        ], 
+        "Has description": [
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[[User:robelix|robelix]] DJ-set: Futurepop, Darkwave, Industrial, Chiptunes"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Klangteppich"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
+        "Has end time": [
+            "1482958800"
+        ]
+    }, 
     "Session:The Federation# f24b55410756c33da18d71ec5d5a8520": {
         "Held in language": [
             "en - English"
@@ -5102,54 +5160,6 @@
             "1482955200"
         ]
     }, 
-    "Session:3D printing for kids# 763f98007be32ed96646aa3082e2b203": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1482940800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Learn how to design 3D parts and print them!"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:3D Hackspace", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Obelix", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "3D printing for kids"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids", 
-        "Has end time": [
-            "1482942600"
-        ]
-    }, 
     "Session:LearnToSolder# 20f5117729a9edfafeab9750503b79a2": {
         "Held in language": [
             "en - English"
@@ -6408,6 +6418,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Update_on_declaratory_action_(Feststellungsklagen)", 
         "Has end time": [
             "1482940800"
+        ]
+    }, 
+    "Session:3D printing for kids# d9ed73113bf031810aacdb723021c0c8": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482933600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Learn how to design 3D parts and print them!"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Group 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Obelix", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "3D printing for kids"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids", 
+        "Has end time": [
+            "1482934500"
         ]
     }, 
     "Session:Introduction Into Anarchism# d097953aa456a2811f11950bebf9a4ba": {
@@ -8017,6 +8077,104 @@
             "1483030800"
         ]
     }, 
+    "Session:Tor# 36660adcf8dfee81c6941287bdc51382": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482960600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Session should be used to connect with all the people who work for the various projects within or related with tor."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Julius", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Julius", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Tor"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Tor", 
+        "Has end time": [
+            "1482966000"
+        ]
+    }, 
+    "Session:Implications of the EU copyright reform on Free Software# 2e3ae7e1eed32991d1e513792a5bcc0e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482937200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://fsfe.org/news/2016/news-20160928-01.en.html"
+        ], 
+        "Has description": [
+            "The session is designed to discuss and exchange the views about the implications of on-going copyright reform on Free Software, in particular the inclusion of far-reaching DRM measures in the latest proposal for the directive and how this can have an impact on Free Software. The session will start with a small presentation on the topic, followed by the discussion with the participants."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Implications of the EU copyright reform on Free Software"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Implications_of_the_EU_copyright_reform_on_Free_Software", 
+        "Has end time": [
+            "1482940800"
+        ]
+    }, 
     "Session:Klangteppich# a33e122a93f95fe8add42f678dc1b55c": {
         "Held in language": [
             "en - English"
@@ -8073,56 +8231,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
             "1482886800"
-        ]
-    }, 
-    "Session:Implications of the EU copyright reform on Free Software# 2e3ae7e1eed32991d1e513792a5bcc0e": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482937200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://fsfe.org/news/2016/news-20160928-01.en.html"
-        ], 
-        "Has description": [
-            "The session is designed to discuss and exchange the views about the implications of on-going copyright reform on Free Software, in particular the inclusion of far-reaching DRM measures in the latest proposal for the directive and how this can have an impact on Free Software. The session will start with a small presentation on the topic, followed by the discussion with the participants."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Implications of the EU copyright reform on Free Software"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Implications_of_the_EU_copyright_reform_on_Free_Software", 
-        "Has end time": [
-            "1482940800"
         ]
     }, 
     "Session:Film-Abend# fbc9e7ed36a705cf72c554aa7c10ff35": {
@@ -12942,6 +13050,56 @@
             "1483029000"
         ]
     }, 
+    "Session:3D printing for kids# d0014771e6e9ce6319072f8a38b2319c": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482937200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Learn how to design 3D parts and print them!"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Group 3"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Obelix", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "3D printing for kids"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids", 
+        "Has end time": [
+            "1482938100"
+        ]
+    }, 
     "Session:Angewandte konsensdemokratie# 69d80409f438f0741ff3257e7a97372a": {
         "Held in language": [
             "de - German"
@@ -14041,6 +14199,56 @@
             "1483038000"
         ]
     }, 
+    "Session:3D printing for kids# 02cd43140492eb642349209ad6d7b446": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482935400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Learn how to design 3D parts and print them!"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Group 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Obelix", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "3D printing for kids"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids", 
+        "Has end time": [
+            "1482936300"
+        ]
+    }, 
     "Session:Hackerjeopardy - A New Approach# 451aa48d7756b2ddf9738f6379f946b8": {
         "Held in language": [
             "de - German"
@@ -14593,6 +14801,55 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:JAZ_HRO", 
         "Has end time": []
+    }, 
+    "Session:Wizard of Berlin's Freifunk Firmware# 830aec1022069379f6d194205cff0c04": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482867000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We'll present our new wizard for configuring Freifunk routers"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Andrenarchy", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andrenarchy", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Wizard of Berlin's Freifunk Firmware"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Wizard_of_Berlin%27s_Freifunk_Firmware", 
+        "Has end time": [
+            "1482868800"
+        ]
     }, 
     "Session:Hackers without borders# ab914ee182fc927d9ce061c3ed1e1228": {
         "Held in language": [
@@ -15386,52 +15643,62 @@
             "1482955200"
         ]
     }, 
-    "Session:Tor# 36660adcf8dfee81c6941287bdc51382": {
+    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482960600"
+            "1482786000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
+        ], 
         "Has description": [
-            "Session should be used to connect with all the people who work for the various projects within or related with tor."
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
         ], 
         "Has session type": [
-            "Meeting"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Couchsofa opening DJ set on day 0"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Julius", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Julius", 
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Tor"
+            "Klangteppich"
         ], 
         "Has duration": [
-            90
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Tor", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
-            "1482966000"
+            "1482796800"
         ]
     }, 
     "Session:Whisky# 331c340e99b3f4677e2ca0fd5fd25c60": {
@@ -16446,53 +16713,54 @@
             "1482971400"
         ]
     }, 
-    "Session:Wizard of Berlin's Freifunk Firmware# 830aec1022069379f6d194205cff0c04": {
+    "Session:3D printing for kids# 9a897b2d6a23fb8ef8280624c6ef0e1d": {
         "Held in language": [
-            "de - German", 
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482867000"
+            "1482939000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "We'll present our new wizard for configuring Freifunk routers"
+            "Learn how to design 3D parts and print them!"
         ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Group 4"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Andrenarchy", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andrenarchy", 
+                "fulltext": "User:Obelix", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Wizard of Berlin's Freifunk Firmware"
+            "3D printing for kids"
         ], 
         "Has duration": [
-            30
+            15
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Wizard_of_Berlin%27s_Freifunk_Firmware", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids", 
         "Has end time": [
-            "1482868800"
+            "1482939900"
         ]
     }, 
     "Session:Wikidata, the encyclopedia by bots, for bots# eb38492af6c27a43e14bfbed50abf298": {
@@ -16544,64 +16812,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Wikidata,_the_encyclopedia_by_bots,_for_bots", 
         "Has end time": [
             "1482937200"
-        ]
-    }, 
-    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482786000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
-        ], 
-        "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Couchsofa opening DJ set on day 0"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:JayDee2202", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Klangteppich"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
-        "Has end time": [
-            "1482796800"
         ]
     }, 
     "Session:Translation meetings# 36252d5cc335293f00e927b0b6eba7fb": {
