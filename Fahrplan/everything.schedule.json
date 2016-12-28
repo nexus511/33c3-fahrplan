@@ -11556,6 +11556,64 @@
                                     }
                                 ], 
                                 "attachments": []
+                            }, 
+                            {
+                                "id": 419, 
+                                "guid": "128f1705-3c69-4d51-9966-123c7519be69", 
+                                "logo": "/system/events/logos/000/000/419/large/5CudNaw5_400x400.jpg?1482855753", 
+                                "date": "2016-12-29T20:30:00+01:00", 
+                                "start": "20:30", 
+                                "duration": "01:30", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-419-wikistammtisch", 
+                                "title": "Wikistammtisch", 
+                                "subtitle": "", 
+                                "track": "Podcastingtisch", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "WikiStammtisch ist ein Podcast aus der Wikipedia-Galaxie. Die dunkle Materie bilden die Millionen Leser:innen und Benutzer:innen. In dieser Podcast-Runde sprechen zuf\u00e4llig ausgew\u00e4hlte Benutzer:innen \u00fcber \u201eihre\u201c Wikipedia.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 169, 
+                                        "public_name": "Sebastian Wallroth"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 421, 
+                                "guid": "5d5d678d-ca72-4df9-b0a7-1000c42aed73", 
+                                "logo": "/system/events/logos/000/000/421/large/ClrUqMO8_400x400.jpg?1482929731", 
+                                "date": "2016-12-29T22:00:00+01:00", 
+                                "start": "22:00", 
+                                "duration": "01:00", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-421-damalstm", 
+                                "title": "DamalsTM", 
+                                "subtitle": "Taschenrechner", 
+                                "track": "Podcastingtisch", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 174, 
+                                        "public_name": "ajuvo"
+                                    }, 
+                                    {
+                                        "id": 279, 
+                                        "public_name": "Kathrin Leinweber"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
                             }
                         ], 
                         "Hall 1": [], 
