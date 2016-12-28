@@ -285,58 +285,56 @@
             "1483106400"
         ]
     }, 
-    "Session:DIY Duct-Tape Wallets# 9abeec38dfb772ad0f95b77ce9a7817f": {
+    "Session:Hackers without borders# ab914ee182fc927d9ce061c3ed1e1228": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482796800"
+            "1483042500"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://hillhacks.in/hwb"
+        ], 
         "Has description": [
-            "We will make wallets out of duct-tape allday at our assembly. Join us and make your own in just a few minutes!"
+            "During 31C3 we founded Hackers Without Borders e.V. for a reason, but then we lost the main reason. This is the first MV since then, and we'll figure out how and if we go on. Please join us with your ideas!\n\nThe e.V. is about creating events (and HowTo create such events) in the C3 \"free and open source way\" all over the world. Examples are http://hillhacks.in/ and http://hackbeach.in/ and their \"kids\" anthillhacks (no website) and http://sciencehack.in/\n\nFind a 7-min-intro on what this is about on: https://media.ccc.de/v/DS2016-7782-lightning_talks#video&t=3915"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Chaostreff Flensburg", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaostreff_Flensburg", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Creating C3-like events all over the world!"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Roikiermedia", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Roikiermedia", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Scammo", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Scammo", 
+                "fulltext": "User:Sva", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sva", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "DIY Duct-Tape Wallets"
+            "Hackers without borders"
         ], 
         "Has duration": [
-            0
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:DIY_Duct-Tape_Wallets", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackers_without_borders", 
         "Has end time": [
-            "1482796800"
+            "1483046100"
         ]
     }, 
     "Session:LearnToSolder# 54a32b454efb9018a9f51249d16423e5": {
@@ -1257,6 +1255,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
         "Has end time": []
     }, 
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483102800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Abbaumeeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1483106400"
+        ]
+    }, 
     "Session:Translation meetings# 7ced348984f17dd88a5c96ea1e3435ec": {
         "Held in language": [
             "en - English"
@@ -1758,54 +1804,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:12V_SolarPower_%26_Sound", 
         "Has end time": [
             "1483111800"
-        ]
-    }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482764400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Introduction Meeting for new angels"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Engelmeeting"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482768000"
         ]
     }, 
     "Session:Hackbases 5 years# 340e4d5ffc9c48124fa671c372796b8a": {
@@ -2478,6 +2476,55 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:How_to_train_-_and_reprogram_-_your_quadcopter", 
         "Has end time": [
             "1483105500"
+        ]
+    }, 
+    "Session:A Primer on Quantum Computation and Cryptography# 2382dff960a217ff9d5ac84faf35216d": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482956100"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "In the recent years quantum cryptography as well as computation has several times gained public attention. Sentences like \"today crypto will be broken by quantum computers\" or \"quantum computers can compute exponentially faster than normal computers\" can be read on many media articles and blog. But are those those statements actually true?"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Evylon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Evylon", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "A Primer on Quantum Computation and Cryptography"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:A_Primer_on_Quantum_Computation_and_Cryptography", 
+        "Has end time": [
+            "1482959700"
         ]
     }, 
     "Session:Translation meetings# 0a4fe5181783d435230396b59ecd3fe6": {
@@ -4722,6 +4769,12 @@
             {
                 "fulltext": "User:Anna Fuchs", 
                 "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Anna_Fuchs", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Ysf", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ysf", 
                 "namespace": 2, 
                 "exists": true
             }
@@ -7578,6 +7631,12 @@
                 "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Anna_Fuchs", 
                 "namespace": 2, 
                 "exists": true
+            }, 
+            {
+                "fulltext": "User:Ysf", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ysf", 
+                "namespace": 2, 
+                "exists": true
             }
         ], 
         "Has title": [
@@ -8216,12 +8275,12 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -8240,7 +8299,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -8261,7 +8320,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -8760,55 +8819,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Kreatives_beschimpfen", 
         "Has end time": [
             "1482872400"
-        ]
-    }, 
-    "Session:A Primer on Quantum Computation and Cryptography# 1c68dd7dc13d528647a2318ab65b9682": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482956100"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "In the recent years quantum cryptography as well as computation has several times gained public attention. Sentences like \"today crypto will be broken by quantum computers\" or \"quantum computers can compute exponentially faster than normal computers\" can be read on many media articles and blog. But are those those statements actually true?"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Evylon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Evylon", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "A Primer on Quantum Computation and Cryptography"
-        ], 
-        "Has duration": [
-            75
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:A_Primer_on_Quantum_Computation_and_Cryptography", 
-        "Has end time": [
-            "1482960600"
         ]
     }, 
     "Session:Pixelated hands-on# 409f460d73b5c1d5a6e2efb9b593635a": {
@@ -14902,56 +14912,58 @@
             "1482868800"
         ]
     }, 
-    "Session:Hackers without borders# ab914ee182fc927d9ce061c3ed1e1228": {
+    "Session:DIY Duct-Tape Wallets# 9abeec38dfb772ad0f95b77ce9a7817f": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1483042500"
+            "1482796800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://hillhacks.in/hwb"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "During 31C3 we founded Hackers Without Borders e.V. for a reason, but then we lost the main reason. This is the first MV since then, and we'll figure out how and if we go on. Please join us with your ideas!\n\nThe e.V. is about creating events (and HowTo create such events) in the C3 \"free and open source way\" all over the world. Examples are http://hillhacks.in/ and http://hackbeach.in/ and their \"kids\" anthillhacks (no website) and http://sciencehack.in/\n\nFind a 7-min-intro on what this is about on: https://media.ccc.de/v/DS2016-7782-lightning_talks#video&t=3915"
+            "We will make wallets out of duct-tape allday at our assembly. Join us and make your own in just a few minutes!"
         ], 
         "Has session type": [
-            "Meeting"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Chaostreff Flensburg", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaostreff_Flensburg", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Creating C3-like events all over the world!"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Sva", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sva", 
+                "fulltext": "User:Roikiermedia", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Roikiermedia", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Scammo", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Scammo", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Hackers without borders"
+            "DIY Duct-Tape Wallets"
         ], 
         "Has duration": [
-            60
+            0
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackers_without_borders", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:DIY_Duct-Tape_Wallets", 
         "Has end time": [
-            "1483046100"
+            "1482796800"
         ]
     }, 
     "Session:IT-solutions for humanitarian crisis problems# 20371a76b601f1e4bea5b1c0244d0cc9": {
@@ -15280,7 +15292,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "You probably know Club Mate and Flora Mate, as they are available at the 33c3. But there are more kinds of Mate and we will taste them!\nYou can bring own bottles by yourself, too. It is possible that we will not have all existing brands."
+            "You\n probably know Club Mate and Flora Mate, as they are available at the \n33c3. But there are more kinds of Mate and we will taste them!\nYou can bring own bottles by yourself, too. It is possible that we will \nnot have all existing brands."
         ], 
         "Has session type": [
             "Meeting"
