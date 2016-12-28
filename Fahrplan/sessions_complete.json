@@ -1255,6 +1255,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
         "Has end time": []
     }, 
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483102800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Abbaumeeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1483106400"
+        ]
+    }, 
     "Session:Translation meetings# 7ced348984f17dd88a5c96ea1e3435ec": {
         "Held in language": [
             "en - English"
@@ -1562,6 +1610,56 @@
             "1483047000"
         ]
     }, 
+    "Session:XTRX PCIe SDR# e406c7a98ba9800ef0fe55b0afb1a05f": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483102800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://xtrx.io"
+        ], 
+        "Has description": [
+            "This workshop/meeting is a follow-up to the \"Building a high throughput low-latency PCIe based SDR: Lessons learnt implementing PCIe on FPGA for XTRX Software Defined Radio\" talk (https://media.ccc.de/v/33c3-8338-building_a_high_throughput_low-latency_pcie_based_sdr). There will be two parts:\n1) Demo of XTRX SDR\n2) In-depth discussion about high-throughput PCIe implementation"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ipse", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ipse", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "XTRX PCIe SDR"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:XTRX_PCIe_SDR", 
+        "Has end time": [
+            "1483110000"
+        ]
+    }, 
     "Session:Skull Radio Workshop# 18442f55633408558a0573f123c024fb": {
         "Held in language": [
             "en - English"
@@ -1706,54 +1804,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:12V_SolarPower_%26_Sound", 
         "Has end time": [
             "1483111800"
-        ]
-    }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482764400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Introduction Meeting for new angels"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Engelmeeting"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482768000"
         ]
     }, 
     "Session:Hackbases 5 years# 340e4d5ffc9c48124fa671c372796b8a": {
@@ -3464,6 +3514,28 @@
             "1482948000"
         ]
     }, 
+    "Session:Emacs rehab center (vim workshop)# 3a87c7b6d527de196e1cfc9c6281cc95": {
+        "Held in language": [], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Emacs rehab center (vim workshop)"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
+        "Has end time": []
+    }, 
     "Session:Klangteppich# a1cb76ade506810f49f54971445a573e": {
         "Held in language": [
             "en - English"
@@ -4685,27 +4757,53 @@
             "1483039800"
         ]
     }, 
-    "Session:Emacs rehab center (vim workshop)# 3a87c7b6d527de196e1cfc9c6281cc95": {
-        "Held in language": [], 
-        "Has start time": [], 
+    "Session:An Introduction to Intel Software Guard Extensions (SGX)# deb1a11af4dd0e3a88e338f9432bf1c5": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482942600"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Emacs rehab center (vim workshop)"
+        "Has description": [
+            "Intel Software Guard Extensions (Intel SGX) are a new extension of the x86 instruction set allowing the creation of so-called enclaves. Enclaves are isolated, secure parts of normal applications \nThis talk gives an overview about SGX, how it can be used to secure existing applications, what are its limitations and pitfalls and technical details about its implementation."
         ], 
-        "Has duration": [], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Envy", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Envy", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "An Introduction to Intel Software Guard Extensions (SGX)"
+        ], 
+        "Has duration": [
+            60
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_Introduction_to_Intel_Software_Guard_Extensions_(SGX)", 
+        "Has end time": [
+            "1482946200"
+        ]
     }, 
     "Session:Cyberthingy# 9a2fa42323647e5d4218ad0a23599c58": {
         "Held in language": [
@@ -8134,12 +8232,12 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -8158,7 +8256,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -8179,7 +8277,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -9024,54 +9122,6 @@
             "1483034400"
         ]
     }, 
-    "Session:An Introduction to Intel Software Guard Extensions (SGX)# deb1a11af4dd0e3a88e338f9432bf1c5": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482942600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Intel Software Guard Extensions (Intel SGX) are a new extension of the x86 instruction set allowing the creation of so-called enclaves. Enclaves are isolated, secure parts of normal applications \nThis talk gives an overview about SGX, how it can be used to secure existing applications, what are its limitations and pitfalls and technical details about its implementation."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Envy", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Envy", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "An Introduction to Intel Software Guard Extensions (SGX)"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_Introduction_to_Intel_Software_Guard_Extensions_(SGX)", 
-        "Has end time": [
-            "1482946200"
-        ]
-    }, 
     "Session:Do Butterflies have borders# 90469bb4bfeedb77337e9d5513d6f6de": {
         "Held in language": [
             "en - English"
@@ -9371,6 +9421,36 @@
         "Has end time": [
             "1482982200"
         ]
+    }, 
+    "Session:Crypto Meetup# 89cb4b9a268e0351289c60ecbf16007b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Just a social meeting of people interested in chatting about cryptography."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Crypto Meetup"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Crypto_Meetup", 
+        "Has end time": []
     }, 
     "Session:More than you ever wanted to know about date/time handling# 58de1fae855f5c08843f9426aa9d2de0": {
         "Held in language": [
