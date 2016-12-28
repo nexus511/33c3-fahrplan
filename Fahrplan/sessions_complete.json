@@ -1367,6 +1367,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
         "Has end time": []
     }, 
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483102800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Abbaumeeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1483106400"
+        ]
+    }, 
     "Session:Translation meetings# 7ced348984f17dd88a5c96ea1e3435ec": {
         "Held in language": [
             "en - English"
@@ -1818,54 +1866,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:12V_SolarPower_%26_Sound", 
         "Has end time": [
             "1483111800"
-        ]
-    }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482764400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Introduction Meeting for new angels"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Engelmeeting"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482768000"
         ]
     }, 
     "Session:Hackbases 5 years# 340e4d5ffc9c48124fa671c372796b8a": {
@@ -5020,51 +5020,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
         "Has end time": [
             "1482863400"
-        ]
-    }, 
-    "Session:Shadowrun# b865633f624e5b8d496596aa6d60d841": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1482944400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://rpgzweinull.de/profile/tomorrowland"
-        ], 
-        "Has description": [
-            "A short introductory session for the cyberpunk role-playing game of Shadowrun."
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "Day 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:SnakeBDD", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:SnakeBDD", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Shadowrun"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shadowrun", 
-        "Has end time": [
-            "1482955200"
         ]
     }, 
     "Session:LearnToSolder# 20f5117729a9edfafeab9750503b79a2": {
@@ -8296,12 +8251,12 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -8320,7 +8275,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -8341,7 +8296,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -14385,6 +14340,51 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackademia_Meetup", 
         "Has end time": [
             "1482850800"
+        ]
+    }, 
+    "Session:Shadowrun# 4e0861f5c55c5ee640724a9cab06841c": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482944400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://rpgzweinull.de/profile/tomorrowland"
+        ], 
+        "Has description": [
+            "A short introductory session for the cyberpunk role-playing game of Shadowrun."
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "Day 2 *FULL*"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:SnakeBDD", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:SnakeBDD", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Shadowrun"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shadowrun", 
+        "Has end time": [
+            "1482955200"
         ]
     }, 
     "Session:Skillconvention a# c34d388fc65ca7945372d2f3c603589c": {
