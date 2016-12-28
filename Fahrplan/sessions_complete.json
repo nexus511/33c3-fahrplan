@@ -8600,48 +8600,6 @@
             "1482861600"
         ]
     }, 
-    "Session:Tor Relays Operators Meetup# 37c7ad7d924244ac1ae7d8bbf555570f": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "You operate Tor relays?\nYou don't, but you have questions?\n\nCome meet us!"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Nicoo", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nicoo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Tor Relays Operators Meetup"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Tor_Relays_Operators_Meetup", 
-        "Has end time": []
-    }, 
     "Session:Thermal pictures for kids# e28d8e0aa91ecdf33ed2bab8be9ff4d3": {
         "Held in language": [
             "de - German"
@@ -8885,6 +8843,52 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Scapy_in_15_minutes", 
         "Has end time": [
             "1482934500"
+        ]
+    }, 
+    "Session:Tor Relays Operators Meetup# e33df9ee5217a5caa69319f42026c8c6": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483048800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "You operate Tor relays?\nYou don't, but you have questions?\n\nCome meet us!"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Nicoo", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nicoo", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Tor Relays Operators Meetup"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Tor_Relays_Operators_Meetup", 
+        "Has end time": [
+            "1483054200"
         ]
     }, 
     "Session:3D scan yourself# 07fd3c770a47140f5c5c4fe19a8c3787": {
