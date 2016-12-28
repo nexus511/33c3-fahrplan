@@ -487,68 +487,6 @@
             "1482760800"
         ]
     }, 
-    "Session:A-NOC# b58d95cc644c720fbdd342c5e299e231": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483113600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "NOC for activist camps."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "introduction and discussion"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Txt.file", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Txt.file", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Zaurak", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Zaurak", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Sva", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sva", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "A-NOC"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:A-NOC", 
-        "Has end time": [
-            "1483117200"
-        ]
-    }, 
     "Session:Klingon War of Succession# 4e261b0c4abedbfd3aedc2d50da5100d": {
         "Held in language": [
             "en - English"
@@ -1284,89 +1222,6 @@
             "1483040400"
         ]
     }, 
-    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482937800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "day 2, afternoon meeting"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Translation meetings"
-        ], 
-        "Has duration": [
-            50
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
-        "Has end time": [
-            "1482940800"
-        ]
-    }, 
-    "Session:Linux Kernel Ninja Comment Karaoke# 2862e8fab22a5be1e6bab49ee12caaa2": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Do you have it what it takes to be a Linux kernel hacker? This is your chance to prove it: At random a function (max 100 LoC) is selected from the +15M LoC of Linux kernel code and it is your task to karaoke that code snippets comments. If it has comments: Good for you. If not, show your inner (comment) ninja."
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Datenwolf", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Datenwolf", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Linux Kernel Ninja Comment Karaoke"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
-        "Has end time": []
-    }, 
     "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
@@ -1414,6 +1269,41 @@
         "Has end time": [
             "1483106400"
         ]
+    }, 
+    "Session:Linux Kernel Ninja Comment Karaoke# 2862e8fab22a5be1e6bab49ee12caaa2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Do you have it what it takes to be a Linux kernel hacker? This is your chance to prove it: At random a function (max 100 LoC) is selected from the +15M LoC of Linux kernel code and it is your task to karaoke that code snippets comments. If it has comments: Good for you. If not, show your inner (comment) ninja."
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Datenwolf", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Datenwolf", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Linux Kernel Ninja Comment Karaoke"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
+        "Has end time": []
     }, 
     "Session:Translation meetings# 7ced348984f17dd88a5c96ea1e3435ec": {
         "Held in language": [
@@ -1866,6 +1756,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:12V_SolarPower_%26_Sound", 
         "Has end time": [
             "1483111800"
+        ]
+    }, 
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482764400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Introduction Meeting for new angels"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1482768000"
         ]
     }, 
     "Session:Hackbases 5 years# 340e4d5ffc9c48124fa671c372796b8a": {
@@ -4482,58 +4420,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:3D_scan_yourself", 
         "Has end time": [
             "1482951600"
-        ]
-    }, 
-    "Session:Onionmx# 1132e3988b98858428633a2fcec2c302": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482969600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://github.com/riseupnet/onionmx"
-        ], 
-        "Has description": [
-            "onionmx is a proposal to have email transport via tor onion services. it is not about having .onion domain email addresses but rather about email providers making their smtp transport available as an onion service to each other. there is a working implementation out there and we have some months of successful operations behind us. now we'd like to meet more like minded mail providers to join the effort. lets discuss what we have and how to move forward."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "smtp via tor onion services"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Onionmx", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Onionmx", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Onionmx"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Onionmx", 
-        "Has end time": [
-            "1482973200"
         ]
     }, 
     "Session:Browsing JS on Embedded# 468fd369ff728118f9a0584e0d3e691d": {
@@ -7588,6 +7474,68 @@
             "1483047000"
         ]
     }, 
+    "Session:A-NOC# 5a70762694d5c1fd152157d3f9248b55": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483113600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "NOC for activist camps.\nWe mount radio links in trees and dig ethernet cabled into the ground =)\nOn activist camps it often is essential to have a good, stable internet connection, not only for the press team.\nWe want to support those activist camps, with our knowledge and manpower. \nWhoever wants to help is welcome!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "supporting activist camps with network infrastructure"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Txt.file", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Txt.file", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Zaurak", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Zaurak", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Sva", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sva", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "A-NOC"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:A-NOC", 
+        "Has end time": [
+            "1483117200"
+        ]
+    }, 
     "Session:Social Engineering Poetry Slam# aa9e9ee7e459ed3b4d191db2246d22f7": {
         "Held in language": [
             "en - English"
@@ -8316,52 +8264,52 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1482937800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
+        "Has description": [
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
         ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "day 2, afternoon meeting"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Engelmeeting"
+            "Translation meetings"
         ], 
         "Has duration": [
-            60
+            50
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
         "Has end time": [
-            "1482768000"
+            "1482940800"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -9972,6 +9920,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LoRaWAN%E2%80%93Freifunk_der_Dinge", 
         "Has end time": [
             "1482953400"
+        ]
+    }, 
+    "Session:Onionmx# 23fb655770d5dfa019fed78c36e528d9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482969540"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://github.com/riseupnet/onionmx"
+        ], 
+        "Has description": [
+            "onionmx is a proposal to have email transport via tor onion services. it is not about having .onion domain email addresses but rather about email providers making their smtp transport available as an onion service to each other. there is a working implementation out there and we have some months of successful operations behind us. now we'd like to meet more like minded mail providers to join the effort. lets discuss what we have and how to move forward."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "smtp via tor onion services"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Onionmx", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Onionmx", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Onionmx"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Onionmx", 
+        "Has end time": [
+            "1482973140"
         ]
     }, 
     "Session:42birds: Randomized Signature Block for Emails# f946632eebd4786b62ceee97367d23aa": {
@@ -16242,6 +16242,43 @@
             "1482948000"
         ]
     }, 
+    "Session:Scapy in 15 minutes# f299dd8358e8628e0e2545b42c34da7c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://github.com/secdev/scapy"
+        ], 
+        "Has description": [
+            "Scapy is a powerful Python-based interactive packet manipulation program and library. It can be used to forge or decode packets for a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more.\n\nThis talk will show you Scapy basics in 15 minutes !"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Guedou", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Guedou", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Scapy in 15 minutes"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Scapy_in_15_minutes", 
+        "Has end time": []
+    }, 
     "Session:Design in Free Software & Open Source# 47eef5188e2d083502a5c329ead28328": {
         "Held in language": [
             "en - English"
@@ -16961,6 +16998,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Radio_Lockdown:_Community_WiFis_unite!", 
         "Has end time": [
             "1482955200"
+        ]
+    }, 
+    "Session:Scapy in 15 minutes# cf0da67c2f559c2e0c1169034c1fd465": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483023600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://github.com/secdev/scapy"
+        ], 
+        "Has description": [
+            "Scapy is a powerful Python-based interactive packet manipulation program and library. It can be used to forge or decode packets for a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more.\n\nThis talk will show you Scapy basics in 15 minutes !"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Guedou", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Guedou", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Scapy in 15 minutes"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Scapy_in_15_minutes", 
+        "Has end time": [
+            "1483024500"
         ]
     }, 
     "Session:Einstieg in App-Programmierung und Scratch (f\u00fcr Kids)# ef6d05ac78d0ebf95d9cd28d85683fdd": {
