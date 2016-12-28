@@ -1172,52 +1172,52 @@
             "1483040400"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482937800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
+        "Has description": [
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
         ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "day 2, afternoon meeting"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Engelmeeting"
+            "Translation meetings"
         ], 
         "Has duration": [
-            60
+            50
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
         "Has end time": [
-            "1483106400"
+            "1482940800"
         ]
     }, 
     "Session:Flunkyball# 3464118d555bc81519f9e26273225748": {
@@ -2777,6 +2777,45 @@
         "Has end time": [
             "1482978600"
         ]
+    }, 
+    "Session:How to integrate pEp into your development environment# 478352319ac99aca201a0f5ea1aa75f8": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483041600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pep.foundation"
+        ], 
+        "Has description": [
+            "If you are interested in learning how to integrate pEp into your development environment, have questions on this topic or want to understand better how pEp developments can be connected with different environments, we'd love to welcome you in this session.\n\nMeeting point is at the GNUnet & pEp assembly"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:GNUnet & pEp", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:GNUnet_%26_pEp", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "How to integrate pEp into your development environment"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:How_to_integrate_pEp_into_your_development_environment", 
+        "Has end time": []
     }, 
     "Session:Shitty Robots# bdc0026767dacbe0b69c07c2ca3c2bed": {
         "Held in language": [
@@ -7241,51 +7280,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Mate_Making", 
         "Has end time": []
     }, 
-    "Session:Shadowrun# 6d370c9b0a23294b2a6e9a97d7c14dd4": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1483038000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://rpgzweinull.de/profile/tomorrowland"
-        ], 
-        "Has description": [
-            "A short introductory session for the cyberpunk role-playing game of Shadowrun."
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "Day 3"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:SnakeBDD", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:SnakeBDD", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Shadowrun"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shadowrun", 
-        "Has end time": [
-            "1483048800"
-        ]
-    }, 
     "Session:Pixel Art Workshop# d19900c6fd4ab226d136adf7a484d43e": {
         "Held in language": [
             "en - English"
@@ -8356,52 +8350,52 @@
             "1482855300"
         ]
     }, 
-    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482937800"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
         ], 
-        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "day 2, afternoon meeting"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Translation meetings"
+            "Engelmeeting"
         ], 
         "Has duration": [
-            50
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482940800"
+            "1483106400"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -10499,6 +10493,51 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Type_1_Diabetes_Hacking", 
         "Has end time": [
             "1483021800"
+        ]
+    }, 
+    "Session:Shadowrun# 3befab1a8948351427328afc76d2c4df": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483038000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://rpgzweinull.de/profile/tomorrowland"
+        ], 
+        "Has description": [
+            "A short introductory session for the cyberpunk role-playing game of Shadowrun."
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "Day 3 *FULL*"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:SnakeBDD", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:SnakeBDD", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Shadowrun"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shadowrun", 
+        "Has end time": [
+            "1483048800"
         ]
     }, 
     "Session:Plaintext accounting for hackerspaces# 12e95b6dcc45034c1a969ac05252ebb3": {
