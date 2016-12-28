@@ -501,7 +501,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T120000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T113000
-DTSTAMP;VALUE=DATE-TIME:20161228T105143Z
+DTSTAMP;VALUE=DATE-TIME:20161228T115611Z
 UID:658b276a-e3a2-4698-b2a8-2edb724be17e@frab.cccv.de
 DESCRIPTION:The proper relationship of technology and politics have been 
  the subject of an evergreen debate on the floor of the Chaos Communicati
@@ -534,7 +534,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T190000
-DTSTAMP;VALUE=DATE-TIME:20161228T103438Z
+DTSTAMP;VALUE=DATE-TIME:20161228T115716Z
 UID:378cdf23-350b-4a05-afd0-6360139a7a06@frab.cccv.de
 DESCRIPTION:At 32C3 we gave an overview on the organizational and technic
  al aspects of Dieselgate that had just broken public three months before
@@ -691,7 +691,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T120000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T113000
-DTSTAMP;VALUE=DATE-TIME:20161227T234505Z
+DTSTAMP;VALUE=DATE-TIME:20161228T113810Z
 UID:d1681340-162c-48ce-8c0b-61c3e176696d@frab.cccv.de
 DESCRIPTION:Jeder weiß ungefähr was ein Mikroskop ist und vielleicht hat 
  man auch mal davon gehört das da immernoch dran geforscht wird – Stichwo
@@ -972,7 +972,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T124500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T121500
-DTSTAMP;VALUE=DATE-TIME:20161213T214306Z
+DTSTAMP;VALUE=DATE-TIME:20161228T115942Z
 UID:8aaa55ad-b426-4d7a-8d46-f4b34a906eda@frab.cccv.de
 DESCRIPTION:Physicists are not computer scientists. But at CERN and world
  wide\, they need to analyze petabytes of data\, efficiently. Since more 
@@ -1321,12 +1321,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T014500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T001500
-DTSTAMP;VALUE=DATE-TIME:20161228T111557Z
+DTSTAMP;VALUE=DATE-TIME:20161228T120600Z
 UID:cfe31c23-3b1e-4dc3-a7ac-15f538cdfd18@frab.cccv.de
 DESCRIPTION:
 URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8460.html
 SUMMARY:Methodisch Inkorrekt Stream - 
-LOCATION:Saal 2
+LOCATION:Saal 1
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T014500
@@ -1353,8 +1353,8 @@ DESCRIPTION:In August 2016\, Apple issued updates to iOS and macOS that p
  lcode to US-owned\, Israel-based NSO Group\, a government-exclusive surv
  eillance vendor described by one of its founders as “a complete ghost”.
 URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8115.html
-SUMMARY:Million Dollar Dissidents and the Rest of Us - wrm\, John Scott-R
- ailton
+SUMMARY:Million Dollar Dissidents and the Rest of Us - Bill Marczak\, Joh
+ n Scott-Railton
 LOCATION:Saal 1
 END:VEVENT
 BEGIN:VEVENT
@@ -1695,7 +1695,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T171500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T164500
-DTSTAMP;VALUE=DATE-TIME:20161228T102121Z
+DTSTAMP;VALUE=DATE-TIME:20161228T115647Z
 UID:74783236-46f4-493c-9574-1b27a44847b7@frab.cccv.de
 DESCRIPTION:FinTechs increasingly cut the ground from under long-establis
  hed banks’ feet. With a "Mobile First" strategy\, many set their sights 
@@ -1916,7 +1916,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T124500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T121500
-DTSTAMP;VALUE=DATE-TIME:20161215T195025Z
+DTSTAMP;VALUE=DATE-TIME:20161228T114825Z
 UID:5f0ab68a-8e2d-481e-b009-55a1af58760c@frab.cccv.de
 DESCRIPTION:This talk discusses the representation of Arab males in video
   games and the adverse effect it has on the collective political imagina
@@ -2334,7 +2334,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T224500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T214500
-DTSTAMP;VALUE=DATE-TIME:20161228T103807Z
+DTSTAMP;VALUE=DATE-TIME:20161228T115739Z
 UID:530f0400-e4e8-4d99-909d-4cfc8121c0b0@frab.cccv.de
 DESCRIPTION:Travel booking systems are among the oldest global IT infrast
  ructures\, and have changed surprisingly little since the 80s. The perso

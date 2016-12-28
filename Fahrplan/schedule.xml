@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <schedule>
-<version>INVALID</version>
+<version>DUPLICATE</version>
 <conference>
 <acronym>33c3</acronym>
 <title>33. Chaos Communication Congress</title>
@@ -2192,6 +2192,7 @@ Der Vortrag fokussiert auf die Blockchain-Technologie. Funktionen und Implementa
 <links>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/003/120/original/handout.pdf?1482926771'>Handouts (revision 0.9)</attachment>
 </attachments>
 </event>
 <event guid='1b27dbeb-cffc-48a1-b2e6-b2011c338a50' id='8416'>
@@ -3055,7 +3056,7 @@ The proliferation of commercial tools for targeted digital surveillance presents
 Using the Mansoor attack as a case study, we will provide a window into how researchers at Citizen Lab leverage and fingerprint these patterns to track nation-state level attacks against human rights defenders and journalists. Drawing on cases from the UAE and beyond, we will discuss how we work with targets and victims, conduct Internet scanning, and fingerprint C&amp;C servers. We will conclude with a discussion of some trends that we have observed in commercial malcode sold to nation state actors.</description>
 <logo></logo>
 <persons>
-<person id='6653'>wrm</person>
+<person id='6653'>Bill Marczak</person>
 <person id='7208'>John Scott-Railton</person>
 </persons>
 <links>
@@ -3389,6 +3390,31 @@ Climb the distance ladder and get to know our place in Space from kilometers to 
 <logo>/system/events/logos/000/007/861/large/HUDF.jpg?1473189037</logo>
 <persons>
 <person id='4920'>Michael Büker</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='cfe31c23-3b1e-4dc3-a7ac-15f538cdfd18' id='8460'>
+<date>2016-12-30T00:15:00+01:00</date>
+<start>00:15</start>
+<duration>01:30</duration>
+<room>Saal 1</room>
+<slug>33c3-8460-methodisch_inkorrekt_stream</slug>
+<recording>
+<license></license>
+<optout>true</optout>
+</recording>
+<title>Methodisch Inkorrekt Stream</title>
+<subtitle></subtitle>
+<track>Entertainment</track>
+<type>other</type>
+<language>en</language>
+<abstract></abstract>
+<description></description>
+<logo></logo>
+<persons>
 </persons>
 <links>
 </links>
@@ -3764,31 +3790,6 @@ Note: The presenter is not affiliated with the Zcash company.</description>
 <link href='https://z.cash/'>Zcash website</link>
 <link href='http://zerocash-project.org/media/pdf/zerocash-oakland2014.pdf'>Zerocash paper (2014)</link>
 <link href='http://zerocoin.org/media/pdf/ZerocoinOakland.pdf'>Zerocoin paper (2013)</link>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid='cfe31c23-3b1e-4dc3-a7ac-15f538cdfd18' id='8460'>
-<date>2016-12-30T00:15:00+01:00</date>
-<start>00:15</start>
-<duration>01:30</duration>
-<room>Saal 2</room>
-<slug>33c3-8460-methodisch_inkorrekt_stream</slug>
-<recording>
-<license></license>
-<optout>true</optout>
-</recording>
-<title>Methodisch Inkorrekt Stream</title>
-<subtitle></subtitle>
-<track>Entertainment</track>
-<type>other</type>
-<language>en</language>
-<abstract></abstract>
-<description></description>
-<logo></logo>
-<persons>
-</persons>
-<links>
 </links>
 <attachments>
 </attachments>
