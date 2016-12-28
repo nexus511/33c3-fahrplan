@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T183000
-DTSTAMP;VALUE=DATE-TIME:20161214T160608Z
+DTSTAMP;VALUE=DATE-TIME:20161228T183428Z
 UID:7ef9172a-e2c7-4e78-9316-08449bd582c6@frab.cccv.de
 DESCRIPTION:<p>Many web sites allow users to log in with their Facebook o
  r Google account. This so-called Web single sign-on (SSO) often uses the

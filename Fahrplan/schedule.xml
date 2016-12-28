@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <schedule>
-<version>DUPLICATE</version>
+<version>EXPIRED</version>
 <conference>
 <acronym>33c3</acronym>
 <title>33. Chaos Communication Congress</title>
@@ -1914,6 +1914,7 @@ Im kurzweiligen Abend-Vortrag geben sie einen kleinen Abriss über die Geschicht
 <persons>
 <person id='6913'>Joachim Schautenbach</person>
 <person id='6915'>Pia Fortunata</person>
+<person id='7298'>Mike Meckense</person>
 </persons>
 <links>
 <link href='https://parliamentfights.wordpress.com'>parliamentfights.wordpress.com</link>
@@ -2084,6 +2085,7 @@ Applying rigorous science to IT security could provide a way out of the security
 <links>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/003/122/original/33c3-evidencebaseditsecurity.pdf?1482937187'>Slides</attachment>
 </attachments>
 </event>
 <event guid='c849ebc8-b3b9-49fb-a9a2-ebef217c80b6' id='8181'>
@@ -2190,9 +2192,11 @@ Der Vortrag fokussiert auf die Blockchain-Technologie. Funktionen und Implementa
 <person id='6019'>vimja</person>
 </persons>
 <links>
+<link href='https://gitlab.honet.ch/vimja/blockchain_vortrag'>Presentation sourc code</link>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/003/120/original/handout.pdf?1482926771'>Handouts (revision 0.9)</attachment>
+<attachment href='/system/event_attachments/attachments/000/003/123/original/handout.pdf?1482939480'>Handout (revision 0.99)</attachment>
+<attachment href='/system/event_attachments/attachments/000/003/128/original/blockchain.pdf?1482948051'>Slides</attachment>
 </attachments>
 </event>
 <event guid='1b27dbeb-cffc-48a1-b2e6-b2011c338a50' id='8416'>
@@ -2386,6 +2390,7 @@ Although the new hardware-revision of the button makes use of the controller loc
 <links>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/003/121/original/slides.pdf?1482935979'>Talk Slides</attachment>
 </attachments>
 </event>
 <event guid='090675f6-f86e-4082-886b-e13c9c837ecb' id='8087'>
@@ -2465,6 +2470,7 @@ Our sample implementation is accompanied by a bootloader that provides a USB HID
 <person id='4376'>Xobs</person>
 </persons>
 <links>
+<link href='https://xobs.github.io/grainuum-33c3/'>Slides</link>
 </links>
 <attachments>
 </attachments>
@@ -2474,12 +2480,12 @@ Our sample implementation is accompanied by a bootloader that provides a USB HID
 <start>17:15</start>
 <duration>01:00</duration>
 <room>Saal G</room>
-<slug>33c3-7963-searchwing_-_drones_to_find_refugees_in_mediterranean_sea</slug>
+<slug>33c3-7963-searchwing_-_mit_drohnen_leben_retten</slug>
 <recording>
 <license>CC BY 4.0</license>
 <optout>false</optout>
 </recording>
-<title>SearchWing - Drones to find refugees in Mediterranean Sea</title>
+<title>Searchwing - Mit Drohnen leben retten</title>
 <subtitle></subtitle>
 <track>Hardware &amp; Making</track>
 <type>lecture</type>
@@ -2498,10 +2504,11 @@ After some deliberation, we reluctantly decided to give this talk in German sinc
 <person id='4231'>benthor</person>
 </persons>
 <links>
-<link href='http://searchwing.org/'>Searchwing - find to rescue</link>
+<link href='https://searchwing.org/'>Searchwing - Mit Technik Leben retten</link>
 <link href='https://sea-watch.org'>Sea-Watch</link>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/003/124/original/sea-watch_ccc-praes-final.pdf?1482939954'>Vortrag-Slides</attachment>
 </attachments>
 </event>
 <event guid='7ef9172a-e2c7-4e78-9316-08449bd582c6' id='7827'>
@@ -2769,6 +2776,7 @@ The embedded world, however, poses a variety of unique challenges (resulting fro
 <links>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/003/126/original/wheel_of_fortune_ccc_presentation_v3.pdf?1482946382'>Wheel of Fortune</attachment>
 </attachments>
 </event>
 <event guid='69ce21df-4bf5-43ce-a500-ac7707ee64b7' id='8418'>
@@ -2899,6 +2907,7 @@ Because of the prohibiting pricing of commercial tools it can be expected that m
 <links>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/003/125/original/Mark_van_Cuijk_-_A_world_without_blockchain.pdf?1482943934'>Presentation slides</attachment>
 </attachments>
 </event>
 <event guid='149f13d4-cc8c-49a9-9e68-544754646022' id='7888'>
@@ -4339,10 +4348,9 @@ Finally, we discuss potential mechanisms to detect/prevent Pin Configuration exp
 <person id='6988'>Majid</person>
 </persons>
 <links>
-<link href='https://surfdrive.surf.nl/files/index.php/s/21502caf8e075890d7e3f5503cded060'>I/O Interception and blocking</link>
-<link href='https://surfdrive.surf.nl/files/index.php/s/04yQzGrHDJmpIy7'>Simple Digital Logic manipulation (we do not touch the runtime or logic)</link>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/003/127/original/Pin_Control_Attack_CCC.pdf?1482947539'>CCC Presentation</attachment>
 </attachments>
 </event>
 <event guid='3f76be27-6ff5-4a23-a6c6-512eaff00f28' id='8336'>

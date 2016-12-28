@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T150000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T140000
-DTSTAMP;VALUE=DATE-TIME:20161226T215243Z
+DTSTAMP;VALUE=DATE-TIME:20161228T150643Z
 UID:1efa803c-d280-49f0-bd17-8ec8f28e054f@frab.cccv.de
 DESCRIPTION:We analyze the generation and management of WPA2 group keys. 
  These keys protect broadcast and multicast Wi-Fi traffic. We discovered 

@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T213000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T203000
-DTSTAMP;VALUE=DATE-TIME:20161228T103539Z
+DTSTAMP;VALUE=DATE-TIME:20161228T183756Z
 UID:4de841b2-0f34-494e-ba5b-0b79ba2c88cd@frab.cccv.de
 DESCRIPTION:A technical talk on how to reverse-engineer electronic contro
  l units in order to document what was left apparently intentionally undo

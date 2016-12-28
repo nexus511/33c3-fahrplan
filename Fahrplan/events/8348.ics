@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T224500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T214500
-DTSTAMP;VALUE=DATE-TIME:20161228T103730Z
+DTSTAMP;VALUE=DATE-TIME:20161228T151508Z
 UID:a1a52c4c-8233-403b-8f04-db981df016c1@frab.cccv.de
 DESCRIPTION:Transport Layer Security (TLS) 1.3 is almost here. The protoc
  ol that protects most of the Internet secure connections is getting the 
