@@ -7688,50 +7688,35 @@
             "1483051500"
         ]
     }, 
-    "Session:Kinky Geeks Bondage Workshop# a8c2bf5ff62d53b442926aca24782ea9": {
+    "Session:Bouldering# e111891c7ce3e02ccce06b130baaaa37": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482944400"
+            "1483020000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://kinkygeeks.de"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Beginner's bondage workshop organized by the Kinky Geeks Assembly. We will discuss the basic safety and materials for bondage and will then practice basic ties with rope. No fancy stuff, but a good and solid foundation for safe and fun ropework. Bring your own rope if you have it, but we'll also have a limited amount of rope that we can share."
+            "Let's climb some walls!"
         ], 
         "Has session type": [
-            "Workshop"
+            "Hands-On"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
+        "Has session location": [], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:MrCode", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:MrCode", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Lil-Missy", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Lil-Missy", 
+                "fulltext": "User:Tiefpunkt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Tiefpunkt", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Kinky Geeks Bondage Workshop"
+            "Bouldering"
         ], 
         "Has duration": [
             120
@@ -7739,9 +7724,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Kinky_Geeks_Bondage_Workshop", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Bouldering", 
         "Has end time": [
-            "1482951600"
+            "1483027200"
         ]
     }, 
     "Session:Engeleinf\u00fchrung Kasse# ee801a90e5daedb2c650cc246ed2108e": {
@@ -11699,47 +11684,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Open_Education_Workshop", 
         "Has end time": [
             "1482946200"
-        ]
-    }, 
-    "Session:Bouldering# e111891c7ce3e02ccce06b130baaaa37": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483020000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Let's climb some walls!"
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Tiefpunkt", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Tiefpunkt", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Bouldering"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Bouldering", 
-        "Has end time": [
-            "1483027200"
         ]
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# e8d4aeb2d2ef0415687e34e714ed7c92": {
