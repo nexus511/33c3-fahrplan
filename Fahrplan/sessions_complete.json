@@ -1381,52 +1381,52 @@
             "1483040400"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1482937800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
+        "Has description": [
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
         ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "day 2, afternoon meeting"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Engelmeeting"
+            "Translation meetings"
         ], 
         "Has duration": [
-            60
+            50
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
         "Has end time": [
-            "1482768000"
+            "1482940800"
         ]
     }, 
     "Session:Linux Kernel Ninja Comment Karaoke# 2862e8fab22a5be1e6bab49ee12caaa2": {
@@ -8454,52 +8454,52 @@
             "1483045200"
         ]
     }, 
-    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482937800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
         ], 
-        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "day 2, afternoon meeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Translation meetings"
+            "Engelmeeting"
         ], 
         "Has duration": [
-            50
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482940800"
+            "1482768000"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -8598,6 +8598,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Cyberthingy", 
         "Has end time": [
             "1482861600"
+        ]
+    }, 
+    "Session:Thermal pictures for kids# e28d8e0aa91ecdf33ed2bab8be9ff4d3": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482926400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "They will be an infrared camera (detects heat). We can play around with warm and cold stuff and create nice pictures."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Group 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Obelix", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Thermal pictures for kids"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Thermal_pictures_for_kids", 
+        "Has end time": [
+            "1482928200"
         ]
     }, 
     "Session:Let's sing together the Free Software Song# 915d9b190a8871d4ee42c5eb020affd0": {
@@ -11835,6 +11885,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Gettogether_Radio_Lockdown", 
         "Has end time": [
             "1482948900"
+        ]
+    }, 
+    "Session:Thermal pictures for kids# 191385c3c2feb97bfc34a59caa8957b6": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482928200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "They will be an infrared camera (detects heat). We can play around with warm and cold stuff and create nice pictures."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Group 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Obelix", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Thermal pictures for kids"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Thermal_pictures_for_kids", 
+        "Has end time": [
+            "1482930000"
         ]
     }, 
     "Session:Hacking democracy with MEP Marietje Schaake# 945f1586a6c6583e89e03bad18b89754": {
@@ -16419,54 +16519,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Exploring_alternate_mathematical_universes_with_hypercomputation_(Wondrous_Mathematics)", 
         "Has end time": [
             "1482936600"
-        ]
-    }, 
-    "Session:Thermal pictures for kids# d98064b46013cfbcb0a54ee700e62257": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1482922800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "They will be an infrared camera (detects heat). We can play around with warm and cold stuff and create nice pictures."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:3D Hackspace", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Obelix", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Thermal pictures for kids"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Thermal_pictures_for_kids", 
-        "Has end time": [
-            "1482924600"
         ]
     }, 
     "Session:Translation meetings# d18b6c2f9bccb7fcaae47ed524788ae1": {
