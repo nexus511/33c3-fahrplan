@@ -1172,52 +1172,52 @@
             "1483040400"
         ]
     }, 
-    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482937800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
         ], 
-        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "day 2, afternoon meeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Translation meetings"
+            "Engelmeeting"
         ], 
         "Has duration": [
-            50
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482940800"
+            "1482768000"
         ]
     }, 
     "Session:Linux Kernel Ninja Comment Karaoke# 2862e8fab22a5be1e6bab49ee12caaa2": {
@@ -1254,6 +1254,54 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
         "Has end time": []
+    }, 
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483102800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Abbaumeeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1483106400"
+        ]
     }, 
     "Session:Translation meetings# 7ced348984f17dd88a5c96ea1e3435ec": {
         "Held in language": [
@@ -1756,54 +1804,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:12V_SolarPower_%26_Sound", 
         "Has end time": [
             "1483111800"
-        ]
-    }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482764400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Introduction Meeting for new angels"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Engelmeeting"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482768000"
         ]
     }, 
     "Session:Hackbases 5 years# 340e4d5ffc9c48124fa671c372796b8a": {
@@ -3711,58 +3711,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:NerfgunBattle", 
         "Has end time": [
             "1482886500"
-        ]
-    }, 
-    "Session:Flunkyball# 88114d8aced554d6834fed54462b09f9": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482882300"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://upb-flunkyteam.de"
-        ], 
-        "Has description": [
-            "Playing Flunkyball together. Organized by the UPB Flunkyteam.\nFlunkyball is a common german drinking game for all ages."
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:TEST ASSEMBLY PLEASE IGNORE", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:TEST_ASSEMBLY_PLEASE_IGNORE", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "evening game day 1"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:ApolloLV", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:ApolloLV", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Flunkyball"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Flunkyball", 
-        "Has end time": [
-            "1482885900"
         ]
     }, 
     "Session:Klangteppich# e7efaa00f19b51ad38201d9ba027d3b6": {
@@ -6123,6 +6071,58 @@
             "1483029000"
         ]
     }, 
+    "Session:Flunkyball# bf081f9bd83cbcc14285a44725b9f19c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482882300"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://upb-flunkyteam.de"
+        ], 
+        "Has description": [
+            "Playing Flunkyball together. Organized by the UPB Flunkyteam.\nFlunkyball is a common german drinking game for all ages."
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Flunkyground", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Flunkyground", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "evening game day 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:ApolloLV", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:ApolloLV", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Flunkyball"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Flunkyball", 
+        "Has end time": [
+            "1482885900"
+        ]
+    }, 
     "Session:Skillconvention c# a1496422476dce53d2f614263adbeeca": {
         "Held in language": [
             "en - English"
@@ -8091,45 +8091,6 @@
             "1483056000"
         ]
     }, 
-    "Session:Antennas an Wave Propagation# 2f63bed99d53df86cfb06e87a54eedcc": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "* Some Theory on radio propagation and antennas\n* Which antenna is suitable for which scenario\n* Examples: calculation the virtual wireless backbone in Munich\n* Analysing Wifi signals (RF) with the and different antennas.Bring your Rad1o with running firmware and a SMA connector (I will bring SMA/RP-SMA apaptors). Install e.g. Gqrx."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Fredi", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Fredi", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Antennas an Wave Propagation"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Antennas_an_Wave_Propagation", 
-        "Has end time": [
-            "1482872400"
-        ]
-    }, 
     "Session:DNS und ICVPN - .freifunk# 237d9688a280a98c5ca21bf5981b5bcd": {
         "Held in language": [
             "de - German"
@@ -8223,52 +8184,52 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482937800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
+        "Has description": [
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
         ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "day 2, afternoon meeting"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Engelmeeting"
+            "Translation meetings"
         ], 
         "Has duration": [
-            60
+            50
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
         "Has end time": [
-            "1483106400"
+            "1482940800"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -11704,6 +11665,58 @@
             "1482854400"
         ]
     }, 
+    "Session:Flunkyball# 7a14749d8f1ea4fe2aa2b69b8078a1c0": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482977700"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://upb-flunkyteam.de"
+        ], 
+        "Has description": [
+            "Playing Flunkyball together. Organized by the UPB Flunkyteam.\nFlunkyball is a common german drinking game for all ages."
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Flunkyground", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Flunkyground", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "late-night game day 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:ApolloLV", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:ApolloLV", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Flunkyball"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Flunkyball", 
+        "Has end time": [
+            "1482981300"
+        ]
+    }, 
     "Session:Gettogether Radio Lockdown# b455c4c73e99d25ae391a2db7e8add22": {
         "Held in language": [
             "de - German", 
@@ -12296,6 +12309,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
             "1483042500"
+        ]
+    }, 
+    "Session:Ninux - an italian wireless community# 8bba5d9009854c25066dd39ff548349a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482941700"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://ninux.org/"
+        ], 
+        "Has description": [
+            "Leandro introduces ninux"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Andibraeu", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andibraeu", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Ninux - an italian wireless community"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Ninux_-_an_italian_wireless_community", 
+        "Has end time": [
+            "1482943500"
         ]
     }, 
     "Session:Can't touch this: Introduction to self defense for women# f668c7f0fca8aa64458220f21ea1e0d9": {
@@ -14456,6 +14519,52 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackademia_Meetup", 
         "Has end time": [
             "1482850800"
+        ]
+    }, 
+    "Session:Antennas an Wave Propagation# c94614135694682bc79badcd2d8b5b33": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "* Some Theory on radio propagation and antennas\n* Which antenna is suitable for which scenario\n* Examples: calculation the virtual wireless backbone in Munich\n* Analysing Wifi signals (RF) with the and different antennas.Bring your Rad1o with running firmware and a SMA connector (I will bring SMA/RP-SMA apaptors). Install e.g. Gqrx."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Fredi", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Fredi", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Antennas an Wave Propagation"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Antennas_an_Wave_Propagation", 
+        "Has end time": [
+            "1482958800"
         ]
     }, 
     "Session:Shadowrun# 4e0861f5c55c5ee640724a9cab06841c": {
