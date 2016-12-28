@@ -1172,89 +1172,6 @@
             "1483040400"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482764400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Introduction Meeting for new angels"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Engelmeeting"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482768000"
-        ]
-    }, 
-    "Session:Linux Kernel Ninja Comment Karaoke# 2862e8fab22a5be1e6bab49ee12caaa2": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Do you have it what it takes to be a Linux kernel hacker? This is your chance to prove it: At random a function (max 100 LoC) is selected from the +15M LoC of Linux kernel code and it is your task to karaoke that code snippets comments. If it has comments: Good for you. If not, show your inner (comment) ninja."
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Datenwolf", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Datenwolf", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Linux Kernel Ninja Comment Karaoke"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
-        "Has end time": []
-    }, 
     "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
@@ -1302,6 +1219,93 @@
         "Has end time": [
             "1483106400"
         ]
+    }, 
+    "Session:Flunkyball# 3464118d555bc81519f9e26273225748": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482953700"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://upb-flunkyteam.de"
+        ], 
+        "Has description": [
+            "Playing Flunkyball together. Organized by the UPB Flunkyteam.\nFlunkyball is a common german drinking game for all ages."
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Flunkyground", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Flunkyground", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "evening game day 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:ApolloLV", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:ApolloLV", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Flunkyball"
+        ], 
+        "Has duration": [
+            40
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Flunkyball", 
+        "Has end time": [
+            "1482956100"
+        ]
+    }, 
+    "Session:Linux Kernel Ninja Comment Karaoke# 2862e8fab22a5be1e6bab49ee12caaa2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Do you have it what it takes to be a Linux kernel hacker? This is your chance to prove it: At random a function (max 100 LoC) is selected from the +15M LoC of Linux kernel code and it is your task to karaoke that code snippets comments. If it has comments: Good for you. If not, show your inner (comment) ninja."
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Datenwolf", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Datenwolf", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Linux Kernel Ninja Comment Karaoke"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
+        "Has end time": []
     }, 
     "Session:Translation meetings# 7ced348984f17dd88a5c96ea1e3435ec": {
         "Held in language": [
@@ -1560,43 +1564,6 @@
             "1483034400"
         ]
     }, 
-    "Session:PEp KeySync# 738549a9db32a1474ab8873825472412": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://pep.foundation"
-        ], 
-        "Has description": [
-            "We will discuss technical questions related to the pEp - pretty Easy privacy KeySynchronization process.\nMeeting Point is at the GNUnet & pEp assembly."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:GNUnet & pEp", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:GNUnet_%26_pEp", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "PEp KeySync"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:PEp_KeySync", 
-        "Has end time": []
-    }, 
     "Session:Create a rocket and reach orbit# e19e34c368150d9cba739e887820201e": {
         "Held in language": [
             "en - English"
@@ -1841,6 +1808,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:12V_SolarPower_%26_Sound", 
         "Has end time": [
             "1483111800"
+        ]
+    }, 
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482764400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Introduction Meeting for new angels"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1482768000"
         ]
     }, 
     "Session:Hackbases 5 years# 340e4d5ffc9c48124fa671c372796b8a": {
@@ -8014,6 +8029,45 @@
             "1482976800"
         ]
     }, 
+    "Session:The tech of current pEp releases# d8efbf4b731a4106eb1b95f8fd9dba54": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482933600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pep.foundation"
+        ], 
+        "Has description": [
+            "If you are interested in technical details of current pEp releases come to this session. \n\nMeeting point is at the GNUnet & pEp assembly."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:GNUnet & pEp", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:GNUnet_%26_pEp", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "The tech of current pEp releases"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:The_tech_of_current_pEp_releases", 
+        "Has end time": []
+    }, 
     "Session:Tor# 36660adcf8dfee81c6941287bdc51382": {
         "Held in language": [
             "en - English"
@@ -8398,29 +8452,30 @@
             "1482950700"
         ]
     }, 
-    "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
+    "Session:LoRaWAN\u2013Freifunk der Dinge# 83eb874920ae442371528c1d144c8266": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482858000"
+            "1482949800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://www.freiwurst.net"
+            "https://www.thethingsnetwork.org", 
+            "https://www.warpzone.ms/perma/hacknbreakfast-lorawan-freifunk-der-dinge/1995/"
         ], 
         "Has description": [
-            "come over to the Freiwurst assembly, play with our cyberthingy and enjoy some Freiwurst."
+            "An introduction to a crowd-sourced long-range radio network for autonomous devices."
         ], 
         "Has session type": [
-            "Hands-On"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Freiwurst", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freiwurst", 
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
                 "namespace": 504, 
                 "exists": true
             }
@@ -8428,14 +8483,14 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Apex", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Apex", 
+                "fulltext": "User:Kgbvax", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kgbvax", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Cyberthingy"
+            "LoRaWAN\u2013Freifunk der Dinge"
         ], 
         "Has duration": [
             60
@@ -8443,9 +8498,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Cyberthingy", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LoRaWAN%E2%80%93Freifunk_der_Dinge", 
         "Has end time": [
-            "1482861600"
+            "1482953400"
         ]
     }, 
     "Session:Thermal pictures for kids# e28d8e0aa91ecdf33ed2bab8be9ff4d3": {
@@ -8497,6 +8552,45 @@
         "Has end time": [
             "1482928200"
         ]
+    }, 
+    "Session:PEp KeySync# ce76f8f85444c5fd611a99570bc0a2f0": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482962400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pep.foundation"
+        ], 
+        "Has description": [
+            "We will discuss technical questions related to the pEp - pretty Easy privacy KeySynchronization process.\nMeeting Point is at the GNUnet & pEp assembly."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:GNUnet & pEp", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:GNUnet_%26_pEp", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "PEp KeySync"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:PEp_KeySync", 
+        "Has end time": []
     }, 
     "Session:Let's sing together the Free Software Song# 915d9b190a8871d4ee42c5eb020affd0": {
         "Held in language": [
@@ -9908,30 +10002,29 @@
             "1482865200"
         ]
     }, 
-    "Session:LoRaWAN\u2013Freifunk der Dinge# 83eb874920ae442371528c1d144c8266": {
+    "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482949800"
+            "1482858000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://www.thethingsnetwork.org", 
-            "https://www.warpzone.ms/perma/hacknbreakfast-lorawan-freifunk-der-dinge/1995/"
+            "https://www.freiwurst.net"
         ], 
         "Has description": [
-            "An introduction to a crowd-sourced long-range radio network for autonomous devices."
+            "come over to the Freiwurst assembly, play with our cyberthingy and enjoy some Freiwurst."
         ], 
         "Has session type": [
-            "Talk"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "fulltext": "Assembly:Freiwurst", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freiwurst", 
                 "namespace": 504, 
                 "exists": true
             }
@@ -9939,14 +10032,14 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Kgbvax", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kgbvax", 
+                "fulltext": "User:Apex", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Apex", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "LoRaWAN\u2013Freifunk der Dinge"
+            "Cyberthingy"
         ], 
         "Has duration": [
             60
@@ -9954,9 +10047,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LoRaWAN%E2%80%93Freifunk_der_Dinge", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Cyberthingy", 
         "Has end time": [
-            "1482953400"
+            "1482861600"
         ]
     }, 
     "Session:Onionmx# 23fb655770d5dfa019fed78c36e528d9": {
@@ -10504,60 +10597,62 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:So_who_are_the_rioters_%3F", 
         "Has end time": []
     }, 
-    "Session:33c3 Regiotreffen# 2433e2a8cd70d932310461fe68e98f92": {
+    "Session:Open Education Workshop# afb476729e7b1c943d0120dec5187fcc": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1483030800"
+            "1482940800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://ccc.de/regional"
+            "http://education.okfn.org/"
         ], 
         "Has description": [
-            "Das allj\u00e4hrliche Regiotreffen auf dem Congress"
+            "Despite high expectations, \"digital education\" has not much advanced beyond sharing single-purpose worksheets as pdf. Existing Open Educational Resources (OER) often tend to reinforce current teaching scenarios and top-down structures, missing out on the potential for new forms of participation. To prepare new education projects, we invite you to share your experiences and ideas: How can digital methods / concepts / tools contribute to a more inclusive pedagogy, enabling and motivating learners for co-creation? What else can we do within existing frameworks, and how to approach it effectively in class?"
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "New school, Old school - How can we hack education?"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Telegnom", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Telegnom", 
+                "fulltext": "User:NMarkus", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NMarkus", 
                 "namespace": 2, 
                 "exists": true
             }, 
             {
-                "fulltext": "User:Sva", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sva", 
+                "fulltext": "User:PeterVanPan", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:PeterVanPan", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "33c3 Regiotreffen"
+            "Open Education Workshop"
         ], 
         "Has duration": [
-            120
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:33c3_Regiotreffen", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Open_Education_Workshop", 
         "Has end time": [
-            "1483038000"
+            "1482946200"
         ]
     }, 
     "Session:Skillconvention b# 70c8429502d619a4df08c3b41d47c88c": {
@@ -10661,12 +10756,12 @@
             "1482876000"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
@@ -10682,8 +10777,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -10708,7 +10803,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482853500"
+            "1483026300"
         ]
     }, 
     "Session:Documentation Sprint# abeb1d0d0846b45f47590f3f961ded05": {
@@ -11584,62 +11679,60 @@
             "1482872400"
         ]
     }, 
-    "Session:Open Education Workshop# afb476729e7b1c943d0120dec5187fcc": {
+    "Session:33c3 Regiotreffen# 2433e2a8cd70d932310461fe68e98f92": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482940800"
+            "1483030800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://education.okfn.org/"
+            "https://ccc.de/regional"
         ], 
         "Has description": [
-            "Despite high expectations, \"digital education\" has not much advanced beyond sharing single-purpose worksheets as pdf. Existing Open Educational Resources (OER) often tend to reinforce current teaching scenarios and top-down structures, missing out on the potential for new forms of participation. To prepare new education projects, we invite you to share your experiences and ideas: How can digital methods / concepts / tools contribute to a more inclusive pedagogy, enabling and motivating learners for co-creation? What else can we do within existing frameworks, and how to approach it effectively in class?"
+            "Das allj\u00e4hrliche Regiotreffen auf dem Congress"
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "New school, Old school - How can we hack education?"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:NMarkus", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NMarkus", 
+                "fulltext": "User:Telegnom", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Telegnom", 
                 "namespace": 2, 
                 "exists": true
             }, 
             {
-                "fulltext": "User:PeterVanPan", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:PeterVanPan", 
+                "fulltext": "User:Sva", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sva", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Open Education Workshop"
+            "33c3 Regiotreffen"
         ], 
         "Has duration": [
-            90
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Open_Education_Workshop", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:33c3_Regiotreffen", 
         "Has end time": [
-            "1482946200"
+            "1483038000"
         ]
     }, 
     "Session:Bouldering# e111891c7ce3e02ccce06b130baaaa37": {
@@ -11829,58 +11922,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
             "1482854400"
-        ]
-    }, 
-    "Session:Flunkyball# 7a14749d8f1ea4fe2aa2b69b8078a1c0": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482977700"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://upb-flunkyteam.de"
-        ], 
-        "Has description": [
-            "Playing Flunkyball together. Organized by the UPB Flunkyteam.\nFlunkyball is a common german drinking game for all ages."
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Flunkyground", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Flunkyground", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "late-night game day 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:ApolloLV", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:ApolloLV", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Flunkyball"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Flunkyball", 
-        "Has end time": [
-            "1482981300"
         ]
     }, 
     "Session:Gettogether Radio Lockdown# b455c4c73e99d25ae391a2db7e8add22": {
@@ -13837,12 +13878,12 @@
             "1483029900"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -13858,8 +13899,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -13884,7 +13925,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
@@ -15606,7 +15647,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "You\n probably know Club Mate and Flora Mate, as they are available at the \n33c3. But there are more kinds of Mate and we will taste them!\nYou can bring own bottles by yourself, too. It is possible that we will \nnot have all existing brands."
+            "You probably know Club Mate and Flora Mate, as they are available at the \n33c3. But there are more kinds of Mate and we will taste them!\nYou can bring own bottles by yourself, too. It is possible that we will \nnot have all existing brands."
         ], 
         "Has session type": [
             "Meeting"
