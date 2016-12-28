@@ -2037,7 +2037,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1126, 
+                                "id": 1127, 
                                 "guid": "d0288fe6dd4e0bc74b5b7e0302906c53", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -2209,7 +2209,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1269, 
+                                "id": 1268, 
                                 "guid": "33d15813452eabff67587b00e4525369", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:15:00+01:00", 
@@ -2448,7 +2448,7 @@
                         ], 
                         "Hall C.1": [
                             {
-                                "id": 1024, 
+                                "id": 1023, 
                                 "guid": "a5a1f9f1e38b6dd01be85740aa155bc6", 
                                 "logo": null, 
                                 "date": "2016-12-27T12:00:00+01:00", 
@@ -3598,7 +3598,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1236, 
+                                "id": 1235, 
                                 "guid": "eda6bf02c00112abda08e75aa700c81e", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -3714,15 +3714,15 @@
                         "Assembly:Chaos West": [
                             {
                                 "id": 1155, 
-                                "guid": "a33e122a93f95fe8add42f678dc1b55c", 
+                                "guid": "43636d9b169a5b4efd4a2ac28a2f0933", 
                                 "logo": null, 
-                                "date": "2016-12-27T23:00:00+01:00", 
-                                "start": "23:00", 
-                                "duration": "2:00", 
+                                "date": "2016-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "3:00", 
                                 "room": "Assembly:Chaos West", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop", 
+                                "subtitle": "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "en", 
@@ -3746,7 +3746,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1156, 
+                                "id": 1159, 
                                 "guid": "cd2679eb8595fea15886cbec5c288b96", 
                                 "logo": null, 
                                 "date": "2016-12-28T01:00:00+01:00", 
@@ -3779,16 +3779,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1158, 
-                                "guid": "43636d9b169a5b4efd4a2ac28a2f0933", 
+                                "id": 1162, 
+                                "guid": "a33e122a93f95fe8add42f678dc1b55c", 
                                 "logo": null, 
-                                "date": "2016-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "3:00", 
+                                "date": "2016-12-27T23:00:00+01:00", 
+                                "start": "23:00", 
+                                "duration": "2:00", 
                                 "room": "Assembly:Chaos West", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno", 
+                                "subtitle": "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "en", 
@@ -3980,7 +3980,7 @@
                         ], 
                         "Assembly:Free Software Foundation Europe": [
                             {
-                                "id": 1176, 
+                                "id": 1174, 
                                 "guid": "f6a08b0981e982f4d9312d7bd8c5cffe", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:00:00+01:00", 
@@ -6313,7 +6313,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1052, 
+                                "id": 1053, 
                                 "guid": "8b165ece02b1d870610d15256031bca9", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:00:00+01:00", 
@@ -6427,7 +6427,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1125, 
+                                "id": 1126, 
                                 "guid": "2b55e4c20c327a0fbe6204663002bb03", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -6788,35 +6788,6 @@
                             }, 
                             {
                                 "id": 1315, 
-                                "guid": "71ee3f1c08d4d04914c27cac159a56da", 
-                                "logo": null, 
-                                "date": "2016-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "We Fix the Net", 
-                                "subtitle": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
-                                        "public_name": "Jeffburdges"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://gnunet.org", 
-                                    "http://pep.foundation/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net"
-                                ]
-                            }, 
-                            {
-                                "id": 1316, 
                                 "guid": "bbb81a0158a76477271da3f3095201e4", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -6845,7 +6816,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1317, 
+                                "id": 1316, 
                                 "guid": "929ba2a8a173dad4fb8ab1125b31a656", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:45:00+01:00", 
@@ -6855,6 +6826,35 @@
                                 "slug": "", 
                                 "title": "We Fix the Net", 
                                 "subtitle": "Opertunistic Email Encryption", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
+                                        "public_name": "Jeffburdges"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://gnunet.org", 
+                                    "http://pep.foundation/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net"
+                                ]
+                            }, 
+                            {
+                                "id": 1317, 
+                                "guid": "71ee3f1c08d4d04914c27cac159a56da", 
+                                "logo": null, 
+                                "date": "2016-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "We Fix the Net", 
+                                "subtitle": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "en", 
@@ -8111,39 +8111,6 @@
                             }, 
                             {
                                 "id": 1160, 
-                                "guid": "a1cb76ade506810f49f54971445a573e", 
-                                "logo": null, 
-                                "date": "2016-12-28T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "2:00", 
-                                "room": "Assembly:Chaos West", 
-                                "slug": "", 
-                                "title": "Klangteppich", 
-                                "subtitle": "[[User:robelix|robelix]] DJ-set: Futurepop, Darkwave, Industrial, Chiptunes", 
-                                "track": "self organized sessions", 
-                                "type": "other", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                                        "public_name": "Bam"
-                                    }, 
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                                        "public_name": "JayDee2202"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich"
-                                ]
-                            }, 
-                            {
-                                "id": 1161, 
                                 "guid": "1d417fdc38d9002139dfa87a15a17e0e", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -8174,11 +8141,71 @@
                                     "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg", 
                                     "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich"
                                 ]
+                            }, 
+                            {
+                                "id": 1161, 
+                                "guid": "a1cb76ade506810f49f54971445a573e", 
+                                "logo": null, 
+                                "date": "2016-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Chaos West", 
+                                "slug": "", 
+                                "title": "Klangteppich", 
+                                "subtitle": "[[User:robelix|robelix]] DJ-set: Futurepop, Darkwave, Industrial, Chiptunes", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                                        "public_name": "Bam"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                                        "public_name": "JayDee2202"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich"
+                                ]
                             }
                         ], 
                         "Assembly:3D Hackspace": [
                             {
                                 "id": 1006, 
+                                "guid": "02cd43140492eb642349209ad6d7b446", 
+                                "logo": null, 
+                                "date": "2016-12-28T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "0:15", 
+                                "room": "Assembly:3D Hackspace", 
+                                "slug": "", 
+                                "title": "3D printing for kids", 
+                                "subtitle": "Group 2", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Learn how to design 3D parts and print them!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                                        "public_name": "Obelix"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids"
+                                ]
+                            }, 
+                            {
+                                "id": 1007, 
                                 "guid": "d0014771e6e9ce6319072f8a38b2319c", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -8205,7 +8232,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1007, 
+                                "id": 1008, 
                                 "guid": "9a897b2d6a23fb8ef8280624c6ef0e1d", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:30:00+01:00", 
@@ -8232,7 +8259,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1008, 
+                                "id": 1009, 
                                 "guid": "d9ed73113bf031810aacdb723021c0c8", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -8242,33 +8269,6 @@
                                 "slug": "", 
                                 "title": "3D printing for kids", 
                                 "subtitle": "Group 1", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Learn how to design 3D parts and print them!", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
-                                        "public_name": "Obelix"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids"
-                                ]
-                            }, 
-                            {
-                                "id": 1009, 
-                                "guid": "02cd43140492eb642349209ad6d7b446", 
-                                "logo": null, 
-                                "date": "2016-12-28T14:30:00+01:00", 
-                                "start": "14:30", 
-                                "duration": "0:15", 
-                                "room": "Assembly:3D Hackspace", 
-                                "slug": "", 
-                                "title": "3D printing for kids", 
-                                "subtitle": "Group 2", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -8314,15 +8314,15 @@
                             }, 
                             {
                                 "id": 1291, 
-                                "guid": "e28d8e0aa91ecdf33ed2bab8be9ff4d3", 
+                                "guid": "191385c3c2feb97bfc34a59caa8957b6", 
                                 "logo": null, 
-                                "date": "2016-12-28T12:00:00+01:00", 
-                                "start": "12:00", 
+                                "date": "2016-12-28T12:30:00+01:00", 
+                                "start": "12:30", 
                                 "duration": "0:30", 
                                 "room": "Assembly:3D Hackspace", 
                                 "slug": "", 
                                 "title": "Thermal pictures for kids", 
-                                "subtitle": "Group 1", 
+                                "subtitle": "Group 2", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "de", 
@@ -8341,15 +8341,15 @@
                             }, 
                             {
                                 "id": 1292, 
-                                "guid": "191385c3c2feb97bfc34a59caa8957b6", 
+                                "guid": "e28d8e0aa91ecdf33ed2bab8be9ff4d3", 
                                 "logo": null, 
-                                "date": "2016-12-28T12:30:00+01:00", 
-                                "start": "12:30", 
+                                "date": "2016-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
                                 "duration": "0:30", 
                                 "room": "Assembly:3D Hackspace", 
                                 "slug": "", 
                                 "title": "Thermal pictures for kids", 
-                                "subtitle": "Group 2", 
+                                "subtitle": "Group 1", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "de", 
@@ -8689,15 +8689,15 @@
                             }, 
                             {
                                 "id": 1077, 
-                                "guid": "dabd472648b0f075919ffb2d83f99c86", 
+                                "guid": "ef6d05ac78d0ebf95d9cd28d85683fdd", 
                                 "logo": null, 
-                                "date": "2016-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
+                                "date": "2016-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
                                 "duration": "1:00", 
                                 "room": "Assembly:Jugend hackt", 
                                 "slug": "", 
                                 "title": "Einstieg in App-Programmierung und Scratch (f\u00fcr Kids)", 
-                                "subtitle": "Workshop 1", 
+                                "subtitle": "Workshop 2", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -8716,15 +8716,15 @@
                             }, 
                             {
                                 "id": 1078, 
-                                "guid": "ef6d05ac78d0ebf95d9cd28d85683fdd", 
+                                "guid": "dabd472648b0f075919ffb2d83f99c86", 
                                 "logo": null, 
-                                "date": "2016-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
+                                "date": "2016-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
                                 "duration": "1:00", 
                                 "room": "Assembly:Jugend hackt", 
                                 "slug": "", 
                                 "title": "Einstieg in App-Programmierung und Scratch (f\u00fcr Kids)", 
-                                "subtitle": "Workshop 2", 
+                                "subtitle": "Workshop 1", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -9392,7 +9392,7 @@
                         ], 
                         "Assembly:Free Software Foundation Europe": [
                             {
-                                "id": 1174, 
+                                "id": 1176, 
                                 "guid": "2e3e91c23a1e9b472b42cb23c76be0d9", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:30:00+01:00", 
@@ -11754,7 +11754,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1127, 
+                                "id": 1125, 
                                 "guid": "84dbea847aa14b670fb6f45d765521f4", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -12888,7 +12888,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1072, 
+                                "id": 1073, 
                                 "guid": "9b201eed6d36944aaacf547859e2262e", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -13072,11 +13072,11 @@
                         "Hall F": [
                             {
                                 "id": 1098, 
-                                "guid": "fbc9e7ed36a705cf72c554aa7c10ff35", 
+                                "guid": "dc97ce7587e6de93f68f0bb1fbfdbd9c", 
                                 "logo": null, 
-                                "date": "2016-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "3:00", 
+                                "date": "2016-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:15", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Film-Abend", 
@@ -13093,11 +13093,11 @@
                             }, 
                             {
                                 "id": 1099, 
-                                "guid": "dc97ce7587e6de93f68f0bb1fbfdbd9c", 
+                                "guid": "fbc9e7ed36a705cf72c554aa7c10ff35", 
                                 "logo": null, 
-                                "date": "2016-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "2:15", 
+                                "date": "2016-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "3:00", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Film-Abend", 
@@ -13212,11 +13212,11 @@
                             }, 
                             {
                                 "id": 1188, 
-                                "guid": "4712451863c504ac72d4e643f6a79938", 
+                                "guid": "e81169038db8e5ffee3fa6db477d956c", 
                                 "logo": null, 
-                                "date": "2016-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "2:15", 
+                                "date": "2016-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "3:00", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Movie Night", 
@@ -13233,11 +13233,11 @@
                             }, 
                             {
                                 "id": 1189, 
-                                "guid": "e81169038db8e5ffee3fa6db477d956c", 
+                                "guid": "4712451863c504ac72d4e643f6a79938", 
                                 "logo": null, 
-                                "date": "2016-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "3:00", 
+                                "date": "2016-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:15", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Movie Night", 
@@ -13285,7 +13285,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1271, 
+                                "id": 1270, 
                                 "guid": "f48797b83b3006b88510ce3136aec9e2", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:15:00+01:00", 
@@ -13375,7 +13375,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1053, 
+                                "id": 1052, 
                                 "guid": "2e3f2fb0d4424c378f1bf5ffa0eab463", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -13913,7 +13913,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1235, 
+                                "id": 1236, 
                                 "guid": "3befab1a8948351427328afc76d2c4df", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -14030,7 +14030,7 @@
                         ], 
                         "Assembly:Chaostreff Flensburg": [
                             {
-                                "id": 1062, 
+                                "id": 1063, 
                                 "guid": "ed0b9fb3e8518f3ca385b33789b9b35e", 
                                 "logo": null, 
                                 "date": "2016-12-29T17:00:00+01:00", 
@@ -14064,7 +14064,7 @@
                         ], 
                         "Assembly:Scottish Consulate": [
                             {
-                                "id": 1073, 
+                                "id": 1072, 
                                 "guid": "4a80950934f4ea3dbd5f529e36a5c8ff", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:00:00+01:00", 
@@ -14354,7 +14354,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1159, 
+                                "id": 1156, 
                                 "guid": "e7efaa00f19b51ad38201d9ba027d3b6", 
                                 "logo": null, 
                                 "date": "2016-12-29T23:00:00+01:00", 
@@ -14387,7 +14387,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1162, 
+                                "id": 1158, 
                                 "guid": "8f2144006158cc65262cd392541cf8c7", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:00:00+01:00", 
@@ -15472,7 +15472,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1023, 
+                                "id": 1024, 
                                 "guid": "0e5ec0ce09da1294802db6c2d29714c0", 
                                 "logo": null, 
                                 "date": "2016-12-30T12:00:00+01:00", 
@@ -15527,7 +15527,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1268, 
+                                "id": 1269, 
                                 "guid": "17595f694e88dd271208bb120d2ded5d", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:15:00+01:00", 
