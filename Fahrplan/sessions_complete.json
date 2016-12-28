@@ -284,54 +284,6 @@
             "1483025400"
         ]
     }, 
-    "Session:Plaintext accounting for hackerspaces# 0e1fedcd13e93d8a4ba9793f2db8e42e": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://Hledger.org"
-        ], 
-        "Has description": [
-            "I'll present the crazy system we use in our hackerspace to do accounting and Finance controlling. Almost no gui, just plaintext files, hledger, many Python Scripts and some js visualization experiments. If you dislike gnucash because its too easy or too inflexible, this session is for you."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Intro followed by Knowledge, Experience and Script Exchange"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Xro", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Xro", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Plaintext accounting for hackerspaces"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Plaintext_accounting_for_hackerspaces", 
-        "Has end time": []
-    }, 
     "Session:Teledildonics Meetup# 464494b1ff6c79d3bec54559ad29a223": {
         "Held in language": [
             "en - English"
@@ -1381,89 +1333,6 @@
             "1483040400"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482764400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Introduction Meeting for new angels"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Engelmeeting"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1482768000"
-        ]
-    }, 
-    "Session:Linux Kernel Ninja Comment Karaoke# 2862e8fab22a5be1e6bab49ee12caaa2": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Do you have it what it takes to be a Linux kernel hacker? This is your chance to prove it: At random a function (max 100 LoC) is selected from the +15M LoC of Linux kernel code and it is your task to karaoke that code snippets comments. If it has comments: Good for you. If not, show your inner (comment) ninja."
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Datenwolf", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Datenwolf", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Linux Kernel Ninja Comment Karaoke"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
-        "Has end time": []
-    }, 
     "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
@@ -1511,6 +1380,41 @@
         "Has end time": [
             "1483106400"
         ]
+    }, 
+    "Session:Linux Kernel Ninja Comment Karaoke# 2862e8fab22a5be1e6bab49ee12caaa2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Do you have it what it takes to be a Linux kernel hacker? This is your chance to prove it: At random a function (max 100 LoC) is selected from the +15M LoC of Linux kernel code and it is your task to karaoke that code snippets comments. If it has comments: Good for you. If not, show your inner (comment) ninja."
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Datenwolf", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Datenwolf", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Linux Kernel Ninja Comment Karaoke"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
+        "Has end time": []
     }, 
     "Session:Translation meetings# 7ced348984f17dd88a5c96ea1e3435ec": {
         "Held in language": [
@@ -1963,6 +1867,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:12V_SolarPower_%26_Sound", 
         "Has end time": [
             "1483111800"
+        ]
+    }, 
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482764400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Introduction Meeting for new angels"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1482768000"
         ]
     }, 
     "Session:Hackbases 5 years# 340e4d5ffc9c48124fa671c372796b8a": {
@@ -2950,40 +2902,44 @@
             "1483027200"
         ]
     }, 
-    "Session:Kreatives beschimpfen# 797d848adf0d312b34d637b95c553997": {
+    "Session:Train the CryptoParty Trainer# 15d77550626146b226d51911f3ea7155": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482867000"
+            "1482946200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "Angewandte malediktion"
+        "Has website": [
+            "https://www.cryptoparty.in/33c3"
         ], 
-        "Has session type": [], 
+        "Has description": [
+            "Training our own trainers we can help grow the CryptoParty. In this session we'd like to share concepts and ideas on what works."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Mensch meier and friends", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Mensch_meier_and_friends", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Noja", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Noja", 
+                "fulltext": "User:Dawning-sun", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dawning-sun", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Kreatives beschimpfen"
+            "Train the CryptoParty Trainer"
         ], 
         "Has duration": [
             90
@@ -2991,9 +2947,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Kreatives_beschimpfen", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Train_the_CryptoParty_Trainer", 
         "Has end time": [
-            "1482872400"
+            "1482951600"
         ]
     }, 
     "Session:Vegan Replacements \u2013 Hacking Food Traditions# 117523505da5a6fba2fef7c184e69b8f": {
@@ -9004,44 +8960,40 @@
             "1482926400"
         ]
     }, 
-    "Session:Train the CryptoParty Trainer# 15d77550626146b226d51911f3ea7155": {
+    "Session:Kreatives beschimpfen# 797d848adf0d312b34d637b95c553997": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482946200"
+            "1482867000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://www.cryptoparty.in/33c3"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Training our own trainers we can help grow the CryptoParty. In this session we'd like to share concepts and ideas on what works."
+            "Angewandte malediktion"
         ], 
-        "Has session type": [
-            "Meeting"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Mensch meier and friends", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Mensch_meier_and_friends", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Dawning-sun", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dawning-sun", 
+                "fulltext": "User:Noja", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Noja", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Train the CryptoParty Trainer"
+            "Kreatives beschimpfen"
         ], 
         "Has duration": [
             90
@@ -9049,9 +9001,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Train_the_CryptoParty_Trainer", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Kreatives_beschimpfen", 
         "Has end time": [
-            "1482951600"
+            "1482872400"
         ]
     }, 
     "Session:A Primer on Quantum Computation and Cryptography# 1c68dd7dc13d528647a2318ab65b9682": {
@@ -10563,54 +10515,56 @@
             "1483021800"
         ]
     }, 
-    "Session:Skillconvention c# 15f21480446aabdd28aa3fe571253266": {
+    "Session:Plaintext accounting for hackerspaces# 12e95b6dcc45034c1a969ac05252ebb3": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1483057800"
+            "1483109100"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://thereisnogame.de"
+            "http://Hledger.org"
         ], 
         "Has description": [
-            "all travelers of a certain skill will be invited to join their respective convention"
+            "I'll present the crazy system we use in our hackerspace to do accounting and Finance controlling. Almost no gui, just plaintext files, hledger, many Python Scripts and some js visualization experiments. If you dislike gnucash because its too easy or too inflexible, this session is for you."
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Intro followed by Knowledge, Experience and Script Exchange"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Reisende", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                "fulltext": "User:Xro", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Xro", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Skillconvention c"
+            "Plaintext accounting for hackerspaces"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Plaintext_accounting_for_hackerspaces", 
         "Has end time": [
-            "1483061400"
+            "1483114500"
         ]
     }, 
     "Session:So who are the rioters ?# 90f85b61e215e11b72cdac87838130d0": {
@@ -11329,6 +11283,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
         "Has end time": [
             "1483041600"
+        ]
+    }, 
+    "Session:Skillconvention c# 15f21480446aabdd28aa3fe571253266": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483057800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://thereisnogame.de"
+        ], 
+        "Has description": [
+            "all travelers of a certain skill will be invited to join their respective convention"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Reisende", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Skillconvention c"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c", 
+        "Has end time": [
+            "1483061400"
         ]
     }, 
     "Session:VOC Engelmeeting# 6312ac8705d66d48286a983da9f23d29": {
