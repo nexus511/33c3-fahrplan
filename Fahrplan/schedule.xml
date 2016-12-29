@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <schedule>
-<version>COSMIC RADIATION</version>
+<version>PEBCAK</version>
 <conference>
 <acronym>33c3</acronym>
 <title>33. Chaos Communication Congress</title>
@@ -1445,6 +1445,7 @@ Im Anschluss an den Talk gibt es eine ausgedehnte Diskussions- und Fragesession 
 <link href='https://www.nachrichtendienstgesetz.ch'>Referendumsplattform NDG</link>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/003/131/original/talk_33c3_netzpolitik.pdf?1482965202'>Sldies</attachment>
 </attachments>
 </event>
 <event guid='c53f6fb8-8fe5-487f-9d5c-15ac56edd6b1' id='8293'>
@@ -2334,8 +2335,10 @@ Although the new hardware-revision of the button makes use of the controller loc
 <person id='5233'>hunz</person>
 </persons>
 <links>
+<link href='https://github.com/znuh/dashbutton'>git repository</link>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/003/130/original/dashbtn.pdf?1482961315'>slides</attachment>
 </attachments>
 </event>
 <event guid='96f837e6-f137-4b23-88d9-8326a9ac9196' id='8461'>
@@ -2548,6 +2551,7 @@ After some deliberation, we reluctantly decided to give this talk in German sinc
 <links>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/003/132/original/on-the-security-and-privacy-of-modern-sso.pdf?1483008542'>Slides</attachment>
 </attachments>
 </event>
 <event guid='2b9b6095-9dcd-49f3-9792-cf74aab88b16' id='8068'>
@@ -3415,11 +3419,11 @@ Climb the distance ladder and get to know our place in Space from kilometers to 
 <license></license>
 <optout>true</optout>
 </recording>
-<title>Methodisch Inkorrekt Stream</title>
+<title>Methodisch inkorrekt! Stream</title>
 <subtitle></subtitle>
 <track>Entertainment</track>
 <type>other</type>
-<language>en</language>
+<language>de</language>
 <abstract></abstract>
 <description></description>
 <logo></logo>

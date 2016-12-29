@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T171500
-DTSTAMP;VALUE=DATE-TIME:20161215T102414Z
+DTSTAMP;VALUE=DATE-TIME:20161228T215505Z
 UID:0a3b7891-6446-4ef7-afc4-e95c21193c68@frab.cccv.de
 DESCRIPTION:Yosys is a free and open source Verilog synthesis tool and mo
  re. It gained prominence last year because of its role as synthesis tool

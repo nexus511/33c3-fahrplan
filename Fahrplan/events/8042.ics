@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T000000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T230000
-DTSTAMP;VALUE=DATE-TIME:20161213T214157Z
+DTSTAMP;VALUE=DATE-TIME:20161229T102430Z
 UID:90c2f1c6-c32e-4bb2-b8a0-db6b4e24e4b3@frab.cccv.de
 DESCRIPTION:The talk is about the paging system\, an old technology in th
  e 90's\, used in healthcare\, ICS and government\, a systematic review o
