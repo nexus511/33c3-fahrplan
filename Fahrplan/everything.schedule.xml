@@ -1,5 +1,5 @@
 <schedule>
-  <version>PEBCAK</version>
+  <version>BY DESIGN</version>
   <conference>
     <acronym>33c3</acronym>
     <title>33. Chaos Communication Congress</title>
@@ -1108,7 +1108,7 @@ We show how these weaknesses translate into disclosure of traveler's personal in
         </persons>
         <links/>
         <attachments>
-          <attachment href="/system/event_attachments/attachments/000/003/114/original/33C3-SRLabs-Travel_Hacking.v1.pdf?1482889495">Slides</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/146/original/33C3-SRLabs-Travel_Hacking.v2.pdf?1483040351">Slides</attachment>
         </attachments>
       </event>
       <event id="8143" guid="fd205d0d-d767-4ff6-9771-9f2d4c933fe7">
@@ -4526,7 +4526,9 @@ As we move from an Internet regulated by DPI and technical controls to one domin
           <person id="4821">Will Scott</person>
           <person id="6007">Philipp Winter</person>
         </persons>
-        <links/>
+        <links>
+          <link href="https://wills.co.tt/33c3-censorship">Slides</link>
+        </links>
         <attachments/>
       </event>
       <event id="8027" guid="8d0aed87-2484-4880-ae08-2dc3c7898959">
@@ -8713,7 +8715,9 @@ Simons, Marvin K., et. al. Spread Spectrum Communications Handbook. New York: Mc
           <link href="https://www.google.com/patents/US613809">Nikola Tesla's "boat" patent, 1898</link>
           <link href="https://www.google.com/patents/US723188">Nikola Tesla's "Method of Signaling" patent, 1903</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/137/original/The_woman_behind_your_WiFi.pdf?1483024611">Slides</attachment>
+        </attachments>
       </event>
       <event id="7811" guid="7c3a4ac8-1925-4459-bdd8-b9d9e18a6cfa">
         <logo/>
@@ -8771,7 +8775,10 @@ more about an under-researched phenomenon. In our case we wanted to find out how
         <links>
           <link href="https://www.youtube.com/watch?v=KtQVnGuhZBM">Talk on a part of this research given at "Lange Nacht der Wissenschaften" in Berlin</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/141/original/Slides_SaschaFriesike.pdf?1483027043">Slides</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
+        </attachments>
       </event>
       <event id="8231" guid="855ab830-c6c0-4be7-b84c-31ba78e90e3c">
         <logo/>
@@ -8801,7 +8808,10 @@ This talk will take you on a brief tour of the history of PUFs. Along the way, i
           <person id="7006">Pol Van Aubel</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/147/original/PUFs.pdf?1483045144">PUFs - slides</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
+        </attachments>
       </event>
       <event id="8330" guid="725b4ff6-8d4c-4d8f-9e38-6b1e49e1602c">
         <logo>/system/events/logos/000/008/330/large/zcash.png?1479469683</logo>
@@ -8836,8 +8846,12 @@ Note: The presenter is not affiliated with the Zcash company.</description>
           <link href="https://z.cash/">Zcash website</link>
           <link href="http://zerocash-project.org/media/pdf/zerocash-oakland2014.pdf">Zerocash paper (2014)</link>
           <link href="http://zerocoin.org/media/pdf/ZerocoinOakland.pdf">Zerocoin paper (2013)</link>
+          <link href="https://github.com/zcash/zips/raw/master/protocol/protocol.pdf">Zcash specification</link>
+          <link href="https://eprint.iacr.org/2013/879.pdf">Ben-Sasson et al.: "Succinct Non-Interactive Zero Knowledge for a von Neumann Architecture"</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/138/original/slides.pdf?1483024946">Presentation slides</attachment>
+        </attachments>
       </event>
     </room>
     <room name="Saal G">
@@ -9101,7 +9115,9 @@ Dieser Vortrag beginnt mit den Zutaten, die für einen echten Weltsimulator nöt
           <person id="5425">Benjamin Rupert</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/145/original/VeganScience-33C3.odp?1483031089">slides</attachment>
+        </attachments>
       </event>
       <event id="8444" guid="babc1d56-c3b9-4a21-bfae-af4190c05e93">
         <logo/>
@@ -9156,7 +9172,9 @@ I will share my experiments in assessing different candies for their engineering
           <person id="6977">Kari Love</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/133/original/Edible_Soft_Robotics_-_CCC_talk.pdf?1483016854">Edible Soft Robotics</attachment>
+        </attachments>
       </event>
       <event id="8270" guid="fc64467a-cfb3-40ea-a335-4289aef4d06b">
         <logo>/system/events/logos/000/008/270/large/hebocon_logo.png?1475265089</logo>
@@ -13476,7 +13494,10 @@ d) Call to Action: Angebote für niederschwellig nutzbare Rechte, Ausübungssyst
           <person id="6932">derPUPE</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/139/original/DSGVO-Rechte_fu%CC%88r_Menschen_-__Pflichten_fu%CC%88r_Firmen_-_Chancen_fu%CC%88r_uns_-_33c3_talk_derPUPE.pdf?1483026528">Folien_-_DSGVO-Rechte_für_Menschen_-_ Pflichten_für_Firmen_-_Chancen_für_uns_-_33c3_talk_derPUPE</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
+        </attachments>
       </event>
       <event id="8445" guid="2bdf3de1-417b-4a5a-b31e-4701a921fb5c">
         <logo/>

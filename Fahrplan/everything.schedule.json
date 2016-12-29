@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "PEBCAK", 
+        "version": "BY DESIGN", 
         "conference": {
             "acronym": "33c3", 
             "title": "33. Chaos Communication Congress", 
@@ -1158,7 +1158,7 @@
                                 "links": [], 
                                 "attachments": [
                                     {
-                                        "url": "/system/event_attachments/attachments/000/003/114/original/33C3-SRLabs-Travel_Hacking.v1.pdf?1482889495", 
+                                        "url": "/system/event_attachments/attachments/000/003/146/original/33C3-SRLabs-Travel_Hacking.v2.pdf?1483040351", 
                                         "title": "Slides"
                                     }
                                 ]
@@ -5217,7 +5217,12 @@
                                         "public_name": "Philipp Winter"
                                     }
                                 ], 
-                                "links": [], 
+                                "links": [
+                                    {
+                                        "url": "https://wills.co.tt/33c3-censorship", 
+                                        "title": "Slides"
+                                    }
+                                ], 
                                 "attachments": []
                             }, 
                             {
@@ -10139,7 +10144,12 @@
                                         "title": "Nikola Tesla's \"Method of Signaling\" patent, 1903"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/137/original/The_woman_behind_your_WiFi.pdf?1483024611", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "id": 7811, 
@@ -10198,7 +10208,16 @@
                                         "title": "Talk on a part of this research given at \"Lange Nacht der Wissenschaften\" in Berlin"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/141/original/Slides_SaschaFriesike.pdf?1483027043", 
+                                        "title": "Slides"
+                                    }, 
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
+                                    }
+                                ]
                             }, 
                             {
                                 "id": 8231, 
@@ -10225,7 +10244,16 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/147/original/PUFs.pdf?1483045144", 
+                                        "title": "PUFs - slides"
+                                    }, 
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
+                                    }
+                                ]
                             }, 
                             {
                                 "id": 8330, 
@@ -10263,9 +10291,22 @@
                                     {
                                         "url": "http://zerocoin.org/media/pdf/ZerocoinOakland.pdf", 
                                         "title": "Zerocoin paper (2013)"
+                                    }, 
+                                    {
+                                        "url": "https://github.com/zcash/zips/raw/master/protocol/protocol.pdf", 
+                                        "title": "Zcash specification"
+                                    }, 
+                                    {
+                                        "url": "https://eprint.iacr.org/2013/879.pdf", 
+                                        "title": "Ben-Sasson et al.: \"Succinct Non-Interactive Zero Knowledge for a von Neumann Architecture\""
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/138/original/slides.pdf?1483024946", 
+                                        "title": "Presentation slides"
+                                    }
+                                ]
                             }
                         ], 
                         "Saal G": [
@@ -10500,7 +10541,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/145/original/VeganScience-33C3.odp?1483031089", 
+                                        "title": "slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "id": 8444, 
@@ -10563,7 +10609,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/133/original/Edible_Soft_Robotics_-_CCC_talk.pdf?1483016854", 
+                                        "title": "Edible Soft Robotics"
+                                    }
+                                ]
                             }, 
                             {
                                 "id": 8270, 
@@ -15848,7 +15899,16 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/139/original/DSGVO-Rechte_fu%CC%88r_Menschen_-__Pflichten_fu%CC%88r_Firmen_-_Chancen_fu%CC%88r_uns_-_33c3_talk_derPUPE.pdf?1483026528", 
+                                        "title": "Folien_-_DSGVO-Rechte_fu\u0308r_Menschen_-_ Pflichten_fu\u0308r_Firmen_-_Chancen_fu\u0308r_uns_-_33c3_talk_derPUPE"
+                                    }, 
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
+                                    }
+                                ]
                             }, 
                             {
                                 "id": 8445, 
