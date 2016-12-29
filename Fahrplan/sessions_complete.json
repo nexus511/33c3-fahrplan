@@ -617,6 +617,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:PEp_User_Interface_Design", 
         "Has end time": []
     }, 
+    "Session:VOC Video Post-Processing Cutting Videos with Donuts# 6e9715d17a1f7f5babde80bcd1fa77d5": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483024500"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:VOC", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "English or German hands-on"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:NeoFisch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "VOC Video Post-Processing Cutting Videos with Donuts"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts", 
+        "Has end time": [
+            "1483025400"
+        ]
+    }, 
     "Session:Are decentralized services unable to innovate?# 0043166f5c425145741cb5a178a7ac3c": {
         "Held in language": [
             "en - English"
@@ -1765,54 +1817,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Line-of-sight_visualizer", 
         "Has end time": [
             "1482866100"
-        ]
-    }, 
-    "Session:12V SolarPower & Sound# 4b3f5839ed1b234ff52a3dc742e8f263": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1483110000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "kleiner Einblick in die 12V Solar Strom Versorgung und MPPT-Laderegler gebastel"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Strom-peter", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Strom-peter", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "12V SolarPower & Sound"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:12V_SolarPower_%26_Sound", 
-        "Has end time": [
-            "1483111800"
         ]
     }, 
     "Session:Meet the Computertruhe e. V.# b9550c3f0177c82f81d04f28def60b11": {
@@ -3755,6 +3759,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Film-Blocker", 
         "Has end time": [
             "1483056000"
+        ]
+    }, 
+    "Session:Voctomix# b8ea83e6b940bcf3a544aa4ebd483d1c": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483027200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de"
+        ], 
+        "Has description": [
+            "GStreamer based application mixing/compositing live video and audio from various sources. Successor of DVswitch and gst-switch. Tailored to the needs of the C3VOC. In German or English."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:VOC", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "In German or English."
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:NeoFisch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Voctomix"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Voctomix", 
+        "Has end time": [
+            "1483029000"
         ]
     }, 
     "Session:What makes a secure mobile messenger? -- A comparison of WhatsApp competitors# 73db3246145a85eb6d6d6835c00e578e": {
@@ -6085,6 +6141,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
             "1483020000"
+        ]
+    }, 
+    "Session:VOC Video Post-Processing Cutting Videos with Donuts# 817cae801ba2e1254112e28333d3ed66": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483022700"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:VOC", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "English or German hands-on"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:NeoFisch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "VOC Video Post-Processing Cutting Videos with Donuts"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts", 
+        "Has end time": [
+            "1483023600"
         ]
     }, 
     "Session:Prototype Fund - 1.2 Million Euros for Free Software Projects# e4648cc036bc044ba52e220226e31772": {
@@ -8708,6 +8816,58 @@
             "1482940800"
         ]
     }, 
+    "Session:Voctomix# 16af719df4c7b8967ed82bc51eebd2c8": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483039800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de"
+        ], 
+        "Has description": [
+            "GStreamer based application mixing/compositing live video and audio from various sources. Successor of DVswitch and gst-switch. Tailored to the needs of the C3VOC. In German or English."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:VOC", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "In German or English."
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:NeoFisch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Voctomix"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Voctomix", 
+        "Has end time": [
+            "1483041600"
+        ]
+    }, 
     "Session:Film-Abend# fbc9e7ed36a705cf72c554aa7c10ff35": {
         "Held in language": [
             "en - English"
@@ -10881,6 +11041,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Let%27s_sing_together_the_Free_Software_Song", 
         "Has end time": [
             "1482928800"
+        ]
+    }, 
+    "Session:VOC Video Post-Processing Cutting Videos with Donuts# 19cffdc8f52aac12ef6bc90be6d62cee": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483023600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:VOC", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "English or German hands-on"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:NeoFisch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "VOC Video Post-Processing Cutting Videos with Donuts"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts", 
+        "Has end time": [
+            "1483024500"
         ]
     }, 
     "Session:An UnCivilization Commune ReWilded Life Shared with Squirrels# a5a1f9f1e38b6dd01be85740aa155bc6": {
@@ -13864,6 +14076,58 @@
             "1483054200"
         ]
     }, 
+    "Session:VOC Video Post-Processing Cutting Videos with Donuts# c0860d4152fcfef5376619166a828f8a": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483025400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:VOC", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "English or German hands-on"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:NeoFisch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "VOC Video Post-Processing Cutting Videos with Donuts"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts", 
+        "Has end time": [
+            "1483026300"
+        ]
+    }, 
     "Session:3D printing for beginners# 3e34e23260a6991b946f86b764eb0767": {
         "Held in language": [
             "en - English"
@@ -14434,6 +14698,58 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Security_Confessional:_Why_and_How_We_Make_Security_Compromises", 
         "Has end time": []
+    }, 
+    "Session:VOC Video Post-Processing Cutting Videos with Donuts# ceffa2e790badccbe756bddcbbc154ff": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483020900"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:VOC", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "English or German hands-on"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:NeoFisch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "VOC Video Post-Processing Cutting Videos with Donuts"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts", 
+        "Has end time": [
+            "1483021800"
+        ]
     }, 
     "Session:DIY Religion# 450a3e60ee53be55666c2db513b364a0": {
         "Held in language": [
@@ -16105,6 +16421,58 @@
             "1482796800"
         ]
     }, 
+    "Session:VOC Video Post-Processing Cutting Videos with Donuts# 24bd9d011c96f980fc47533f0e978dc6": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483021800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:VOC", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "English or German hands-on"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:NeoFisch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "VOC Video Post-Processing Cutting Videos with Donuts"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts", 
+        "Has end time": [
+            "1483022700"
+        ]
+    }, 
     "Session:IT-solutions for humanitarian crisis problems# 20371a76b601f1e4bea5b1c0244d0cc9": {
         "Held in language": [
             "en - English"
@@ -17404,6 +17772,56 @@
             "1483036200"
         ]
     }, 
+    "Session:12V SolarPower & Sound# 676b6601724eba279ed01f95a7ef1b30": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483110000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "kleiner Einblick in die 12V Solar Strom Versorgung und MPPT-Laderegler gebastel"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "!!!! f\u00e4llt leider aus !!!!"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Strom-peter", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Strom-peter", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "12V SolarPower & Sound"
+        ], 
+        "Has duration": [
+            0
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:12V_SolarPower_%26_Sound", 
+        "Has end time": [
+            "1483110000"
+        ]
+    }, 
     "Session:Entscheidungsfindung/Konsens# f101552c897eef3afa3eccf5d908a032": {
         "Held in language": [
             "de - German"
@@ -17635,6 +18053,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Design_in_Free_Software_%26_Open_Source", 
         "Has end time": [
             "1483034400"
+        ]
+    }, 
+    "Session:VOC Video Post-Processing Cutting Videos with Donuts# 70498484dcf8040d2b3beb8bd7b01c9c": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483026300"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:VOC", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "English or German hands-on"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:NeoFisch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "VOC Video Post-Processing Cutting Videos with Donuts"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts", 
+        "Has end time": [
+            "1483027200"
         ]
     }, 
     "Session:Hacker workflows# 2008f5a420ab39892d5d9e0e361255f3": {
