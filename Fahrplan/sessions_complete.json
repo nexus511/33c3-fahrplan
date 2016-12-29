@@ -1725,39 +1725,6 @@
             "1482787200"
         ]
     }, 
-    "Session:Hacking Tomu and 2FA# e228df7a0452ebbf833386702b64363a": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483106400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://tomu.im"
-        ], 
-        "Has description": [
-            "We are working on the Tomu devices and will discuss current issues and todos for future development, such as bootloader optimization and implementing different 2FA (2-Factor-Authentication) methods for use with the device. We will look at existing code and implementations of 2FA and we will work on implementations."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Hacking Tomu and 2FA"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hacking_Tomu_and_2FA", 
-        "Has end time": []
-    }, 
     "Session:Cyberthingy# 14ec99a1dab184da63411875173a1978": {
         "Held in language": [
             "en - English"
@@ -11092,7 +11059,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "4 simple rules:\n# The name of the game is Nomic.\n# The rules are to be applied in the order as written here.\n# The rules can be changed.\n# The first to reach 100 points wins."
+            "4 simple rules:\n# The name of the game is Nomic.\n# The rules are to be applied in the order as written here.\n# The rules can be changed.\n# The first to reach 100 points wins.\n\nTakes place in Room E in the right back."
         ], 
         "Has session type": [
             "Workshop"
@@ -13362,6 +13329,52 @@
             "1483027200"
         ]
     }, 
+    "Session:Hacking Tomu and 2FA# 37ff29fa1ab2d0dd865bdbf84de88590": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483106400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://tomu.im"
+        ], 
+        "Has description": [
+            "We are working on the Tomu devices and will discuss current issues and todos for future development, such as bootloader optimization and implementing different 2FA (2-Factor-Authentication) methods for use with the device. We will look at existing code and implementations of 2FA and we will work on implementations."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:RIAT Crypto Lab", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:RIAT_Crypto_Lab", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mithro", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mithro", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Hacking Tomu and 2FA"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hacking_Tomu_and_2FA", 
+        "Has end time": []
+    }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# e8d4aeb2d2ef0415687e34e714ed7c92": {
         "Held in language": [
             "en - English"
@@ -14943,6 +14956,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_beginners", 
         "Has end time": [
             "1482850800"
+        ]
+    }, 
+    "Session:Digitale Armut# 8fa4ca857c6b941868d946782fbfce27": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483106400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Seit Jahren schreitet die Digitalisierung weltweit rasant voran und erfasst die Gesellschaften in ausnahmslos allen Lebens- und Arbeitsbereichen. Dennoch sind gerade in hochentwickelten und reichen L\u00e4ndern wie Deutschland nicht alle in Bezug auf die digitale Infrastruktur gleich gut versorgt. Die Gef\u00e4llenlage ist kreuz und quer durch die Gesellschaft festzustellen: zwischen Stadt und Land, Jung und Alt, Arm und Reich, Oben und Unten. Welche Strukturen, Folgen und Auswirkungen umfasst die \"digitale Armut\" in einer Wohlstandsgesellschaft, die seit den Sozialreformen von vor \u00fcber 10 Jahren noch nie so gespalten scheint wie heute?"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Spacyarcangel3000", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Spacyarcangel3000", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Digitale Armut"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Digitale_Armut", 
+        "Has end time": [
+            "1483110000"
         ]
     }, 
     "Session:EITI Extractive Industries Transparency & Open Data# ad09bbbdbd9923682224b540352bf5ab": {
@@ -18463,45 +18524,54 @@
             "1483110000"
         ]
     }, 
-    "Session:Entscheidungsfindung/Konsens# f101552c897eef3afa3eccf5d908a032": {
+    "Session:Hackbases 5 years# ddbc6012ef70ad0e69112d0b1eee49e3": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482847200"
+            "1482950700"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://pad.totalism.org/p/33c3-hackbases"
+        ], 
         "Has description": [
-            "Herausforderung Konsensentscheid\nWie es sein sollte.\nWie es nicht sein sollte.\nWie es dann trotzdem klappt."
+            "Hackbases are similar to hackerspaces but people also live in them."
         ], 
         "Has session type": [
-            "Talk"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Dcht00", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dcht00", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Entscheidungsfindung/Konsens"
+            "Hackbases 5 years"
         ], 
         "Has duration": [
-            60
+            55
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Entscheidungsfindung/Konsens", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackbases_5_years", 
         "Has end time": [
-            "1482850800"
+            "1482954000"
         ]
     }, 
     "Session:Der 33 Jahrer\u00fcckblick: Technology and Politics in Congress Talks, from 1984 to now -- Post-Lecture Discussion!# bc5271e2e5d8e9f350638a71b5d0c18a": {
@@ -19758,54 +19828,45 @@
             "1483110000"
         ]
     }, 
-    "Session:Hackbases 5 years# ddbc6012ef70ad0e69112d0b1eee49e3": {
+    "Session:Entscheidungsfindung/Konsens# f101552c897eef3afa3eccf5d908a032": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482950700"
+            "1482847200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://pad.totalism.org/p/33c3-hackbases"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Hackbases are similar to hackerspaces but people also live in them."
+            "Herausforderung Konsensentscheid\nWie es sein sollte.\nWie es nicht sein sollte.\nWie es dann trotzdem klappt."
         ], 
         "Has session type": [
-            "Discussion"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Dcht00", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dcht00", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Hackbases 5 years"
+            "Entscheidungsfindung/Konsens"
         ], 
         "Has duration": [
-            55
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackbases_5_years", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Entscheidungsfindung/Konsens", 
         "Has end time": [
-            "1482954000"
+            "1482850800"
         ]
     }, 
     "Session:Klangteppich# 1d417fdc38d9002139dfa87a15a17e0e": {
