@@ -1383,12 +1383,12 @@
             "1483027200"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -1407,7 +1407,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -1428,7 +1428,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Flunkyball# 3464118d555bc81519f9e26273225748": {
@@ -4285,56 +4285,6 @@
             "1482886500"
         ]
     }, 
-    "Session:StudNetzTreffen# 6f2fb55d669cb01934781e80f01fc952": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1483047000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.studentennetze.de/"
-        ], 
-        "Has description": [
-            "Students networks from all over Germany and Europe are present at 33C3. We want to meet up and talk, share DIY-ISP experience, and get more people to join SNT regularly."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Toothstone", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Toothstone", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "StudNetzTreffen"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:StudNetzTreffen", 
-        "Has end time": [
-            "1483054200"
-        ]
-    }, 
     "Session:Klangteppich# e7efaa00f19b51ad38201d9ba027d3b6": {
         "Held in language": [
             "en - English"
@@ -6354,6 +6304,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Gender_diversity_in_the_Free_Software_community", 
         "Has end time": [
             "1483023600"
+        ]
+    }, 
+    "Session:Whiskyleaks# c169732218d712ee9ae26b536bf8b187": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483048800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://milliways.info/pad/p/33c3-whiskyleaks"
+        ], 
+        "Has description": [
+            "As always milliways is doing its nice whiskyleaks again."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Milliways", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mc.fly", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mc.fly", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Whiskyleaks"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Whiskyleaks", 
+        "Has end time": [
+            "1483059600"
         ]
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# 355c17455570d5dcd171a0a3ffdb2c05": {
@@ -9421,12 +9421,12 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -9445,7 +9445,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -9466,7 +9466,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -12242,12 +12242,12 @@
             "1482876000"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -12263,8 +12263,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -12289,7 +12289,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:Voctomix# b050941336d734e3026a81f03320b19e": {
@@ -14082,56 +14082,6 @@
             "1483030200"
         ]
     }, 
-    "Session:Whiskyleaks# 5c60b8f080fa565c157bf2f447c54bef": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483045200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://milliways.info/pad/p/33c3-whiskyleaks"
-        ], 
-        "Has description": [
-            "As always milliways is doing its nice whiskyleaks again."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Milliways", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Mc.fly", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mc.fly", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Whiskyleaks"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Whiskyleaks", 
-        "Has end time": [
-            "1483056000"
-        ]
-    }, 
     "Session:Eris Rising# 041120007c5283bda6bce6a6905ff6d5": {
         "Held in language": [
             "en - English"
@@ -15824,12 +15774,12 @@
             "1483029900"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
@@ -15845,8 +15795,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -15871,7 +15821,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482853500"
+            "1483026300"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
@@ -20130,6 +20080,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:12V_SolarPower_%26_Sound", 
         "Has end time": [
             "1482935400"
+        ]
+    }, 
+    "Session:StudNetzTreffen# 6ee9fc83feb22b00314d24d944adb8db": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483050600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.studentennetze.de/"
+        ], 
+        "Has description": [
+            "Students networks from all over Germany and Europe are present at 33C3. We want to meet up and talk, share DIY-ISP experience, and get more people to join SNT regularly."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Toothstone", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Toothstone", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "StudNetzTreffen"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:StudNetzTreffen", 
+        "Has end time": [
+            "1483057800"
         ]
     }, 
     "Session:Movie Night# e81169038db8e5ffee3fa6db477d956c": {
