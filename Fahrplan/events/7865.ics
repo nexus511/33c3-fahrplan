@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T141500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T134500
-DTSTAMP;VALUE=DATE-TIME:20161229T104621Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205332Z
 UID:1a6657a2-b6c2-4acc-b8fc-5ec081c0877f@frab.cccv.de
 DESCRIPTION:<p>More and more businesses are moving away from monolithic s
  ervers and turning to event-driven microservices powered by cloud functi

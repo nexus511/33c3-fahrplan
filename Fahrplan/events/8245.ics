@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T231500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T224500
-DTSTAMP;VALUE=DATE-TIME:20161213T214609Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205122Z
 UID:8270c91a-d6e2-4f1c-9ebb-cdf10708d921@frab.cccv.de
 DESCRIPTION:Imagine\, there is this huge data center but your user privil
  eges allow you to access only 5% of the data. That is the exact same sit

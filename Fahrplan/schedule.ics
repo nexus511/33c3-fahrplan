@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T214500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T211500
-DTSTAMP;VALUE=DATE-TIME:20161215T195054Z
+DTSTAMP;VALUE=DATE-TIME:20161229T203726Z
 UID:2aba641b-114d-4dac-866e-533314a3c108@frab.cccv.de
 DESCRIPTION:\nEarly digital computers were the size of rooms. While the d
  evices have gotten smaller\, because of the increasingly networked natur
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T171500
-DTSTAMP;VALUE=DATE-TIME:20161229T102125Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205517Z
 UID:4745fbc3-87d4-41eb-8c82-2c1bb8a51beb@frab.cccv.de
 DESCRIPTION:Germany has a good reputation for strong data protection. It 
  also features the only parliamentary inquiry committee investigating the
@@ -49,7 +49,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T190000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T183000
-DTSTAMP;VALUE=DATE-TIME:20161228T173418Z
+DTSTAMP;VALUE=DATE-TIME:20161229T193610Z
 UID:b1a28d62-75e9-48de-bec9-44df4e611685@frab.cccv.de
 DESCRIPTION:
 URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8428.html
@@ -70,7 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T113000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T110000
-DTSTAMP;VALUE=DATE-TIME:20161229T103109Z
+DTSTAMP;VALUE=DATE-TIME:20161229T211540Z
 UID:b8e0eb47-4832-4726-bc9b-9015bd96becf@frab.cccv.de
 DESCRIPTION:
 URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8429.html
@@ -80,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T184500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T181500
-DTSTAMP;VALUE=DATE-TIME:20161229T084038Z
+DTSTAMP;VALUE=DATE-TIME:20161229T210217Z
 UID:600ca67d-e18d-49d8-8e5d-08d5b38ec528@frab.cccv.de
 DESCRIPTION:tl\;dr: Mother Teresa said "If I look at the mass I will neve
  r act. If I look at the one\, I will." I'll present ways that make us ac
@@ -92,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T171500
-DTSTAMP;VALUE=DATE-TIME:20161213T214513Z
+DTSTAMP;VALUE=DATE-TIME:20161229T212129Z
 UID:a1f43609-a446-41e7-9ac6-4db12bcb14c1@frab.cccv.de
 DESCRIPTION:James Bridle is a British writer and artist living in Greece.
   His work explores the impact of technology on society\, law\, geography
@@ -109,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T171500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T164500
-DTSTAMP;VALUE=DATE-TIME:20161229T103117Z
+DTSTAMP;VALUE=DATE-TIME:20161229T200901Z
 UID:84ce6d72-3f4f-445b-801e-37f6a1331bed@frab.cccv.de
 DESCRIPTION:Artificial intelligence and machine learning are in a period 
  of astounding growth. However\, there are concerns that these technologi
@@ -142,7 +142,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T113000
-DTSTAMP;VALUE=DATE-TIME:20161229T085945Z
+DTSTAMP;VALUE=DATE-TIME:20161229T213207Z
 UID:f32a1a13-b244-4a1d-a6cf-99c5e3bdad27@frab.cccv.de
 DESCRIPTION:Most of us use mobile messaging every day. We use certain app
  s that we chose for a number of factors\, like our friends using it\, go
@@ -162,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T183000
-DTSTAMP;VALUE=DATE-TIME:20161229T104952Z
+DTSTAMP;VALUE=DATE-TIME:20161229T161757Z
 UID:f6811c99-96af-44d5-b82d-5afe826b2caf@frab.cccv.de
 DESCRIPTION:Instant money transfer\, globally without borders and 24/7. T
  hat’s one of the promises of Bitcoin. But how does national and internat
@@ -174,7 +174,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T000000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T230000
-DTSTAMP;VALUE=DATE-TIME:20161228T230357Z
+DTSTAMP;VALUE=DATE-TIME:20161229T201233Z
 UID:ef62eb53-cb69-42c6-aab0-bc9d3b0e1e92@frab.cccv.de
 DESCRIPTION:How to stop the ATMs fraud? How to protect ATMs from attacks 
  such as black box jackpotting? How to prevent network hijacking such as 
@@ -190,7 +190,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T183000
-DTSTAMP;VALUE=DATE-TIME:20161213T214930Z
+DTSTAMP;VALUE=DATE-TIME:20161229T210202Z
 UID:b5be9501-88f1-4d9f-a5aa-269c8ff22d37@frab.cccv.de
 DESCRIPTION:Why is it so hard to go to the Moon? The curse of Newtonian M
  echanics and Tsiolkovsky's Rocket Equation force us to build huge rocket
@@ -235,7 +235,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T210000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T203000
-DTSTAMP;VALUE=DATE-TIME:20161218T165056Z
+DTSTAMP;VALUE=DATE-TIME:20161229T211917Z
 UID:198bdfe5-24cf-4b2f-9cd5-7522a99b3b4e@frab.cccv.de
 DESCRIPTION:Wer all unsere Daten der Gegenwart mit selbstlernenden Algori
  thmen auswertet\, wird die nahe Zukunft grob vorhersagen können. Die Ins
@@ -265,7 +265,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T190000
-DTSTAMP;VALUE=DATE-TIME:20161229T103629Z
+DTSTAMP;VALUE=DATE-TIME:20161229T191016Z
 UID:b7e028fa-175f-464d-bc85-adf56e358626@frab.cccv.de
 DESCRIPTION:Auf der Hoaxmap werden seit vergangenem Februar Gerüchte über
   Geflüchtete und deren Widerlegungen gesammelt\, sortiert und in Kartenf
@@ -279,7 +279,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T150000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T140000
-DTSTAMP;VALUE=DATE-TIME:20161228T230434Z
+DTSTAMP;VALUE=DATE-TIME:20161229T210015Z
 UID:64c07cb5-ec19-4972-a2c8-96c0e0df83c6@frab.cccv.de
 DESCRIPTION:Heads is an open source custom firmware and OS configuration 
  for laptops and servers that aims to provide slightly better physical se
@@ -298,7 +298,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T213000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T203000
-DTSTAMP;VALUE=DATE-TIME:20161229T105023Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205832Z
 UID:1f7eb981-2819-4824-8f40-4ddde0be7bf3@frab.cccv.de
 DESCRIPTION:When thinking about surveillance\, everyone worries about gov
  ernment agencies like the NSA and big corporations like Google and Faceb
@@ -313,7 +313,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T160000
-DTSTAMP;VALUE=DATE-TIME:20161222T140556Z
+DTSTAMP;VALUE=DATE-TIME:20161229T211725Z
 UID:70269173-72a8-4eab-b356-f22faea6cdca@frab.cccv.de
 DESCRIPTION:How to build a pinball machine? We introduce you to all basic
  s and explain the different options for hardware and software. As an exa
@@ -325,7 +325,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T134500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T124500
-DTSTAMP;VALUE=DATE-TIME:20161213T214816Z
+DTSTAMP;VALUE=DATE-TIME:20161229T173431Z
 UID:48e016a4-5683-4bda-8976-98f1dbf62787@frab.cccv.de
 DESCRIPTION:Software Defined Radios (SDRs) became a mainstream tool for w
  ireless engineers and security researches and there are plenty of them a
@@ -348,7 +348,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T150000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T124500
-DTSTAMP;VALUE=DATE-TIME:20161213T214918Z
+DTSTAMP;VALUE=DATE-TIME:20161229T212832Z
 UID:0c197c9a-35eb-4780-a38d-9c53b7ff9bea@frab.cccv.de
 DESCRIPTION:Wir werden einen Überblick über die Themen geben\, die den Ch
  aos Computer Club 2016 beschäftigt haben. Neben der Zusammenfassung und 
@@ -362,7 +362,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T163000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T160000
-DTSTAMP;VALUE=DATE-TIME:20161229T094621Z
+DTSTAMP;VALUE=DATE-TIME:20161229T210050Z
 UID:56537f49-c8f0-4d73-bdba-d4d8307fc170@frab.cccv.de
 DESCRIPTION:Polizeibehörden und Geheimdienste sammeln Daten der Bürger – 
  mehr als je zuvor. Der Bestand an unterschiedlichen Datenbanken ist enor
@@ -376,7 +376,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T000000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T230000
-DTSTAMP;VALUE=DATE-TIME:20161229T102430Z
+DTSTAMP;VALUE=DATE-TIME:20161229T125601Z
 UID:90c2f1c6-c32e-4bb2-b8a0-db6b4e24e4b3@frab.cccv.de
 DESCRIPTION:The talk is about the paging system\, an old technology in th
  e 90's\, used in healthcare\, ICS and government\, a systematic review o
@@ -409,7 +409,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T000000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T230000
-DTSTAMP;VALUE=DATE-TIME:20161228T231450Z
+DTSTAMP;VALUE=DATE-TIME:20161229T191108Z
 UID:700a07e7-a9c4-437b-a4c5-4491b23a9b4a@frab.cccv.de
 DESCRIPTION:Last year\, we demonstrated Linux running on the PS4 in a lig
  htning talk - presented on the PS4 itself. But how did we do it? In a de
@@ -424,7 +424,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T160000
-DTSTAMP;VALUE=DATE-TIME:20161229T101941Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205254Z
 UID:bfc2ab1f-8384-4d7d-801a-dde8c81e039c@frab.cccv.de
 DESCRIPTION:EU copyright reform plans threaten freedom of expression: Com
  missioner Günther Oettinger wants to make sharing even the tiniest snipp
@@ -438,7 +438,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T113000
-DTSTAMP;VALUE=DATE-TIME:20161218T190556Z
+DTSTAMP;VALUE=DATE-TIME:20161229T212227Z
 UID:b5b4ce04-1e4b-4e09-8347-4e72cb5f90b9@frab.cccv.de
 DESCRIPTION:Today virtually everything we do is monitored in some way. Th
  e collection\, analysis and utilization of digital information about our
@@ -453,7 +453,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T224500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T203000
-DTSTAMP;VALUE=DATE-TIME:20161229T020542Z
+DTSTAMP;VALUE=DATE-TIME:20161229T201517Z
 UID:835ad2b7-162f-4731-b032-603eee69371b@frab.cccv.de
 DESCRIPTION:Der Kampf der Hinterbliebenen um die Wahrheit\n---\nGeride ka
  lanların gerçekler için savaşı\n
@@ -481,7 +481,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T183000
-DTSTAMP;VALUE=DATE-TIME:20161213T213920Z
+DTSTAMP;VALUE=DATE-TIME:20161229T210622Z
 UID:5fb5e620-383a-4679-b37a-beef20bcd4fe@frab.cccv.de
 DESCRIPTION:LoRa is an emerging Low Power Wide Area Network\, a new class
   of wireless technology designed to connect everything from streetlights
@@ -496,7 +496,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T224500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T214500
-DTSTAMP;VALUE=DATE-TIME:20161228T204809Z
+DTSTAMP;VALUE=DATE-TIME:20161229T191010Z
 UID:a1a52c4c-8233-403b-8f04-db981df016c1@frab.cccv.de
 DESCRIPTION:Transport Layer Security (TLS) 1.3 is almost here. The protoc
  ol that protects most of the Internet secure connections is getting the 
@@ -515,7 +515,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T120000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T113000
-DTSTAMP;VALUE=DATE-TIME:20161228T230609Z
+DTSTAMP;VALUE=DATE-TIME:20161229T134425Z
 UID:658b276a-e3a2-4698-b2a8-2edb724be17e@frab.cccv.de
 DESCRIPTION:The proper relationship of technology and politics have been 
  the subject of an evergreen debate on the floor of the Chaos Communicati
@@ -529,7 +529,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T160000
-DTSTAMP;VALUE=DATE-TIME:20161229T104731Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205448Z
 UID:6347d122-daf0-4b30-851c-32cac06bf6bd@frab.cccv.de
 DESCRIPTION:Mit dem Erstarken der Rechtspopulisten (nicht nur in Deutschl
  and) werden populistische Positionen immer häufiger hingenommen\, obwohl
@@ -548,7 +548,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T190000
-DTSTAMP;VALUE=DATE-TIME:20161228T231203Z
+DTSTAMP;VALUE=DATE-TIME:20161229T210254Z
 UID:378cdf23-350b-4a05-afd0-6360139a7a06@frab.cccv.de
 DESCRIPTION:At 32C3 we gave an overview on the organizational and technic
  al aspects of Dieselgate that had just broken public three months before
@@ -562,7 +562,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T171500
-DTSTAMP;VALUE=DATE-TIME:20161213T214216Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205425Z
 UID:aaec73e9-66b9-46d2-aa0f-9f43018198ea@frab.cccv.de
 DESCRIPTION:Ever wondered what is actually happening when a speaker can't
   get their laptop to project? While developing the FPGA-based <a href="h
@@ -576,7 +576,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T150000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T140000
-DTSTAMP;VALUE=DATE-TIME:20161213T214510Z
+DTSTAMP;VALUE=DATE-TIME:20161229T213257Z
 UID:bc638f9f-0370-42f9-b83c-f85cca4ca38d@frab.cccv.de
 DESCRIPTION:Let's have a detailed look at some modern 3G/4G cellular mode
  ms and see what we can find out about their internals using undocumented
@@ -588,7 +588,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T160000
-DTSTAMP;VALUE=DATE-TIME:20161213T213807Z
+DTSTAMP;VALUE=DATE-TIME:20161229T173020Z
 UID:b8d9fac7-bbe6-40da-aa80-aed27f77a708@frab.cccv.de
 DESCRIPTION:Input/Output is the mechanisms through which embedded systems
   interact and control the outside world. Particularly when employed in m
@@ -622,7 +622,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T000000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T230000
-DTSTAMP;VALUE=DATE-TIME:20161229T091048Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205808Z
 UID:c9f7749d-c365-43ad-9869-1f014c9f1f06@frab.cccv.de
 DESCRIPTION:Seit einigen Jahren formieren sich am rechten Rand der Gesell
  schaft explosionsartig neue rassistische\, völkisch-nationalistische und
@@ -644,7 +644,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T231500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T224500
-DTSTAMP;VALUE=DATE-TIME:20161213T214609Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205122Z
 UID:8270c91a-d6e2-4f1c-9ebb-cdf10708d921@frab.cccv.de
 DESCRIPTION:Imagine\, there is this huge data center but your user privil
  eges allow you to access only 5% of the data. That is the exact same sit
@@ -677,7 +677,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T004500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T001500
-DTSTAMP;VALUE=DATE-TIME:20161229T102218Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205842Z
 UID:9d36932f-616a-4677-b924-60c1986fbbfc@frab.cccv.de
 DESCRIPTION:Der Vortrag gibt einen Abriss über die Geschichte der Parlame
  ntsschlägerei\, ordnet diese politisch und geografisch ein - um dann die
@@ -692,7 +692,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T171500
-DTSTAMP;VALUE=DATE-TIME:20161229T104930Z
+DTSTAMP;VALUE=DATE-TIME:20161229T201227Z
 UID:4ef69e6a-026f-4b30-888d-af654b220a3d@frab.cccv.de
 DESCRIPTION:Blockchain ist die Technologie welche moderne Kryptowährungen
   ermöglicht. In dem Vortrag wird die Funktionsweise von Blockchains ganz
@@ -705,7 +705,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T120000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T113000
-DTSTAMP;VALUE=DATE-TIME:20161229T102920Z
+DTSTAMP;VALUE=DATE-TIME:20161229T212001Z
 UID:d1681340-162c-48ce-8c0b-61c3e176696d@frab.cccv.de
 DESCRIPTION:Jeder weiß ungefähr was ein Mikroskop ist und vielleicht hat 
  man auch mal davon gehört das da immernoch dran geforscht wird – Stichwo
@@ -739,7 +739,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T113000
-DTSTAMP;VALUE=DATE-TIME:20161228T230814Z
+DTSTAMP;VALUE=DATE-TIME:20161229T124141Z
 UID:c54bec28-0cec-4472-9a0f-36be8b626dd7@frab.cccv.de
 DESCRIPTION:Certificate transparency - what is it\, and what can be done 
  with it?
@@ -751,7 +751,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T134500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T124500
-DTSTAMP;VALUE=DATE-TIME:20161228T231153Z
+DTSTAMP;VALUE=DATE-TIME:20161229T211646Z
 UID:798573a8-f544-48f0-abaf-ebc405f03f4a@frab.cccv.de
 DESCRIPTION:PHP-7 is a new version of the most prevalent server-side lang
  uage in use today. Like previous version\, this version is also vulnerab
@@ -769,7 +769,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T021500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T004500
-DTSTAMP;VALUE=DATE-TIME:20161229T095224Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205748Z
 UID:f21478d4-e8db-4f19-854c-2f74b5824706@frab.cccv.de
 DESCRIPTION:Wenn mal wieder der Zensor pinkeln war\, wenn DAMIT ja wohl N
  IEMAND rechnen konnte\, wenn es um demokratisch legitimiertes Baumanagem
@@ -825,7 +825,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T180000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T173000
-DTSTAMP;VALUE=DATE-TIME:20161228T231111Z
+DTSTAMP;VALUE=DATE-TIME:20161229T185438Z
 UID:dd070191-1d1c-4b9c-a887-e4950a688cdb@frab.cccv.de
 DESCRIPTION:This talk presents the results of the technical analysis for 
  the German Parliamentary Committee investigating the NSA spying scandal 
@@ -837,7 +837,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T141500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T134500
-DTSTAMP;VALUE=DATE-TIME:20161229T104621Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205332Z
 UID:1a6657a2-b6c2-4acc-b8fc-5ec081c0877f@frab.cccv.de
 DESCRIPTION:<p>More and more businesses are moving away from monolithic s
  ervers and turning to event-driven microservices powered by cloud functi
@@ -855,7 +855,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T160000
-DTSTAMP;VALUE=DATE-TIME:20161213T214753Z
+DTSTAMP;VALUE=DATE-TIME:20161229T183619Z
 UID:2f586f3b-5399-496c-ab03-c25ad8ea8cf6@frab.cccv.de
 DESCRIPTION:Inspired by a long history of bold reality hacks this talk co
  nsiders the kinds of potentials opening up through emerging Virtual Real
@@ -870,7 +870,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T223000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T220000
-DTSTAMP;VALUE=DATE-TIME:20161213T214623Z
+DTSTAMP;VALUE=DATE-TIME:20161229T212633Z
 UID:a6b27767-e42d-4610-a8d5-5a1f20587b34@frab.cccv.de
 DESCRIPTION:Talk presents findings from sociological investigation on hac
  king collectives. I will try to answer the question whether hacking coll
@@ -885,7 +885,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T133000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T130000
-DTSTAMP;VALUE=DATE-TIME:20161228T231000Z
+DTSTAMP;VALUE=DATE-TIME:20161229T164136Z
 UID:60b52369-b0ee-455f-904a-4dfef49596eb@frab.cccv.de
 DESCRIPTION:In this lecture I wish to reflect on the maturation of the se
  curity and hacking communities and their role in larger societal and pol
@@ -903,7 +903,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T150000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T143000
-DTSTAMP;VALUE=DATE-TIME:20161213T214527Z
+DTSTAMP;VALUE=DATE-TIME:20161229T164839Z
 UID:c849ebc8-b3b9-49fb-a9a2-ebef217c80b6@frab.cccv.de
 DESCRIPTION:Der neue Straftatbestand der Datenhehlerei gem. § 202d StGB k
  riminalisiert Whistleblower und droht mit Haftstrafe bis zu drei Jahren 
@@ -928,7 +928,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T183000
-DTSTAMP;VALUE=DATE-TIME:20161215T123250Z
+DTSTAMP;VALUE=DATE-TIME:20161229T211928Z
 UID:155a622a-196e-4e05-a262-88f3a7726bbe@frab.cccv.de
 DESCRIPTION:Die Verfügbarkeit preiswerter Maschinentechnik und Open Sourc
  e CAD-Software hat den Aufwand des Herstellens eigener mechanischer Schl
@@ -950,7 +950,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T134500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T124500
-DTSTAMP;VALUE=DATE-TIME:20161229T102927Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205943Z
 UID:5a517be2-220b-4eb6-88c3-e7ef08c98ace@frab.cccv.de
 DESCRIPTION:Follow the steps taken to crack a conditional access and scra
  mbling system used in millions of TV set-top-boxes across North America.
@@ -966,7 +966,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T113000
-DTSTAMP;VALUE=DATE-TIME:20161213T214338Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205803Z
 UID:0d02bd82-f771-471c-b4bb-5e24b755b169@frab.cccv.de
 DESCRIPTION:Pseudo-random number generators (PRNGs) are critical pieces o
  f security\ninfrastructure. Yet\, PRNGs are surprisingly difficult to de
@@ -986,7 +986,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T124500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T121500
-DTSTAMP;VALUE=DATE-TIME:20161229T104046Z
+DTSTAMP;VALUE=DATE-TIME:20161229T204948Z
 UID:8aaa55ad-b426-4d7a-8d46-f4b34a906eda@frab.cccv.de
 DESCRIPTION:Physicists are not computer scientists. But at CERN and world
  wide\, they need to analyze petabytes of data\, efficiently. Since more 
@@ -1008,7 +1008,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T141500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T134500
-DTSTAMP;VALUE=DATE-TIME:20161228T230705Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205227Z
 UID:4bff9cb3-9e91-4305-9029-f4d9053c7b5c@frab.cccv.de
 DESCRIPTION:Applied IT security is largely a science-free field. The IT-S
  ecurity industry is selling a range of products with often very question
@@ -1026,7 +1026,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T224500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T214500
-DTSTAMP;VALUE=DATE-TIME:20161228T232619Z
+DTSTAMP;VALUE=DATE-TIME:20161229T191236Z
 UID:8d0aed87-2484-4880-ae08-2dc3c7898959@frab.cccv.de
 DESCRIPTION:<p>To break into a building\, several methods have already be
  en discussed\, such as trying to find the code\npaths of a digicode\, cl
@@ -1056,7 +1056,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T120000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T113000
-DTSTAMP;VALUE=DATE-TIME:20161228T132556Z
+DTSTAMP;VALUE=DATE-TIME:20161229T212303Z
 UID:2a9ac911-1072-4672-8fbc-2887f4fd7aec@frab.cccv.de
 DESCRIPTION:The Common Reporting Standard is a multinational agreement  s
  igned by more than 80 nations\, including all EU member states. The sign
@@ -1068,7 +1068,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T214500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T211500
-DTSTAMP;VALUE=DATE-TIME:20161227T112134Z
+DTSTAMP;VALUE=DATE-TIME:20161229T213443Z
 UID:c4211c94-7cea-457d-9214-7ccf5d7c89cc@frab.cccv.de
 DESCRIPTION:The long term survival of the human species requires that we 
  become an interplanetary species. But we must answer two big questions: 
@@ -1084,7 +1084,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T214500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T211500
-DTSTAMP;VALUE=DATE-TIME:20161215T104742Z
+DTSTAMP;VALUE=DATE-TIME:20161229T211942Z
 UID:7c3a4ac8-1925-4459-bdd8-b9d9e18a6cfa@frab.cccv.de
 DESCRIPTION:Dieses Jahr feiert das Informationsfreiheitsgesetz (IFG) sein
  en zehnten Geburtstag – und niemand feiert mit. Zeit für eine Abrechnung
@@ -1096,7 +1096,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T223000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T220000
-DTSTAMP;VALUE=DATE-TIME:20161213T215047Z
+DTSTAMP;VALUE=DATE-TIME:20161229T213214Z
 UID:babc1d56-c3b9-4a21-bfae-af4190c05e93@frab.cccv.de
 DESCRIPTION:Joan Heemskerk and Dirk Paesmans\, collectively known as JODI
  \, are rightfully venerated for their countless contributions to art and
@@ -1108,7 +1108,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T171500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T164500
-DTSTAMP;VALUE=DATE-TIME:20161229T103019Z
+DTSTAMP;VALUE=DATE-TIME:20161229T210116Z
 UID:e4fbbb8d-0b74-4129-83b7-bda2247175bc@frab.cccv.de
 DESCRIPTION:Im Spannungsfeld zwischen der Vorderfront der Computertechnik
   und einem Spezialbereich des Urheberrechts hat sich eine Industrie eine
@@ -1125,7 +1125,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T190000
-DTSTAMP;VALUE=DATE-TIME:20161213T214933Z
+DTSTAMP;VALUE=DATE-TIME:20161229T210236Z
 UID:65d150d3-f432-4a36-b3e3-20ee80ad913c@frab.cccv.de
 DESCRIPTION:Keys Of Fury is a brutalist storytelling about technology and
   keystrokes where text is used unadorned and roughcast\, like concrete. 
@@ -1144,7 +1144,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T223000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T220000
-DTSTAMP;VALUE=DATE-TIME:20161213T213904Z
+DTSTAMP;VALUE=DATE-TIME:20161229T213455Z
 UID:b092a437-b612-4887-ba55-f08ddfe333b9@frab.cccv.de
 DESCRIPTION:At 32C3 we shot lasers into space... now it's lasers in space
  !\nWe look at space- and airborne laser platforms and what practical use
@@ -1160,7 +1160,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T163000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T160000
-DTSTAMP;VALUE=DATE-TIME:20161229T003258Z
+DTSTAMP;VALUE=DATE-TIME:20161229T163924Z
 UID:c92203a0-9158-4111-ab52-5dacd0e46c73@frab.cccv.de
 DESCRIPTION:In early 2015\, the Federal Bureau of Investigation hacked co
  mputers in Austria\, Denmark\, Chile\, Colombia\, Greece\, and likely th
@@ -1174,7 +1174,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T150000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T140000
-DTSTAMP;VALUE=DATE-TIME:20161220T155421Z
+DTSTAMP;VALUE=DATE-TIME:20161229T174335Z
 UID:6caf962e-8a5e-4dba-ab7e-d3b6a71dc376@frab.cccv.de
 DESCRIPTION:France is under a state of emergency since November 2015. Sev
  eral laws and a more intrusive surveillance framework\, infringing right
@@ -1188,7 +1188,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T150000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T124500
-DTSTAMP;VALUE=DATE-TIME:20161228T230710Z
+DTSTAMP;VALUE=DATE-TIME:20161229T161530Z
 UID:090675f6-f86e-4082-886b-e13c9c837ecb@frab.cccv.de
 DESCRIPTION:Lightning Talks are short lectures (almost) any congress part
  icipant may give! Bring your infectious enthusiasm to an audience with a
@@ -1202,7 +1202,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T150000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T124500
-DTSTAMP;VALUE=DATE-TIME:20161227T083212Z
+DTSTAMP;VALUE=DATE-TIME:20161229T211814Z
 UID:853f2681-504c-45bf-b9af-cbabd005c376@frab.cccv.de
 DESCRIPTION:Lightning Talks are short lectures (almost) any congress part
  icipant may give! Bring your infectious enthusiasm to an audience with a
@@ -1230,7 +1230,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T224500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T214500
-DTSTAMP;VALUE=DATE-TIME:20161228T230931Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205220Z
 UID:8c32309e-7136-4899-8ee4-1558e63ad137@frab.cccv.de
 DESCRIPTION:"Smart" devices using BTLE\, a mobile phone and the Internet 
  are becoming more and more popular. We will be using mechanical and elec
@@ -1246,7 +1246,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T160000
-DTSTAMP;VALUE=DATE-TIME:20161213T214844Z
+DTSTAMP;VALUE=DATE-TIME:20161229T213332Z
 UID:cb23378b-6db0-4e2f-a4c8-f5006a467ca3@frab.cccv.de
 DESCRIPTION:Artificial Intelligence provides a conceptual framework to un
  derstand mind and universe in new ways\, clearing the obstacles that hin
@@ -1259,7 +1259,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T213000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T203000
-DTSTAMP;VALUE=DATE-TIME:20161228T230758Z
+DTSTAMP;VALUE=DATE-TIME:20161229T211013Z
 UID:143759c6-2cad-4fc8-a120-86dcc8de97e6@frab.cccv.de
 DESCRIPTION:Mit steigendem Datenaufkommen und einer immer größer werdende
  n Zahl von Geräten muss auch das WLAN wachsen. Nach "ur WiFi sucks!!1!" 
@@ -1273,7 +1273,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T184500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T181500
-DTSTAMP;VALUE=DATE-TIME:20161228T230349Z
+DTSTAMP;VALUE=DATE-TIME:20161229T164216Z
 UID:80190dbb-bf17-40a0-95e4-18a32bcd37e4@frab.cccv.de
 DESCRIPTION:After three years the EU has for the first time new Net Neutr
  ality rules. What do they mean in practice? Which commercial practices b
@@ -1288,7 +1288,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T160000
-DTSTAMP;VALUE=DATE-TIME:20161215T103026Z
+DTSTAMP;VALUE=DATE-TIME:20161229T210450Z
 UID:07a731a0-2c3a-40f1-928e-3f709eb1eccf@frab.cccv.de
 DESCRIPTION:The participation of women in computer education is low\; und
  ergraduate classrooms in Germany were only 10% female in 2000[1]. The pi
@@ -1318,7 +1318,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T134500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T124500
-DTSTAMP;VALUE=DATE-TIME:20161227T171045Z
+DTSTAMP;VALUE=DATE-TIME:20161229T191332Z
 UID:4c92b3f4-e32a-483b-9e5f-4e8201849284@frab.cccv.de
 DESCRIPTION:We are 4 security researchers who have collectively worked on
   3 different attack techniques that all (ab)use memory deduplication in 
@@ -1358,7 +1358,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T113000
-DTSTAMP;VALUE=DATE-TIME:20161213T214350Z
+DTSTAMP;VALUE=DATE-TIME:20161229T164306Z
 UID:a431b8a5-b8af-4ccf-bba2-7b1d88a782fb@frab.cccv.de
 DESCRIPTION:In August 2016\, Apple issued updates to iOS and macOS that p
  atched three zero-day vulnerabilities that were being exploited in the w
@@ -1374,7 +1374,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T213000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T203000
-DTSTAMP;VALUE=DATE-TIME:20161229T103702Z
+DTSTAMP;VALUE=DATE-TIME:20161229T191511Z
 UID:c06dd4c2-c637-445d-9c72-92204a35eeff@frab.cccv.de
 DESCRIPTION:Ein Überblick zur netzpolitischen Situation in der Schweiz. W
  ir geben einen umfassenden Rückblick auf das ereignissreiche Jahr 2016\,
@@ -1391,7 +1391,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T224500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T214500
-DTSTAMP;VALUE=DATE-TIME:20161229T103828Z
+DTSTAMP;VALUE=DATE-TIME:20161229T164316Z
 UID:c53f6fb8-8fe5-487f-9d5c-15ac56edd6b1@frab.cccv.de
 DESCRIPTION:Die Netzpolitik der österreichischen Bundesregierung hat sich
   im Jahr 2016 nicht besser dargestellt als die Jahre davor: Neue Überwac
@@ -1409,7 +1409,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T011500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T001500
-DTSTAMP;VALUE=DATE-TIME:20161229T103942Z
+DTSTAMP;VALUE=DATE-TIME:20161229T201507Z
 UID:2689ebfe-0d84-4c88-9ea6-5cadad9d4fa4@frab.cccv.de
 DESCRIPTION:Der NSA-Untersuchungsausschuss im Bundestag soll aufklären\, 
  was die NSA in Deutschland tut und wie deutsche Geheimdienste in diese A
@@ -1424,7 +1424,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T213000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T203000
-DTSTAMP;VALUE=DATE-TIME:20161228T231321Z
+DTSTAMP;VALUE=DATE-TIME:20161229T210317Z
 UID:686b1941-b211-4902-b4c4-1d642398e08b@frab.cccv.de
 DESCRIPTION:This talk will give a unique insight of what happens when con
  soles have been hacked already\, but not all secrets are busted yet.\nTh
@@ -1439,7 +1439,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T183000
-DTSTAMP;VALUE=DATE-TIME:20161226T175641Z
+DTSTAMP;VALUE=DATE-TIME:20161229T182818Z
 UID:65833373-6cae-4f9d-947b-c93a83ff1ba1@frab.cccv.de
 DESCRIPTION:Lauri Love has never set foot in the United States\, yet he i
  s facing a potential century in jail if extradited for his alleged invol
@@ -1453,7 +1453,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T160000
-DTSTAMP;VALUE=DATE-TIME:20161229T030217Z
+DTSTAMP;VALUE=DATE-TIME:20161229T145328Z
 UID:e204268f-0cea-4a1f-bb38-e7d50496492e@frab.cccv.de
 DESCRIPTION:How to get USB running on an ARM microcontroller that has no 
  built in USB hardware.  We'll cover electrical requirements\, pin assign
@@ -1467,7 +1467,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T134500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T124500
-DTSTAMP;VALUE=DATE-TIME:20161213T214643Z
+DTSTAMP;VALUE=DATE-TIME:20161229T213236Z
 UID:7a5971c8-746b-4450-ba89-6569667f77c2@frab.cccv.de
 DESCRIPTION:Smart City is an abstract concept everyone talks about but no
   one knows what it actually means. No one\, except Energy utilities.\nIn
@@ -1484,7 +1484,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T183000
-DTSTAMP;VALUE=DATE-TIME:20161229T104925Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205153Z
 UID:7ef9172a-e2c7-4e78-9316-08449bd582c6@frab.cccv.de
 DESCRIPTION:<p>Many web sites allow users to log in with their Facebook o
  r Google account. This so-called Web single sign-on (SSO) often uses the
@@ -1521,7 +1521,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T180000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T173000
-DTSTAMP;VALUE=DATE-TIME:20161229T094723Z
+DTSTAMP;VALUE=DATE-TIME:20161229T190959Z
 UID:cb67ad7f-7e12-4f34-aec0-748a61f3f958@frab.cccv.de
 DESCRIPTION:This talk will take an in-depth look at the technical capabil
  ities and vulnerabilities used by Pegasus. We will focus on Pegasus’s fe
@@ -1540,7 +1540,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T150000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T140000
-DTSTAMP;VALUE=DATE-TIME:20161228T150643Z
+DTSTAMP;VALUE=DATE-TIME:20161229T173530Z
 UID:1efa803c-d280-49f0-bd17-8ec8f28e054f@frab.cccv.de
 DESCRIPTION:We analyze the generation and management of WPA2 group keys. 
  These keys protect broadcast and multicast Wi-Fi traffic. We discovered 
@@ -1580,7 +1580,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T153000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T143000
-DTSTAMP;VALUE=DATE-TIME:20161229T104705Z
+DTSTAMP;VALUE=DATE-TIME:20161229T185912Z
 UID:56b62043-b92d-4b32-b5d0-b78d8fbcbb24@frab.cccv.de
 DESCRIPTION:The 2016 U.S. presidential election was preceded by unprecede
  nted cyberattacks and produced a result that surprised many people in th
@@ -1616,7 +1616,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T113000
-DTSTAMP;VALUE=DATE-TIME:20161229T084104Z
+DTSTAMP;VALUE=DATE-TIME:20161229T171259Z
 UID:f75d0531-ac47-4edd-99bd-9eadd836982a@frab.cccv.de
 DESCRIPTION:<a href="https://outernet.is">Outernet</a> is a company whose
   goal is to ease worldwide access to internet contents by broadcasting f
@@ -1634,7 +1634,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T180000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T173000
-DTSTAMP;VALUE=DATE-TIME:20161228T230609Z
+DTSTAMP;VALUE=DATE-TIME:20161229T210136Z
 UID:fc959f0c-5e93-4b23-8a63-5b6478adb700@frab.cccv.de
 DESCRIPTION:Nach drei Jahren wurde endlich die nutzerunfreundliche Praxis
   des Routerzwangs („Compulsory Routers“) gesetzlich für unzulässig erklä
@@ -1648,7 +1648,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T214500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T211500
-DTSTAMP;VALUE=DATE-TIME:20161213T214432Z
+DTSTAMP;VALUE=DATE-TIME:20161229T211130Z
 UID:094b6119-b261-4750-89cf-43fed50eb679@frab.cccv.de
 DESCRIPTION:Describing the science behind new high tech vegan foods which
   will replace animal agriculture. I will also discuss the potential impa
@@ -1661,7 +1661,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T171500
-DTSTAMP;VALUE=DATE-TIME:20161228T232004Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205328Z
 UID:c45fa431-69f9-47db-a90c-fb596efdcb55@frab.cccv.de
 DESCRIPTION:Refugees are dying in the Mediterranean Sea. Thousands of the
  m. \nWe are building fixed wing drones\, autonomously searching for refu
@@ -1688,7 +1688,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T000000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T230000
-DTSTAMP;VALUE=DATE-TIME:20161228T230557Z
+DTSTAMP;VALUE=DATE-TIME:20161229T163257Z
 UID:5ae90a09-0b83-4357-bdb4-9afc04100c68@frab.cccv.de
 DESCRIPTION:This talk will explore the hard- and software of the Amazon D
  ash button.
@@ -1699,7 +1699,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T171500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T164500
-DTSTAMP;VALUE=DATE-TIME:20161229T084046Z
+DTSTAMP;VALUE=DATE-TIME:20161229T201454Z
 UID:74783236-46f4-493c-9574-1b27a44847b7@frab.cccv.de
 DESCRIPTION:FinTechs increasingly cut the ground from under long-establis
  hed banks’ feet. With a "Mobile First" strategy\, many set their sights 
@@ -1720,7 +1720,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T213000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T203000
-DTSTAMP;VALUE=DATE-TIME:20161229T102651Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205048Z
 UID:4de841b2-0f34-494e-ba5b-0b79ba2c88cd@frab.cccv.de
 DESCRIPTION:A technical talk on how to reverse-engineer electronic contro
  l units in order to document what was left apparently intentionally undo
@@ -1735,7 +1735,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T163000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T160000
-DTSTAMP;VALUE=DATE-TIME:20161228T162230Z
+DTSTAMP;VALUE=DATE-TIME:20161229T185857Z
 UID:e4eb4104-b9e7-4e99-bcb2-d10ddff3e19a@frab.cccv.de
 DESCRIPTION:What are the politics and aesthetics of mapping? An introduct
  ion how cartography shapes cities and landscapes\, creates borders and d
@@ -1751,7 +1751,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T224500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T214500
-DTSTAMP;VALUE=DATE-TIME:20161229T094532Z
+DTSTAMP;VALUE=DATE-TIME:20161229T212900Z
 UID:c300b194-2a85-4705-92aa-b4e789882303@frab.cccv.de
 DESCRIPTION:Seit Mitte 2014 hat David fast 100.000 Artikel von Spiegel-On
  line systematisch gespeichert. Diese Datenmasse wird er in einem bunten 
@@ -1764,7 +1764,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T224500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T214500
-DTSTAMP;VALUE=DATE-TIME:20161228T222103Z
+DTSTAMP;VALUE=DATE-TIME:20161229T105455Z
 UID:a57b8f0e-62ae-48d9-aa89-5ebfe5fdc056@frab.cccv.de
 DESCRIPTION:Since too long we use VHDL and Verilog to describe hardware. 
  SpinalHDL is an alternative language which does its best to prove that i
@@ -1777,7 +1777,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T213000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T203000
-DTSTAMP;VALUE=DATE-TIME:20161228T204731Z
+DTSTAMP;VALUE=DATE-TIME:20161229T191540Z
 UID:2b9b6095-9dcd-49f3-9792-cf74aab88b16@frab.cccv.de
 DESCRIPTION:2016 has been marked by major shifts in political policy towa
  rds the Internet in Turkey and Thailand\, a renegotiation of the respons
@@ -1793,7 +1793,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T183000
-DTSTAMP;VALUE=DATE-TIME:20161229T102640Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205604Z
 UID:9e02145e-1d65-4398-b8e2-bd4c1faee0fa@frab.cccv.de
 DESCRIPTION:We didn’t win the second crypto wars. Governments merely made
   a strategic retreat and they’ll be back. Although they will likely give
@@ -1826,7 +1826,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T124500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T121500
-DTSTAMP;VALUE=DATE-TIME:20161228T230731Z
+DTSTAMP;VALUE=DATE-TIME:20161229T164736Z
 UID:e0758eb2-0282-40d7-9c41-de607eb3d494@frab.cccv.de
 DESCRIPTION:Journalists and human rights groups need to find and use veri
  fied visual evidence in order to accurately report about what’s happenin
@@ -1839,7 +1839,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T171500
-DTSTAMP;VALUE=DATE-TIME:20161213T214807Z
+DTSTAMP;VALUE=DATE-TIME:20161229T213350Z
 UID:3f76be27-6ff5-4a23-a6c6-512eaff00f28@frab.cccv.de
 DESCRIPTION:In the last two years\, the marketing industry started to sho
  w a fast increasing interest in technologies for user cross-device track
@@ -1864,7 +1864,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T133000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T130000
-DTSTAMP;VALUE=DATE-TIME:20161228T231052Z
+DTSTAMP;VALUE=DATE-TIME:20161229T201423Z
 UID:ff044b6a-d567-4309-b9a8-ec9384b16a27@frab.cccv.de
 DESCRIPTION:Engaging universally available deep debug functionality of mo
  dern\nIntel cores\, with zero software or hardware modifications\nrequir
@@ -1876,7 +1876,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T171500
-DTSTAMP;VALUE=DATE-TIME:20161218T230312Z
+DTSTAMP;VALUE=DATE-TIME:20161229T184128Z
 UID:c19012c9-71de-4272-a6f4-898f5c48b8d9@frab.cccv.de
 DESCRIPTION:''Technologien für und wider Digitale Souveränität''\n\nDie w
  eltweite Vernetzung ist die tiefgreifendste Veränderung seit der\nindust
@@ -1920,7 +1920,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T124500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T121500
-DTSTAMP;VALUE=DATE-TIME:20161228T231403Z
+DTSTAMP;VALUE=DATE-TIME:20161229T160510Z
 UID:5f0ab68a-8e2d-481e-b009-55a1af58760c@frab.cccv.de
 DESCRIPTION:This talk discusses the representation of Arab males in video
   games and the adverse effect it has on the collective political imagina
@@ -1936,7 +1936,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T150000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T140000
-DTSTAMP;VALUE=DATE-TIME:20161229T100736Z
+DTSTAMP;VALUE=DATE-TIME:20161229T211732Z
 UID:61f9d4c6-a3de-4958-a57c-efcf941668fa@frab.cccv.de
 DESCRIPTION:We present DROWN\, a novel cross-protocol attack on TLS that 
  uses a server supporting SSLv2 as an oracle to decrypt modern TLS connec
@@ -1963,7 +1963,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T134500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T124500
-DTSTAMP;VALUE=DATE-TIME:20161228T230709Z
+DTSTAMP;VALUE=DATE-TIME:20161229T201422Z
 UID:1275f046-e52e-4b0b-9f5b-7eb2008b2ec4@frab.cccv.de
 DESCRIPTION:Both strong end-to-end communications encryption and device e
  ncryption are legal in most jurisdictions today\, and remain widely avai
@@ -1977,7 +1977,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T113000
-DTSTAMP;VALUE=DATE-TIME:20161229T102907Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205013Z
 UID:87092ad2-d3fd-4a37-bb58-1fe71217a06b@frab.cccv.de
 DESCRIPTION:As they say in the Air Force\, ‚No comms no bombs‘\,  – A tec
  hnician’s insight into the invisible networks governing military drones 
@@ -2000,7 +2000,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T210000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T203000
-DTSTAMP;VALUE=DATE-TIME:20161226T132707Z
+DTSTAMP;VALUE=DATE-TIME:20161229T213441Z
 UID:f1e2dc22-8925-4a8a-8cd3-4d03aa0e33b7@frab.cccv.de
 DESCRIPTION:Since the early successes of moon missions in the Sixtie\, ma
  nkind has moved on to the earth orbit and other deep space missions. But
@@ -2013,7 +2013,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T163000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T160000
-DTSTAMP;VALUE=DATE-TIME:20161228T110305Z
+DTSTAMP;VALUE=DATE-TIME:20161229T130146Z
 UID:f62fb3be-656f-4e7b-9619-11f3cdb2da26@frab.cccv.de
 DESCRIPTION:The NibbleTronic is a MIDI wind controller that features a no
  vel user interface resulting in a unique tonal range. The standard confi
@@ -2068,7 +2068,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T193000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T183000
-DTSTAMP;VALUE=DATE-TIME:20161228T230832Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205339Z
 UID:1b27dbeb-cffc-48a1-b2e6-b2011c338a50@frab.cccv.de
 DESCRIPTION:On June 9\, 2013\, Edward Snowden revealed massive civil righ
  ts abuses by the NSA. On June 10\, Snowden didn’t know where to hide.
@@ -2095,7 +2095,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T210000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T203000
-DTSTAMP;VALUE=DATE-TIME:20161213T214555Z
+DTSTAMP;VALUE=DATE-TIME:20161229T210519Z
 UID:d851c029-9f83-41af-befd-a54209453d41@frab.cccv.de
 DESCRIPTION:Used in cell phone technology\, bluetooth devices\, and WiFi\
  , Frequency Hopping Spread Spectrum (FHSS) is often said to have been in
@@ -2126,7 +2126,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T191500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T181500
-DTSTAMP;VALUE=DATE-TIME:20161229T103114Z
+DTSTAMP;VALUE=DATE-TIME:20161229T201445Z
 UID:c3844820-b5ed-4b12-9094-cfc67aff60be@frab.cccv.de
 DESCRIPTION:It is a sad fact of reality that we can no longer trust our C
  PUs to only run the things we want and to not have exploitable flaws. I 
@@ -2154,7 +2154,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T000000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T230000
-DTSTAMP;VALUE=DATE-TIME:20161228T183938Z
+DTSTAMP;VALUE=DATE-TIME:20161229T183439Z
 UID:b9ca38ea-fa88-48c4-8083-9415eee93fcb@frab.cccv.de
 DESCRIPTION:Sednit\, a.k.a Fancy Bear/APT28/Sofacy\, is a group of attack
  ers\noperating since at least 2004 and whose main objective is to steal\
@@ -2172,7 +2172,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T210000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T203000
-DTSTAMP;VALUE=DATE-TIME:20161213T214714Z
+DTSTAMP;VALUE=DATE-TIME:20161229T210819Z
 UID:7deb971d-1768-4a56-93ed-fe0192a13025@frab.cccv.de
 DESCRIPTION:Wie würdigen verschiedene Tech-Communities das ehrenamtliche 
  Engagement ihrer Mitglieder? Wie lassen sich gewünschte Lernprozesse ver
@@ -2186,7 +2186,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T150000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T143000
-DTSTAMP;VALUE=DATE-TIME:20161229T025020Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205139Z
 UID:69ce21df-4bf5-43ce-a500-ac7707ee64b7@frab.cccv.de
 DESCRIPTION:
 URL:http://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/8418.html
@@ -2211,7 +2211,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T133000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T130000
-DTSTAMP;VALUE=DATE-TIME:20161229T094913Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205207Z
 UID:599ef527-fc3f-4474-8137-cf0e49cf118f@frab.cccv.de
 DESCRIPTION:The Anthropocene is widely understood to mean the current <em
  >&quot\;period of Earth's history during which humans have a decisive in
@@ -2281,7 +2281,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T113000
-DTSTAMP;VALUE=DATE-TIME:20161228T231700Z
+DTSTAMP;VALUE=DATE-TIME:20161229T211626Z
 UID:1aa7a4c5-1a3f-444f-99fb-e9c7b4744794@frab.cccv.de
 DESCRIPTION:Hardware is often considered as an abstract layer that behave
  s correctly\, just executing instructions and outputting a result. Howev
@@ -2300,7 +2300,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T184500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T181500
-DTSTAMP;VALUE=DATE-TIME:20161229T103515Z
+DTSTAMP;VALUE=DATE-TIME:20161229T204825Z
 UID:361946ca-4577-467d-b608-022c8a2d3164@frab.cccv.de
 DESCRIPTION:Legend has it that most airline pilots will at one time have 
  uttered the sentence "What's it Doing now?"\, whenever the autopilot or 
@@ -2314,7 +2314,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T141500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T134500
-DTSTAMP;VALUE=DATE-TIME:20161228T231312Z
+DTSTAMP;VALUE=DATE-TIME:20161229T164411Z
 UID:10b11771-c76f-44d5-9b65-9ebca428d8ff@frab.cccv.de
 DESCRIPTION:Secure random number generators play a crucial role in the wi
  der security ecosystem. In the absence of a dedicated hardware True Rand
@@ -2338,7 +2338,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T224500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T214500
-DTSTAMP;VALUE=DATE-TIME:20161228T231603Z
+DTSTAMP;VALUE=DATE-TIME:20161229T210334Z
 UID:530f0400-e4e8-4d99-909d-4cfc8121c0b0@frab.cccv.de
 DESCRIPTION:Travel booking systems are among the oldest global IT infrast
  ructures\, and have changed surprisingly little since the 80s. The perso
@@ -2353,7 +2353,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T000000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T230000
-DTSTAMP;VALUE=DATE-TIME:20161228T230949Z
+DTSTAMP;VALUE=DATE-TIME:20161229T160735Z
 UID:fd205d0d-d767-4ff6-9771-9f2d4c933fe7@frab.cccv.de
 DESCRIPTION:Last year we have been talking about DPRK’s operating system 
  Red Star OS and its surveillance features. We have identified a watermar
@@ -2368,7 +2368,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T000000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T230000
-DTSTAMP;VALUE=DATE-TIME:20161228T231106Z
+DTSTAMP;VALUE=DATE-TIME:20161229T210357Z
 UID:ac80424a-f4dc-431d-95f3-3f85664ba2dc@frab.cccv.de
 DESCRIPTION:In this talk we will explore and present various IPv6 scannin
  g techniques that allow attackers to peek into IPv6 networks. With the a
@@ -2386,7 +2386,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T150000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T140000
-DTSTAMP;VALUE=DATE-TIME:20161228T231125Z
+DTSTAMP;VALUE=DATE-TIME:20161229T185303Z
 UID:a0c851a1-b44e-46cb-bbb8-db966bc8639b@frab.cccv.de
 DESCRIPTION:Die Lebenswelt von Kindern und Jugendlichen sowie die der Sch
  ulen könnte in Bezug auf die Digitalisierung kaum gegensätzlicher sein: 
@@ -2405,7 +2405,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T113000
-DTSTAMP;VALUE=DATE-TIME:20161213T214327Z
+DTSTAMP;VALUE=DATE-TIME:20161229T173215Z
 UID:994082de-ef8e-4f8e-8c46-ec0eb110b845@frab.cccv.de
 DESCRIPTION:radare is a libre framework and a set of tools to ease severa
  l tasks related to reverse engineering\, exploiting\, forensics\, binary

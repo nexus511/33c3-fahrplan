@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T113000
-DTSTAMP;VALUE=DATE-TIME:20161213T214338Z
+DTSTAMP;VALUE=DATE-TIME:20161229T205803Z
 UID:0d02bd82-f771-471c-b4bb-5e24b755b169@frab.cccv.de
 DESCRIPTION:Pseudo-random number generators (PRNGs) are critical pieces o
  f security\ninfrastructure. Yet\, PRNGs are surprisingly difficult to de

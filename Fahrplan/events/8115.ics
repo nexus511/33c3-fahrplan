@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T113000
-DTSTAMP;VALUE=DATE-TIME:20161213T214350Z
+DTSTAMP;VALUE=DATE-TIME:20161229T164306Z
 UID:a431b8a5-b8af-4ccf-bba2-7b1d88a782fb@frab.cccv.de
 DESCRIPTION:In August 2016\, Apple issued updates to iOS and macOS that p
  atched three zero-day vulnerabilities that were being exploited in the w

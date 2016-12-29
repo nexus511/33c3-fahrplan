@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T134500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T124500
-DTSTAMP;VALUE=DATE-TIME:20161213T214816Z
+DTSTAMP;VALUE=DATE-TIME:20161229T173431Z
 UID:48e016a4-5683-4bda-8976-98f1dbf62787@frab.cccv.de
 DESCRIPTION:Software Defined Radios (SDRs) became a mainstream tool for w
  ireless engineers and security researches and there are plenty of them a

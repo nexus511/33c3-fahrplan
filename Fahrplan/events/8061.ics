@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T000000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T230000
-DTSTAMP;VALUE=DATE-TIME:20161228T231106Z
+DTSTAMP;VALUE=DATE-TIME:20161229T210357Z
 UID:ac80424a-f4dc-431d-95f3-3f85664ba2dc@frab.cccv.de
 DESCRIPTION:In this talk we will explore and present various IPv6 scannin
  g techniques that allow attackers to peek into IPv6 networks. With the a
