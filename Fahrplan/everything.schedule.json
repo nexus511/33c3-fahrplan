@@ -1552,7 +1552,7 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 1316, 
+                                "id": 1315, 
                                 "guid": "6000b6b1-020e-56e2-b0b9-afda32f62a2f", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -3015,7 +3015,7 @@
                         ], 
                         "Hall 13-14": [
                             {
-                                "id": 1055, 
+                                "id": 1054, 
                                 "guid": "1f13a568-64b4-5ee3-8936-15a5d1a6736f", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:00:00+01:00", 
@@ -3495,7 +3495,7 @@
                         ], 
                         "Assembly:Flunkyground": [
                             {
-                                "id": 1105, 
+                                "id": 1104, 
                                 "guid": "f6af7c27-01d6-5017-afb9-e39de651e402", 
                                 "logo": null, 
                                 "date": "2016-12-27T23:45:00+01:00", 
@@ -3756,7 +3756,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1167, 
+                                "id": 1166, 
                                 "guid": "8ae21e12-fe3d-5a3f-b2b7-ec733512b436", 
                                 "logo": null, 
                                 "date": "2016-12-27T23:00:00+01:00", 
@@ -5624,7 +5624,7 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 1317, 
+                                "id": 1316, 
                                 "guid": "81ea9504-588b-5f9b-aa53-12467bd6d53e", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -6385,7 +6385,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1054, 
+                                "id": 1055, 
                                 "guid": "6130f33f-cc7d-5f98-b716-47370b95e956", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:00:00+01:00", 
@@ -8149,40 +8149,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1164, 
-                                "guid": "933f76c2-3313-50d5-be77-0bd12b706758", 
-                                "logo": null, 
-                                "date": "2016-12-28T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "2:00", 
-                                "room": "Assembly:Chaos West", 
-                                "slug": "", 
-                                "title": "Klangteppich", 
-                                "subtitle": "[[User:robelix|robelix]] DJ-set: Futurepop, Darkwave, Industrial, Chiptunes", 
-                                "track": "self organized sessions", 
-                                "type": "other", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                                        "public_name": "Bam"
-                                    }, 
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                                        "public_name": "JayDee2202"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich"
-                                ]
-                            }, 
-                            {
-                                "id": 1166, 
+                                "id": 1165, 
                                 "guid": "ac5500fa-a531-589a-8ed8-397f47338025", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -8213,38 +8180,44 @@
                                     "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg", 
                                     "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich"
                                 ]
+                            }, 
+                            {
+                                "id": 1167, 
+                                "guid": "933f76c2-3313-50d5-be77-0bd12b706758", 
+                                "logo": null, 
+                                "date": "2016-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Chaos West", 
+                                "slug": "", 
+                                "title": "Klangteppich", 
+                                "subtitle": "[[User:robelix|robelix]] DJ-set: Futurepop, Darkwave, Industrial, Chiptunes", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                                        "public_name": "Bam"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                                        "public_name": "JayDee2202"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich"
+                                ]
                             }
                         ], 
                         "Assembly:3D Hackspace": [
                             {
                                 "id": 1006, 
-                                "guid": "857da75d-b8e2-5d8d-aebe-70f9fa0b9e6c", 
-                                "logo": null, 
-                                "date": "2016-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "0:15", 
-                                "room": "Assembly:3D Hackspace", 
-                                "slug": "", 
-                                "title": "3D printing for kids", 
-                                "subtitle": "Group 1", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Learn how to design 3D parts and print them!", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
-                                        "public_name": "Obelix"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids"
-                                ]
-                            }, 
-                            {
-                                "id": 1007, 
                                 "guid": "9d4976d0-43ac-50b7-9b90-673466918721", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:30:00+01:00", 
@@ -8271,7 +8244,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1008, 
+                                "id": 1007, 
                                 "guid": "a48f8cdc-f671-5cab-a2e0-bceb5227473d", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -8298,7 +8271,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1009, 
+                                "id": 1008, 
                                 "guid": "6f50e915-ae95-58f2-9d92-dbec4e78fc6d", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:30:00+01:00", 
@@ -8308,6 +8281,33 @@
                                 "slug": "", 
                                 "title": "3D printing for kids", 
                                 "subtitle": "Group 4", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Learn how to design 3D parts and print them!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                                        "public_name": "Obelix"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids"
+                                ]
+                            }, 
+                            {
+                                "id": 1009, 
+                                "guid": "857da75d-b8e2-5d8d-aebe-70f9fa0b9e6c", 
+                                "logo": null, 
+                                "date": "2016-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "0:15", 
+                                "room": "Assembly:3D Hackspace", 
+                                "slug": "", 
+                                "title": "3D printing for kids", 
+                                "subtitle": "Group 1", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -8353,15 +8353,15 @@
                             }, 
                             {
                                 "id": 1298, 
-                                "guid": "3ec2e53b-7a34-5572-8591-1aca05f2a2ca", 
+                                "guid": "6192d5fe-5977-5d73-9ad1-9eefd914e813", 
                                 "logo": null, 
-                                "date": "2016-12-28T12:00:00+01:00", 
-                                "start": "12:00", 
+                                "date": "2016-12-28T12:30:00+01:00", 
+                                "start": "12:30", 
                                 "duration": "0:30", 
                                 "room": "Assembly:3D Hackspace", 
                                 "slug": "", 
                                 "title": "Thermal pictures for kids", 
-                                "subtitle": "Group 1", 
+                                "subtitle": "Group 2", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "de", 
@@ -8380,15 +8380,15 @@
                             }, 
                             {
                                 "id": 1299, 
-                                "guid": "6192d5fe-5977-5d73-9ad1-9eefd914e813", 
+                                "guid": "3ec2e53b-7a34-5572-8591-1aca05f2a2ca", 
                                 "logo": null, 
-                                "date": "2016-12-28T12:30:00+01:00", 
-                                "start": "12:30", 
+                                "date": "2016-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
                                 "duration": "0:30", 
                                 "room": "Assembly:3D Hackspace", 
                                 "slug": "", 
                                 "title": "Thermal pictures for kids", 
-                                "subtitle": "Group 2", 
+                                "subtitle": "Group 1", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "de", 
@@ -9115,7 +9115,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1245, 
+                                "id": 1247, 
                                 "guid": "012dc44d-a3ee-534c-87ef-5e6540feaf4d", 
                                 "logo": null, 
                                 "date": "2016-12-28T17:00:00+01:00", 
@@ -9231,7 +9231,7 @@
                         ], 
                         "Assembly:Flunkyground": [
                             {
-                                "id": 1104, 
+                                "id": 1105, 
                                 "guid": "8e55ac78-3d83-5f85-9e1f-353fee8f07d2", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:35:00+01:00", 
@@ -14223,7 +14223,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1247, 
+                                "id": 1245, 
                                 "guid": "59c968e4-cb08-511d-b8bf-1aa9e11cdf9f", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -14698,7 +14698,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1165, 
+                                "id": 1164, 
                                 "guid": "7e4f05b5-24ca-5ef3-b31c-1f22874ea719", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:00:00+01:00", 
@@ -15649,7 +15649,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1315, 
+                                "id": 1317, 
                                 "guid": "040bdc37-9d98-55da-8b88-b794180c8629", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
