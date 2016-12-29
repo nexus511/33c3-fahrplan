@@ -1373,12 +1373,12 @@
             "1483027200"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -1397,7 +1397,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -1418,7 +1418,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Flunkyball# 3464118d555bc81519f9e26273225748": {
@@ -6943,52 +6943,52 @@
             "1482879600"
         ]
     }, 
-    "Session:Translation meetings# 660e4d0d3a22279ed18e88982d5006fa": {
+    "Session:So who are the rioters ?# 8180b4c4fc6ef379394cb408a5514466": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483110600"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+            "30 minute film. Insiders' views on the wave of protests that have punctuated spring and early summer in France."
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Other"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "day 4, afternoon meeting"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "fulltext": "User:Lamirale", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Lamirale", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Translation meetings"
+            "So who are the rioters ?"
         ], 
         "Has duration": [
-            50
+            36
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:So_who_are_the_rioters_%3F", 
         "Has end time": [
-            "1483113600"
+            "1483104960"
         ]
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# 0029ffd6b50d454bfba86f9d8de24d35": {
@@ -7239,6 +7239,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Update_on_declaratory_action_(Feststellungsklagen)", 
         "Has end time": [
             "1482940800"
+        ]
+    }, 
+    "Session:Gemeinnuetzigkeit# 0bebf3287c28188ab8985e7ad81fe9aa": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483102800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Diskussionsrunde, wie wir als Freifunk mit dem Thema Gemeinn\u00fctzigkeit f\u00fcr Vereine umgehen"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Andibraeu", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andibraeu", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Gemeinnuetzigkeit"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Gemeinnuetzigkeit", 
+        "Has end time": [
+            "1483106400"
         ]
     }, 
     "Session:3D printing for kids# d9ed73113bf031810aacdb723021c0c8": {
@@ -9460,12 +9508,12 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -9484,7 +9532,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -9505,7 +9553,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -12015,50 +12063,6 @@
         "Has end time": [
             "1483114500"
         ]
-    }, 
-    "Session:So who are the rioters ?# 90f85b61e215e11b72cdac87838130d0": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "30 minute film. Insiders' views on the wave of protests that have punctuated spring and early summer in France."
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Lamirale", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Lamirale", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "So who are the rioters ?"
-        ], 
-        "Has duration": [
-            36
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:So_who_are_the_rioters_%3F", 
-        "Has end time": []
     }, 
     "Session:Open Education Workshop# afb476729e7b1c943d0120dec5187fcc": {
         "Held in language": [
@@ -18540,6 +18544,54 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:CiTiZEN_KiNO:_Strategies_For_Turtle_Islands", 
         "Has end time": []
+    }, 
+    "Session:Translation meetings# 660e4d0d3a22279ed18e88982d5006fa": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483110600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "day 4, afternoon meeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Translation meetings"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "Has end time": [
+            "1483113600"
+        ]
     }, 
     "Session:OParl: Politik vor Ort maschinenlesbar# 6600e70c2e763f7444cd999e84bc2bff": {
         "Held in language": [
