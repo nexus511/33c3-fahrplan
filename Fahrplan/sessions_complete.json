@@ -925,25 +925,21 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Territorios_Digitais_Livres_-_Free_Digital_Territories_-_Community_Networks_in_Brazil", 
         "Has end time": []
     }, 
-    "Session:Haecksenraum# 2b55e4c20c327a0fbe6204663002bb03": {
+    "Session:Congress Everywhere Greet & Meet# 8b165ece02b1d870610d15256031bca9": {
         "Held in language": [
             "de - German"
         ], 
         "Has start time": [
-            "1482937200"
+            "1482951600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://many.haecksen.org/mediawiki/index.php/33C3"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Room A.2: Dedicated workshop area for women* and other minorities. Meet people, learn new things, discuss topics, host your own workshop here! We still have open slots :)"
+            "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home."
         ], 
-        "Has session type": [
-            "Meeting"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
                 "fulltext": "Room:Hall A.1", 
@@ -953,34 +949,28 @@
             }
         ], 
         "Has subtitle": [
-            "Meet & Greet"
+            "IceBreaker Day 2"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Haecksen", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Haecksen", 
-                "namespace": 2, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "User:Melzai", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Melzai", 
+                "fulltext": "User:Myon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Myon", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Haecksenraum"
+            "Congress Everywhere Greet & Meet"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Haecksenraum", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
         "Has end time": [
-            "1482940800"
+            "1482957000"
         ]
     }, 
     "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
@@ -1383,12 +1373,12 @@
             "1483027200"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -1407,7 +1397,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -1428,7 +1418,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Flunkyball# 3464118d555bc81519f9e26273225748": {
@@ -5193,21 +5183,25 @@
             "1483052400"
         ]
     }, 
-    "Session:Congress Everywhere Greet & Meet# 8b165ece02b1d870610d15256031bca9": {
+    "Session:Haecksenraum# 2b55e4c20c327a0fbe6204663002bb03": {
         "Held in language": [
             "de - German"
         ], 
         "Has start time": [
-            "1482951600"
+            "1482937200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home."
+        "Has website": [
+            "http://many.haecksen.org/mediawiki/index.php/33C3"
         ], 
-        "Has session type": [], 
+        "Has description": [
+            "Room A.2: Dedicated workshop area for women* and other minorities. Meet people, learn new things, discuss topics, host your own workshop here! We still have open slots :)"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
         "Has session location": [
             {
                 "fulltext": "Room:Hall A.1", 
@@ -5217,28 +5211,34 @@
             }
         ], 
         "Has subtitle": [
-            "IceBreaker Day 2"
+            "Meet & Greet"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Myon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Myon", 
+                "fulltext": "User:Haecksen", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Haecksen", 
+                "namespace": 2, 
+                "exists": false
+            }, 
+            {
+                "fulltext": "User:Melzai", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Melzai", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Congress Everywhere Greet & Meet"
+            "Haecksenraum"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Haecksenraum", 
         "Has end time": [
-            "1482957000"
+            "1482940800"
         ]
     }, 
     "Session:Congress Everywhere Greet & Meet# dab9b0fa02061064724f04702afe682d": {
@@ -9460,12 +9460,12 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -9484,7 +9484,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -9505,7 +9505,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -12230,13 +12230,13 @@
             "1483113600"
         ]
     }, 
-    "Session:Getting started with ESP8266 and IoT# ad115d9492cafdd07ac39d937f64b81a": {
+    "Session:Getting started with ESP8266 and IoT# 1fe8efb35ee06b474ebf14a08aaa38d9": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1482872400"
+            "1483048800"
         ], 
         "Has event track": [
             "Session"
@@ -12257,7 +12257,7 @@
             }
         ], 
         "Has subtitle": [
-            "Beginners"
+            "Build your own MQTT based Fridge-Temperature-Sensor"
         ], 
         "Is organized by": [
             {
@@ -12271,14 +12271,14 @@
             "Getting started with ESP8266 and IoT"
         ], 
         "Has duration": [
-            60
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Getting_started_with_ESP8266_and_IoT", 
         "Has end time": [
-            "1482876000"
+            "1483056000"
         ]
     }, 
     "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
@@ -14162,6 +14162,57 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Speaker%27s_Sofa:_Kauft_Euren_%C3%96PNV", 
         "Has end time": [
             "1483030200"
+        ]
+    }, 
+    "Session:Getting started with ESP8266 and IoT# ad115d9492cafdd07ac39d937f64b81a": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482872400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Learn about the ESP8266, a very small and cheap microcontroller with builtin WiFi. Bring your Laptop, ESP8266-Dev-Boards and some sensors are available for donations."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Mainframe", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Mainframe", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Beginners"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:MarvinGS", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:MarvinGS", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Getting started with ESP8266 and IoT"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Getting_started_with_ESP8266_and_IoT", 
+        "Has end time": [
+            "1482876000"
         ]
     }, 
     "Session:Eris Rising# 041120007c5283bda6bce6a6905ff6d5": {
@@ -17712,6 +17763,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Off_Grid:_a_videogame_about_hacking,_data_privacy,_and_surveillance", 
         "Has end time": [
             "1482879600"
+        ]
+    }, 
+    "Session:Schmalbart Devs# 5a5c84b40a0dc737e197908c90211ef8": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483102800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.schmalbart.de"
+        ], 
+        "Has description": [
+            "Das frisch geschl\u00fcpfte Schmalbart Netzwerk sucht Entwickler f\u00fcr Projekte gegen Populismus in Medien aller Art.\nWir haben da ein paar erste Ideen... Diese w\u00fcrde ich gerne vorstellen und Mitstreiter suchen."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kgbvax", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kgbvax", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Schmalbart Devs"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Schmalbart_Devs", 
+        "Has end time": [
+            "1483106400"
         ]
     }, 
     "Session:An Introduction to the Fedora Project# a109e9b2fe0e4f4517af53225b53f0f8": {
