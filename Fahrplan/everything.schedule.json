@@ -1552,7 +1552,7 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 1322, 
+                                "id": 1323, 
                                 "guid": "6000b6b1-020e-56e2-b0b9-afda32f62a2f", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -2047,7 +2047,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1132, 
+                                "id": 1135, 
                                 "guid": "1506fd90-1a87-5457-b840-81d2e20ebc96", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -2080,7 +2080,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1205, 
+                                "id": 1206, 
                                 "guid": "d58c6b55-7fa5-5a6b-8334-034c42333e02", 
                                 "logo": null, 
                                 "date": "2016-12-27T21:15:00+01:00", 
@@ -2191,7 +2191,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1276, 
+                                "id": 1277, 
                                 "guid": "7aac2f6f-c09b-5b27-965f-824ecca75a55", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -2219,7 +2219,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1283, 
+                                "id": 1282, 
                                 "guid": "50b55485-5e7c-5f64-81fb-6731c0f0be38", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:15:00+01:00", 
@@ -2247,7 +2247,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1285, 
+                                "id": 1284, 
                                 "guid": "87e63d0e-e34a-5fe9-b441-5c5f4923203b", 
                                 "logo": null, 
                                 "date": "2016-12-27T10:00:00+01:00", 
@@ -2279,33 +2279,6 @@
                         "Hall B": [
                             {
                                 "id": 1083, 
-                                "guid": "8a44028a-1357-5c63-b02b-989242b68ba3", 
-                                "logo": null, 
-                                "date": "2016-12-27T19:45:00+01:00", 
-                                "start": "19:45", 
-                                "duration": "0:30", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "Engelmeeting", 
-                                "subtitle": "Angelmeeting Day 1", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
-                                        "public_name": "Knuth"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1085, 
                                 "guid": "087aa307-022a-5234-a74c-17782661ec83", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -2332,7 +2305,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1092, 
+                                "id": 1090, 
                                 "guid": "98d0e869-9ceb-5908-918b-b62c4f14e32e", 
                                 "logo": null, 
                                 "date": "2016-12-27T13:00:00+01:00", 
@@ -2359,7 +2332,34 @@
                                 ]
                             }, 
                             {
-                                "id": 1129, 
+                                "id": 1092, 
+                                "guid": "8a44028a-1357-5c63-b02b-989242b68ba3", 
+                                "logo": null, 
+                                "date": "2016-12-27T19:45:00+01:00", 
+                                "start": "19:45", 
+                                "duration": "0:30", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angelmeeting Day 1", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                                        "public_name": "Knuth"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1130, 
                                 "guid": "9b2eeb90-1566-5ece-9240-587fd25f9fab", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:30:00+01:00", 
@@ -2391,7 +2391,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1231, 
+                                "id": 1232, 
                                 "guid": "279d4d9f-6b6c-5d85-b3e6-54a0d49fdc07", 
                                 "logo": null, 
                                 "date": "2016-12-27T18:00:00+01:00", 
@@ -2458,7 +2458,7 @@
                         ], 
                         "Hall C.1": [
                             {
-                                "id": 1024, 
+                                "id": 1025, 
                                 "guid": "3c8f14f9-3cb1-5930-b2c1-79080db870e7", 
                                 "logo": null, 
                                 "date": "2016-12-27T12:00:00+01:00", 
@@ -2524,7 +2524,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1234, 
+                                "id": 1236, 
                                 "guid": "ad00dfbc-6c17-5161-9733-e2685b8aafd8", 
                                 "logo": null, 
                                 "date": "2016-12-27T16:30:00+01:00", 
@@ -2611,7 +2611,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1117, 
+                                "id": 1118, 
                                 "guid": "46b0ab97-d82f-5f8c-b7c9-939d3e15b1c7", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -2638,7 +2638,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1239, 
+                                "id": 1240, 
                                 "guid": "837944b6-1437-5f0e-bfa2-ec1f00d6c20e", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:00:00+01:00", 
@@ -2666,16 +2666,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1268, 
-                                "guid": "806c5e1d-eed3-508f-a251-46d8a5c7d5db", 
+                                "id": 1269, 
+                                "guid": "7829fac5-21f4-56b1-bb1d-24fd7a4114bc", 
                                 "logo": null, 
-                                "date": "2016-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2016-12-27T17:30:00+01:00", 
+                                "start": "17:30", 
                                 "duration": "1:10", 
                                 "room": "Hall C.2", 
                                 "slug": "", 
                                 "title": "Space Hacking", 
-                                "subtitle": "KulturKunstPartyPolitik! - Teil1: Collective Space", 
+                                "subtitle": "KulturKunstPartyPolitik! - Teil2: Urban Intervention", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -2697,16 +2697,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1269, 
-                                "guid": "7829fac5-21f4-56b1-bb1d-24fd7a4114bc", 
+                                "id": 1270, 
+                                "guid": "806c5e1d-eed3-508f-a251-46d8a5c7d5db", 
                                 "logo": null, 
-                                "date": "2016-12-27T17:30:00+01:00", 
-                                "start": "17:30", 
+                                "date": "2016-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:10", 
                                 "room": "Hall C.2", 
                                 "slug": "", 
                                 "title": "Space Hacking", 
-                                "subtitle": "KulturKunstPartyPolitik! - Teil2: Urban Intervention", 
+                                "subtitle": "KulturKunstPartyPolitik! - Teil1: Collective Space", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -2787,7 +2787,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1150, 
+                                "id": 1151, 
                                 "guid": "51cd4146-732c-5a24-84b1-667b85661796", 
                                 "logo": null, 
                                 "date": "2016-12-27T13:00:00+01:00", 
@@ -2808,7 +2808,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1157, 
+                                "id": 1158, 
                                 "guid": "1b8198cc-35db-585b-92f3-c20ae2306034", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:30:00+01:00", 
@@ -2847,7 +2847,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1195, 
+                                "id": 1196, 
                                 "guid": "97f441f8-b2e6-5721-8c0d-298cbad3a784", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:30:00+01:00", 
@@ -2876,7 +2876,7 @@
                         ], 
                         "Hall C.4": [
                             {
-                                "id": 1119, 
+                                "id": 1120, 
                                 "guid": "3a906d83-3b78-5406-be54-d8896acf38c9", 
                                 "logo": null, 
                                 "date": "2016-12-27T17:00:00+01:00", 
@@ -2909,7 +2909,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1225, 
+                                "id": 1226, 
                                 "guid": "e527a7bb-b72d-5e3c-ab2b-f9fce692653e", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -2936,7 +2936,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1237, 
+                                "id": 1238, 
                                 "guid": "11ed6f77-b947-584a-8f60-ad3ec397de12", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:30:00+01:00", 
@@ -2966,7 +2966,7 @@
                         ], 
                         "Hall F": [
                             {
-                                "id": 1191, 
+                                "id": 1192, 
                                 "guid": "124e1ee4-2b47-5b4c-8363-8d2c41bd5dfc", 
                                 "logo": null, 
                                 "date": "2016-12-27T23:00:00+01:00", 
@@ -3015,7 +3015,7 @@
                         ], 
                         "Hall 13-14": [
                             {
-                                "id": 1056, 
+                                "id": 1055, 
                                 "guid": "1f13a568-64b4-5ee3-8936-15a5d1a6736f", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:00:00+01:00", 
@@ -3042,7 +3042,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1125, 
+                                "id": 1126, 
                                 "guid": "652d0104-9f34-59dc-b3dc-94cbbb5ed630", 
                                 "logo": null, 
                                 "date": "2016-12-27T14:00:00+01:00", 
@@ -3069,7 +3069,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1128, 
+                                "id": 1129, 
                                 "guid": "ea1fb9ad-c84a-5214-91e4-94947a1b1d56", 
                                 "logo": null, 
                                 "date": "2016-12-27T22:00:00+01:00", 
@@ -3096,7 +3096,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1141, 
+                                "id": 1142, 
                                 "guid": "c85d8efc-3769-5aef-87cd-516f8775dbd7", 
                                 "logo": null, 
                                 "date": "2016-12-27T16:00:00+01:00", 
@@ -3129,7 +3129,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1204, 
+                                "id": 1205, 
                                 "guid": "17e2265c-2084-507c-9a58-cec37bee9171", 
                                 "logo": null, 
                                 "date": "2016-12-28T00:15:00+01:00", 
@@ -3154,34 +3154,6 @@
                                 "links": [
                                     "http://kirils.org/", 
                                     "https://events.ccc.de/congress/2016/wiki/Session:Network_concepts_introduction_%26_wireshark_workshop"
-                                ]
-                            }, 
-                            {
-                                "id": 1255, 
-                                "guid": "7809644a-427c-5721-94ed-a19ed0cc3715", 
-                                "logo": null, 
-                                "date": "2016-12-28T03:00:00+01:00", 
-                                "start": "03:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 13-14", 
-                                "slug": "", 
-                                "title": "Skillconvention a", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "all travelers with a certain skill will be invited to these sessions.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
-                                        "public_name": "Reisende"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://thereisnogame.de", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a"
                                 ]
                             }, 
                             {
@@ -3213,7 +3185,35 @@
                                 ]
                             }, 
                             {
-                                "id": 1313, 
+                                "id": 1258, 
+                                "guid": "7809644a-427c-5721-94ed-a19ed0cc3715", 
+                                "logo": null, 
+                                "date": "2016-12-28T03:00:00+01:00", 
+                                "start": "03:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Skillconvention a", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers with a certain skill will be invited to these sessions.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a"
+                                ]
+                            }, 
+                            {
+                                "id": 1312, 
                                 "guid": "410c8c6d-c277-51a5-b35d-8101453d0179", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:40:00+01:00", 
@@ -3240,7 +3240,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1317, 
+                                "id": 1316, 
                                 "guid": "395d4d3c-8b11-57e9-a62d-fe4325d0d0f1", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:10:00+01:00", 
@@ -3297,7 +3297,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1012, 
+                                "id": 1011, 
                                 "guid": "fa1b33c2-f0b1-5d0c-a922-852256aa2a68", 
                                 "logo": null, 
                                 "date": "2016-12-27T18:00:00+01:00", 
@@ -3326,7 +3326,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1052, 
+                                "id": 1051, 
                                 "guid": "197d1871-0f25-56fe-b116-2a2d26879178", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -3353,7 +3353,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1189, 
+                                "id": 1190, 
                                 "guid": "4b7ac2a5-bb7e-5463-ad1b-ae6ea442ea77", 
                                 "logo": null, 
                                 "date": "2016-12-27T18:30:00+01:00", 
@@ -3380,7 +3380,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1349, 
+                                "id": 1350, 
                                 "guid": "bab91575-3532-5e69-bff5-6ef6481a6fa9", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:30:00+01:00", 
@@ -3407,7 +3407,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1356, 
+                                "id": 1357, 
                                 "guid": "473f18c0-a2e8-554c-9cce-470bc43a9937", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:30:00+01:00", 
@@ -3436,7 +3436,7 @@
                         ], 
                         "Assembly:Freiwurst": [
                             {
-                                "id": 1061, 
+                                "id": 1060, 
                                 "guid": "631ca05b-5e46-5be9-bac2-8b99eedbe437", 
                                 "logo": null, 
                                 "date": "2016-12-27T17:00:00+01:00", 
@@ -3495,7 +3495,7 @@
                         ], 
                         "Assembly:Flunkyground": [
                             {
-                                "id": 1106, 
+                                "id": 1107, 
                                 "guid": "f6af7c27-01d6-5017-afb9-e39de651e402", 
                                 "logo": null, 
                                 "date": "2016-12-27T23:45:00+01:00", 
@@ -3525,7 +3525,7 @@
                         ], 
                         "Assembly:Mainframe": [
                             {
-                                "id": 1123, 
+                                "id": 1124, 
                                 "guid": "c15443d9-0821-563c-936b-983bf51d9d4f", 
                                 "logo": null, 
                                 "date": "2016-12-27T21:00:00+01:00", 
@@ -3554,7 +3554,7 @@
                         ], 
                         "": [
                             {
-                                "id": 1136, 
+                                "id": 1137, 
                                 "guid": "6f10ec90-fadc-593f-b638-acd349e8b1e6", 
                                 "logo": null, 
                                 "date": "2016-12-27T16:00:00+01:00", 
@@ -3581,7 +3581,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1203, 
+                                "id": 1204, 
                                 "guid": "476c2527-e9cf-5e55-af56-7d85c3284551", 
                                 "logo": null, 
                                 "date": "2016-12-28T00:10:00+01:00", 
@@ -3608,7 +3608,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1248, 
+                                "id": 1251, 
                                 "guid": "0982d035-6b45-51c2-96b9-47a53d3fb9eb", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -3638,7 +3638,7 @@
                         ], 
                         "Assembly:Foodhackingbase": [
                             {
-                                "id": 1158, 
+                                "id": 1159, 
                                 "guid": "25a8093b-9ba6-59e4-9dfb-4ed40bd7722d", 
                                 "logo": null, 
                                 "date": "2016-12-27T14:00:00+01:00", 
@@ -3666,7 +3666,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1215, 
+                                "id": 1216, 
                                 "guid": "95b8bf3e-11dd-5088-8e21-a94eeb6ca448", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -3694,7 +3694,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1338, 
+                                "id": 1339, 
                                 "guid": "daab9886-c1cd-549f-9d6e-cc652efe80ab", 
                                 "logo": null, 
                                 "date": "2016-12-27T16:00:00+01:00", 
@@ -3723,40 +3723,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1166, 
-                                "guid": "100e49b9-fcaf-5f91-8a4f-c367b771c8e5", 
-                                "logo": null, 
-                                "date": "2016-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "3:00", 
-                                "room": "Assembly:Chaos West", 
-                                "slug": "", 
-                                "title": "Klangteppich", 
-                                "subtitle": "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno", 
-                                "track": "self organized sessions", 
-                                "type": "other", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                                        "public_name": "Bam"
-                                    }, 
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                                        "public_name": "JayDee2202"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich"
-                                ]
-                            }, 
-                            {
-                                "id": 1170, 
+                                "id": 1169, 
                                 "guid": "44d261f7-2ce8-50bf-a82d-d5a0079881f2", 
                                 "logo": null, 
                                 "date": "2016-12-28T01:00:00+01:00", 
@@ -3789,7 +3756,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1171, 
+                                "id": 1170, 
                                 "guid": "8ae21e12-fe3d-5a3f-b2b7-ec733512b436", 
                                 "logo": null, 
                                 "date": "2016-12-27T23:00:00+01:00", 
@@ -3820,11 +3787,44 @@
                                     "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg", 
                                     "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich"
                                 ]
+                            }, 
+                            {
+                                "id": 1171, 
+                                "guid": "100e49b9-fcaf-5f91-8a4f-c367b771c8e5", 
+                                "logo": null, 
+                                "date": "2016-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "3:00", 
+                                "room": "Assembly:Chaos West", 
+                                "slug": "", 
+                                "title": "Klangteppich", 
+                                "subtitle": "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                                        "public_name": "Bam"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                                        "public_name": "JayDee2202"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich"
+                                ]
                             }
                         ], 
                         "Assembly:Mensch meier and friends": [
                             {
-                                "id": 1176, 
+                                "id": 1177, 
                                 "guid": "71a7367b-3165-56e1-9f06-766ff388b019", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:30:00+01:00", 
@@ -3853,7 +3853,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1183, 
+                                "id": 1182, 
                                 "guid": "7879ed11-0436-507e-920e-08b6aa60c115", 
                                 "logo": null, 
                                 "date": "2016-12-27T17:00:00+01:00", 
@@ -3880,7 +3880,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1226, 
+                                "id": 1227, 
                                 "guid": "84dcc7e7-3eea-5c0f-9d2a-876a009ea7eb", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:30:00+01:00", 
@@ -3907,34 +3907,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1287, 
-                                "guid": "06bcda93-fa5b-565b-bffb-ce64239bc953", 
-                                "logo": null, 
-                                "date": "2016-12-27T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "1:30", 
-                                "room": "Assembly:HardwareHackingArea", 
-                                "slug": "", 
-                                "title": "Surface Mount Electronics Assembly for Terrified Beginners", 
-                                "subtitle": "Day 1 - Session 2", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
-                                        "public_name": "Kliment"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners"
-                                ]
-                            }, 
-                            {
-                                "id": 1289, 
+                                "id": 1288, 
                                 "guid": "c6f52878-4d35-572f-b297-01976550b5de", 
                                 "logo": null, 
                                 "date": "2016-12-27T17:00:00+01:00", 
@@ -3961,7 +3934,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1295, 
+                                "id": 1294, 
                                 "guid": "cec7ecd2-dfbb-5ca8-b171-b880ff5e03a7", 
                                 "logo": null, 
                                 "date": "2016-12-27T13:00:00+01:00", 
@@ -3986,11 +3959,38 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners"
                                 ]
+                            }, 
+                            {
+                                "id": 1296, 
+                                "guid": "06bcda93-fa5b-565b-bffb-ce64239bc953", 
+                                "logo": null, 
+                                "date": "2016-12-27T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:HardwareHackingArea", 
+                                "slug": "", 
+                                "title": "Surface Mount Electronics Assembly for Terrified Beginners", 
+                                "subtitle": "Day 1 - Session 2", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
+                                        "public_name": "Kliment"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners"
+                                ]
                             }
                         ], 
                         "Assembly:Free Software Foundation Europe": [
                             {
-                                "id": 1185, 
+                                "id": 1186, 
                                 "guid": "7bab00cb-2945-546c-9d05-bf6b2a234588", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:00:00+01:00", 
@@ -4019,7 +4019,7 @@
                         ], 
                         "Assembly:Milliways": [
                             {
-                                "id": 1213, 
+                                "id": 1214, 
                                 "guid": "824b8449-591f-5a31-8518-7f7bbafe4eed", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:00:00+01:00", 
@@ -4047,7 +4047,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1214, 
+                                "id": 1215, 
                                 "guid": "3d59a8b1-5c87-53d4-b207-8634a70bc9a0", 
                                 "logo": null, 
                                 "date": "2016-12-27T21:00:00+01:00", 
@@ -4077,7 +4077,7 @@
                         ], 
                         "Assembly:Openlab Augsburg": [
                             {
-                                "id": 1253, 
+                                "id": 1254, 
                                 "guid": "99ec0229-0bc8-5db4-8bb0-82ab67bdee66", 
                                 "logo": null, 
                                 "date": "2016-12-27T16:00:00+01:00", 
@@ -4106,7 +4106,7 @@
                         ], 
                         "Kidspace": [
                             {
-                                "id": 1340, 
+                                "id": 1341, 
                                 "guid": "e50bb66a-722f-5cf2-884a-9c3a527ad50b", 
                                 "logo": null, 
                                 "date": "2016-12-27T14:00:00+01:00", 
@@ -6385,7 +6385,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1055, 
+                                "id": 1054, 
                                 "guid": "6130f33f-cc7d-5f98-b716-47370b95e956", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:00:00+01:00", 
@@ -6471,7 +6471,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1118, 
+                                "id": 1119, 
                                 "guid": "e9701636-b8d8-5108-8f75-f8dc9e5fa56e", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:30:00+01:00", 
@@ -6532,7 +6532,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1154, 
+                                "id": 1155, 
                                 "guid": "211b6058-9aa8-542a-88ad-43e1fc83414f", 
                                 "logo": null, 
                                 "date": "2016-12-28T11:00:00+01:00", 
@@ -6553,7 +6553,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1219, 
+                                "id": 1220, 
                                 "guid": "104aab5e-e15d-5fb7-af63-ace4edd6c397", 
                                 "logo": null, 
                                 "date": "2016-12-28T16:00:00+01:00", 
@@ -6580,7 +6580,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1260, 
+                                "id": 1259, 
                                 "guid": "049177ab-2d1c-5c31-88b8-2c014c5647ea", 
                                 "logo": null, 
                                 "date": "2016-12-29T00:30:00+01:00", 
@@ -6608,7 +6608,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1258, 
+                                "id": 1260, 
                                 "guid": "8150fc5b-1586-50b3-aaf7-562def38b930", 
                                 "logo": null, 
                                 "date": "2016-12-29T01:30:00+01:00", 
@@ -6636,7 +6636,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1281, 
+                                "id": 1285, 
                                 "guid": "e1ac263c-9958-5184-b5e3-1d4a62836310", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:15:00+01:00", 
@@ -6723,7 +6723,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1087, 
+                                "id": 1085, 
                                 "guid": "a5d643c1-d4f0-5268-942f-d9b896777dbf", 
                                 "logo": null, 
                                 "date": "2016-12-28T13:00:00+01:00", 
@@ -6750,7 +6750,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1089, 
+                                "id": 1087, 
                                 "guid": "31dafe97-322c-5940-b89f-713c83b19496", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:45:00+01:00", 
@@ -6777,7 +6777,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1307, 
+                                "id": 1308, 
                                 "guid": "8df0e603-9f6d-5dc8-aa4d-d84d13148ca3", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:30:00+01:00", 
@@ -6804,7 +6804,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1346, 
+                                "id": 1347, 
                                 "guid": "70ff93cb-008d-5601-8b8f-b56b605cbca6", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -6833,7 +6833,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1347, 
+                                "id": 1348, 
                                 "guid": "1429882d-aed6-5393-85d2-cf374685402f", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:45:00+01:00", 
@@ -6862,7 +6862,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1348, 
+                                "id": 1349, 
                                 "guid": "3decf8d8-888d-53eb-93e1-07596b3ca4a4", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -6974,7 +6974,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1131, 
+                                "id": 1132, 
                                 "guid": "ab7f935f-2d91-59ca-8c23-d423619ca7b8", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -7001,7 +7001,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1135, 
+                                "id": 1136, 
                                 "guid": "ec2e2399-8a26-5f09-80ac-d0a20feb0e9e", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:00:00+01:00", 
@@ -7029,7 +7029,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1175, 
+                                "id": 1176, 
                                 "guid": "8de46445-424f-5fc1-9f2c-1d176a0212fb", 
                                 "logo": null, 
                                 "date": "2016-12-28T13:00:00+01:00", 
@@ -7056,7 +7056,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1192, 
+                                "id": 1193, 
                                 "guid": "2fc26bf3-354f-560b-8f06-edaf294a6051", 
                                 "logo": null, 
                                 "date": "2016-12-28T16:30:00+01:00", 
@@ -7111,7 +7111,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1337, 
+                                "id": 1338, 
                                 "guid": "b85d912a-860c-51a7-8414-d4535cb46d07", 
                                 "logo": null, 
                                 "date": "2016-12-28T17:00:00+01:00", 
@@ -7140,7 +7140,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1358, 
+                                "id": 1359, 
                                 "guid": "e9b8fe2a-9bf7-56af-a0d3-75d2a56012b1", 
                                 "logo": null, 
                                 "date": "2016-12-28T20:45:00+01:00", 
@@ -7174,7 +7174,7 @@
                         ], 
                         "Hall C.2": [
                             {
-                                "id": 1162, 
+                                "id": 1163, 
                                 "guid": "3fbbb7fc-5883-5ae7-bd2f-2113afd88cb9", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:30:00+01:00", 
@@ -7201,7 +7201,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1178, 
+                                "id": 1179, 
                                 "guid": "8d038cb9-5a5f-56fe-af14-b44802e446c7", 
                                 "logo": null, 
                                 "date": "2016-12-28T17:00:00+01:00", 
@@ -7235,7 +7235,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1207, 
+                                "id": 1208, 
                                 "guid": "d5b180dc-5d20-5c13-a289-fbcef85ee501", 
                                 "logo": null, 
                                 "date": "2016-12-28T16:00:00+01:00", 
@@ -7263,7 +7263,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1339, 
+                                "id": 1340, 
                                 "guid": "08d10bcc-1d8b-537d-acf8-9fae4468bea6", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -7346,7 +7346,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1139, 
+                                "id": 1140, 
                                 "guid": "2d555dad-4feb-5c81-aaba-8935bd6dcb56", 
                                 "logo": null, 
                                 "date": "2016-12-28T16:00:00+01:00", 
@@ -7374,7 +7374,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1149, 
+                                "id": 1150, 
                                 "guid": "3707ce9b-f23d-59df-b232-4ea95a43835c", 
                                 "logo": null, 
                                 "date": "2016-12-28T20:00:00+01:00", 
@@ -7401,7 +7401,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1194, 
+                                "id": 1195, 
                                 "guid": "27f2e6e8-e14a-5bb6-94b3-026ea6680e40", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:00:00+01:00", 
@@ -7433,7 +7433,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1319, 
+                                "id": 1320, 
                                 "guid": "355a0ec5-1dbd-5bf3-829f-ea2c7ee9d866", 
                                 "logo": null, 
                                 "date": "2016-12-28T13:00:00+01:00", 
@@ -7462,7 +7462,7 @@
                         ], 
                         "Hall C.4": [
                             {
-                                "id": 1146, 
+                                "id": 1147, 
                                 "guid": "4d611931-b5ac-54d5-9286-7ee41620b7b5", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -7490,7 +7490,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1163, 
+                                "id": 1164, 
                                 "guid": "e57a6807-1159-552e-9804-eef3cc767a42", 
                                 "logo": null, 
                                 "date": "2016-12-28T20:30:00+01:00", 
@@ -7517,7 +7517,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1218, 
+                                "id": 1219, 
                                 "guid": "6d99f2a3-3c7f-59fd-b7c8-854db3bb3818", 
                                 "logo": null, 
                                 "date": "2016-12-28T23:59:00+01:00", 
@@ -7545,7 +7545,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1220, 
+                                "id": 1221, 
                                 "guid": "b52874c0-3851-5e53-a3b7-981c0c8b7f1e", 
                                 "logo": null, 
                                 "date": "2016-12-28T16:00:00+01:00", 
@@ -7578,7 +7578,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1228, 
+                                "id": 1229, 
                                 "guid": "0213b355-2b62-5b64-99e2-441738a700f3", 
                                 "logo": null, 
                                 "date": "2016-12-28T11:00:00+01:00", 
@@ -7611,7 +7611,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1238, 
+                                "id": 1239, 
                                 "guid": "62052485-9459-50e1-b6f8-9c3a85196729", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:00:00+01:00", 
@@ -7639,7 +7639,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1304, 
+                                "id": 1305, 
                                 "guid": "9ca65299-5aef-5b57-bd48-93ed3dd1e331", 
                                 "logo": null, 
                                 "date": "2016-12-28T22:00:00+01:00", 
@@ -7660,7 +7660,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1309, 
+                                "id": 1310, 
                                 "guid": "8fbd8824-6fa9-5e5e-a147-e40ac3dcd6a4", 
                                 "logo": null, 
                                 "date": "2016-12-28T17:30:00+01:00", 
@@ -7688,7 +7688,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1354, 
+                                "id": 1355, 
                                 "guid": "e3cb5ced-9951-5a76-a026-11953c4b6fb9", 
                                 "logo": null, 
                                 "date": "2016-12-28T13:00:00+01:00", 
@@ -7716,7 +7716,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1355, 
+                                "id": 1356, 
                                 "guid": "64bbec26-4ee8-59b8-b0c2-302797d6f185", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -7747,7 +7747,7 @@
                         ], 
                         "Hall F": [
                             {
-                                "id": 1164, 
+                                "id": 1165, 
                                 "guid": "e756b1ea-f03e-5acb-8247-237c7f781674", 
                                 "logo": null, 
                                 "date": "2016-12-28T17:00:00+01:00", 
@@ -7810,7 +7810,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1126, 
+                                "id": 1127, 
                                 "guid": "438825cf-c569-56a3-b51f-ada5470a2c13", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:45:00+01:00", 
@@ -7838,7 +7838,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1137, 
+                                "id": 1138, 
                                 "guid": "47f1330a-59d2-57fe-bef4-f692f303686f", 
                                 "logo": null, 
                                 "date": "2016-12-28T16:00:00+01:00", 
@@ -7871,7 +7871,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1144, 
+                                "id": 1146, 
                                 "guid": "6dcc3759-0018-5804-b75c-c233ce3a81a6", 
                                 "logo": null, 
                                 "date": "2016-12-28T13:00:00+01:00", 
@@ -7899,7 +7899,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1232, 
+                                "id": 1233, 
                                 "guid": "48262e11-d2d3-5e4e-8d24-ecac76ff60bc", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:30:00+01:00", 
@@ -7927,63 +7927,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1258, 
-                                "guid": "8150fc5b-1586-50b3-aaf7-562def38b930", 
-                                "logo": null, 
-                                "date": "2016-12-29T01:30:00+01:00", 
-                                "start": "01:30", 
-                                "duration": "1:00", 
-                                "room": "Hall 13-14", 
-                                "slug": "", 
-                                "title": "Skillconvention b", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "all travelers of a certain skill will be invented to join their respective session", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
-                                        "public_name": "Reisende"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://thereisnogame.de", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
-                                ]
-                            }, 
-                            {
                                 "id": 1259, 
-                                "guid": "5fabd2af-e609-5483-89cd-9601b99827b3", 
-                                "logo": null, 
-                                "date": "2016-12-29T02:30:00+01:00", 
-                                "start": "02:30", 
-                                "duration": "1:00", 
-                                "room": "Hall 13-14", 
-                                "slug": "", 
-                                "title": "Skillconvention b", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "all travelers of a certain skill will be invented to join their respective session", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
-                                        "public_name": "Reisende"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://thereisnogame.de", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
-                                ]
-                            }, 
-                            {
-                                "id": 1260, 
                                 "guid": "049177ab-2d1c-5c31-88b8-2c014c5647ea", 
                                 "logo": null, 
                                 "date": "2016-12-29T00:30:00+01:00", 
@@ -8011,7 +7955,63 @@
                                 ]
                             }, 
                             {
-                                "id": 1302, 
+                                "id": 1260, 
+                                "guid": "8150fc5b-1586-50b3-aaf7-562def38b930", 
+                                "logo": null, 
+                                "date": "2016-12-29T01:30:00+01:00", 
+                                "start": "01:30", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Skillconvention b", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers of a certain skill will be invented to join their respective session", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
+                                ]
+                            }, 
+                            {
+                                "id": 1261, 
+                                "guid": "5fabd2af-e609-5483-89cd-9601b99827b3", 
+                                "logo": null, 
+                                "date": "2016-12-29T02:30:00+01:00", 
+                                "start": "02:30", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Skillconvention b", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers of a certain skill will be invented to join their respective session", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
+                                ]
+                            }, 
+                            {
+                                "id": 1303, 
                                 "guid": "b63a2a9b-1259-5da9-ad91-3a2e276c702e", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:00:00+01:00", 
@@ -8038,34 +8038,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1310, 
-                                "guid": "3d0d1193-a176-5808-a116-c899ccc022bd", 
-                                "logo": null, 
-                                "date": "2016-12-28T19:40:00+01:00", 
-                                "start": "19:40", 
-                                "duration": "0:50", 
-                                "room": "Hall 13-14", 
-                                "slug": "", 
-                                "title": "Translation meetings", 
-                                "subtitle": "day 2, evening meeting", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
-                                        "public_name": "Sebalis"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings"
-                                ]
-                            }, 
-                            {
-                                "id": 1314, 
+                                "id": 1313, 
                                 "guid": "db87f489-da29-5747-ac26-26519bd11634", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:10:00+01:00", 
@@ -8092,7 +8065,34 @@
                                 ]
                             }, 
                             {
-                                "id": 1351, 
+                                "id": 1317, 
+                                "guid": "3d0d1193-a176-5808-a116-c899ccc022bd", 
+                                "logo": null, 
+                                "date": "2016-12-28T19:40:00+01:00", 
+                                "start": "19:40", 
+                                "duration": "0:50", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Translation meetings", 
+                                "subtitle": "day 2, evening meeting", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                                        "public_name": "Sebalis"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings"
+                                ]
+                            }, 
+                            {
+                                "id": 1352, 
                                 "guid": "a1a78424-3b20-58bd-b05b-29234c4be8f4", 
                                 "logo": null, 
                                 "date": "2016-12-28T17:00:00+01:00", 
@@ -8122,7 +8122,7 @@
                         "Lounge DisKo": [], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1001, 
+                                "id": 1000, 
                                 "guid": "e40e7f8b-fb65-5c50-aed2-d136ad563313", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -8149,7 +8149,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1168, 
+                                "id": 1167, 
                                 "guid": "ac5500fa-a531-589a-8ed8-397f47338025", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -8182,7 +8182,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1172, 
+                                "id": 1168, 
                                 "guid": "933f76c2-3313-50d5-be77-0bd12b706758", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:00:00+01:00", 
@@ -8325,7 +8325,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1010, 
+                                "id": 1012, 
                                 "guid": "c22a0db1-6476-5649-9aee-2f6f2adbc69c", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:00:00+01:00", 
@@ -8352,7 +8352,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1305, 
+                                "id": 1306, 
                                 "guid": "3ec2e53b-7a34-5572-8591-1aca05f2a2ca", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
@@ -8379,7 +8379,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1306, 
+                                "id": 1307, 
                                 "guid": "6192d5fe-5977-5d73-9ad1-9eefd914e813", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:30:00+01:00", 
@@ -8528,7 +8528,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1161, 
+                                "id": 1162, 
                                 "guid": "373c8876-0f34-534c-8126-64a352baa03a", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -8783,7 +8783,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1049, 
+                                "id": 1052, 
                                 "guid": "bcf812d3-e8e7-5f55-b7a4-a7745fc53d3b", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -8810,7 +8810,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1124, 
+                                "id": 1125, 
                                 "guid": "75ad2aa4-fa96-5748-86a0-94607909ef28", 
                                 "logo": null, 
                                 "date": "2016-12-28T17:30:00+01:00", 
@@ -8837,7 +8837,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1190, 
+                                "id": 1191, 
                                 "guid": "f72ab3c5-d2f3-562a-a08b-091c69a26f17", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:30:00+01:00", 
@@ -8866,7 +8866,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1208, 
+                                "id": 1209, 
                                 "guid": "c64dfbc3-0c84-58d7-94d3-80575000da30", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
@@ -8894,7 +8894,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1209, 
+                                "id": 1210, 
                                 "guid": "ce69c9ec-e186-5c22-a5c5-164002054620", 
                                 "logo": null, 
                                 "date": "2016-12-28T16:15:00+01:00", 
@@ -8922,7 +8922,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1266, 
+                                "id": 1267, 
                                 "guid": "21038ad3-60fe-56c6-a7c8-5fae682b1abb", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:30:00+01:00", 
@@ -8950,7 +8950,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1320, 
+                                "id": 1321, 
                                 "guid": "a5f17521-c717-5cbb-b4dc-643caffdd5e1", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:30:00+01:00", 
@@ -8977,7 +8977,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1360, 
+                                "id": 1361, 
                                 "guid": "8509f51b-627a-5ff6-98c6-b64c5f9e9dc5", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -9028,7 +9028,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1120, 
+                                "id": 1121, 
                                 "guid": "83788f19-b56d-5da5-beba-ca83aad9c1dc", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
@@ -9061,7 +9061,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1187, 
+                                "id": 1188, 
                                 "guid": "ae16d3fb-beba-5dce-ac6b-49f14ee414ed", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:55:00+01:00", 
@@ -9088,7 +9088,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1202, 
+                                "id": 1203, 
                                 "guid": "d0c6c376-d60e-5a31-9ece-cb918635baab", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -9116,7 +9116,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1250, 
+                                "id": 1249, 
                                 "guid": "012dc44d-a3ee-534c-87ef-5e6540feaf4d", 
                                 "logo": null, 
                                 "date": "2016-12-28T17:00:00+01:00", 
@@ -9144,7 +9144,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1290, 
+                                "id": 1289, 
                                 "guid": "fb60ba56-c243-56ed-aa93-0d8915092300", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -9173,7 +9173,7 @@
                         ], 
                         "Assembly:Freiwurst": [
                             {
-                                "id": 1060, 
+                                "id": 1062, 
                                 "guid": "3904f396-ca81-562c-8fe5-ea0928294665", 
                                 "logo": null, 
                                 "date": "2016-12-28T17:00:00+01:00", 
@@ -9232,7 +9232,7 @@
                         ], 
                         "Assembly:Flunkyground": [
                             {
-                                "id": 1105, 
+                                "id": 1106, 
                                 "guid": "8e55ac78-3d83-5f85-9e1f-353fee8f07d2", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:35:00+01:00", 
@@ -9262,7 +9262,7 @@
                         ], 
                         "Assembly:TEST ASSEMBLY PLEASE IGNORE": [
                             {
-                                "id": 1115, 
+                                "id": 1116, 
                                 "guid": "461244ef-8a95-55a4-ba3b-087fc704580a", 
                                 "logo": null, 
                                 "date": "2016-12-28T06:00:00+01:00", 
@@ -9292,7 +9292,7 @@
                         ], 
                         "Assembly:Lokale Gruppe": [
                             {
-                                "id": 1147, 
+                                "id": 1148, 
                                 "guid": "8e5228a5-4f7f-570f-b06d-35854a7f43b2", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -9321,7 +9321,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1180, 
+                                "id": 1183, 
                                 "guid": "a6dcc7b3-185a-5536-ba40-7bc98db7a656", 
                                 "logo": null, 
                                 "date": "2016-12-28T11:00:00+01:00", 
@@ -9348,7 +9348,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1263, 
+                                "id": 1264, 
                                 "guid": "c057d863-22f9-580b-b9ad-f6b53900a53e", 
                                 "logo": null, 
                                 "date": "2016-12-28T17:30:00+01:00", 
@@ -9376,7 +9376,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1292, 
+                                "id": 1291, 
                                 "guid": "c20d4027-94fa-5c26-9119-71f4eca8319d", 
                                 "logo": null, 
                                 "date": "2016-12-28T16:30:00+01:00", 
@@ -9403,7 +9403,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1293, 
+                                "id": 1292, 
                                 "guid": "10d43df3-715e-5515-bfeb-397d616af988", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:30:00+01:00", 
@@ -9432,7 +9432,7 @@
                         ], 
                         "Assembly:Free Software Foundation Europe": [
                             {
-                                "id": 1186, 
+                                "id": 1187, 
                                 "guid": "79467504-d04f-5606-889b-6563932e60e3", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:30:00+01:00", 
@@ -9461,7 +9461,7 @@
                         ], 
                         "Kidspace": [
                             {
-                                "id": 1188, 
+                                "id": 1189, 
                                 "guid": "d14cf66c-0dac-5d1e-b23d-afa7fd94d35a", 
                                 "logo": null, 
                                 "date": "2016-12-28T16:00:00+01:00", 
@@ -9490,7 +9490,7 @@
                         ], 
                         "Assembly:Openlab Augsburg": [
                             {
-                                "id": 1251, 
+                                "id": 1252, 
                                 "guid": "c7dabbe8-54a7-50f0-b8a9-f04b089f582f", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
@@ -9524,7 +9524,7 @@
                         ], 
                         "Assembly:Mozilla": [
                             {
-                                "id": 1350, 
+                                "id": 1351, 
                                 "guid": "329dae45-980e-5532-9e45-ddbcd60a3049", 
                                 "logo": null, 
                                 "date": "2016-12-28T20:00:00+01:00", 
@@ -11823,7 +11823,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1179, 
+                                "id": 1180, 
                                 "guid": "8836a5c3-95f1-530b-bd9a-c20a829770a1", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -11850,7 +11850,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1230, 
+                                "id": 1231, 
                                 "guid": "b87ec8b9-b67a-5f6c-8850-35b34715b2f3", 
                                 "logo": null, 
                                 "date": "2016-12-29T16:00:00+01:00", 
@@ -11878,7 +11878,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1247, 
+                                "id": 1248, 
                                 "guid": "69f05ba3-4d0d-5bbb-8b7d-dab2557ad431", 
                                 "logo": null, 
                                 "date": "2016-12-29T17:00:00+01:00", 
@@ -11905,7 +11905,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1261, 
+                                "id": 1262, 
                                 "guid": "b03b493d-f4c0-5364-995c-0566782952c8", 
                                 "logo": null, 
                                 "date": "2016-12-30T00:30:00+01:00", 
@@ -11933,7 +11933,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1297, 
+                                "id": 1298, 
                                 "guid": "3943292c-3f59-5821-a138-b884a45db308", 
                                 "logo": null, 
                                 "date": "2016-12-29T13:30:00+01:00", 
@@ -11961,7 +11961,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1352, 
+                                "id": 1353, 
                                 "guid": "8c0d64ac-bb22-5a19-9a7c-73e02348be54", 
                                 "logo": null, 
                                 "date": "2016-12-29T22:00:00+01:00", 
@@ -12013,34 +12013,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1082, 
-                                "guid": "06ea9962-c4da-5db8-8541-0a0fa3b8712e", 
-                                "logo": null, 
-                                "date": "2016-12-29T19:45:00+01:00", 
-                                "start": "19:45", 
-                                "duration": "0:30", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "Engelmeeting", 
-                                "subtitle": "Angel meeting day 3", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
-                                        "public_name": "Knuth"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1091, 
+                                "id": 1089, 
                                 "guid": "ae9df1ec-99ff-578a-86a2-b2c09debe54e", 
                                 "logo": null, 
                                 "date": "2016-12-29T13:00:00+01:00", 
@@ -12067,7 +12040,34 @@
                                 ]
                             }, 
                             {
-                                "id": 1216, 
+                                "id": 1091, 
+                                "guid": "06ea9962-c4da-5db8-8541-0a0fa3b8712e", 
+                                "logo": null, 
+                                "date": "2016-12-29T19:45:00+01:00", 
+                                "start": "19:45", 
+                                "duration": "0:30", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angel meeting day 3", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                                        "public_name": "Knuth"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1217, 
                                 "guid": "efd0c344-27e1-5aa0-bfdf-5c8f6fcdde7f", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -12164,7 +12164,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1279, 
+                                "id": 1280, 
                                 "guid": "af4baf6c-6be3-538f-8f0d-474fbcac454a", 
                                 "logo": null, 
                                 "date": "2016-12-29T18:00:00+01:00", 
@@ -12191,7 +12191,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1301, 
+                                "id": 1302, 
                                 "guid": "ea9d899b-6069-5cbb-ad00-e52fc49fb532", 
                                 "logo": null, 
                                 "date": "2016-12-29T14:00:00+01:00", 
@@ -12391,7 +12391,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1110, 
+                                "id": 1111, 
                                 "guid": "08441c61-0bfe-5171-8028-d4081e604793", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -12419,7 +12419,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1114, 
+                                "id": 1115, 
                                 "guid": "fe20ce6e-a7fa-5736-8f40-d914f34529bf", 
                                 "logo": null, 
                                 "date": "2016-12-29T23:00:00+01:00", 
@@ -12446,7 +12446,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1140, 
+                                "id": 1141, 
                                 "guid": "884bd0b5-c14e-51c1-9e6d-05ff79b6e220", 
                                 "logo": null, 
                                 "date": "2016-12-29T18:15:00+01:00", 
@@ -12474,7 +12474,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1196, 
+                                "id": 1197, 
                                 "guid": "8a93427e-c265-5e28-98b5-1c568def30ea", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:30:00+01:00", 
@@ -12502,7 +12502,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1241, 
+                                "id": 1242, 
                                 "guid": "cec360bd-8c78-576f-b18e-8dd1affe48ee", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -12530,7 +12530,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1264, 
+                                "id": 1266, 
                                 "guid": "3e287ff2-1898-5cdd-9a1f-085989bd1759", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:15:00+01:00", 
@@ -12625,7 +12625,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1148, 
+                                "id": 1149, 
                                 "guid": "612ce915-8d88-50fa-9fd8-bf85b1641ee7", 
                                 "logo": null, 
                                 "date": "2016-12-29T14:30:00+01:00", 
@@ -12657,7 +12657,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1197, 
+                                "id": 1198, 
                                 "guid": "6049bc8f-8e41-5a86-a852-15242122e206", 
                                 "logo": null, 
                                 "date": "2016-12-29T18:00:00+01:00", 
@@ -12678,7 +12678,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1210, 
+                                "id": 1211, 
                                 "guid": "76cba92c-39a2-55f6-8870-2b415cb38c92", 
                                 "logo": null, 
                                 "date": "2016-12-29T17:00:00+01:00", 
@@ -12711,7 +12711,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1240, 
+                                "id": 1241, 
                                 "guid": "213c6d72-90e9-5c5b-92ff-eabacb7d2487", 
                                 "logo": null, 
                                 "date": "2016-12-29T12:30:00+01:00", 
@@ -12739,7 +12739,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1278, 
+                                "id": 1279, 
                                 "guid": "215da34f-f4fb-50c6-b55b-7bd107ab2994", 
                                 "logo": null, 
                                 "date": "2016-12-29T11:00:00+01:00", 
@@ -12782,7 +12782,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1308, 
+                                "id": 1309, 
                                 "guid": "d3c04a45-e40b-5029-b723-7429cc6d4b06", 
                                 "logo": null, 
                                 "date": "2016-12-29T22:00:00+01:00", 
@@ -12809,7 +12809,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1318, 
+                                "id": 1319, 
                                 "guid": "0bcdb2ce-7c50-5376-90f9-7f3b36cf5a7b", 
                                 "logo": null, 
                                 "date": "2016-12-29T14:00:00+01:00", 
@@ -12870,7 +12870,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1143, 
+                                "id": 1144, 
                                 "guid": "a6d8a71a-39a3-5fb2-b336-7bdbb4a313bd", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -12898,12 +12898,12 @@
                                 ]
                             }, 
                             {
-                                "id": 1159, 
+                                "id": 1160, 
                                 "guid": "156415bc-97d2-5165-824d-cdfa45dc9112", 
                                 "logo": null, 
                                 "date": "2016-12-29T12:00:00+01:00", 
                                 "start": "12:00", 
-                                "duration": "1:15", 
+                                "duration": "1:30", 
                                 "room": "Hall C.3", 
                                 "slug": "", 
                                 "title": "IoT by beginners for beginners: Getting started with NodeMCU", 
@@ -12930,7 +12930,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1221, 
+                                "id": 1222, 
                                 "guid": "3d88d693-d325-5e5e-a90b-0e617a4d7c61", 
                                 "logo": null, 
                                 "date": "2016-12-29T14:00:00+01:00", 
@@ -12973,7 +12973,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1246, 
+                                "id": 1247, 
                                 "guid": "8486ead0-abc1-51c6-9719-44e00ce3caa8", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:30:00+01:00", 
@@ -13001,7 +13001,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1275, 
+                                "id": 1276, 
                                 "guid": "d1f2b3fc-522a-5eae-b705-f538da502057", 
                                 "logo": null, 
                                 "date": "2016-12-29T21:30:00+01:00", 
@@ -13029,7 +13029,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1359, 
+                                "id": 1360, 
                                 "guid": "22cc9e2b-f60f-5ca8-8d9d-977d422f3d7f", 
                                 "logo": null, 
                                 "date": "2016-12-29T17:00:00+01:00", 
@@ -13145,7 +13145,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1074, 
+                                "id": 1075, 
                                 "guid": "d2ca1412-729a-5533-9d4b-1f4c1d0da999", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -13210,7 +13210,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1130, 
+                                "id": 1131, 
                                 "guid": "9fc0cef8-8f43-59bc-b1cd-67f8e387871d", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:15:00+01:00", 
@@ -13238,7 +13238,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1155, 
+                                "id": 1156, 
                                 "guid": "75327c13-4012-53b0-9743-01ee140b5f36", 
                                 "logo": null, 
                                 "date": "2016-12-29T21:30:00+01:00", 
@@ -13266,7 +13266,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1211, 
+                                "id": 1212, 
                                 "guid": "6b6eb014-c12b-5273-9906-8d499e16938b", 
                                 "logo": null, 
                                 "date": "2016-12-29T11:00:00+01:00", 
@@ -13294,7 +13294,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1212, 
+                                "id": 1213, 
                                 "guid": "5195eb09-ba09-5d98-a271-c7cfafdd30f6", 
                                 "logo": null, 
                                 "date": "2016-12-29T18:00:00+01:00", 
@@ -13327,7 +13327,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1267, 
+                                "id": 1268, 
                                 "guid": "772740b4-9b1f-536d-846e-a97d305efe1f", 
                                 "logo": null, 
                                 "date": "2016-12-29T17:00:00+01:00", 
@@ -13440,7 +13440,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1122, 
+                                "id": 1123, 
                                 "guid": "ddd8f087-b236-52cd-9371-7a913cbfb28e", 
                                 "logo": null, 
                                 "date": "2016-12-29T14:00:00+01:00", 
@@ -13468,7 +13468,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1177, 
+                                "id": 1178, 
                                 "guid": "b40f81c8-c038-5deb-8674-9d7e3999e9ce", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:15:00+01:00", 
@@ -13496,27 +13496,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1200, 
-                                "guid": "bc3447a3-4f9d-5d8d-be5d-3a9a201a4c26", 
-                                "logo": null, 
-                                "date": "2016-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "2:15", 
-                                "room": "Hall F", 
-                                "slug": "", 
-                                "title": "Movie Night", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "18:00 Zero Days\n\n20:00 61 Tage\n\n21:00 Traceroute\n\n23:30 National Bird \n\nSee https://events.ccc.de/2016/12/28/33c3-movie-night-33c3-filmabend/", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Movie_Night"
-                                ]
-                            }, 
-                            {
                                 "id": 1201, 
                                 "guid": "5159c63e-53a9-51e3-8714-866519242bd2", 
                                 "logo": null, 
@@ -13538,7 +13517,28 @@
                                 ]
                             }, 
                             {
-                                "id": 1252, 
+                                "id": 1202, 
+                                "guid": "bc3447a3-4f9d-5d8d-be5d-3a9a201a4c26", 
+                                "logo": null, 
+                                "date": "2016-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:15", 
+                                "room": "Hall F", 
+                                "slug": "", 
+                                "title": "Movie Night", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "18:00 Zero Days\n\n20:00 61 Tage\n\n21:00 Traceroute\n\n23:30 National Bird \n\nSee https://events.ccc.de/2016/12/28/33c3-movie-night-33c3-filmabend/", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Movie_Night"
+                                ]
+                            }, 
+                            {
+                                "id": 1253, 
                                 "guid": "cabd9768-5b24-56f2-a8d7-5d457532e45c", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:45:00+01:00", 
@@ -13570,7 +13570,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1274, 
+                                "id": 1275, 
                                 "guid": "21351574-a794-55ec-ace3-9578be970ded", 
                                 "logo": null, 
                                 "date": "2016-12-29T23:30:00+01:00", 
@@ -13598,7 +13598,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1284, 
+                                "id": 1283, 
                                 "guid": "8abfa611-f221-5754-8a10-875e9c507771", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:15:00+01:00", 
@@ -13626,7 +13626,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1296, 
+                                "id": 1297, 
                                 "guid": "126c49ce-096a-5694-9bc4-e91e4bc1a27f", 
                                 "logo": null, 
                                 "date": "2016-12-29T12:00:00+01:00", 
@@ -13688,7 +13688,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1054, 
+                                "id": 1056, 
                                 "guid": "207a141c-80c4-506c-9864-3b262eb9baed", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -13715,7 +13715,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1121, 
+                                "id": 1122, 
                                 "guid": "cfa715e8-2f50-5ce2-8ff6-52fa72e3f2fd", 
                                 "logo": null, 
                                 "date": "2016-12-29T14:00:00+01:00", 
@@ -13742,7 +13742,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1156, 
+                                "id": 1157, 
                                 "guid": "f80c9850-f1ea-500e-a742-fb47114d3b8c", 
                                 "logo": null, 
                                 "date": "2016-12-29T12:00:00+01:00", 
@@ -13770,7 +13770,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1198, 
+                                "id": 1199, 
                                 "guid": "e322a710-3e78-55b9-b06a-144bd6518a18", 
                                 "logo": null, 
                                 "date": "2016-12-29T17:00:00+01:00", 
@@ -13798,7 +13798,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1224, 
+                                "id": 1225, 
                                 "guid": "24e6d88d-fb43-56b5-8985-62dee95aca03", 
                                 "logo": null, 
                                 "date": "2016-12-29T22:00:00+01:00", 
@@ -13826,7 +13826,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1261, 
+                                "id": 1262, 
                                 "guid": "b03b493d-f4c0-5364-995c-0566782952c8", 
                                 "logo": null, 
                                 "date": "2016-12-30T00:30:00+01:00", 
@@ -13854,7 +13854,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1262, 
+                                "id": 1263, 
                                 "guid": "510510fc-fe9f-514b-ad48-5c4d0317e92c", 
                                 "logo": null, 
                                 "date": "2016-12-30T01:30:00+01:00", 
@@ -13882,7 +13882,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1300, 
+                                "id": 1301, 
                                 "guid": "6033d53f-01f6-5d90-9349-1e384561ad81", 
                                 "logo": null, 
                                 "date": "2016-12-29T16:00:00+01:00", 
@@ -13910,7 +13910,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1312, 
+                                "id": 1311, 
                                 "guid": "31953ae7-980b-52af-b514-19beed920e3a", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:40:00+01:00", 
@@ -13937,7 +13937,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1315, 
+                                "id": 1314, 
                                 "guid": "65fde067-159c-5fd4-b27c-bb2d9e2c1f78", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:10:00+01:00", 
@@ -13994,7 +13994,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1011, 
+                                "id": 1010, 
                                 "guid": "d818acfb-8b35-5d8c-8f1b-2e2a205a4824", 
                                 "logo": null, 
                                 "date": "2016-12-29T18:00:00+01:00", 
@@ -14050,7 +14050,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1050, 
+                                "id": 1049, 
                                 "guid": "c0d51868-4df2-5f60-a8b6-cb67fe599939", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -14077,7 +14077,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1108, 
+                                "id": 1109, 
                                 "guid": "c295e3f1-3572-5a28-a2f2-ac3532754ad6", 
                                 "logo": null, 
                                 "date": "2016-12-29T14:00:00+01:00", 
@@ -14104,7 +14104,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1109, 
+                                "id": 1110, 
                                 "guid": "2891ffee-7a86-56b3-b2a2-c5043224907d", 
                                 "logo": null, 
                                 "date": "2016-12-29T16:00:00+01:00", 
@@ -14142,7 +14142,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1111, 
+                                "id": 1112, 
                                 "guid": "6645a454-ec03-5639-b224-9e815a416aef", 
                                 "logo": null, 
                                 "date": "2016-12-29T18:00:00+01:00", 
@@ -14226,7 +14226,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1160, 
+                                "id": 1161, 
                                 "guid": "8c016d1a-151c-5d5f-b2ff-ae8cb5fcacc2", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -14253,7 +14253,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1236, 
+                                "id": 1237, 
                                 "guid": "ab4ac8c8-ceab-5e4a-88f8-7d8c32698bed", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -14280,7 +14280,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1249, 
+                                "id": 1250, 
                                 "guid": "59c968e4-cb08-511d-b8bf-1aa9e11cdf9f", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -14308,7 +14308,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1254, 
+                                "id": 1255, 
                                 "guid": "43c54f5d-97c3-54f3-b87c-70e9f28861d1", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -14367,7 +14367,7 @@
                         ], 
                         "Assembly:Freiwurst": [
                             {
-                                "id": 1062, 
+                                "id": 1061, 
                                 "guid": "57bfbbcb-64ba-5189-a0aa-8a61dfbc2279", 
                                 "logo": null, 
                                 "date": "2016-12-29T17:00:00+01:00", 
@@ -14397,7 +14397,7 @@
                         ], 
                         "Assembly:Chaostreff Flensburg": [
                             {
-                                "id": 1064, 
+                                "id": 1065, 
                                 "guid": "8a1b14fc-ea82-52b5-9fd8-910dc25e9362", 
                                 "logo": null, 
                                 "date": "2016-12-29T17:00:00+01:00", 
@@ -14431,7 +14431,7 @@
                         ], 
                         "Assembly:Scottish Consulate": [
                             {
-                                "id": 1075, 
+                                "id": 1074, 
                                 "guid": "c3916b55-20e6-5b51-ac74-c37e8161d49d", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:00:00+01:00", 
@@ -14522,7 +14522,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1174, 
+                                "id": 1175, 
                                 "guid": "0dcffd10-06c2-5e25-acf5-9c4306f24efb", 
                                 "logo": null, 
                                 "date": "2016-12-29T14:00:00+01:00", 
@@ -14550,9 +14550,39 @@
                                 ]
                             }
                         ], 
+                        "Assembly:Flunkyground": [
+                            {
+                                "id": 1105, 
+                                "guid": "9cf59c4a-3767-5ce0-a07e-61834c1dec6e", 
+                                "logo": null, 
+                                "date": "2016-12-30T01:55:00+01:00", 
+                                "start": "01:55", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Flunkyground", 
+                                "slug": "", 
+                                "title": "Flunkyball", 
+                                "subtitle": "late-night game day 3", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Playing Flunkyball together. Organized by the UPB Flunkyteam.\nFlunkyball is a common german drinking game for all ages.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:ApolloLV", 
+                                        "public_name": "ApolloLV"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://upb-flunkyteam.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Flunkyball"
+                                ]
+                            }
+                        ], 
                         "Assembly:Anarchist Village": [
                             {
-                                "id": 1107, 
+                                "id": 1108, 
                                 "guid": "e7c164c4-1fbf-5cfc-91e5-4e38bba31f15", 
                                 "logo": null, 
                                 "date": "2016-12-29T12:30:00+01:00", 
@@ -14576,33 +14606,6 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2016/wiki/Session:Freedom_fries_-_a_discussion_about_Big-Data,_Facebook_and_cambridge_analytica_claiming_to_have_made_Trump_president_of_the_US"
-                                ]
-                            }, 
-                            {
-                                "id": 1151, 
-                                "guid": "da61b714-b337-5c7a-a8ed-8cd82192e940", 
-                                "logo": null, 
-                                "date": "2016-12-29T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "2:00", 
-                                "room": "Assembly:Anarchist Village", 
-                                "slug": "", 
-                                "title": "Instant Matrix Games", 
-                                "subtitle": "FUTURE", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Instant Matrix Games is a framework for the rapid development of an educational or analytical environment.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
-                                        "public_name": "Klemens"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Instant_Matrix_Games"
                                 ]
                             }, 
                             {
@@ -14660,7 +14663,34 @@
                                 ]
                             }, 
                             {
-                                "id": 1173, 
+                                "id": 1154, 
+                                "guid": "da61b714-b337-5c7a-a8ed-8cd82192e940", 
+                                "logo": null, 
+                                "date": "2016-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Anarchist Village", 
+                                "slug": "", 
+                                "title": "Instant Matrix Games", 
+                                "subtitle": "FUTURE", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Instant Matrix Games is a framework for the rapid development of an educational or analytical environment.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
+                                        "public_name": "Klemens"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Instant_Matrix_Games"
+                                ]
+                            }, 
+                            {
+                                "id": 1174, 
                                 "guid": "d4539c38-c7c4-5da2-afd1-bd5c3378cce3", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:30:00+01:00", 
@@ -14687,7 +14717,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1223, 
+                                "id": 1224, 
                                 "guid": "3e7ac6db-4013-5ec4-a1f9-f713450faf50", 
                                 "logo": null, 
                                 "date": "2016-12-29T11:00:00+01:00", 
@@ -14722,7 +14752,7 @@
                         ], 
                         "Assembly:Mensch meier and friends": [
                             {
-                                "id": 1112, 
+                                "id": 1113, 
                                 "guid": "2049c0d1-f478-56d0-8d98-3550c4d8d99b", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -14751,7 +14781,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1113, 
+                                "id": 1114, 
                                 "guid": "148c66b1-0527-55da-8cf8-894ed78cca8a", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:30:00+01:00", 
@@ -14782,40 +14812,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1167, 
-                                "guid": "5e23e52e-465a-5ae0-90d8-78311c711481", 
-                                "logo": null, 
-                                "date": "2016-12-29T23:00:00+01:00", 
-                                "start": "23:00", 
-                                "duration": "3:00", 
-                                "room": "Assembly:Chaos West", 
-                                "slug": "", 
-                                "title": "Klangteppich", 
-                                "subtitle": "PorCus DJ set: Techno", 
-                                "track": "self organized sessions", 
-                                "type": "other", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                                        "public_name": "Bam"
-                                    }, 
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                                        "public_name": "JayDee2202"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich"
-                                ]
-                            }, 
-                            {
-                                "id": 1169, 
+                                "id": 1166, 
                                 "guid": "7e4f05b5-24ca-5ef3-b31c-1f22874ea719", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:00:00+01:00", 
@@ -14848,7 +14845,40 @@
                                 ]
                             }, 
                             {
-                                "id": 1217, 
+                                "id": 1173, 
+                                "guid": "5e23e52e-465a-5ae0-90d8-78311c711481", 
+                                "logo": null, 
+                                "date": "2016-12-29T23:00:00+01:00", 
+                                "start": "23:00", 
+                                "duration": "3:00", 
+                                "room": "Assembly:Chaos West", 
+                                "slug": "", 
+                                "title": "Klangteppich", 
+                                "subtitle": "PorCus DJ set: Techno", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                                        "public_name": "Bam"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                                        "public_name": "JayDee2202"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich"
+                                ]
+                            }, 
+                            {
+                                "id": 1218, 
                                 "guid": "eb6917ef-a2bc-51ef-a334-5ca6880cac81", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:00:00+01:00", 
@@ -14878,7 +14908,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1181, 
+                                "id": 1184, 
                                 "guid": "2da966c6-a9d7-573d-bd00-4ed96a121647", 
                                 "logo": null, 
                                 "date": "2016-12-29T11:00:00+01:00", 
@@ -14905,34 +14935,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1286, 
-                                "guid": "315fe21f-40a7-53dc-80dc-ebe03f9cbb47", 
-                                "logo": null, 
-                                "date": "2016-12-29T18:30:00+01:00", 
-                                "start": "18:30", 
-                                "duration": "1:30", 
-                                "room": "Assembly:HardwareHackingArea", 
-                                "slug": "", 
-                                "title": "Surface Mount Electronics Assembly for Terrified Beginners", 
-                                "subtitle": "Day 3 - Session 2", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
-                                        "public_name": "Kliment"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners"
-                                ]
-                            }, 
-                            {
-                                "id": 1294, 
+                                "id": 1293, 
                                 "guid": "af2bf220-2a24-58e6-b30a-bbc1b07c90e5", 
                                 "logo": null, 
                                 "date": "2016-12-29T16:30:00+01:00", 
@@ -14957,11 +14960,38 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners"
                                 ]
+                            }, 
+                            {
+                                "id": 1295, 
+                                "guid": "315fe21f-40a7-53dc-80dc-ebe03f9cbb47", 
+                                "logo": null, 
+                                "date": "2016-12-29T18:30:00+01:00", 
+                                "start": "18:30", 
+                                "duration": "1:30", 
+                                "room": "Assembly:HardwareHackingArea", 
+                                "slug": "", 
+                                "title": "Surface Mount Electronics Assembly for Terrified Beginners", 
+                                "subtitle": "Day 3 - Session 2", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
+                                        "public_name": "Kliment"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners"
+                                ]
                             }
                         ], 
                         "Assembly:MuCCC": [
                             {
-                                "id": 1184, 
+                                "id": 1185, 
                                 "guid": "59ac7f2b-ae13-5869-be4f-b49cea6b98b7", 
                                 "logo": null, 
                                 "date": "2016-12-29T16:00:00+01:00", 
@@ -14990,7 +15020,7 @@
                         ], 
                         "Assembly:C-base": [
                             {
-                                "id": 1193, 
+                                "id": 1194, 
                                 "guid": "d201b7ac-4932-5e58-a76d-c05ce6b96772", 
                                 "logo": null, 
                                 "date": "2016-12-29T17:00:00+01:00", 
@@ -15019,7 +15049,7 @@
                         ], 
                         "Assembly:Speakers Sofa": [
                             {
-                                "id": 1270, 
+                                "id": 1271, 
                                 "guid": "0d7d3e24-6559-5cbd-bb2e-028bd4f82615", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -15046,7 +15076,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1271, 
+                                "id": 1272, 
                                 "guid": "f711b912-5b81-5b72-a0ff-312599e31cbc", 
                                 "logo": null, 
                                 "date": "2016-12-29T16:30:00+01:00", 
@@ -15073,7 +15103,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1272, 
+                                "id": 1273, 
                                 "guid": "1a970fa8-571f-540f-8922-178e86626230", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:30:00+01:00", 
@@ -15100,7 +15130,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1273, 
+                                "id": 1274, 
                                 "guid": "9219aabf-ba4e-5169-864a-257fb8741349", 
                                 "logo": null, 
                                 "date": "2016-12-29T16:00:00+01:00", 
@@ -15129,7 +15159,7 @@
                         ], 
                         "Anti Error Lounge": [
                             {
-                                "id": 1299, 
+                                "id": 1300, 
                                 "guid": "c5482290-6f74-5320-926e-a6f36691b8bd", 
                                 "logo": null, 
                                 "date": "2016-12-29T16:00:00+01:00", 
@@ -15162,7 +15192,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1303, 
+                                "id": 1304, 
                                 "guid": "f7b5cdc1-2839-5336-ab3f-67b7fcea6e6f", 
                                 "logo": null, 
                                 "date": "2016-12-29T21:00:00+01:00", 
@@ -15192,7 +15222,7 @@
                         ], 
                         "Assembly:VOC": [
                             {
-                                "id": 1326, 
+                                "id": 1327, 
                                 "guid": "e386064d-ecf2-5873-8afd-88fedc9107d0", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -15220,7 +15250,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1327, 
+                                "id": 1328, 
                                 "guid": "f968fd49-5066-586a-949f-8d878783dad0", 
                                 "logo": null, 
                                 "date": "2016-12-29T17:00:00+01:00", 
@@ -15248,7 +15278,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1328, 
+                                "id": 1329, 
                                 "guid": "ab00f520-8b06-5d90-a75b-06b46ed1c057", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -15276,7 +15306,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1329, 
+                                "id": 1330, 
                                 "guid": "6d686c42-35bc-516b-be2f-1f3ecbfded0f", 
                                 "logo": null, 
                                 "date": "2016-12-29T17:00:00+01:00", 
@@ -15304,175 +15334,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1330, 
-                                "guid": "22cb89e9-d2fa-5c8c-8e93-99af34e08adc", 
-                                "logo": null, 
-                                "date": "2016-12-29T15:45:00+01:00", 
-                                "start": "15:45", 
-                                "duration": "0:15", 
-                                "room": "Assembly:VOC", 
-                                "slug": "", 
-                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
-                                "subtitle": "English or German hands-on", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
-                                        "public_name": "NeoFisch"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3voc.de/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
-                                ]
-                            }, 
-                            {
                                 "id": 1331, 
-                                "guid": "565e43f0-823d-5029-b6d1-dcad85c9d36b", 
-                                "logo": null, 
-                                "date": "2016-12-29T14:30:00+01:00", 
-                                "start": "14:30", 
-                                "duration": "0:15", 
-                                "room": "Assembly:VOC", 
-                                "slug": "", 
-                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
-                                "subtitle": "English or German hands-on", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
-                                        "public_name": "NeoFisch"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3voc.de/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
-                                ]
-                            }, 
-                            {
-                                "id": 1332, 
-                                "guid": "8647dc2d-5aa5-5c5e-b2d1-08eca541d0ec", 
-                                "logo": null, 
-                                "date": "2016-12-29T14:45:00+01:00", 
-                                "start": "14:45", 
-                                "duration": "0:15", 
-                                "room": "Assembly:VOC", 
-                                "slug": "", 
-                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
-                                "subtitle": "English or German hands-on", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
-                                        "public_name": "NeoFisch"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3voc.de/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
-                                ]
-                            }, 
-                            {
-                                "id": 1333, 
-                                "guid": "6d349bcb-7c9f-58dc-a1ec-0eb5c5d45627", 
-                                "logo": null, 
-                                "date": "2016-12-29T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "0:15", 
-                                "room": "Assembly:VOC", 
-                                "slug": "", 
-                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
-                                "subtitle": "English or German hands-on", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
-                                        "public_name": "NeoFisch"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3voc.de/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
-                                ]
-                            }, 
-                            {
-                                "id": 1334, 
-                                "guid": "93b4d157-4ed8-5077-9c49-506dacc02b32", 
-                                "logo": null, 
-                                "date": "2016-12-29T15:15:00+01:00", 
-                                "start": "15:15", 
-                                "duration": "0:15", 
-                                "room": "Assembly:VOC", 
-                                "slug": "", 
-                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
-                                "subtitle": "English or German hands-on", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
-                                        "public_name": "NeoFisch"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3voc.de/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
-                                ]
-                            }, 
-                            {
-                                "id": 1335, 
-                                "guid": "e82235c6-dee1-5eab-a311-507ef5f6a772", 
-                                "logo": null, 
-                                "date": "2016-12-29T15:30:00+01:00", 
-                                "start": "15:30", 
-                                "duration": "0:15", 
-                                "room": "Assembly:VOC", 
-                                "slug": "", 
-                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
-                                "subtitle": "English or German hands-on", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
-                                        "public_name": "NeoFisch"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3voc.de/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
-                                ]
-                            }, 
-                            {
-                                "id": 1336, 
                                 "guid": "96368702-f3c6-51c3-aa7e-497aa4493ea6", 
                                 "logo": null, 
                                 "date": "2016-12-29T14:15:00+01:00", 
@@ -15500,7 +15362,175 @@
                                 ]
                             }, 
                             {
-                                "id": 1342, 
+                                "id": 1332, 
+                                "guid": "22cb89e9-d2fa-5c8c-8e93-99af34e08adc", 
+                                "logo": null, 
+                                "date": "2016-12-29T15:45:00+01:00", 
+                                "start": "15:45", 
+                                "duration": "0:15", 
+                                "room": "Assembly:VOC", 
+                                "slug": "", 
+                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
+                                "subtitle": "English or German hands-on", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                                        "public_name": "NeoFisch"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
+                                ]
+                            }, 
+                            {
+                                "id": 1333, 
+                                "guid": "565e43f0-823d-5029-b6d1-dcad85c9d36b", 
+                                "logo": null, 
+                                "date": "2016-12-29T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "0:15", 
+                                "room": "Assembly:VOC", 
+                                "slug": "", 
+                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
+                                "subtitle": "English or German hands-on", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                                        "public_name": "NeoFisch"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
+                                ]
+                            }, 
+                            {
+                                "id": 1334, 
+                                "guid": "8647dc2d-5aa5-5c5e-b2d1-08eca541d0ec", 
+                                "logo": null, 
+                                "date": "2016-12-29T14:45:00+01:00", 
+                                "start": "14:45", 
+                                "duration": "0:15", 
+                                "room": "Assembly:VOC", 
+                                "slug": "", 
+                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
+                                "subtitle": "English or German hands-on", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                                        "public_name": "NeoFisch"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
+                                ]
+                            }, 
+                            {
+                                "id": 1335, 
+                                "guid": "6d349bcb-7c9f-58dc-a1ec-0eb5c5d45627", 
+                                "logo": null, 
+                                "date": "2016-12-29T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "0:15", 
+                                "room": "Assembly:VOC", 
+                                "slug": "", 
+                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
+                                "subtitle": "English or German hands-on", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                                        "public_name": "NeoFisch"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
+                                ]
+                            }, 
+                            {
+                                "id": 1336, 
+                                "guid": "93b4d157-4ed8-5077-9c49-506dacc02b32", 
+                                "logo": null, 
+                                "date": "2016-12-29T15:15:00+01:00", 
+                                "start": "15:15", 
+                                "duration": "0:15", 
+                                "room": "Assembly:VOC", 
+                                "slug": "", 
+                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
+                                "subtitle": "English or German hands-on", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                                        "public_name": "NeoFisch"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
+                                ]
+                            }, 
+                            {
+                                "id": 1337, 
+                                "guid": "e82235c6-dee1-5eab-a311-507ef5f6a772", 
+                                "logo": null, 
+                                "date": "2016-12-29T15:30:00+01:00", 
+                                "start": "15:30", 
+                                "duration": "0:15", 
+                                "room": "Assembly:VOC", 
+                                "slug": "", 
+                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
+                                "subtitle": "English or German hands-on", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                                        "public_name": "NeoFisch"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
+                                ]
+                            }, 
+                            {
+                                "id": 1343, 
                                 "guid": "edd42715-d0b9-5932-a214-7d5329cfb8c1", 
                                 "logo": null, 
                                 "date": "2016-12-29T16:00:00+01:00", 
@@ -15528,7 +15558,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1344, 
+                                "id": 1345, 
                                 "guid": "f7bc6d3b-24c8-5d7e-9fe5-89bf2e964376", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:30:00+01:00", 
@@ -15558,7 +15588,7 @@
                         ], 
                         "Assembly:Milliways": [
                             {
-                                "id": 1353, 
+                                "id": 1354, 
                                 "guid": "579ae6b2-fa0a-58ba-9faa-227dbf9ed1cc", 
                                 "logo": null, 
                                 "date": "2016-12-29T21:00:00+01:00", 
@@ -16146,7 +16176,7 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 1321, 
+                                "id": 1322, 
                                 "guid": "1abf7895-7bf1-50d8-99fe-d2be18eda361", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:30:00+01:00", 
@@ -16184,7 +16214,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1323, 
+                                "id": 1326, 
                                 "guid": "040bdc37-9d98-55da-8b88-b794180c8629", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
@@ -16291,7 +16321,7 @@
                         "Hall 6": [], 
                         "Hall A.1": [
                             {
-                                "id": 1142, 
+                                "id": 1143, 
                                 "guid": "3d309df1-7466-58f3-a2d8-ebc892b31e8e", 
                                 "logo": null, 
                                 "date": "2016-12-30T13:00:00+01:00", 
@@ -16319,7 +16349,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1199, 
+                                "id": 1200, 
                                 "guid": "f05ab349-244d-536c-b31f-ea8e884b6c56", 
                                 "logo": null, 
                                 "date": "2016-12-30T12:00:00+01:00", 
@@ -16349,7 +16379,7 @@
                         "Hall A.2": [], 
                         "Hall B": [
                             {
-                                "id": 1084, 
+                                "id": 1082, 
                                 "guid": "09bad8a1-b1e9-5edb-9e0f-c2e73f6f284c", 
                                 "logo": null, 
                                 "date": "2016-12-30T13:00:00+01:00", 
@@ -16376,7 +16406,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1242, 
+                                "id": 1246, 
                                 "guid": "0643cf42-b551-52d2-ab75-06dc45cc6602", 
                                 "logo": null, 
                                 "date": "2016-12-30T12:00:00+01:00", 
@@ -16442,7 +16472,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1025, 
+                                "id": 1024, 
                                 "guid": "02678ce6-04aa-5f61-8f79-29c0edbe4dbb", 
                                 "logo": null, 
                                 "date": "2016-12-30T12:00:00+01:00", 
@@ -16470,7 +16500,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1138, 
+                                "id": 1139, 
                                 "guid": "186a4dbe-3630-52f9-907c-3bc447a3f976", 
                                 "logo": null, 
                                 "date": "2016-12-30T14:00:00+01:00", 
@@ -16500,7 +16530,7 @@
                         "Hall C.2": [], 
                         "Hall C.3": [
                             {
-                                "id": 1222, 
+                                "id": 1223, 
                                 "guid": "73f7780d-18a4-538a-a7e4-49c690291ba5", 
                                 "logo": null, 
                                 "date": "2016-12-30T12:00:00+01:00", 
@@ -16527,7 +16557,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1229, 
+                                "id": 1230, 
                                 "guid": "4eb118ab-5139-5b54-8545-0a3362726535", 
                                 "logo": null, 
                                 "date": "2016-12-30T14:45:00+01:00", 
@@ -16555,7 +16585,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1298, 
+                                "id": 1299, 
                                 "guid": "88c70df7-8adc-54d6-a812-24df90cfb957", 
                                 "logo": null, 
                                 "date": "2016-12-30T13:00:00+01:00", 
@@ -16641,7 +16671,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1206, 
+                                "id": 1207, 
                                 "guid": "eaa214e1-42d4-5c86-b594-c7b840f88e52", 
                                 "logo": null, 
                                 "date": "2016-12-30T14:30:00+01:00", 
@@ -16669,7 +16699,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1233, 
+                                "id": 1234, 
                                 "guid": "5d34034d-1d81-5981-bed3-40e08edc83e9", 
                                 "logo": null, 
                                 "date": "2016-12-30T13:00:00+01:00", 
@@ -16697,7 +16727,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1357, 
+                                "id": 1358, 
                                 "guid": "d10099ba-216c-5307-aac3-f94f05be09c0", 
                                 "logo": null, 
                                 "date": "2016-12-30T11:00:00+01:00", 
@@ -16756,7 +16786,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1127, 
+                                "id": 1128, 
                                 "guid": "8a32bbeb-170a-57bb-b822-037a7309839c", 
                                 "logo": null, 
                                 "date": "2016-12-30T18:15:00+01:00", 
@@ -16812,7 +16842,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1227, 
+                                "id": 1228, 
                                 "guid": "ad8fa21e-74d2-5704-8e04-b86b7ecc1365", 
                                 "logo": null, 
                                 "date": "2016-12-30T11:00:00+01:00", 
@@ -16839,7 +16869,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1316, 
+                                "id": 1315, 
                                 "guid": "9a13a7bc-83ff-57cf-8211-114c9ae33196", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:10:00+01:00", 
@@ -16869,7 +16899,7 @@
                         "Lounge DisKo": [], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1000, 
+                                "id": 1001, 
                                 "guid": "8aac6907-3268-5e33-86ad-c6e350b7f6c7", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
@@ -16957,7 +16987,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1051, 
+                                "id": 1050, 
                                 "guid": "4d630a7a-c685-53a1-b22d-c1f8dc9c1468", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
@@ -17015,7 +17045,7 @@
                         ], 
                         "Assembly:TEST ASSEMBLY PLEASE IGNORE": [
                             {
-                                "id": 1116, 
+                                "id": 1117, 
                                 "guid": "5d9085ed-702b-5cc6-ac42-4fec102f1c12", 
                                 "logo": null, 
                                 "date": "2016-12-30T13:00:00+01:00", 
@@ -17045,7 +17075,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1182, 
+                                "id": 1181, 
                                 "guid": "dce1f72e-55ed-515b-b0b2-06cd5fb4a085", 
                                 "logo": null, 
                                 "date": "2016-12-30T11:00:00+01:00", 
@@ -17072,7 +17102,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1288, 
+                                "id": 1287, 
                                 "guid": "3cc33c6b-8084-521b-9253-80c44359103f", 
                                 "logo": null, 
                                 "date": "2016-12-30T13:00:00+01:00", 
@@ -17099,7 +17129,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1291, 
+                                "id": 1290, 
                                 "guid": "b34e34d9-0581-5b8c-bf59-8fea30c8514d", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
@@ -17128,7 +17158,7 @@
                         ], 
                         "Assembly:VOC": [
                             {
-                                "id": 1341, 
+                                "id": 1342, 
                                 "guid": "166f5ad2-3cd6-52cf-8027-ba560880f2d8", 
                                 "logo": null, 
                                 "date": "2016-12-30T16:00:00+01:00", 
@@ -17156,7 +17186,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1343, 
+                                "id": 1344, 
                                 "guid": "5e991fd7-4a64-52e1-841d-4ed5a28f9f73", 
                                 "logo": null, 
                                 "date": "2016-12-30T13:00:00+01:00", 
@@ -17184,7 +17214,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1345, 
+                                "id": 1346, 
                                 "guid": "34b46b2a-4315-528a-91a6-f97f32de7f04", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 

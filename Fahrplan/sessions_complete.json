@@ -1619,6 +1619,62 @@
             "1482937200"
         ]
     }, 
+    "Session:IoT by beginners for beginners: Getting started with NodeMCU# 5fc8056ed8ebfff4669f211c66e5e25a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483012800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Getting started with the Internet of Things using the ESP8266 WiFi SoC. A basic how-to for beginners by beginners: \n- which software you need to install - how to flash the NoceMCU Firmware - how to start with your first small LUA script, connecting the WiFi module to the world - bring your laptop with you and try out ... Prerequisites: Java (all), Python2.7 (Linux & OS X)"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "The ESP 8266 WiFi SoC"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:TobiOrNotTobi", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:TobiOrNotTobi", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Trema", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Trema", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "IoT by beginners for beginners: Getting started with NodeMCU"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:IoT_by_beginners_for_beginners:_Getting_started_with_NodeMCU", 
+        "Has end time": [
+            "1483018200"
+        ]
+    }, 
     "Session:Subtitle Coordinator Angelmeetings# 740238c9c2ab6cc1a9a26604f84b98bc": {
         "Held in language": [
             "en - English"
@@ -3166,6 +3222,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
         "Has end time": [
             "1483027200"
+        ]
+    }, 
+    "Session:Flunkyball# 9b76de4fec41bfc2746a2dc4ce24dbab": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483062900"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://upb-flunkyteam.de"
+        ], 
+        "Has description": [
+            "Playing Flunkyball together. Organized by the UPB Flunkyteam.\nFlunkyball is a common german drinking game for all ages."
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Flunkyground", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Flunkyground", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "late-night game day 3"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:ApolloLV", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:ApolloLV", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Flunkyball"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Flunkyball", 
+        "Has end time": [
+            "1483066500"
         ]
     }, 
     "Session:Train the CryptoParty Trainer# 15d77550626146b226d51911f3ea7155": {
@@ -12849,62 +12957,6 @@
             "1483061400"
         ]
     }, 
-    "Session:IoT by beginners for beginners: Getting started with NodeMCU# c6a0777f15f7eb311fd7694fa40e6595": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483012800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Getting started with the Internet of Things using the ESP8266 WiFi SoC. A basic how-to for beginners by beginners: \n- which software you need to install - how to flash the NoceMCU Firmware - how to start with your first small LUA script, connecting the WiFi module to the world - bring your laptop with you and try out ... Prerequisites: Java (all), Python2.7 (Linux & OS X)"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "The ESP 8266 WiFi SoC"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:TobiOrNotTobi", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:TobiOrNotTobi", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Trema", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Trema", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "IoT by beginners for beginners: Getting started with NodeMCU"
-        ], 
-        "Has duration": [
-            75
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:IoT_by_beginners_for_beginners:_Getting_started_with_NodeMCU", 
-        "Has end time": [
-            "1483017300"
-        ]
-    }, 
     "Session:VOC Engelmeeting# 6312ac8705d66d48286a983da9f23d29": {
         "Held in language": [
             "en - English"
@@ -19466,54 +19518,6 @@
         "Has end time": [
             "1482940800"
         ]
-    }, 
-    "Session:Flunkyball# 2e52b18e883bd1e013616ca9bc7b0217": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://upb-flunkyteam.de"
-        ], 
-        "Has description": [
-            "Playing Flunkyball together. Organized by the UPB Flunkyteam.\nFlunkyball is a common german drinking game for all ages."
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Flunkyground", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Flunkyground", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "late-night game day 3"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:ApolloLV", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:ApolloLV", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Flunkyball"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Flunkyball", 
-        "Has end time": []
     }, 
     "Session:Full schedule test session# 9bf85a0870c3dba222b3d18c9dc80679": {
         "Held in language": [
