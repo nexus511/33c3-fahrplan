@@ -11596,12 +11596,12 @@
             "1482876000"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
@@ -11617,8 +11617,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -11643,7 +11643,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482853500"
+            "1483026300"
         ]
     }, 
     "Session:Skillconvention a# 06de81ba9b71b450d9cbf61661471ee5": {
@@ -14803,12 +14803,12 @@
             "1483029900"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -14824,8 +14824,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -14850,7 +14850,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
@@ -15297,56 +15297,6 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Herbal_brewing", 
         "Has end time": []
-    }, 
-    "Session:There is no birthday party# 172955a48fe885c1b849ffea7ee016aa": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1483034400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://thereisnogame.de"
-        ], 
-        "Has description": [
-            "see title"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Anti Error Lounge", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Anti_Error_Lounge", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Reisende", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "There is no birthday party"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:There_is_no_birthday_party", 
-        "Has end time": [
-            "1483037100"
-        ]
     }, 
     "Session:Your own Glowing Micropet!# e32112845c816d8bd5135c4b748134b3": {
         "Held in language": [
@@ -16044,6 +15994,56 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:JAZ_HRO", 
         "Has end time": []
+    }, 
+    "Session:There is no birthday party# 39c2e88d8efee73075ca6e53f5d49290": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483045200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://thereisnogame.de"
+        ], 
+        "Has description": [
+            "see title"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Anti Error Lounge", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Anti_Error_Lounge", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Reisende", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "There is no birthday party"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:There_is_no_birthday_party", 
+        "Has end time": [
+            "1483047900"
+        ]
     }, 
     "Session:Voctomix# 4d28c824ac5a739c25e37cbc13e79523": {
         "Held in language": [

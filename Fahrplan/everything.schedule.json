@@ -2047,7 +2047,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1131, 
+                                "id": 1130, 
                                 "guid": "1506fd90-1a87-5457-b840-81d2e20ebc96", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -2108,7 +2108,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1241, 
+                                "id": 1240, 
                                 "guid": "4ff5f3b6-ca14-57fa-bf89-4cee2a8739cf", 
                                 "logo": null, 
                                 "date": "2016-12-27T12:00:00+01:00", 
@@ -2191,7 +2191,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1269, 
+                                "id": 1268, 
                                 "guid": "7aac2f6f-c09b-5b27-965f-824ecca75a55", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -2219,7 +2219,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1275, 
+                                "id": 1273, 
                                 "guid": "87e63d0e-e34a-5fe9-b441-5c5f4923203b", 
                                 "logo": null, 
                                 "date": "2016-12-27T10:00:00+01:00", 
@@ -2247,7 +2247,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1277, 
+                                "id": 1275, 
                                 "guid": "50b55485-5e7c-5f64-81fb-6731c0f0be38", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:15:00+01:00", 
@@ -2667,15 +2667,15 @@
                             }, 
                             {
                                 "id": 1265, 
-                                "guid": "7829fac5-21f4-56b1-bb1d-24fd7a4114bc", 
+                                "guid": "806c5e1d-eed3-508f-a251-46d8a5c7d5db", 
                                 "logo": null, 
-                                "date": "2016-12-27T17:30:00+01:00", 
-                                "start": "17:30", 
+                                "date": "2016-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:10", 
                                 "room": "Hall C.2", 
                                 "slug": "", 
                                 "title": "Space Hacking", 
-                                "subtitle": "KulturKunstPartyPolitik! - Teil2: Urban Intervention", 
+                                "subtitle": "KulturKunstPartyPolitik! - Teil1: Collective Space", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -2698,15 +2698,15 @@
                             }, 
                             {
                                 "id": 1266, 
-                                "guid": "806c5e1d-eed3-508f-a251-46d8a5c7d5db", 
+                                "guid": "7829fac5-21f4-56b1-bb1d-24fd7a4114bc", 
                                 "logo": null, 
-                                "date": "2016-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2016-12-27T17:30:00+01:00", 
+                                "start": "17:30", 
                                 "duration": "1:10", 
                                 "room": "Hall C.2", 
                                 "slug": "", 
                                 "title": "Space Hacking", 
-                                "subtitle": "KulturKunstPartyPolitik! - Teil1: Collective Space", 
+                                "subtitle": "KulturKunstPartyPolitik! - Teil2: Urban Intervention", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -3015,7 +3015,7 @@
                         ], 
                         "Hall 13-14": [
                             {
-                                "id": 1054, 
+                                "id": 1055, 
                                 "guid": "1f13a568-64b4-5ee3-8936-15a5d1a6736f", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:00:00+01:00", 
@@ -3326,7 +3326,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1051, 
+                                "id": 1050, 
                                 "guid": "197d1871-0f25-56fe-b116-2a2d26879178", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -3608,7 +3608,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1246, 
+                                "id": 1245, 
                                 "guid": "0982d035-6b45-51c2-96b9-47a53d3fb9eb", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -3723,40 +3723,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1162, 
-                                "guid": "100e49b9-fcaf-5f91-8a4f-c367b771c8e5", 
-                                "logo": null, 
-                                "date": "2016-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "3:00", 
-                                "room": "Assembly:Chaos West", 
-                                "slug": "", 
-                                "title": "Klangteppich", 
-                                "subtitle": "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno", 
-                                "track": "self organized sessions", 
-                                "type": "other", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                                        "public_name": "Bam"
-                                    }, 
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                                        "public_name": "JayDee2202"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich"
-                                ]
-                            }, 
-                            {
-                                "id": 1166, 
+                                "id": 1164, 
                                 "guid": "8ae21e12-fe3d-5a3f-b2b7-ec733512b436", 
                                 "logo": null, 
                                 "date": "2016-12-27T23:00:00+01:00", 
@@ -3789,7 +3756,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1168, 
+                                "id": 1165, 
                                 "guid": "44d261f7-2ce8-50bf-a82d-d5a0079881f2", 
                                 "logo": null, 
                                 "date": "2016-12-28T01:00:00+01:00", 
@@ -3799,6 +3766,39 @@
                                 "slug": "", 
                                 "title": "Klangteppich", 
                                 "subtitle": "[[User:majorx|MajorX234]] DJ set: Dub, Bass, IDM, UK Garage", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                                        "public_name": "Bam"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                                        "public_name": "JayDee2202"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich"
+                                ]
+                            }, 
+                            {
+                                "id": 1167, 
+                                "guid": "100e49b9-fcaf-5f91-8a4f-c367b771c8e5", 
+                                "logo": null, 
+                                "date": "2016-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "3:00", 
+                                "room": "Assembly:Chaos West", 
+                                "slug": "", 
+                                "title": "Klangteppich", 
+                                "subtitle": "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "en", 
@@ -6385,7 +6385,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1055, 
+                                "id": 1054, 
                                 "guid": "6130f33f-cc7d-5f98-b716-47370b95e956", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:00:00+01:00", 
@@ -6499,7 +6499,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1130, 
+                                "id": 1129, 
                                 "guid": "c40a2e65-8eaa-5c7f-a6f6-9e442d8529a9", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -7084,7 +7084,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1239, 
+                                "id": 1242, 
                                 "guid": "2878938c-580c-53ad-bbaf-421ca27f2e7f", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
@@ -7810,7 +7810,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1124, 
+                                "id": 1123, 
                                 "guid": "438825cf-c569-56a3-b51f-ada5470a2c13", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:45:00+01:00", 
@@ -8122,7 +8122,7 @@
                         "Lounge DisKo": [], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1001, 
+                                "id": 1000, 
                                 "guid": "e40e7f8b-fb65-5c50-aed2-d136ad563313", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -8149,7 +8149,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1165, 
+                                "id": 1163, 
                                 "guid": "ac5500fa-a531-589a-8ed8-397f47338025", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -8182,7 +8182,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1167, 
+                                "id": 1166, 
                                 "guid": "933f76c2-3313-50d5-be77-0bd12b706758", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:00:00+01:00", 
@@ -8587,44 +8587,6 @@
                             }, 
                             {
                                 "id": 1045, 
-                                "guid": "2f92f65d-c298-555f-a779-67ab84e35f96", 
-                                "logo": null, 
-                                "date": "2016-12-28T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "1:00", 
-                                "room": "Assembly:Jugend hackt", 
-                                "slug": "", 
-                                "title": "Coder Dojo", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert).", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                                        "public_name": "Nana berlin"
-                                    }, 
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
-                                        "public_name": "Cyber-phil"
-                                    }, 
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
-                                        "public_name": "Niccokunzmann"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://coderdojo.com", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
-                                ]
-                            }, 
-                            {
-                                "id": 1046, 
                                 "guid": "0b7c6752-81bc-5c80-aab4-76ed520fc7a0", 
                                 "logo": null, 
                                 "date": "2016-12-28T11:00:00+01:00", 
@@ -8662,11 +8624,49 @@
                                 ]
                             }, 
                             {
-                                "id": 1047, 
+                                "id": 1046, 
                                 "guid": "071520f7-fabf-5648-89bd-c9627c89e009", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
                                 "start": "12:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Jugend hackt", 
+                                "slug": "", 
+                                "title": "Coder Dojo", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert).", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                                        "public_name": "Nana berlin"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
+                                        "public_name": "Cyber-phil"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
+                                        "public_name": "Niccokunzmann"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://coderdojo.com", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
+                                ]
+                            }, 
+                            {
+                                "id": 1047, 
+                                "guid": "2f92f65d-c298-555f-a779-67ab84e35f96", 
+                                "logo": null, 
+                                "date": "2016-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
                                 "duration": "1:00", 
                                 "room": "Assembly:Jugend hackt", 
                                 "slug": "", 
@@ -8783,7 +8783,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1048, 
+                                "id": 1051, 
                                 "guid": "bcf812d3-e8e7-5f55-b7a4-a7745fc53d3b", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -11027,7 +11027,7 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 1318, 
+                                "id": 1317, 
                                 "guid": "02030dd7-3372-50fd-97df-785d9d843774", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -11789,7 +11789,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1129, 
+                                "id": 1131, 
                                 "guid": "8ad06813-88de-523f-b7ce-a73c8b91471a", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -12099,7 +12099,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1242, 
+                                "id": 1241, 
                                 "guid": "ad9c6d86-244a-5985-ac0d-259ecb3c6f18", 
                                 "logo": null, 
                                 "date": "2016-12-29T12:00:00+01:00", 
@@ -13468,11 +13468,11 @@
                             }, 
                             {
                                 "id": 1197, 
-                                "guid": "5159c63e-53a9-51e3-8714-866519242bd2", 
+                                "guid": "bc3447a3-4f9d-5d8d-be5d-3a9a201a4c26", 
                                 "logo": null, 
-                                "date": "2016-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "3:00", 
+                                "date": "2016-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:15", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Movie Night", 
@@ -13489,11 +13489,11 @@
                             }, 
                             {
                                 "id": 1198, 
-                                "guid": "bc3447a3-4f9d-5d8d-be5d-3a9a201a4c26", 
+                                "guid": "5159c63e-53a9-51e3-8714-866519242bd2", 
                                 "logo": null, 
-                                "date": "2016-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "2:15", 
+                                "date": "2016-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "3:00", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Movie Night", 
@@ -13541,7 +13541,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1273, 
+                                "id": 1277, 
                                 "guid": "8abfa611-f221-5754-8a10-875e9c507771", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:15:00+01:00", 
@@ -13993,7 +13993,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1049, 
+                                "id": 1048, 
                                 "guid": "c0d51868-4df2-5f60-a8b6-cb67fe599939", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -14223,7 +14223,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1245, 
+                                "id": 1246, 
                                 "guid": "59c968e4-cb08-511d-b8bf-1aa9e11cdf9f", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -14523,33 +14523,6 @@
                             }, 
                             {
                                 "id": 1148, 
-                                "guid": "c76d83e4-a228-5460-ac73-91497f330619", 
-                                "logo": null, 
-                                "date": "2016-12-29T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "2:00", 
-                                "room": "Assembly:Anarchist Village", 
-                                "slug": "", 
-                                "title": "Instant Matrix Games", 
-                                "subtitle": "PAST", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Instant Matrix Games is a framework for the rapid development of an educational or analytical environment.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
-                                        "public_name": "Klemens"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Instant_Matrix_Games"
-                                ]
-                            }, 
-                            {
-                                "id": 1149, 
                                 "guid": "da61b714-b337-5c7a-a8ed-8cd82192e940", 
                                 "logo": null, 
                                 "date": "2016-12-29T17:00:00+01:00", 
@@ -14576,7 +14549,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1150, 
+                                "id": 1149, 
                                 "guid": "0d21fc3d-0f93-5dbb-8388-569ca104d617", 
                                 "logo": null, 
                                 "date": "2016-12-29T14:30:00+01:00", 
@@ -14586,6 +14559,33 @@
                                 "slug": "", 
                                 "title": "Instant Matrix Games", 
                                 "subtitle": "PRESENT", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Instant Matrix Games is a framework for the rapid development of an educational or analytical environment.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
+                                        "public_name": "Klemens"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Instant_Matrix_Games"
+                                ]
+                            }, 
+                            {
+                                "id": 1150, 
+                                "guid": "c76d83e4-a228-5460-ac73-91497f330619", 
+                                "logo": null, 
+                                "date": "2016-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Anarchist Village", 
+                                "slug": "", 
+                                "title": "Instant Matrix Games", 
+                                "subtitle": "PAST", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "en", 
@@ -14665,16 +14665,16 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1163, 
-                                "guid": "5e23e52e-465a-5ae0-90d8-78311c711481", 
+                                "id": 1162, 
+                                "guid": "7e4f05b5-24ca-5ef3-b31c-1f22874ea719", 
                                 "logo": null, 
-                                "date": "2016-12-29T23:00:00+01:00", 
-                                "start": "23:00", 
+                                "date": "2016-12-29T20:00:00+01:00", 
+                                "start": "20:00", 
                                 "duration": "3:00", 
                                 "room": "Assembly:Chaos West", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "PorCus DJ set: Techno", 
+                                "subtitle": "[[User:Tuxinaut|Tuxinaut]] DJ set: Techno", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "en", 
@@ -14698,16 +14698,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1164, 
-                                "guid": "7e4f05b5-24ca-5ef3-b31c-1f22874ea719", 
+                                "id": 1169, 
+                                "guid": "5e23e52e-465a-5ae0-90d8-78311c711481", 
                                 "logo": null, 
-                                "date": "2016-12-29T20:00:00+01:00", 
-                                "start": "20:00", 
+                                "date": "2016-12-29T23:00:00+01:00", 
+                                "start": "23:00", 
                                 "duration": "3:00", 
                                 "room": "Assembly:Chaos West", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "[[User:Tuxinaut|Tuxinaut]] DJ set: Techno", 
+                                "subtitle": "PorCus DJ set: Techno", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "en", 
@@ -14936,10 +14936,10 @@
                             }, 
                             {
                                 "id": 1296, 
-                                "guid": "7ff2aa12-a5c4-56a1-bdbd-291d4609ee26", 
+                                "guid": "f7b5cdc1-2839-5336-ab3f-67b7fcea6e6f", 
                                 "logo": null, 
-                                "date": "2016-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
+                                "date": "2016-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
                                 "duration": "0:45", 
                                 "room": "Anti Error Lounge", 
                                 "slug": "", 
@@ -15649,7 +15649,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1317, 
+                                "id": 1318, 
                                 "guid": "040bdc37-9d98-55da-8b88-b794180c8629", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
@@ -15841,7 +15841,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1240, 
+                                "id": 1239, 
                                 "guid": "0643cf42-b551-52d2-ab75-06dc45cc6602", 
                                 "logo": null, 
                                 "date": "2016-12-30T12:00:00+01:00", 
@@ -16248,7 +16248,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1123, 
+                                "id": 1124, 
                                 "guid": "8a32bbeb-170a-57bb-b822-037a7309839c", 
                                 "logo": null, 
                                 "date": "2016-12-30T18:15:00+01:00", 
@@ -16361,7 +16361,7 @@
                         "Lounge DisKo": [], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1000, 
+                                "id": 1001, 
                                 "guid": "8aac6907-3268-5e33-86ad-c6e350b7f6c7", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
@@ -16449,7 +16449,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1050, 
+                                "id": 1049, 
                                 "guid": "4d630a7a-c685-53a1-b22d-c1f8dc9c1468", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
