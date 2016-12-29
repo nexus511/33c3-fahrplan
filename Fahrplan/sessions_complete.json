@@ -1383,12 +1383,12 @@
             "1483027200"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -1407,7 +1407,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -1428,7 +1428,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Flunkyball# 3464118d555bc81519f9e26273225748": {
@@ -6084,7 +6084,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "18:00 Zero Days\n\n20:00 61 Tage\n\n21:00 Traceroute\n\nSee https://events.ccc.de/2016/12/28/33c3-movie-night-33c3-filmabend/"
+            "18:00 Zero Days\n\n20:00 61 Tage\n\n21:00 Traceroute\n\n23:30 National Bird \n\nSee https://events.ccc.de/2016/12/28/33c3-movie-night-33c3-filmabend/"
         ], 
         "Has session type": [], 
         "Has session location": [
@@ -9243,12 +9243,12 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -9267,7 +9267,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -9288,7 +9288,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -9581,6 +9581,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:PEp_KeySync", 
         "Has end time": []
     }, 
+    "Session:Voctomix# 8ac70d3d004c08975d84b75a711f6495": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483102800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de"
+        ], 
+        "Has description": [
+            "GStreamer based application mixing/compositing live video and audio from various sources. Successor of DVswitch and gst-switch. Tailored to the needs of the C3VOC. In German or English."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:VOC", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "In German or English."
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:NeoFisch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Voctomix"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Voctomix", 
+        "Has end time": [
+            "1483106400"
+        ]
+    }, 
     "Session:Let's sing together the Free Software Song# 915d9b190a8871d4ee42c5eb020affd0": {
         "Held in language": [
             "en - English"
@@ -9819,6 +9871,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LOC_Teardown_Meeting", 
         "Has end time": [
             "1483041600"
+        ]
+    }, 
+    "Session:Special 33c3 preview screening - National Bird# ae8cda1eff07c4c9ff3565e5bb623c86": {
+        "Held in language": [], 
+        "Has start time": [
+            "1483054200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://nationalbirdfilm.com/"
+        ], 
+        "Has description": [
+            "Special 33c3 preview screening - National Bird\nwith director Sonia Kennebeck\nhttp://nationalbirdfilm.com/"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Vavoida", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Vavoida", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Special 33c3 preview screening - National Bird"
+        ], 
+        "Has duration": [
+            150
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Special_33c3_preview_screening_-_National_Bird", 
+        "Has end time": [
+            "1483063200"
         ]
     }, 
     "Session:3D scan yourself# 07fd3c770a47140f5c5c4fe19a8c3787": {
@@ -12084,6 +12184,58 @@
             "1483026300"
         ]
     }, 
+    "Session:Voctomix# b050941336d734e3026a81f03320b19e": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483113600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de"
+        ], 
+        "Has description": [
+            "GStreamer based application mixing/compositing live video and audio from various sources. Successor of DVswitch and gst-switch. Tailored to the needs of the C3VOC. In German or English."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:VOC", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "In German or English."
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:NeoFisch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Voctomix"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Voctomix", 
+        "Has end time": [
+            "1483117200"
+        ]
+    }, 
     "Session:Skillconvention a# 06de81ba9b71b450d9cbf61661471ee5": {
         "Held in language": [
             "en - English"
@@ -13784,6 +13936,54 @@
             "1483050600"
         ]
     }, 
+    "Session:Speaker's Sofa: Kauft Euren \u00d6PNV# 3ad994cdae78936dbf803c9b248ff111": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483029000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Smart City meets Mobilit\u00e4tssystem: \"Kauft Euren \u00d6PNV\" Warum?"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Speakers Sofa", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Speakers_Sofa", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Reticuleena", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reticuleena", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Speaker's Sofa: Kauft Euren \u00d6PNV"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Speaker%27s_Sofa:_Kauft_Euren_%C3%96PNV", 
+        "Has end time": [
+            "1483030200"
+        ]
+    }, 
     "Session:Whiskyleaks# 5c60b8f080fa565c157bf2f447c54bef": {
         "Held in language": [
             "en - English"
@@ -14421,6 +14621,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:OpenPGP_use_cases_beyond_email", 
         "Has end time": [
             "1483054200"
+        ]
+    }, 
+    "Session:Voctomix# 978ac86e72d091c7e4e932d009035d03": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483110000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de"
+        ], 
+        "Has description": [
+            "GStreamer based application mixing/compositing live video and audio from various sources. Successor of DVswitch and gst-switch. Tailored to the needs of the C3VOC. In German or English."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:VOC", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "In German or English."
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:NeoFisch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Voctomix"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Voctomix", 
+        "Has end time": [
+            "1483113600"
         ]
     }, 
     "Session:VOC Video Post-Processing Cutting Videos with Donuts# c0860d4152fcfef5376619166a828f8a": {
@@ -19742,7 +19994,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "18:00 Zero Days\n\n20:00 61 Tage\n\n21:00 Traceroute\n\nSee https://events.ccc.de/2016/12/28/33c3-movie-night-33c3-filmabend/"
+            "18:00 Zero Days\n\n20:00 61 Tage\n\n21:00 Traceroute\n\n23:30 National Bird \n\nSee https://events.ccc.de/2016/12/28/33c3-movie-night-33c3-filmabend/"
         ], 
         "Has session type": [], 
         "Has session location": [
