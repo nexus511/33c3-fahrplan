@@ -335,6 +335,54 @@
             "1483115400"
         ]
     }, 
+    "Session:Speaker's Sofa: IT-Sicherheit# d15c7e7153854734c030bf610f757e7b": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483023600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Warum IT-Sicherheit & Datenschutz in der Praxis nicht funktionieren."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Speakers Sofa", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Speakers_Sofa", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Reticuleena", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reticuleena", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Speaker's Sofa: IT-Sicherheit"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Speaker%27s_Sofa:_IT-Sicherheit", 
+        "Has end time": [
+            "1483024800"
+        ]
+    }, 
     "Session:Teledildonics Meetup# 464494b1ff6c79d3bec54559ad29a223": {
         "Held in language": [
             "en - English"
@@ -1335,12 +1383,12 @@
             "1483027200"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -1359,7 +1407,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -1380,7 +1428,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Flunkyball# 3464118d555bc81519f9e26273225748": {
@@ -3428,44 +3476,39 @@
             "1483056000"
         ]
     }, 
-    "Session:DNS und ICVPN: .freifunk und .ff# a67ef735384792f20a7aeb282d62353e": {
+    "Session:Tor# 597a60bf1df02da1110f843b155078a9": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
+        "Has description": [
+            "Session should be used to connect with all the people who work for the various projects within or related with tor."
+        ], 
         "Has session type": [
-            "Hands-On"
+            "Meeting"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
+        "Has session location": [], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Yanosz", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Yanosz", 
+                "fulltext": "User:Julius", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Julius", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "DNS und ICVPN: .freifunk und .ff"
+            "Tor"
         ], 
         "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:DNS_und_ICVPN:_.freifunk_und_.ff", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Tor", 
         "Has end time": []
     }, 
     "Session:Network concepts introduction & wireshark workshop# 495f918c6608a0336b180bb6cd1a548b": {
@@ -5097,6 +5140,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
         "Has end time": [
             "1482867600"
+        ]
+    }, 
+    "Session:Speaker's Sofa: Terrorbek\u00e4mpfung# 02a19bab993213e2f897de3c9e8bf5d4": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483025400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Was man alles machen k\u00f6nnte, wenn man wirklich Terror bek\u00e4mpfen wollte."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Speakers Sofa", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Speakers_Sofa", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Reticuleena", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reticuleena", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Speaker's Sofa: Terrorbek\u00e4mpfung"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Speaker%27s_Sofa:_Terrorbek%C3%A4mpfung", 
+        "Has end time": [
+            "1483026600"
         ]
     }, 
     "Session:Social Engineering Poetry Slam# 3b37eebbde0ae5877170aef80a7a1a7d": {
@@ -7924,6 +8015,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Mate_Making", 
         "Has end time": []
     }, 
+    "Session:Speakers's Sofa: True Story of a native Turk in time of censorship# 2f0568b9aa0a22401afa81df6d0d728b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483027200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Decision making in times of censorship: True story of a native Turk in time of putsch and censorship"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Speakers Sofa", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Speakers_Sofa", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Reticuleena", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reticuleena", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Speakers's Sofa: True Story of a native Turk in time of censorship"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Speakers%27s_Sofa:_True_Story_of_a_native_Turk_in_time_of_censorship", 
+        "Has end time": [
+            "1483028400"
+        ]
+    }, 
     "Session:Open Source in Amateur Radio# a323830f60f395e17c688d3ae7d482d2": {
         "Held in language": [
             "en - English"
@@ -9104,12 +9243,12 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -9128,7 +9267,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -9149,7 +9288,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -17248,39 +17387,44 @@
             "1482879600"
         ]
     }, 
-    "Session:Tor# 597a60bf1df02da1110f843b155078a9": {
+    "Session:DNS und ICVPN: .freifunk und .ff# a67ef735384792f20a7aeb282d62353e": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "Session should be used to connect with all the people who work for the various projects within or related with tor."
-        ], 
+        "Has description": [], 
         "Has session type": [
-            "Meeting"
+            "Hands-On"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Julius", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Julius", 
+                "fulltext": "User:Yanosz", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Yanosz", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Tor"
+            "DNS und ICVPN: .freifunk und .ff"
         ], 
         "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Tor", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:DNS_und_ICVPN:_.freifunk_und_.ff", 
         "Has end time": []
     }, 
     "Session:Beweise ohne Worte (Wondrous Mathematics)# d123038fc33087241a77de63e9472b08": {
