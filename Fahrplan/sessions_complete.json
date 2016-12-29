@@ -1425,12 +1425,12 @@
             "1483027200"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -1449,7 +1449,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -1470,7 +1470,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Flunkyball# 3464118d555bc81519f9e26273225748": {
@@ -5451,28 +5451,27 @@
             "1483055100"
         ]
     }, 
-    "Session:Your own Glowing Micropet!# e32112845c816d8bd5135c4b748134b3": {
+    "Session:Strategien, \u00dcberwachungsskepsis in die Mitte der Gesellschaft zu tragen / Anti Surveillance Campaigning Targeted at the Masses# 6b95fb19e990ede38830922ffb941bad": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1483030800"
+            "1483034400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Enter this Workshop to get a sample of your very own glow-in-the-dark pet! We will be playing around with Aliibvibrio Fischeri, a bioluminescent bacterium living all over the world's oceans."
+            "*** Follow Up Session***\n\nWe want to follow up on the discussion about strategies to make \"mainstream\" people care about surveillance and privacy. (mainstream = outside of hacker community/tech bubble)\nEveryone is welcome to join!"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -5480,24 +5479,24 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:A.Vibrio.F.", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:A.Vibrio.F.", 
+                "fulltext": "User:Vikvik", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Vikvik", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Your own Glowing Micropet!"
+            "Strategien, \u00dcberwachungsskepsis in die Mitte der Gesellschaft zu tragen / Anti Surveillance Campaigning Targeted at the Masses"
         ], 
         "Has duration": [
-            120
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Your_own_Glowing_Micropet!", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Strategien,_%C3%9Cberwachungsskepsis_in_die_Mitte_der_Gesellschaft_zu_tragen_/_Anti_Surveillance_Campaigning_Targeted_at_the_Masses", 
         "Has end time": [
-            "1483038000"
+            "1483039800"
         ]
     }, 
     "Session:An Introduction to Intel Software Guard Extensions (SGX)# deb1a11af4dd0e3a88e338f9432bf1c5": {
@@ -7392,6 +7391,56 @@
             "1482934500"
         ]
     }, 
+    "Session:Strategien, \u00dcberwachungsskepsis in die Mitte der Gesellschaft zu tragen / Anti Surveillance Campaigning Targeted at the Masses# a275a689ac1f8c5cf9ed024438eae708": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483106400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "*** Follow Up Session***\n\nWe want to follow up on the discussion about strategies to make \"mainstream\" people care about surveillance and privacy. (mainstream = outside of hacker community/tech bubble)\nEveryone is welcome to join!"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Follow-Up Session, everyone welcome!"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Vikvik", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Vikvik", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Strategien, \u00dcberwachungsskepsis in die Mitte der Gesellschaft zu tragen / Anti Surveillance Campaigning Targeted at the Masses"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Strategien,_%C3%9Cberwachungsskepsis_in_die_Mitte_der_Gesellschaft_zu_tragen_/_Anti_Surveillance_Campaigning_Targeted_at_the_Masses", 
+        "Has end time": [
+            "1483111800"
+        ]
+    }, 
     "Session:Introduction Into Anarchism# d097953aa456a2811f11950bebf9a4ba": {
         "Held in language": [
             "en - English"
@@ -8067,54 +8116,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
         "Has end time": [
             "1482849000"
-        ]
-    }, 
-    "Session:Strategien, \u00dcberwachungsskepsis in die Mitte der Gesellschaft zu tragen / Anti Surveillance Campaigning Targeted at the Masses# 281fb4364aa2f435a9f57e1ac8e7afcc": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483106400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "*** Follow Up Session***\n\nWe want to follow up on the discussion about strategies to make \"mainstream\" people care about surveillance and privacy. (mainstream = outside of hacker community/tech bubble)\nEveryone is welcome to join!"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Vikvik", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Vikvik", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Strategien, \u00dcberwachungsskepsis in die Mitte der Gesellschaft zu tragen / Anti Surveillance Campaigning Targeted at the Masses"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Strategien,_%C3%9Cberwachungsskepsis_in_die_Mitte_der_Gesellschaft_zu_tragen_/_Anti_Surveillance_Campaigning_Targeted_at_the_Masses", 
-        "Has end time": [
-            "1483111800"
         ]
     }, 
     "Session:CTF Aftershow# 124b24dcfd8442557679b2a6c93579ad": {
@@ -9647,12 +9648,12 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -9671,7 +9672,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -9692,7 +9693,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -10090,7 +10091,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Here is a short Talk about Inflation in MMORPGs, with discussion at the end."
+            "Here is a short Talk about Inflation in MMORPGs, with discussion at the end. Slides will be uploaded soon."
         ], 
         "Has session type": [
             "Talk"
@@ -16544,6 +16545,55 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Herbal_brewing", 
         "Has end time": []
+    }, 
+    "Session:Your own Glowing Micropet!# e32112845c816d8bd5135c4b748134b3": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483030800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Enter this Workshop to get a sample of your very own glow-in-the-dark pet! We will be playing around with Aliibvibrio Fischeri, a bioluminescent bacterium living all over the world's oceans."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:A.Vibrio.F.", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:A.Vibrio.F.", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Your own Glowing Micropet!"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Your_own_Glowing_Micropet!", 
+        "Has end time": [
+            "1483038000"
+        ]
     }, 
     "Session:An UnCivilization Commune ReWilded Life Shared with Squirrels# 0e5ec0ce09da1294802db6c2d29714c0": {
         "Held in language": [
