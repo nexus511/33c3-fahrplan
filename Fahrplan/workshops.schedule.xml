@@ -174,7 +174,7 @@ During this Session we will introduce you to your dutys as a stage manager and t
   </day>
   <day date="2016-12-27" index="2" end="2016-12-28T04:00:00+01:00" start="2016-12-27T06:00:00+01:00">
     <room name="Hall C.1">
-      <event id="1023" guid="3c8f14f9-3cb1-5930-b2c1-79080db870e7">
+      <event id="1024" guid="3c8f14f9-3cb1-5930-b2c1-79080db870e7">
         <logo/>
         <date>2016-12-27T12:00:00+01:00</date>
         <start>12:00</start>
@@ -1018,7 +1018,7 @@ To learn all that you need to learn the basic networking concepts. You're in luc
           <link>https://events.ccc.de/congress/2016/wiki/Session:Netzpolitik_in_der_Schweiz_2017</link>
         </links>
       </event>
-      <event id="1239" guid="4ff5f3b6-ca14-57fa-bf89-4cee2a8739cf">
+      <event id="1242" guid="4ff5f3b6-ca14-57fa-bf89-4cee2a8739cf">
         <logo/>
         <date>2016-12-27T12:00:00+01:00</date>
         <start>12:00</start>
@@ -1107,10 +1107,10 @@ During this Session we will introduce you to your dutys as a stage manager and t
           <link>https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction</link>
         </links>
       </event>
-      <event id="1275" guid="50b55485-5e7c-5f64-81fb-6731c0f0be38">
+      <event id="1274" guid="87e63d0e-e34a-5fe9-b441-5c5f4923203b">
         <logo/>
-        <date>2016-12-27T15:15:00+01:00</date>
-        <start>15:15</start>
+        <date>2016-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
         <duration>0:30</duration>
         <room>Hall A.1</room>
         <slug/>
@@ -1132,10 +1132,10 @@ Welcome to the Subtitles Angelmeeting!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings</link>
         </links>
       </event>
-      <event id="1276" guid="87e63d0e-e34a-5fe9-b441-5c5f4923203b">
+      <event id="1276" guid="50b55485-5e7c-5f64-81fb-6731c0f0be38">
         <logo/>
-        <date>2016-12-27T10:00:00+01:00</date>
-        <start>10:00</start>
+        <date>2016-12-27T15:15:00+01:00</date>
+        <start>15:15</start>
         <duration>0:30</duration>
         <room>Hall A.1</room>
         <slug/>
@@ -1373,7 +1373,7 @@ I wish to keep this workshop as informal and accessible as possible and look for
           <link>https://events.ccc.de/congress/2016/wiki/Session:MAKE-IT:_Interactive_presentation_of_the_EU_research_project_about_the_Maker_Movement</link>
         </links>
       </event>
-      <event id="1241" guid="2878938c-580c-53ad-bbaf-421ca27f2e7f">
+      <event id="1240" guid="2878938c-580c-53ad-bbaf-421ca27f2e7f">
         <logo/>
         <date>2016-12-28T12:00:00+01:00</date>
         <start>12:00</start>
@@ -1418,7 +1418,7 @@ In particular, I'll present ValueShuffle, the first coin mixing protocol that is
           <link>https://events.ccc.de/congress/2016/wiki/Session:ValueShuffle:_Mixing_Confidential_Transactions_for_Full_Privacy_in_Bitcoin</link>
         </links>
       </event>
-      <event id="1334" guid="e9b8fe2a-9bf7-56af-a0d3-75d2a56012b1">
+      <event id="1336" guid="e9b8fe2a-9bf7-56af-a0d3-75d2a56012b1">
         <logo/>
         <date>2016-12-28T20:45:00+01:00</date>
         <start>20:45</start>
@@ -1861,7 +1861,7 @@ Looking forward to see you there and as a future contributor. ;)</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Train_the_CryptoParty_Trainer</link>
         </links>
       </event>
-      <event id="1330" guid="e3cb5ced-9951-5a76-a026-11953c4b6fb9">
+      <event id="1332" guid="e3cb5ced-9951-5a76-a026-11953c4b6fb9">
         <logo/>
         <date>2016-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -1885,7 +1885,7 @@ Greta Doçi is an ICT engineer student who contributes to Open Source/Free Softw
           <link>https://events.ccc.de/congress/2016/wiki/Session:Wikidata_query_and_visualization</link>
         </links>
       </event>
-      <event id="1331" guid="64bbec26-4ee8-59b8-b0c2-302797d6f185">
+      <event id="1333" guid="64bbec26-4ee8-59b8-b0c2-302797d6f185">
         <logo/>
         <date>2016-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -2019,30 +2019,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2016/wiki/Session:Tor</link>
         </links>
       </event>
-      <event id="1322" guid="3decf8d8-888d-53eb-93e1-07596b3ca4a4">
-        <logo/>
-        <date>2016-12-28T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>1:00</duration>
-        <room>Hall B</room>
-        <slug/>
-        <title>We Fix the Net</title>
-        <subtitle>MinimaLT in Ethos with Jon A. Solworth and Janosch Rux</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Jeffburdges">Jeffburdges</person>
-        </persons>
-        <links>
-          <link>http://gnunet.org</link>
-          <link>http://pep.foundation/</link>
-          <link>https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net</link>
-        </links>
-      </event>
-      <event id="1323" guid="70ff93cb-008d-5601-8b8f-b56b605cbca6">
+      <event id="1324" guid="70ff93cb-008d-5601-8b8f-b56b605cbca6">
         <logo/>
         <date>2016-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2065,7 +2042,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net</link>
         </links>
       </event>
-      <event id="1324" guid="1429882d-aed6-5393-85d2-cf374685402f">
+      <event id="1325" guid="1429882d-aed6-5393-85d2-cf374685402f">
         <logo/>
         <date>2016-12-28T18:45:00+01:00</date>
         <start>18:45</start>
@@ -2074,6 +2051,29 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
         <slug/>
         <title>We Fix the Net</title>
         <subtitle>Opertunistic Email Encryption</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Jeffburdges">Jeffburdges</person>
+        </persons>
+        <links>
+          <link>http://gnunet.org</link>
+          <link>http://pep.foundation/</link>
+          <link>https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net</link>
+        </links>
+      </event>
+      <event id="1326" guid="3decf8d8-888d-53eb-93e1-07596b3ca4a4">
+        <logo/>
+        <date>2016-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>We Fix the Net</title>
+        <subtitle>MinimaLT in Ethos with Jon A. Solworth and Janosch Rux</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
         <language>en</language>
@@ -2371,7 +2371,7 @@ Self-empowerment never was so easy!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings</link>
         </links>
       </event>
-      <event id="1327" guid="a1a78424-3b20-58bd-b05b-29234c4be8f4">
+      <event id="1329" guid="a1a78424-3b20-58bd-b05b-29234c4be8f4">
         <logo/>
         <date>2016-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -3344,7 +3344,7 @@ Also a possibility to shoot questions at or get help from the developers.</descr
           <link>https://events.ccc.de/congress/2016/wiki/Session:SpinalHDL</link>
         </links>
       </event>
-      <event id="1335" guid="22cc9e2b-f60f-5ca8-8d9d-977d422f3d7f">
+      <event id="1337" guid="22cc9e2b-f60f-5ca8-8d9d-977d422f3d7f">
         <logo/>
         <date>2016-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -3679,7 +3679,7 @@ Find a 7-min-intro on what this is about on: https://media.ccc.de/v/DS2016-7782-
           <link>https://events.ccc.de/congress/2016/wiki/Session:OffeneFahrplanDaten</link>
         </links>
       </event>
-      <event id="1240" guid="ad9c6d86-244a-5985-ac0d-259ecb3c6f18">
+      <event id="1239" guid="ad9c6d86-244a-5985-ac0d-259ecb3c6f18">
         <logo/>
         <date>2016-12-29T12:00:00+01:00</date>
         <start>12:00</start>
@@ -4510,7 +4510,7 @@ We're happy to advise visitors interested in setting up GNU Taler exchanges as w
           <link>https://events.ccc.de/congress/2016/wiki/Session:Taler_workshop</link>
         </links>
       </event>
-      <event id="1328" guid="8c0d64ac-bb22-5a19-9a7c-73e02348be54">
+      <event id="1330" guid="8c0d64ac-bb22-5a19-9a7c-73e02348be54">
         <logo/>
         <date>2016-12-29T22:00:00+01:00</date>
         <start>22:00</start>
@@ -4588,7 +4588,7 @@ Whoever wants to help is welcome!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:A-NOC</link>
         </links>
       </event>
-      <event id="1024" guid="02678ce6-04aa-5f61-8f79-29c0edbe4dbb">
+      <event id="1023" guid="02678ce6-04aa-5f61-8f79-29c0edbe4dbb">
         <logo/>
         <date>2016-12-30T12:00:00+01:00</date>
         <start>12:00</start>
@@ -4614,10 +4614,10 @@ Goal of this meetup is to catch-up, give each other hugs &amp; support, and plan
           <link>https://events.ccc.de/congress/2016/wiki/Session:An_UnCivilization_Commune_ReWilded_Life_Shared_with_Squirrels</link>
         </links>
       </event>
-      <event id="1135" guid="4c347a15-998e-5ec5-8fe0-02d72162a101">
+      <event id="1135" guid="186a4dbe-3630-52f9-907c-3bc447a3f976">
         <logo/>
-        <date>2016-12-30T13:45:00+01:00</date>
-        <start>13:45</start>
+        <date>2016-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
         <duration>0:50</duration>
         <room>Hall C.1</room>
         <slug/>
@@ -4635,7 +4635,7 @@ Goal of this meetup is to catch-up, give each other hugs &amp; support, and plan
           <link>https://events.ccc.de/congress/2016/wiki/Session:How_space_travel_is_revolutionized_with_this_one_weird_trick_from_chaos_theory_(Wondrous_Mathematics)</link>
         </links>
       </event>
-      <event id="1274" guid="559d1c45-4db2-56af-85fa-974aaaaa0c6c">
+      <event id="1275" guid="559d1c45-4db2-56af-85fa-974aaaaa0c6c">
         <logo/>
         <date>2016-12-30T15:15:00+01:00</date>
         <start>15:15</start>
@@ -4826,7 +4826,7 @@ Additionally, we are looking for concrete feedback from critical thinkers in the
           <link>https://events.ccc.de/congress/2016/wiki/Session:Punished_by_the_robot_teacher%3F_-_Role_of_technology_in_education</link>
         </links>
       </event>
-      <event id="1333" guid="d10099ba-216c-5307-aac3-f94f05be09c0">
+      <event id="1335" guid="d10099ba-216c-5307-aac3-f94f05be09c0">
         <logo/>
         <date>2016-12-30T11:00:00+01:00</date>
         <start>11:00</start>
@@ -4873,7 +4873,7 @@ Additionally, we are looking for concrete feedback from critical thinkers in the
           <link>https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1242" guid="0643cf42-b551-52d2-ab75-06dc45cc6602">
+      <event id="1241" guid="0643cf42-b551-52d2-ab75-06dc45cc6602">
         <logo/>
         <date>2016-12-30T12:00:00+01:00</date>
         <start>12:00</start>

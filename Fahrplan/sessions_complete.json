@@ -7627,6 +7627,59 @@
             "1482921720"
         ]
     }, 
+    "Session:Voctomix# 4353c489e714c5eb50ea3c0a9b9a4d24": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483039800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de"
+        ], 
+        "Has description": [
+            "GStreamer based application mixing/compositing live video and audio from various sources. Successor of DVswitch and gst-switch. Tailored to the needs of the C3VOC. You can find the VOC-Assembly here: https://c3nav.de/l/vocassembly/"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:VOC", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Session in English or German"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:NeoFisch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Voctomix"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Voctomix", 
+        "Has end time": [
+            "1483041600"
+        ]
+    }, 
     "Session:Mate Making# ccf2a1d1e0be104fc628cf5f9c31af2c": {
         "Held in language": [
             "en - English"
@@ -14978,52 +15031,6 @@
             "1482939000"
         ]
     }, 
-    "Session:How space travel is revolutionized with this one weird trick from chaos theory (Wondrous Mathematics)# cde1aa1ee1b9d46f9767d0b1c46cd488": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483105500"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "\"The easy part is getting to space. The hard part is staying there.\" Crash course on orbital mechanics and introduction to low-energy transfers."
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Iblech", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Iblech", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "How space travel is revolutionized with this one weird trick from chaos theory (Wondrous Mathematics)"
-        ], 
-        "Has duration": [
-            50
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:How_space_travel_is_revolutionized_with_this_one_weird_trick_from_chaos_theory_(Wondrous_Mathematics)", 
-        "Has end time": [
-            "1483108500"
-        ]
-    }, 
     "Session:Queer Feminist Geeks Gathering# 4a992d9add2bc71db38142ddb1e0d6c2": {
         "Held in language": [
             "en - English"
@@ -15976,6 +15983,59 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:JAZ_HRO", 
         "Has end time": []
     }, 
+    "Session:Voctomix# 4d28c824ac5a739c25e37cbc13e79523": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483027200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de"
+        ], 
+        "Has description": [
+            "GStreamer based application mixing/compositing live video and audio from various sources. Successor of DVswitch and gst-switch. Tailored to the needs of the C3VOC. You can find the VOC-Assembly here: https://c3nav.de/l/vocassembly/"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:VOC", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Session in English or German"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:NeoFisch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Voctomix"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Voctomix", 
+        "Has end time": [
+            "1483029000"
+        ]
+    }, 
     "Session:DIY Duct-Tape Wallets# 9abeec38dfb772ad0f95b77ce9a7817f": {
         "Held in language": [
             "en - English"
@@ -16678,6 +16738,52 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Netzpolitik_in_der_Schweiz_2017", 
         "Has end time": [
             "1482880500"
+        ]
+    }, 
+    "Session:How space travel is revolutionized with this one weird trick from chaos theory (Wondrous Mathematics)# 6b55f1d1367203dfa63488bc38804460": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483106400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "\"The easy part is getting to space. The hard part is staying there.\" Crash course on orbital mechanics and introduction to low-energy transfers."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Iblech", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "How space travel is revolutionized with this one weird trick from chaos theory (Wondrous Mathematics)"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:How_space_travel_is_revolutionized_with_this_one_weird_trick_from_chaos_theory_(Wondrous_Mathematics)", 
+        "Has end time": [
+            "1483109400"
         ]
     }, 
     "Session:Gemeinn\u00fctzigkeit# 04b99605e09f26ae97c336883e31c840": {
