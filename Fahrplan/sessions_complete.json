@@ -2883,6 +2883,54 @@
             "1482978600"
         ]
     }, 
+    "Session:Tor# 36660adcf8dfee81c6941287bdc51382": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482960600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Session should be used to connect with all the people who work for the various projects within or related with tor."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Julius", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Julius", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Tor"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Tor", 
+        "Has end time": [
+            "1482966000"
+        ]
+    }, 
     "Session:How to integrate pEp into your development environment# 478352319ac99aca201a0f5ea1aa75f8": {
         "Held in language": [
             "en - English"
@@ -4082,6 +4130,59 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Welcome_%26_Icebreaker", 
         "Has end time": [
             "1482855300"
+        ]
+    }, 
+    "Session:Freiraumfiebel - Manual for self-organisation in urban space# 0efbd94b9c4baf29ffdb36301841db91": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483039800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://hidden-institute.org/aktuelles/", 
+            "http://stadtstattstrand.de/das-buch-2/"
+        ], 
+        "Has description": [
+            "Die Freiraumfibel ist ein Handbuch \u00fcber Aneignungsformen von urbanen R\u00e4umen und ihren rechtlichen Frameworks. Wir werden das Handbuch und seine Inhalte vorstellen, erz\u00e4hlen wie und warum wir das Buch erstellt haben und zu einer kritischen Diskussion \u00fcber die Fibel einladen. Dabei interessieren uns folgende Fragen: Braucht es solche Handb\u00fccher und wenn ja warum? Was kann die Fibel und was nicht? Was bedeutet \"kreative Aneignung von Freir\u00e4umen\"? etc. Mehr Infos siehe auch unter: http://hidden-institute.org/aktuelles/ oder unter http://stadtstattstrand.de/das-buch-2/"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Mensch meier and friends", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Mensch_meier_and_friends", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Handbuch \u00fcber Aneignungen von Freir\u00e4umen in der Stadt"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Noja", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Noja", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Freiraumfiebel - Manual for self-organisation in urban space"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freiraumfiebel_-_Manual_for_self-organisation_in_urban_space", 
+        "Has end time": [
+            "1483043400"
         ]
     }, 
     "Session:Open Data Gesetz Deutschland# 049b72d92dc51818ac97a0ec40e0c9de": {
@@ -7565,59 +7666,6 @@
             "1482921720"
         ]
     }, 
-    "Session:Voctomix# 4353c489e714c5eb50ea3c0a9b9a4d24": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483039800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://c3voc.de"
-        ], 
-        "Has description": [
-            "GStreamer based application mixing/compositing live video and audio from various sources. Successor of DVswitch and gst-switch. Tailored to the needs of the C3VOC. You can find the VOC-Assembly here: https://c3nav.de/l/vocassembly/"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:VOC", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Session in English or German"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:NeoFisch", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Voctomix"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Voctomix", 
-        "Has end time": [
-            "1483041600"
-        ]
-    }, 
     "Session:Mate Making# ccf2a1d1e0be104fc628cf5f9c31af2c": {
         "Held in language": [
             "en - English"
@@ -8221,68 +8269,6 @@
             "1482951600"
         ]
     }, 
-    "Session:VOC Engelmeeting# da904f0f6639dd430983667df8b38a91": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482937200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://c3voc.de/"
-        ], 
-        "Has description": [
-            "Daily meeting for all VOC Angels."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Saal 6", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Saal_6", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Jwacalex", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:V0tti", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:V0tti", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Felixs", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Felixs", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "VOC Engelmeeting"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
-        "Has end time": [
-            "1482940800"
-        ]
-    }, 
     "Session:Engeleinf\u00fchrung Kasse# ee801a90e5daedb2c650cc246ed2108e": {
         "Held in language": [
             "de - German"
@@ -8488,7 +8474,9 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://wiki.freifunk.net/Freifunk-Mast"
+        ], 
         "Has description": [
             "Elektra presents her latest project, designing a mpp tracker to support solar powered wifi routers."
         ], 
@@ -8612,52 +8600,62 @@
             "1482976800"
         ]
     }, 
-    "Session:Tor# 36660adcf8dfee81c6941287bdc51382": {
+    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482960600"
+            "1482786000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
+        ], 
         "Has description": [
-            "Session should be used to connect with all the people who work for the various projects within or related with tor."
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
         ], 
         "Has session type": [
-            "Meeting"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Couchsofa opening DJ set on day 0"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Julius", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Julius", 
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Tor"
+            "Klangteppich"
         ], 
         "Has duration": [
-            90
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Tor", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
-            "1482966000"
+            "1482796800"
         ]
     }, 
     "Session:Implications of the EU copyright reform on Free Software# 2e3ae7e1eed32991d1e513792a5bcc0e": {
@@ -8708,64 +8706,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Implications_of_the_EU_copyright_reform_on_Free_Software", 
         "Has end time": [
             "1482940800"
-        ]
-    }, 
-    "Session:Klangteppich# a33e122a93f95fe8add42f678dc1b55c": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482879600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg"
-        ], 
-        "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:JayDee2202", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Klangteppich"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
-        "Has end time": [
-            "1482886800"
         ]
     }, 
     "Session:Film-Abend# fbc9e7ed36a705cf72c554aa7c10ff35": {
@@ -9583,6 +9523,59 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Kreatives_beschimpfen", 
         "Has end time": [
             "1482872400"
+        ]
+    }, 
+    "Session:Freiraumfiebel - Manual for self-organisation in urban space# 08e59a12858b4162eb76f515b474666e": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483023600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://hidden-institute.org/aktuelles/", 
+            "http://stadtstattstrand.de/das-buch-2/"
+        ], 
+        "Has description": [
+            "Die Freiraumfibel ist ein Handbuch \u00fcber Aneignungsformen von urbanen R\u00e4umen und ihren rechtlichen Frameworks. Wir werden das Handbuch und seine Inhalte vorstellen, erz\u00e4hlen wie und warum wir das Buch erstellt haben und zu einer kritischen Diskussion \u00fcber die Fibel einladen. Dabei interessieren uns folgende Fragen: Braucht es solche Handb\u00fccher und wenn ja warum? Was kann die Fibel und was nicht? Was bedeutet \"kreative Aneignung von Freir\u00e4umen\"? etc. Mehr Infos siehe auch unter: http://hidden-institute.org/aktuelles/ oder unter http://stadtstattstrand.de/das-buch-2/"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Mensch meier and friends", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Mensch_meier_and_friends", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Handbuch \u00fcber Aneignungen von Freir\u00e4umen in der Stadt"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Noja", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Noja", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Freiraumfiebel - Manual for self-organisation in urban space"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freiraumfiebel_-_Manual_for_self-organisation_in_urban_space", 
+        "Has end time": [
+            "1483027200"
         ]
     }, 
     "Session:Subtitles-Angelmeetings# 17595f694e88dd271208bb120d2ded5d": {
@@ -14195,45 +14188,56 @@
             "1482864000"
         ]
     }, 
-    "Session:Freiraumfiebel - Manual for self-organisation in urban space# 63e812e8257a446542c72662816b5783": {
+    "Session:VOC Engelmeeting# da904f0f6639dd430983667df8b38a91": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482937200"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://hidden-institute.org/aktuelles/", 
-            "http://stadtstattstrand.de/das-buch-2/"
+            "https://c3voc.de/"
         ], 
         "Has description": [
-            "Die Freiraumfibel ist ein Handbuch \u00fcber Aneignungsformen von urbanen R\u00e4umen und ihren rechtlichen Frameworks. Wir werden das Handbuch und seine Inhalte vorstellen, erz\u00e4hlen wie und warum wir das Buch erstellt haben und zu einer kritischen Diskussion \u00fcber die Fibel einladen. Dabei interessieren uns folgende Fragen: Braucht es solche Handb\u00fccher und wenn ja warum? Was kann die Fibel und was nicht? Was bedeutet \"kreative Aneignung von Freir\u00e4umen\"? etc. Mehr Infos siehe auch unter: http://hidden-institute.org/aktuelles/ oder unter http://stadtstattstrand.de/das-buch-2/"
+            "Daily meeting for all VOC Angels."
         ], 
         "Has session type": [
-            "Talk"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Mensch meier and friends", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Mensch_meier_and_friends", 
-                "namespace": 504, 
+                "fulltext": "Room:Saal 6", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Saal_6", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Handbuch \u00fcber Aneignungen von Freir\u00e4umen in der Stadt"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Noja", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Noja", 
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:V0tti", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:V0tti", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Felixs", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Felixs", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Freiraumfiebel - Manual for self-organisation in urban space"
+            "VOC Engelmeeting"
         ], 
         "Has duration": [
             60
@@ -14241,8 +14245,10 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freiraumfiebel_-_Manual_for_self-organisation_in_urban_space", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
+        "Has end time": [
+            "1482940800"
+        ]
     }, 
     "Session:Instant Matrix Games# 870ebe8da21e2ac9f36815632a518a22": {
         "Held in language": [
@@ -16045,59 +16051,6 @@
             "1483047900"
         ]
     }, 
-    "Session:Voctomix# 4d28c824ac5a739c25e37cbc13e79523": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483027200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://c3voc.de"
-        ], 
-        "Has description": [
-            "GStreamer based application mixing/compositing live video and audio from various sources. Successor of DVswitch and gst-switch. Tailored to the needs of the C3VOC. You can find the VOC-Assembly here: https://c3nav.de/l/vocassembly/"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:VOC", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Session in English or German"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:NeoFisch", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Voctomix"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Voctomix", 
-        "Has end time": [
-            "1483029000"
-        ]
-    }, 
     "Session:DIY Duct-Tape Wallets# 9abeec38dfb772ad0f95b77ce9a7817f": {
         "Held in language": [
             "en - English"
@@ -16572,6 +16525,56 @@
             "1482879600"
         ]
     }, 
+    "Session:An Introduction to the Fedora Project# a109e9b2fe0e4f4517af53225b53f0f8": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483041600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://fedoraproject.org"
+        ], 
+        "Has description": [
+            "This talk will serve as a short introduction to the Fedora Project. Our mission is to lead the advancement of free and open source software and content as a collaborative community. We produce a well-known GNU/Linux distribution, Fedora. \n\nGet to know more about us as well as explore contribution opportunities!"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Giannisk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Giannisk", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "An Introduction to the Fedora Project"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_Introduction_to_the_Fedora_Project", 
+        "Has end time": [
+            "1483042500"
+        ]
+    }, 
     "Session:MAKE-IT: Interactive presentation of the EU research project about the Maker Movement# c46b6326e1bd62427baf22eeffef5893": {
         "Held in language": [
             "en - English"
@@ -16890,12 +16893,12 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Gemeinn%C3%BCtzigkeit", 
         "Has end time": []
     }, 
-    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
+    "Session:Klangteppich# a33e122a93f95fe8add42f678dc1b55c": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482786000"
+            "1482879600"
         ], 
         "Has event track": [
             "Session"
@@ -16918,7 +16921,7 @@
             }
         ], 
         "Has subtitle": [
-            "Couchsofa opening DJ set on day 0"
+            "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop"
         ], 
         "Is organized by": [
             {
@@ -16938,14 +16941,14 @@
             "Klangteppich"
         ], 
         "Has duration": [
-            180
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
-            "1482796800"
+            "1482886800"
         ]
     }, 
     "Session:Whisky# 331c340e99b3f4677e2ca0fd5fd25c60": {
