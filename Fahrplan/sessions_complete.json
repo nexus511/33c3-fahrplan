@@ -4285,6 +4285,56 @@
             "1482886500"
         ]
     }, 
+    "Session:StudNetzTreffen# 6f2fb55d669cb01934781e80f01fc952": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483047000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.studentennetze.de/"
+        ], 
+        "Has description": [
+            "Students networks from all over Germany and Europe are present at 33C3. We want to meet up and talk, share DIY-ISP experience, and get more people to join SNT regularly."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Toothstone", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Toothstone", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "StudNetzTreffen"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:StudNetzTreffen", 
+        "Has end time": [
+            "1483054200"
+        ]
+    }, 
     "Session:Klangteppich# e7efaa00f19b51ad38201d9ba027d3b6": {
         "Held in language": [
             "en - English"
@@ -9025,38 +9075,58 @@
             "1483030800"
         ]
     }, 
-    "Session:Crypto Meetup# 96495f60b85d2c3c9fb60781f1d294d4": {
+    "Session:The curious world of four-dimensional geometry (Wondrous Mathematics)# 421cadfab08594909ebb91cb6a800c7f": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482962400"
+            "1483020000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Just a social meeting of people interested in chatting about cryptography."
+            "You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller than you would think. We'll take you on a short tour of these and other curious phenomena which unfold in four dimensions."
         ], 
         "Has session type": [
-            "Meeting"
+            "Talk"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Iblech", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:MatthiasHu", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:MatthiasHu", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Crypto Meetup"
+            "The curious world of four-dimensional geometry (Wondrous Mathematics)"
         ], 
         "Has duration": [
-            240
+            50
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Crypto_Meetup", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:The_curious_world_of_four-dimensional_geometry_(Wondrous_Mathematics)", 
         "Has end time": [
-            "1482976800"
+            "1483023000"
         ]
     }, 
     "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
@@ -11090,58 +11160,38 @@
             "1483034400"
         ]
     }, 
-    "Session:The curious world of four-dimensional geometry (Wondrous Mathematics)# 421cadfab08594909ebb91cb6a800c7f": {
+    "Session:Crypto Meetup# 96495f60b85d2c3c9fb60781f1d294d4": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483020000"
+            "1482962400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller than you would think. We'll take you on a short tour of these and other curious phenomena which unfold in four dimensions."
+            "Just a social meeting of people interested in chatting about cryptography."
         ], 
         "Has session type": [
-            "Talk"
+            "Meeting"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
+        "Has session location": [], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Iblech", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Iblech", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:MatthiasHu", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:MatthiasHu", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "The curious world of four-dimensional geometry (Wondrous Mathematics)"
+            "Crypto Meetup"
         ], 
         "Has duration": [
-            50
+            240
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:The_curious_world_of_four-dimensional_geometry_(Wondrous_Mathematics)", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Crypto_Meetup", 
         "Has end time": [
-            "1483023000"
+            "1482976800"
         ]
     }, 
     "Session:How to Survive 33C3 CryptoParty# d98726a333e13e17bc39011beaa3f6dc": {
@@ -14958,54 +15008,6 @@
             "1482850800"
         ]
     }, 
-    "Session:Digitale Armut# 8fa4ca857c6b941868d946782fbfce27": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1483106400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Seit Jahren schreitet die Digitalisierung weltweit rasant voran und erfasst die Gesellschaften in ausnahmslos allen Lebens- und Arbeitsbereichen. Dennoch sind gerade in hochentwickelten und reichen L\u00e4ndern wie Deutschland nicht alle in Bezug auf die digitale Infrastruktur gleich gut versorgt. Die Gef\u00e4llenlage ist kreuz und quer durch die Gesellschaft festzustellen: zwischen Stadt und Land, Jung und Alt, Arm und Reich, Oben und Unten. Welche Strukturen, Folgen und Auswirkungen umfasst die \"digitale Armut\" in einer Wohlstandsgesellschaft, die seit den Sozialreformen von vor \u00fcber 10 Jahren noch nie so gespalten scheint wie heute?"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Spacyarcangel3000", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Spacyarcangel3000", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Digitale Armut"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Digitale_Armut", 
-        "Has end time": [
-            "1483110000"
-        ]
-    }, 
     "Session:EITI Extractive Industries Transparency & Open Data# ad09bbbdbd9923682224b540352bf5ab": {
         "Held in language": [
             "en - English"
@@ -16856,6 +16858,55 @@
             "1482933600"
         ]
     }, 
+    "Session:Whisky# 331c340e99b3f4677e2ca0fd5fd25c60": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483048800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "This is the sixth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Blackspear", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Blackspear", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Whisky"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Whisky", 
+        "Has end time": [
+            "1483054200"
+        ]
+    }, 
     "Session:All Creatures Welcome# cee9aa171f72e48f40955bf55642bce8": {
         "Held in language": [
             "de - German"
@@ -18021,53 +18072,54 @@
             "1482886800"
         ]
     }, 
-    "Session:Whisky# 331c340e99b3f4677e2ca0fd5fd25c60": {
+    "Session:Digitale Armut# 3c7e13fffb0aa14fc16b095e5069ebd7": {
         "Held in language": [
-            "de - German", 
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1483048800"
+            "1483106400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "This is the sixth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going."
+            "Seit Jahren schreitet die Digitalisierung weltweit rasant voran und erfasst die Gesellschaften in ausnahmslos allen Lebens- und Arbeitsbereichen. Dennoch sind gerade in hochentwickelten und reichen L\u00e4ndern wie Deutschland nicht alle in Bezug auf die digitale Infrastruktur gleich gut versorgt. Die Gef\u00e4llenlage ist kreuz und quer durch die Gesellschaft festzustellen: zwischen Stadt und Land, Jung und Alt, Arm und Reich, Oben und Unten. Welche Strukturen, Folgen, Auswirkungen, aber auch neue Chancen f\u00fcr kollektives Denken und Handeln umfasst die \"digitale Armut\" in einer Wohlstandsgesellschaft, die seit den Sozialreformen von vor \u00fcber 10 Jahren noch nie so gespalten scheint wie heute?"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Preis und soziale Herausforderung der Online-Revolution in der neo-liberalen Arbeitsgesellschaft und Globalisierung"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Blackspear", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Blackspear", 
+                "fulltext": "User:Spacyarcangel3000", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Spacyarcangel3000", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Whisky"
+            "Digitale Armut"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Whisky", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Digitale_Armut", 
         "Has end time": [
-            "1483054200"
+            "1483110000"
         ]
     }, 
     "Session:Keysigning party# c9c72e0b5cc35d6418ab62c9ec6b364f": {
@@ -18524,54 +18576,45 @@
             "1483110000"
         ]
     }, 
-    "Session:Hackbases 5 years# ddbc6012ef70ad0e69112d0b1eee49e3": {
+    "Session:Entscheidungsfindung/Konsens# f101552c897eef3afa3eccf5d908a032": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482950700"
+            "1482847200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://pad.totalism.org/p/33c3-hackbases"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Hackbases are similar to hackerspaces but people also live in them."
+            "Herausforderung Konsensentscheid\nWie es sein sollte.\nWie es nicht sein sollte.\nWie es dann trotzdem klappt."
         ], 
         "Has session type": [
-            "Discussion"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Dcht00", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dcht00", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Hackbases 5 years"
+            "Entscheidungsfindung/Konsens"
         ], 
         "Has duration": [
-            55
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackbases_5_years", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Entscheidungsfindung/Konsens", 
         "Has end time": [
-            "1482954000"
+            "1482850800"
         ]
     }, 
     "Session:Der 33 Jahrer\u00fcckblick: Technology and Politics in Congress Talks, from 1984 to now -- Post-Lecture Discussion!# bc5271e2e5d8e9f350638a71b5d0c18a": {
@@ -19828,45 +19871,54 @@
             "1483110000"
         ]
     }, 
-    "Session:Entscheidungsfindung/Konsens# f101552c897eef3afa3eccf5d908a032": {
+    "Session:Hackbases 5 years# ddbc6012ef70ad0e69112d0b1eee49e3": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482847200"
+            "1482950700"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://pad.totalism.org/p/33c3-hackbases"
+        ], 
         "Has description": [
-            "Herausforderung Konsensentscheid\nWie es sein sollte.\nWie es nicht sein sollte.\nWie es dann trotzdem klappt."
+            "Hackbases are similar to hackerspaces but people also live in them."
         ], 
         "Has session type": [
-            "Talk"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Dcht00", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dcht00", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Entscheidungsfindung/Konsens"
+            "Hackbases 5 years"
         ], 
         "Has duration": [
-            60
+            55
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Entscheidungsfindung/Konsens", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackbases_5_years", 
         "Has end time": [
-            "1482850800"
+            "1482954000"
         ]
     }, 
     "Session:Klangteppich# 1d417fdc38d9002139dfa87a15a17e0e": {
