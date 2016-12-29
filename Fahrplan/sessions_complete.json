@@ -1345,12 +1345,12 @@
             "1483027200"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -1369,7 +1369,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -1390,7 +1390,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Flunkyball# 3464118d555bc81519f9e26273225748": {
@@ -5794,7 +5794,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Blocked for Film Screenings by Content Team"
+            "18:00 Zero Days\n\n20:00 61 Tage\n\n21:00 Traceroute\n\nSee https://events.ccc.de/2016/12/28/33c3-movie-night-33c3-filmabend/"
         ], 
         "Has session type": [], 
         "Has session location": [
@@ -8962,12 +8962,12 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -8986,7 +8986,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -9007,7 +9007,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -9949,6 +9949,68 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Jolla_users", 
         "Has end time": []
+    }, 
+    "Session:VOC A/V Debriefing# e9ec670590bdc0a69d789700f17ad143": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483111800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "Daily meeting for all VOC Angels."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Saal 6", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Saal_6", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:V0tti", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:V0tti", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Felixs", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Felixs", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "VOC A/V Debriefing"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_A/V_Debriefing", 
+        "Has end time": [
+            "1483113600"
+        ]
     }, 
     "Session:Bin\u00e4rgewitter H\u00f6rertreffen# bf538cd7b25b8b8a635527e3e91a64cc": {
         "Held in language": [
@@ -11534,12 +11596,12 @@
             "1482876000"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -11555,8 +11617,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -11581,7 +11643,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:Skillconvention a# 06de81ba9b71b450d9cbf61661471ee5": {
@@ -14741,12 +14803,12 @@
             "1483029900"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
@@ -14762,8 +14824,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -14788,7 +14850,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482853500"
+            "1483026300"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
@@ -17031,6 +17093,68 @@
             "1483023600"
         ]
     }, 
+    "Session:VOC Engelmeeting# beaaf1923700aa49fe33e19c96687d4b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483110000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "Daily meeting for all VOC Angels."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Saal 6", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Saal_6", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:V0tti", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:V0tti", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Felixs", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Felixs", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "VOC Engelmeeting"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
+        "Has end time": [
+            "1483111800"
+        ]
+    }, 
     "Session:Music production and studio technology# 04e48426007837f0c64197b429612321": {
         "Held in language": [
             "de - German"
@@ -17225,68 +17349,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net", 
         "Has end time": [
             "1482950700"
-        ]
-    }, 
-    "Session:VOC Engelmeeting# 6fb34c92d05b83c60d241c1e8caeeeb0": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483110000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://c3voc.de/"
-        ], 
-        "Has description": [
-            "Daily meeting for all VOC Angels."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Saal 6", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Saal_6", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Jwacalex", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:V0tti", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:V0tti", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Felixs", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Felixs", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "VOC Engelmeeting"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
-        "Has end time": [
-            "1483113600"
         ]
     }, 
     "Session:Maritime Hackers# 68eb0464ed5df3a6c1d0db44924b90dd": {
@@ -18892,7 +18954,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Blocked for Film Screenings by Content Team"
+            "18:00 Zero Days\n\n20:00 61 Tage\n\n21:00 Traceroute\n\nSee https://events.ccc.de/2016/12/28/33c3-movie-night-33c3-filmabend/"
         ], 
         "Has session type": [], 
         "Has session location": [
