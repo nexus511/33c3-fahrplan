@@ -1126,68 +1126,6 @@
             "1482863400"
         ]
     }, 
-    "Session:VOC Engelmeeting# 6c7712cd8c07af6fc45588ac8e3f3c56": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483023600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://c3voc.de/"
-        ], 
-        "Has description": [
-            "Daily meeting for all VOC Angels."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Saal 6", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Saal_6", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Jwacalex", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:V0tti", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:V0tti", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Felixs", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Felixs", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "VOC Engelmeeting"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
-        "Has end time": [
-            "1483027200"
-        ]
-    }, 
     "Session:Open Science Workshop# d93aeca26ff9fa5a1b03992460914abb": {
         "Held in language": [
             "en - English"
@@ -1345,12 +1283,12 @@
             "1483027200"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -1369,7 +1307,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -1390,7 +1328,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Flunkyball# 3464118d555bc81519f9e26273225748": {
@@ -3035,66 +2973,66 @@
             "1482858000"
         ]
     }, 
-    "Session:Freifunk hilft# d9466ea251970f51adcce1b46c682a76": {
+    "Session:VOC Engelmeeting# 6c7712cd8c07af6fc45588ac8e3f3c56": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483025400"
+            "1483023600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://freifunk-hilft.de"
+            "https://c3voc.de/"
         ], 
         "Has description": [
-            "* Exchange with Imma & Eben from Refugees Emancipation e.V. about learnings/experiences\n* Freifunk f\u00fcr Fl\u00fcchtlinge - Erfahrungen, Vorgehen, Umsetzung, Tuning, Sponsoren (pkoerner81929)\n* Ideas regarding freifunk-hilft.de"
+            "Daily meeting for all VOC Angels."
         ], 
         "Has session type": [
             "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
+                "fulltext": "Room:Saal 6", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Saal_6", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Andibraeu", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andibraeu", 
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
                 "namespace": 2, 
                 "exists": true
             }, 
             {
-                "fulltext": "User:Pkoerner81929", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pkoerner81929", 
+                "fulltext": "User:V0tti", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:V0tti", 
                 "namespace": 2, 
                 "exists": true
             }, 
             {
-                "fulltext": "User:Monic", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
+                "fulltext": "User:Felixs", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Felixs", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Freifunk hilft"
+            "VOC Engelmeeting"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_hilft", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
         "Has end time": [
-            "1483030800"
+            "1483027200"
         ]
     }, 
     "Session:Train the CryptoParty Trainer# 15d77550626146b226d51911f3ea7155": {
@@ -8962,12 +8900,12 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -8986,7 +8924,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -9007,7 +8945,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -11924,6 +11862,68 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shitty_Robots", 
         "Has end time": []
+    }, 
+    "Session:Freifunk hilft# 4ce4d169ef7a524295d67315bc3843f3": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483027200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://freifunk-hilft.de"
+        ], 
+        "Has description": [
+            "* Exchange with Imma & Eben from Refugees Emancipation e.V. about learnings/experiences\n* Freifunk f\u00fcr Fl\u00fcchtlinge - Erfahrungen, Vorgehen, Umsetzung, Tuning, Sponsoren (pkoerner81929)\n* Ideas regarding freifunk-hilft.de"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Andibraeu", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andibraeu", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Pkoerner81929", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pkoerner81929", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Monic", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Freifunk hilft"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_hilft", 
+        "Has end time": [
+            "1483032600"
+        ]
     }, 
     "Session:Wizard of Berlin's Freifunk Firmware# 830aec1022069379f6d194205cff0c04": {
         "Held in language": [
