@@ -1345,12 +1345,12 @@
             "1483027200"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -1369,7 +1369,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -1390,7 +1390,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Flunkyball# 3464118d555bc81519f9e26273225748": {
@@ -8863,12 +8863,12 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -8887,7 +8887,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -8908,7 +8908,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -9008,6 +9008,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LoRaWAN%E2%80%93Freifunk_der_Dinge", 
         "Has end time": [
             "1482953400"
+        ]
+    }, 
+    "Session:Offenes Chaos Macht Schule Treffen# ef0e6d0500f8b6569fb13b2bcda2ec3f": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483041600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.ccc.de/schule"
+        ], 
+        "Has description": [
+            "Chaos macht Schule trifft sich. Wenn ihr Interesse an dem Projekt habt oder selber im Bildungsbereich aktiv seid, kommt vorbei und vernetzt euch!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Benni", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Benni", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Offenes Chaos Macht Schule Treffen"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Offenes_Chaos_Macht_Schule_Treffen", 
+        "Has end time": [
+            "1483047000"
         ]
     }, 
     "Session:Thermal pictures for kids# e28d8e0aa91ecdf33ed2bab8be9ff4d3": {
