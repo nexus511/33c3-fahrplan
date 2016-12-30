@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "BY DESIGN", 
+        "version": "BAD NETWORK/FIREWALL", 
         "conference": {
             "acronym": "33c3", 
             "title": "33. Chaos Communication Congress", 
@@ -315,7 +315,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/150/original/161227_33c3_Dieselgate_-_a_year_later.pdf?1483052994", 
+                                        "title": "Presentation slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "id": 7904, 
@@ -891,7 +896,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/156/original/slides.pdf?1483103818", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "id": 8338, 
@@ -10011,7 +10021,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/151/original/Dissecting_modern_%283G_4G%29_cellular_modems.pdf?1483053437", 
+                                        "title": "slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "id": 8369, 
@@ -10348,7 +10363,12 @@
                                         "title": "Practical Detection of Entropy Loss in Pseudo-Random Number Generators"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/149/original/33C3.pdf?1483047793", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "id": 8088, 
@@ -10780,7 +10800,12 @@
                                         "title": "CAIN blog article"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/152/original/33c3_memdedup_curse_slides_final.pdf?1483057323", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "id": 8072, 
@@ -15845,7 +15870,16 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/154/original/Pra%CC%88si3.pptx?1483096609", 
+                                        "title": "Pra\u0308si3.pptx"
+                                    }, 
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
+                                    }
+                                ]
                             }, 
                             {
                                 "id": 8092, 
@@ -16296,7 +16330,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/153/original/Presentation_-_Understanding_the_Snooper's_Charter.odp?1483096310", 
+                                        "title": "Presentation - Understanding the Snooper's Charter"
+                                    }
+                                ]
                             }, 
                             {
                                 "id": 8142, 
