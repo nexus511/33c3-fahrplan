@@ -1437,12 +1437,12 @@
             "1483027200"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -1461,7 +1461,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -1482,7 +1482,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Flunkyball# 3464118d555bc81519f9e26273225748": {
@@ -2503,52 +2503,6 @@
         "Has end time": [
             "1483056000"
         ]
-    }, 
-    "Session:NibbleTronic: Next Generation# ebdf47f5b08ba475f9c7cdbb1e6c4f3d": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://www.schlimme-gegend.de/schlimme-ideen/nibbletronic/"
-        ], 
-        "Has description": [
-            "In my talk I introduced the Nibbletronic, a DIY MIDI wind instrument. In this session I want to discuss the next iteration with you."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ctrapp", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ctrapp", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "NibbleTronic: Next Generation"
-        ], 
-        "Has duration": [
-            20
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:NibbleTronic:_Next_Generation", 
-        "Has end time": []
     }, 
     "Session:Internet cencorship in Belarus# aeb52d88345b0a24f91bf94c5b7943d4": {
         "Held in language": [
@@ -8582,6 +8536,56 @@
             "1483028400"
         ]
     }, 
+    "Session:NibbleTronic: Next Generation# 71cae6f63750df31edacb35ac4a3f223": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483102800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.schlimme-gegend.de/schlimme-ideen/nibbletronic/"
+        ], 
+        "Has description": [
+            "In my talk I introduced the Nibbletronic, a DIY MIDI wind instrument. In this session I want to discuss the next iteration with you."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ctrapp", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ctrapp", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "NibbleTronic: Next Generation"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:NibbleTronic:_Next_Generation", 
+        "Has end time": [
+            "1483104000"
+        ]
+    }, 
     "Session:Open Source in Amateur Radio# a323830f60f395e17c688d3ae7d482d2": {
         "Held in language": [
             "en - English"
@@ -9832,12 +9836,12 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -9856,7 +9860,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -9877,7 +9881,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
