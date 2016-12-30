@@ -1683,7 +1683,9 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://github.com/ToBOrNotToB/workshop"
+        ], 
         "Has description": [
             "Getting started with the Internet of Things using the ESP8266 WiFi SoC. A basic how-to for beginners by beginners: \n- which software you need to install - how to flash the NoceMCU Firmware - how to start with your first small LUA script, connecting the WiFi module to the world - bring your laptop with you and try out ... Prerequisites: Java (all), Python2.7 (Linux & OS X)"
         ], 
@@ -3986,7 +3988,7 @@
             "https://c3voc.de"
         ], 
         "Has description": [
-            "GStreamer based application mixing/compositing live video and audio from various sources. Successor of DVswitch and gst-switch. Tailored to the needs of the C3VOC. In German or English."
+            "GStreamer based application mixing/compositing live video and audio from various sources. Successor of DVswitch and gst-switch. Tailored to the needs of the C3VOC. In German or English. You can find the source here: https://github.com/voc/voctomix (GitHub - voc/voctomix: Full-HD Software Live-Video-Mixer in python)"
         ], 
         "Has session type": [
             "Discussion"
@@ -9667,7 +9669,7 @@
             "https://c3voc.de"
         ], 
         "Has description": [
-            "GStreamer based application mixing/compositing live video and audio from various sources. Successor of DVswitch and gst-switch. Tailored to the needs of the C3VOC. In German or English."
+            "GStreamer based application mixing/compositing live video and audio from various sources. Successor of DVswitch and gst-switch. Tailored to the needs of the C3VOC. In German or English. You can find the source here: https://github.com/voc/voctomix (GitHub - voc/voctomix: Full-HD Software Live-Video-Mixer in python)"
         ], 
         "Has session type": [
             "Discussion"
@@ -10189,7 +10191,7 @@
             "https://c3voc.de"
         ], 
         "Has description": [
-            "GStreamer based application mixing/compositing live video and audio from various sources. Successor of DVswitch and gst-switch. Tailored to the needs of the C3VOC. In German or English."
+            "GStreamer based application mixing/compositing live video and audio from various sources. Successor of DVswitch and gst-switch. Tailored to the needs of the C3VOC. In German or English. You can find the source here: https://github.com/voc/voctomix (GitHub - voc/voctomix: Full-HD Software Live-Video-Mixer in python)"
         ], 
         "Has session type": [
             "Discussion"
@@ -17334,6 +17336,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
         "Has end time": [
             "1482930000"
+        ]
+    }, 
+    "Session:Voctomix# 50cf492cb4be9dae00345558318fe1a9": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483118100"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de"
+        ], 
+        "Has description": [
+            "GStreamer based application mixing/compositing live video and audio from various sources. Successor of DVswitch and gst-switch. Tailored to the needs of the C3VOC. In German or English. You can find the source here: https://github.com/voc/voctomix (GitHub - voc/voctomix: Full-HD Software Live-Video-Mixer in python)"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:VOC", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "MAYBE Meeting, depends on other tasks."
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:NeoFisch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Voctomix"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Voctomix", 
+        "Has end time": [
+            "1483121700"
         ]
     }, 
     "Session:JAZ HRO# 26fb52a3bb21e62ac5d64cd199ec5450": {
