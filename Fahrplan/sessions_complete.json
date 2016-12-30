@@ -1437,12 +1437,12 @@
             "1483027200"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -1461,7 +1461,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -1482,7 +1482,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Flunkyball# 3464118d555bc81519f9e26273225748": {
@@ -9837,12 +9837,12 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -9861,7 +9861,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -9882,7 +9882,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -12724,58 +12724,6 @@
             "1483026300"
         ]
     }, 
-    "Session:Voctomix# b050941336d734e3026a81f03320b19e": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1483113600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://c3voc.de"
-        ], 
-        "Has description": [
-            "GStreamer based application mixing/compositing live video and audio from various sources. Successor of DVswitch and gst-switch. Tailored to the needs of the C3VOC. In German or English."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:VOC", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "In German or English."
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:NeoFisch", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Voctomix"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Voctomix", 
-        "Has end time": [
-            "1483117200"
-        ]
-    }, 
     "Session:Public key cryptography and PGP for beginners# 83e0e600a3ab277c155fabce0b74082e": {
         "Held in language": [
             "en - English"
@@ -15144,58 +15092,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:OpenPGP_use_cases_beyond_email", 
         "Has end time": [
             "1483054200"
-        ]
-    }, 
-    "Session:Voctomix# 978ac86e72d091c7e4e932d009035d03": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1483110000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://c3voc.de"
-        ], 
-        "Has description": [
-            "GStreamer based application mixing/compositing live video and audio from various sources. Successor of DVswitch and gst-switch. Tailored to the needs of the C3VOC. In German or English."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:VOC", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:VOC", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "In German or English."
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:NeoFisch", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Voctomix"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Voctomix", 
-        "Has end time": [
-            "1483113600"
         ]
     }, 
     "Session:VOC Video Post-Processing Cutting Videos with Donuts# c0860d4152fcfef5376619166a828f8a": {
