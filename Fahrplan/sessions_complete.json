@@ -1437,12 +1437,12 @@
             "1483027200"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -1461,7 +1461,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -1482,7 +1482,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Flunkyball# 3464118d555bc81519f9e26273225748": {
@@ -2891,6 +2891,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
         "Has end time": [
             "1482870600"
+        ]
+    }, 
+    "Session:Neuropil# f0f7eeed0cea31b99e50bfc7dcf6df52": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483111800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.neuropil.org"
+        ], 
+        "Has description": [
+            "making and breaking of neuropil :-)\nwe would like to set up an neuropil network together with the participants and try to identify vulnerabilities ..."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "coding & testing"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Stephan.schwichtenberg", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stephan.schwichtenberg", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Neuropil"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Neuropil", 
+        "Has end time": [
+            "1483117200"
         ]
     }, 
     "Session:Schiko-Meeting# 9f88eaeae6526edd6c5b4074bac528de": {
@@ -4690,56 +4742,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Numerical_Weather_Prediction_Tutorial", 
         "Has end time": [
             "1483020000"
-        ]
-    }, 
-    "Session:Neuropil# daa19eb9f450d649e67c6a5413c97265": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483108200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://www.neuropil.org"
-        ], 
-        "Has description": [
-            "making and breaking of neuropil :-)\nwe would like to set up an neuropil network together with the participants and try to identify vulnerabilities ..."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Stephan.schwichtenberg", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stephan.schwichtenberg", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Neuropil"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Neuropil", 
-        "Has end time": [
-            "1483119000"
         ]
     }, 
     "Session:Instant Matrix Games# 7716b3b475bdcbee9ebfc30c761b5e41": {
@@ -9830,12 +9832,12 @@
             "1482855300"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -9854,7 +9856,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -9875,7 +9877,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
@@ -19988,6 +19990,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_introduction_to_Matrix.org_-_An_open_network_for_secure,_decentralized_communication", 
         "Has end time": [
             "1482957900"
+        ]
+    }, 
+    "Session:Neuropil# 2a0f0df6ce6ade6b9dded51f805842b5": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483108200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.neuropil.org"
+        ], 
+        "Has description": [
+            "making and breaking of neuropil :-)\nwe would like to set up an neuropil network together with the participants and try to identify vulnerabilities ..."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "introduction & buidling blocks"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Stephan.schwichtenberg", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stephan.schwichtenberg", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Neuropil"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Neuropil", 
+        "Has end time": [
+            "1483111800"
         ]
     }, 
     "Session:Radio Lockdown: Community WiFis unite!# 3ef0602faa4a92ba21a0b5d2b7bc8970": {
