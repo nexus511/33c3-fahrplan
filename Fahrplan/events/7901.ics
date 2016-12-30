@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T180000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T173000
-DTSTAMP;VALUE=DATE-TIME:20161229T190959Z
+DTSTAMP;VALUE=DATE-TIME:20161230T132029Z
 UID:cb67ad7f-7e12-4f34-aec0-748a61f3f958@frab.cccv.de
 DESCRIPTION:This talk will take an in-depth look at the technical capabil
  ities and vulnerabilities used by Pegasus. We will focus on Pegasus’s fe

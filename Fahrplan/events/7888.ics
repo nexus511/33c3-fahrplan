@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T213000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T203000
-DTSTAMP;VALUE=DATE-TIME:20161228T232233Z
+DTSTAMP;VALUE=DATE-TIME:20161230T130110Z
 UID:149f13d4-cc8c-49a9-9e68-544754646022@frab.cccv.de
 DESCRIPTION:This talk is about the iOS secure boot chain and how it chang
  ed throughout different iOS versions\, while focusing on downgrading des

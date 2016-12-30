@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T000000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161227T230000
-DTSTAMP;VALUE=DATE-TIME:20161229T191108Z
+DTSTAMP;VALUE=DATE-TIME:20161230T131642Z
 UID:700a07e7-a9c4-437b-a4c5-4491b23a9b4a@frab.cccv.de
 DESCRIPTION:Last year\, we demonstrated Linux running on the PS4 in a lig
  htning talk - presented on the PS4 itself. But how did we do it? In a de

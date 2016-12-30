@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T124500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161228T121500
-DTSTAMP;VALUE=DATE-TIME:20161229T204948Z
+DTSTAMP;VALUE=DATE-TIME:20161230T124449Z
 UID:8aaa55ad-b426-4d7a-8d46-f4b34a906eda@frab.cccv.de
 DESCRIPTION:Physicists are not computer scientists. But at CERN and world
  wide\, they need to analyze petabytes of data\, efficiently. Since more 

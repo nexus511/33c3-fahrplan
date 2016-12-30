@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20161230T000000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20161229T233000
-DTSTAMP;VALUE=DATE-TIME:20161215T105023Z
+DTSTAMP;VALUE=DATE-TIME:20161230T122213Z
 UID:725b4ff6-8d4c-4d8f-9e38-6b1e49e1602c@frab.cccv.de
 DESCRIPTION:Zcash is the third iteration of an extension to the Bitcoin p
  rotocol that provides true untraceability\, i.e. fully anonymous transac
