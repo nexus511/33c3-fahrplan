@@ -2468,7 +2468,7 @@
                         ], 
                         "Hall C.1": [
                             {
-                                "id": 1025, 
+                                "id": 1024, 
                                 "guid": "3c8f14f9-3cb1-5930-b2c1-79080db870e7", 
                                 "logo": null, 
                                 "date": "2016-12-27T12:00:00+01:00", 
@@ -3505,7 +3505,7 @@
                         ], 
                         "Assembly:Flunkyground": [
                             {
-                                "id": 1108, 
+                                "id": 1106, 
                                 "guid": "f6af7c27-01d6-5017-afb9-e39de651e402", 
                                 "logo": null, 
                                 "date": "2016-12-27T23:45:00+01:00", 
@@ -3733,7 +3733,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1174, 
+                                "id": 1172, 
                                 "guid": "8ae21e12-fe3d-5a3f-b2b7-ec733512b436", 
                                 "logo": null, 
                                 "date": "2016-12-27T23:00:00+01:00", 
@@ -8164,7 +8164,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1171, 
+                                "id": 1173, 
                                 "guid": "933f76c2-3313-50d5-be77-0bd12b706758", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:00:00+01:00", 
@@ -8233,60 +8233,6 @@
                         "Assembly:3D Hackspace": [
                             {
                                 "id": 1006, 
-                                "guid": "857da75d-b8e2-5d8d-aebe-70f9fa0b9e6c", 
-                                "logo": null, 
-                                "date": "2016-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "0:15", 
-                                "room": "Assembly:3D Hackspace", 
-                                "slug": "", 
-                                "title": "3D printing for kids", 
-                                "subtitle": "Group 1", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Learn how to design 3D parts and print them!", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
-                                        "public_name": "Obelix"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids"
-                                ]
-                            }, 
-                            {
-                                "id": 1007, 
-                                "guid": "9d4976d0-43ac-50b7-9b90-673466918721", 
-                                "logo": null, 
-                                "date": "2016-12-28T14:30:00+01:00", 
-                                "start": "14:30", 
-                                "duration": "0:15", 
-                                "room": "Assembly:3D Hackspace", 
-                                "slug": "", 
-                                "title": "3D printing for kids", 
-                                "subtitle": "Group 2", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Learn how to design 3D parts and print them!", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
-                                        "public_name": "Obelix"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids"
-                                ]
-                            }, 
-                            {
-                                "id": 1008, 
                                 "guid": "a48f8cdc-f671-5cab-a2e0-bceb5227473d", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -8313,7 +8259,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1009, 
+                                "id": 1007, 
                                 "guid": "6f50e915-ae95-58f2-9d92-dbec4e78fc6d", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:30:00+01:00", 
@@ -8323,6 +8269,60 @@
                                 "slug": "", 
                                 "title": "3D printing for kids", 
                                 "subtitle": "Group 4", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Learn how to design 3D parts and print them!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                                        "public_name": "Obelix"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids"
+                                ]
+                            }, 
+                            {
+                                "id": 1008, 
+                                "guid": "857da75d-b8e2-5d8d-aebe-70f9fa0b9e6c", 
+                                "logo": null, 
+                                "date": "2016-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "0:15", 
+                                "room": "Assembly:3D Hackspace", 
+                                "slug": "", 
+                                "title": "3D printing for kids", 
+                                "subtitle": "Group 1", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Learn how to design 3D parts and print them!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                                        "public_name": "Obelix"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids"
+                                ]
+                            }, 
+                            {
+                                "id": 1009, 
+                                "guid": "9d4976d0-43ac-50b7-9b90-673466918721", 
+                                "logo": null, 
+                                "date": "2016-12-28T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "0:15", 
+                                "room": "Assembly:3D Hackspace", 
+                                "slug": "", 
+                                "title": "3D printing for kids", 
+                                "subtitle": "Group 2", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -9247,7 +9247,7 @@
                         ], 
                         "Assembly:Flunkyground": [
                             {
-                                "id": 1106, 
+                                "id": 1107, 
                                 "guid": "8e55ac78-3d83-5f85-9e1f-353fee8f07d2", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:35:00+01:00", 
@@ -12240,7 +12240,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1293, 
+                                "id": 1294, 
                                 "guid": "af4baf6c-6be3-538f-8f0d-474fbcac454a", 
                                 "logo": null, 
                                 "date": "2016-12-29T18:00:00+01:00", 
@@ -14686,7 +14686,7 @@
                         ], 
                         "Assembly:Flunkyground": [
                             {
-                                "id": 1107, 
+                                "id": 1108, 
                                 "guid": "9cf59c4a-3767-5ce0-a07e-61834c1dec6e", 
                                 "logo": null, 
                                 "date": "2016-12-30T01:55:00+01:00", 
@@ -14979,7 +14979,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1172, 
+                                "id": 1171, 
                                 "guid": "7e4f05b5-24ca-5ef3-b31c-1f22874ea719", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:00:00+01:00", 
@@ -15012,7 +15012,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1173, 
+                                "id": 1174, 
                                 "guid": "1a66f12c-dfec-52f8-bf0d-e0936fdce833", 
                                 "logo": null, 
                                 "date": "2016-12-30T02:00:00+01:00", 
@@ -15390,10 +15390,10 @@
                         "Assembly:VOC": [
                             {
                                 "id": 1342, 
-                                "guid": "f968fd49-5066-586a-949f-8d878783dad0", 
+                                "guid": "e386064d-ecf2-5873-8afd-88fedc9107d0", 
                                 "logo": null, 
-                                "date": "2016-12-29T17:00:00+01:00", 
-                                "start": "17:00", 
+                                "date": "2016-12-29T15:00:00+01:00", 
+                                "start": "15:00", 
                                 "duration": "2:00", 
                                 "room": "Assembly:VOC", 
                                 "slug": "", 
@@ -15418,10 +15418,10 @@
                             }, 
                             {
                                 "id": 1343, 
-                                "guid": "e386064d-ecf2-5873-8afd-88fedc9107d0", 
+                                "guid": "f968fd49-5066-586a-949f-8d878783dad0", 
                                 "logo": null, 
-                                "date": "2016-12-29T15:00:00+01:00", 
-                                "start": "15:00", 
+                                "date": "2016-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
                                 "duration": "2:00", 
                                 "room": "Assembly:VOC", 
                                 "slug": "", 
@@ -15502,118 +15502,6 @@
                             }, 
                             {
                                 "id": 1346, 
-                                "guid": "565e43f0-823d-5029-b6d1-dcad85c9d36b", 
-                                "logo": null, 
-                                "date": "2016-12-29T14:30:00+01:00", 
-                                "start": "14:30", 
-                                "duration": "0:15", 
-                                "room": "Assembly:VOC", 
-                                "slug": "", 
-                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
-                                "subtitle": "English or German hands-on", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
-                                        "public_name": "NeoFisch"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3voc.de/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
-                                ]
-                            }, 
-                            {
-                                "id": 1347, 
-                                "guid": "8647dc2d-5aa5-5c5e-b2d1-08eca541d0ec", 
-                                "logo": null, 
-                                "date": "2016-12-29T14:45:00+01:00", 
-                                "start": "14:45", 
-                                "duration": "0:15", 
-                                "room": "Assembly:VOC", 
-                                "slug": "", 
-                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
-                                "subtitle": "English or German hands-on", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
-                                        "public_name": "NeoFisch"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3voc.de/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
-                                ]
-                            }, 
-                            {
-                                "id": 1348, 
-                                "guid": "6d349bcb-7c9f-58dc-a1ec-0eb5c5d45627", 
-                                "logo": null, 
-                                "date": "2016-12-29T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "0:15", 
-                                "room": "Assembly:VOC", 
-                                "slug": "", 
-                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
-                                "subtitle": "English or German hands-on", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
-                                        "public_name": "NeoFisch"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3voc.de/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
-                                ]
-                            }, 
-                            {
-                                "id": 1349, 
-                                "guid": "93b4d157-4ed8-5077-9c49-506dacc02b32", 
-                                "logo": null, 
-                                "date": "2016-12-29T15:15:00+01:00", 
-                                "start": "15:15", 
-                                "duration": "0:15", 
-                                "room": "Assembly:VOC", 
-                                "slug": "", 
-                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
-                                "subtitle": "English or German hands-on", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
-                                        "public_name": "NeoFisch"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3voc.de/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
-                                ]
-                            }, 
-                            {
-                                "id": 1350, 
                                 "guid": "e82235c6-dee1-5eab-a311-507ef5f6a772", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:30:00+01:00", 
@@ -15641,7 +15529,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1351, 
+                                "id": 1347, 
                                 "guid": "96368702-f3c6-51c3-aa7e-497aa4493ea6", 
                                 "logo": null, 
                                 "date": "2016-12-29T14:15:00+01:00", 
@@ -15669,11 +15557,123 @@
                                 ]
                             }, 
                             {
-                                "id": 1352, 
+                                "id": 1348, 
                                 "guid": "22cb89e9-d2fa-5c8c-8e93-99af34e08adc", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:45:00+01:00", 
                                 "start": "15:45", 
+                                "duration": "0:15", 
+                                "room": "Assembly:VOC", 
+                                "slug": "", 
+                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
+                                "subtitle": "English or German hands-on", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                                        "public_name": "NeoFisch"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
+                                ]
+                            }, 
+                            {
+                                "id": 1349, 
+                                "guid": "565e43f0-823d-5029-b6d1-dcad85c9d36b", 
+                                "logo": null, 
+                                "date": "2016-12-29T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "0:15", 
+                                "room": "Assembly:VOC", 
+                                "slug": "", 
+                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
+                                "subtitle": "English or German hands-on", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                                        "public_name": "NeoFisch"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
+                                ]
+                            }, 
+                            {
+                                "id": 1350, 
+                                "guid": "8647dc2d-5aa5-5c5e-b2d1-08eca541d0ec", 
+                                "logo": null, 
+                                "date": "2016-12-29T14:45:00+01:00", 
+                                "start": "14:45", 
+                                "duration": "0:15", 
+                                "room": "Assembly:VOC", 
+                                "slug": "", 
+                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
+                                "subtitle": "English or German hands-on", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                                        "public_name": "NeoFisch"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
+                                ]
+                            }, 
+                            {
+                                "id": 1351, 
+                                "guid": "6d349bcb-7c9f-58dc-a1ec-0eb5c5d45627", 
+                                "logo": null, 
+                                "date": "2016-12-29T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "0:15", 
+                                "room": "Assembly:VOC", 
+                                "slug": "", 
+                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
+                                "subtitle": "English or German hands-on", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                                        "public_name": "NeoFisch"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
+                                ]
+                            }, 
+                            {
+                                "id": 1352, 
+                                "guid": "93b4d157-4ed8-5077-9c49-506dacc02b32", 
+                                "logo": null, 
+                                "date": "2016-12-29T15:15:00+01:00", 
+                                "start": "15:15", 
                                 "duration": "0:15", 
                                 "room": "Assembly:VOC", 
                                 "slug": "", 
@@ -16658,7 +16658,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1294, 
+                                "id": 1293, 
                                 "guid": "236bb2a6-df99-5103-895c-75f96d813b3a", 
                                 "logo": null, 
                                 "date": "2016-12-30T14:00:00+01:00", 
@@ -16724,7 +16724,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1024, 
+                                "id": 1025, 
                                 "guid": "02678ce6-04aa-5f61-8f79-29c0edbe4dbb", 
                                 "logo": null, 
                                 "date": "2016-12-30T12:00:00+01:00", 
