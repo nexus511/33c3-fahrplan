@@ -174,7 +174,7 @@ During this Session we will introduce you to your dutys as a stage manager and t
   </day>
   <day date="2016-12-27" index="2" end="2016-12-28T04:00:00+01:00" start="2016-12-27T06:00:00+01:00">
     <room name="Hall C.1">
-      <event id="1024" guid="3c8f14f9-3cb1-5930-b2c1-79080db870e7">
+      <event id="1025" guid="3c8f14f9-3cb1-5930-b2c1-79080db870e7">
         <logo/>
         <date>2016-12-27T12:00:00+01:00</date>
         <start>12:00</start>
@@ -4676,7 +4676,7 @@ Whoever wants to help is welcome!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:A-NOC</link>
         </links>
       </event>
-      <event id="1025" guid="02678ce6-04aa-5f61-8f79-29c0edbe4dbb">
+      <event id="1024" guid="02678ce6-04aa-5f61-8f79-29c0edbe4dbb">
         <logo/>
         <date>2016-12-30T12:00:00+01:00</date>
         <start>12:00</start>
@@ -4931,15 +4931,15 @@ Let's get together and talk about our current projects, favourite projects and w
           <link>https://events.ccc.de/congress/2016/wiki/Session:DNS_und_ICVPN_-_.freifunk</link>
         </links>
       </event>
-      <event id="1213" guid="eaa214e1-42d4-5c86-b594-c7b840f88e52">
+      <event id="1213" guid="d8baa163-9777-5910-9537-aa9ededda667">
         <logo/>
-        <date>2016-12-30T14:30:00+01:00</date>
-        <start>14:30</start>
-        <duration>1:00</duration>
+        <date>2016-12-30T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>1:30</duration>
         <room>Hall C.4</room>
         <slug/>
         <title>Neuropil</title>
-        <subtitle>introduction &amp; buidling blocks</subtitle>
+        <subtitle>coding &amp; testing</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>en</language>
@@ -4954,15 +4954,15 @@ we would like to set up an neuropil network together with the participants and t
           <link>https://events.ccc.de/congress/2016/wiki/Session:Neuropil</link>
         </links>
       </event>
-      <event id="1214" guid="d8baa163-9777-5910-9537-aa9ededda667">
+      <event id="1214" guid="eaa214e1-42d4-5c86-b594-c7b840f88e52">
         <logo/>
-        <date>2016-12-30T15:30:00+01:00</date>
-        <start>15:30</start>
-        <duration>1:30</duration>
+        <date>2016-12-30T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>1:00</duration>
         <room>Hall C.4</room>
         <slug/>
         <title>Neuropil</title>
-        <subtitle>coding &amp; testing</subtitle>
+        <subtitle>introduction &amp; buidling blocks</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>en</language>
