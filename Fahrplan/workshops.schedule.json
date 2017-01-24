@@ -43,7 +43,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1301, 
+                                "id": 1300, 
                                 "guid": "737ddd87-dc32-56d1-96d6-a9c947be96a6", 
                                 "logo": null, 
                                 "date": "2016-12-26T21:00:00+01:00", 
@@ -432,15 +432,15 @@
                             }, 
                             {
                                 "id": 1281, 
-                                "guid": "7829fac5-21f4-56b1-bb1d-24fd7a4114bc", 
+                                "guid": "806c5e1d-eed3-508f-a251-46d8a5c7d5db", 
                                 "logo": null, 
-                                "date": "2016-12-27T17:30:00+01:00", 
-                                "start": "17:30", 
+                                "date": "2016-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:10", 
                                 "room": "Hall C.2", 
                                 "slug": "", 
                                 "title": "Space Hacking", 
-                                "subtitle": "KulturKunstPartyPolitik! - Teil2: Urban Intervention", 
+                                "subtitle": "KulturKunstPartyPolitik! - Teil1: Collective Space", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -463,15 +463,15 @@
                             }, 
                             {
                                 "id": 1282, 
-                                "guid": "806c5e1d-eed3-508f-a251-46d8a5c7d5db", 
+                                "guid": "7829fac5-21f4-56b1-bb1d-24fd7a4114bc", 
                                 "logo": null, 
-                                "date": "2016-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2016-12-27T17:30:00+01:00", 
+                                "start": "17:30", 
                                 "duration": "1:10", 
                                 "room": "Hall C.2", 
                                 "slug": "", 
                                 "title": "Space Hacking", 
-                                "subtitle": "KulturKunstPartyPolitik! - Teil1: Collective Space", 
+                                "subtitle": "KulturKunstPartyPolitik! - Teil2: Urban Intervention", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -1235,7 +1235,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1139, 
+                                "id": 1138, 
                                 "guid": "1506fd90-1a87-5457-b840-81d2e20ebc96", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -1296,7 +1296,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1255, 
+                                "id": 1254, 
                                 "guid": "4ff5f3b6-ca14-57fa-bf89-4cee2a8739cf", 
                                 "logo": null, 
                                 "date": "2016-12-27T12:00:00+01:00", 
@@ -1435,7 +1435,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1299, 
+                                "id": 1301, 
                                 "guid": "87e63d0e-e34a-5fe9-b441-5c5f4923203b", 
                                 "logo": null, 
                                 "date": "2016-12-27T10:00:00+01:00", 
@@ -1733,7 +1733,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1253, 
+                                "id": 1256, 
                                 "guid": "2878938c-580c-53ad-bbaf-421ca27f2e7f", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
@@ -2534,35 +2534,6 @@
                             }, 
                             {
                                 "id": 1362, 
-                                "guid": "1429882d-aed6-5393-85d2-cf374685402f", 
-                                "logo": null, 
-                                "date": "2016-12-28T18:45:00+01:00", 
-                                "start": "18:45", 
-                                "duration": "1:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "We Fix the Net", 
-                                "subtitle": "Opertunistic Email Encryption", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
-                                        "public_name": "Jeffburdges"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://gnunet.org", 
-                                    "http://pep.foundation/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net"
-                                ]
-                            }, 
-                            {
-                                "id": 1363, 
                                 "guid": "3decf8d8-888d-53eb-93e1-07596b3ca4a4", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -2591,7 +2562,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1364, 
+                                "id": 1363, 
                                 "guid": "70ff93cb-008d-5601-8b8f-b56b605cbca6", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -2601,6 +2572,35 @@
                                 "slug": "", 
                                 "title": "We Fix the Net", 
                                 "subtitle": "We Fix The Net Short Talks", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
+                                        "public_name": "Jeffburdges"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://gnunet.org", 
+                                    "http://pep.foundation/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net"
+                                ]
+                            }, 
+                            {
+                                "id": 1364, 
+                                "guid": "1429882d-aed6-5393-85d2-cf374685402f", 
+                                "logo": null, 
+                                "date": "2016-12-28T18:45:00+01:00", 
+                                "start": "18:45", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "We Fix the Net", 
+                                "subtitle": "Opertunistic Email Encryption", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "en", 
@@ -2685,7 +2685,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1132, 
+                                "id": 1131, 
                                 "guid": "438825cf-c569-56a3-b51f-ada5470a2c13", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:45:00+01:00", 
@@ -3195,7 +3195,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1138, 
+                                "id": 1137, 
                                 "guid": "c40a2e65-8eaa-5c7f-a6f6-9e442d8529a9", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -3332,7 +3332,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1300, 
+                                "id": 1299, 
                                 "guid": "e1ac263c-9958-5184-b5e3-1d4a62836310", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:15:00+01:00", 
@@ -4389,7 +4389,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1076, 
+                                "id": 1075, 
                                 "guid": "d2ca1412-729a-5533-9d4b-1f4c1d0da999", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -4709,7 +4709,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1256, 
+                                "id": 1255, 
                                 "guid": "ad9c6d86-244a-5985-ac0d-259ecb3c6f18", 
                                 "logo": null, 
                                 "date": "2016-12-29T12:00:00+01:00", 
@@ -4975,11 +4975,11 @@
                             }, 
                             {
                                 "id": 1207, 
-                                "guid": "5159c63e-53a9-51e3-8714-866519242bd2", 
+                                "guid": "bc3447a3-4f9d-5d8d-be5d-3a9a201a4c26", 
                                 "logo": null, 
-                                "date": "2016-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "3:00", 
+                                "date": "2016-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:15", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Movie Night", 
@@ -4996,11 +4996,11 @@
                             }, 
                             {
                                 "id": 1208, 
-                                "guid": "bc3447a3-4f9d-5d8d-be5d-3a9a201a4c26", 
+                                "guid": "5159c63e-53a9-51e3-8714-866519242bd2", 
                                 "logo": null, 
-                                "date": "2016-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "2:15", 
+                                "date": "2016-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "3:00", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Movie Night", 
@@ -5596,7 +5596,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1137, 
+                                "id": 1139, 
                                 "guid": "8ad06813-88de-523f-b7ce-a73c8b91471a", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -6336,7 +6336,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1254, 
+                                "id": 1253, 
                                 "guid": "0643cf42-b551-52d2-ab75-06dc45cc6602", 
                                 "logo": null, 
                                 "date": "2016-12-30T12:00:00+01:00", 
@@ -6420,7 +6420,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1131, 
+                                "id": 1132, 
                                 "guid": "8a32bbeb-170a-57bb-b822-037a7309839c", 
                                 "logo": null, 
                                 "date": "2016-12-30T18:15:00+01:00", 
