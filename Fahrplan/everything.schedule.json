@@ -2057,7 +2057,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1139, 
+                                "id": 1138, 
                                 "guid": "1506fd90-1a87-5457-b840-81d2e20ebc96", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -2118,7 +2118,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1255, 
+                                "id": 1253, 
                                 "guid": "4ff5f3b6-ca14-57fa-bf89-4cee2a8739cf", 
                                 "logo": null, 
                                 "date": "2016-12-27T12:00:00+01:00", 
@@ -2145,7 +2145,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1269, 
+                                "id": 1268, 
                                 "guid": "10dad845-ea44-511b-9ee4-d5c337aac57c", 
                                 "logo": null, 
                                 "date": "2016-12-28T01:00:00+01:00", 
@@ -2173,7 +2173,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1268, 
+                                "id": 1267, 
                                 "guid": "31943e72-df2b-583b-b48a-4ff2e0d71c68", 
                                 "logo": null, 
                                 "date": "2016-12-28T02:00:00+01:00", 
@@ -2201,7 +2201,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1291, 
+                                "id": 1290, 
                                 "guid": "7aac2f6f-c09b-5b27-965f-824ecca75a55", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -2230,10 +2230,10 @@
                             }, 
                             {
                                 "id": 1298, 
-                                "guid": "87e63d0e-e34a-5fe9-b441-5c5f4923203b", 
+                                "guid": "50b55485-5e7c-5f64-81fb-6731c0f0be38", 
                                 "logo": null, 
-                                "date": "2016-12-27T10:00:00+01:00", 
-                                "start": "10:00", 
+                                "date": "2016-12-27T15:15:00+01:00", 
+                                "start": "15:15", 
                                 "duration": "0:30", 
                                 "room": "Hall A.1", 
                                 "slug": "", 
@@ -2258,10 +2258,10 @@
                             }, 
                             {
                                 "id": 1300, 
-                                "guid": "50b55485-5e7c-5f64-81fb-6731c0f0be38", 
+                                "guid": "87e63d0e-e34a-5fe9-b441-5c5f4923203b", 
                                 "logo": null, 
-                                "date": "2016-12-27T15:15:00+01:00", 
-                                "start": "15:15", 
+                                "date": "2016-12-27T10:00:00+01:00", 
+                                "start": "10:00", 
                                 "duration": "0:30", 
                                 "room": "Hall A.1", 
                                 "slug": "", 
@@ -2288,34 +2288,7 @@
                         "Hall A.2": [], 
                         "Hall B": [
                             {
-                                "id": 1085, 
-                                "guid": "98d0e869-9ceb-5908-918b-b62c4f14e32e", 
-                                "logo": null, 
-                                "date": "2016-12-27T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "1:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "Engelmeeting", 
-                                "subtitle": "Angel meeting day 1", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
-                                        "public_name": "Knuth"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1087, 
+                                "id": 1084, 
                                 "guid": "8a44028a-1357-5c63-b02b-989242b68ba3", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:45:00+01:00", 
@@ -2342,7 +2315,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1089, 
+                                "id": 1086, 
                                 "guid": "087aa307-022a-5234-a74c-17782661ec83", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -2352,6 +2325,33 @@
                                 "slug": "", 
                                 "title": "Engelmeeting", 
                                 "subtitle": "Introduction meeting for new angels", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                                        "public_name": "Knuth"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1093, 
+                                "guid": "98d0e869-9ceb-5908-918b-b62c4f14e32e", 
+                                "logo": null, 
+                                "date": "2016-12-27T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angel meeting day 1", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -2429,7 +2429,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1246, 
+                                "id": 1245, 
                                 "guid": "560c2dc6-dfc7-59a6-ba0a-79f75e7d93cd", 
                                 "logo": null, 
                                 "date": "2016-12-27T16:00:00+01:00", 
@@ -2468,7 +2468,7 @@
                         ], 
                         "Hall C.1": [
                             {
-                                "id": 1025, 
+                                "id": 1024, 
                                 "guid": "3c8f14f9-3cb1-5930-b2c1-79080db870e7", 
                                 "logo": null, 
                                 "date": "2016-12-27T12:00:00+01:00", 
@@ -2534,7 +2534,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1245, 
+                                "id": 1246, 
                                 "guid": "ad00dfbc-6c17-5161-9733-e2685b8aafd8", 
                                 "logo": null, 
                                 "date": "2016-12-27T16:30:00+01:00", 
@@ -2677,15 +2677,15 @@
                             }, 
                             {
                                 "id": 1281, 
-                                "guid": "7829fac5-21f4-56b1-bb1d-24fd7a4114bc", 
+                                "guid": "806c5e1d-eed3-508f-a251-46d8a5c7d5db", 
                                 "logo": null, 
-                                "date": "2016-12-27T17:30:00+01:00", 
-                                "start": "17:30", 
+                                "date": "2016-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:10", 
                                 "room": "Hall C.2", 
                                 "slug": "", 
                                 "title": "Space Hacking", 
-                                "subtitle": "KulturKunstPartyPolitik! - Teil2: Urban Intervention", 
+                                "subtitle": "KulturKunstPartyPolitik! - Teil1: Collective Space", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -2708,15 +2708,15 @@
                             }, 
                             {
                                 "id": 1282, 
-                                "guid": "806c5e1d-eed3-508f-a251-46d8a5c7d5db", 
+                                "guid": "7829fac5-21f4-56b1-bb1d-24fd7a4114bc", 
                                 "logo": null, 
-                                "date": "2016-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2016-12-27T17:30:00+01:00", 
+                                "start": "17:30", 
                                 "duration": "1:10", 
                                 "room": "Hall C.2", 
                                 "slug": "", 
                                 "title": "Space Hacking", 
-                                "subtitle": "KulturKunstPartyPolitik! - Teil1: Collective Space", 
+                                "subtitle": "KulturKunstPartyPolitik! - Teil2: Urban Intervention", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -3025,7 +3025,7 @@
                         ], 
                         "Hall 13-14": [
                             {
-                                "id": 1056, 
+                                "id": 1055, 
                                 "guid": "1f13a568-64b4-5ee3-8936-15a5d1a6736f", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:00:00+01:00", 
@@ -3168,34 +3168,6 @@
                             }, 
                             {
                                 "id": 1267, 
-                                "guid": "7809644a-427c-5721-94ed-a19ed0cc3715", 
-                                "logo": null, 
-                                "date": "2016-12-28T03:00:00+01:00", 
-                                "start": "03:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 13-14", 
-                                "slug": "", 
-                                "title": "Skillconvention a", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "all travelers with a certain skill will be invited to these sessions.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
-                                        "public_name": "Reisende"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://thereisnogame.de", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a"
-                                ]
-                            }, 
-                            {
-                                "id": 1268, 
                                 "guid": "31943e72-df2b-583b-b48a-4ff2e0d71c68", 
                                 "logo": null, 
                                 "date": "2016-12-28T02:00:00+01:00", 
@@ -3223,16 +3195,44 @@
                                 ]
                             }, 
                             {
-                                "id": 1327, 
-                                "guid": "395d4d3c-8b11-57e9-a62d-fe4325d0d0f1", 
+                                "id": 1269, 
+                                "guid": "7809644a-427c-5721-94ed-a19ed0cc3715", 
                                 "logo": null, 
-                                "date": "2016-12-27T15:10:00+01:00", 
-                                "start": "15:10", 
+                                "date": "2016-12-28T03:00:00+01:00", 
+                                "start": "03:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Skillconvention a", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers with a certain skill will be invited to these sessions.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a"
+                                ]
+                            }, 
+                            {
+                                "id": 1329, 
+                                "guid": "410c8c6d-c277-51a5-b35d-8101453d0179", 
+                                "logo": null, 
+                                "date": "2016-12-27T19:40:00+01:00", 
+                                "start": "19:40", 
                                 "duration": "0:50", 
                                 "room": "Hall 13-14", 
                                 "slug": "", 
                                 "title": "Translation meetings", 
-                                "subtitle": "day 1, afternoon meeting", 
+                                "subtitle": "day 1, evening meeting", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "en", 
@@ -3250,16 +3250,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1331, 
-                                "guid": "410c8c6d-c277-51a5-b35d-8101453d0179", 
+                                "id": 1333, 
+                                "guid": "395d4d3c-8b11-57e9-a62d-fe4325d0d0f1", 
                                 "logo": null, 
-                                "date": "2016-12-27T19:40:00+01:00", 
-                                "start": "19:40", 
+                                "date": "2016-12-27T15:10:00+01:00", 
+                                "start": "15:10", 
                                 "duration": "0:50", 
                                 "room": "Hall 13-14", 
                                 "slug": "", 
                                 "title": "Translation meetings", 
-                                "subtitle": "day 1, evening meeting", 
+                                "subtitle": "day 1, afternoon meeting", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "en", 
@@ -3307,7 +3307,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1010, 
+                                "id": 1011, 
                                 "guid": "fa1b33c2-f0b1-5d0c-a922-852256aa2a68", 
                                 "logo": null, 
                                 "date": "2016-12-27T18:00:00+01:00", 
@@ -3336,7 +3336,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1051, 
+                                "id": 1049, 
                                 "guid": "197d1871-0f25-56fe-b116-2a2d26879178", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -3505,7 +3505,7 @@
                         ], 
                         "Assembly:Flunkyground": [
                             {
-                                "id": 1106, 
+                                "id": 1108, 
                                 "guid": "f6af7c27-01d6-5017-afb9-e39de651e402", 
                                 "logo": null, 
                                 "date": "2016-12-27T23:45:00+01:00", 
@@ -3535,7 +3535,7 @@
                         ], 
                         "Assembly:Mainframe": [
                             {
-                                "id": 1127, 
+                                "id": 1128, 
                                 "guid": "c15443d9-0821-563c-936b-983bf51d9d4f", 
                                 "logo": null, 
                                 "date": "2016-12-27T21:00:00+01:00", 
@@ -3618,7 +3618,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1261, 
+                                "id": 1262, 
                                 "guid": "0982d035-6b45-51c2-96b9-47a53d3fb9eb", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -3733,40 +3733,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1172, 
-                                "guid": "8ae21e12-fe3d-5a3f-b2b7-ec733512b436", 
-                                "logo": null, 
-                                "date": "2016-12-27T23:00:00+01:00", 
-                                "start": "23:00", 
-                                "duration": "2:00", 
-                                "room": "Assembly:Chaos West", 
-                                "slug": "", 
-                                "title": "Klangteppich", 
-                                "subtitle": "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop", 
-                                "track": "self organized sessions", 
-                                "type": "other", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                                        "public_name": "Bam"
-                                    }, 
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                                        "public_name": "JayDee2202"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich"
-                                ]
-                            }, 
-                            {
-                                "id": 1177, 
+                                "id": 1174, 
                                 "guid": "44d261f7-2ce8-50bf-a82d-d5a0079881f2", 
                                 "logo": null, 
                                 "date": "2016-12-28T01:00:00+01:00", 
@@ -3799,7 +3766,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1178, 
+                                "id": 1175, 
                                 "guid": "100e49b9-fcaf-5f91-8a4f-c367b771c8e5", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -3809,6 +3776,39 @@
                                 "slug": "", 
                                 "title": "Klangteppich", 
                                 "subtitle": "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                                        "public_name": "Bam"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                                        "public_name": "JayDee2202"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich"
+                                ]
+                            }, 
+                            {
+                                "id": 1178, 
+                                "guid": "8ae21e12-fe3d-5a3f-b2b7-ec733512b436", 
+                                "logo": null, 
+                                "date": "2016-12-27T23:00:00+01:00", 
+                                "start": "23:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Chaos West", 
+                                "slug": "", 
+                                "title": "Klangteppich", 
+                                "subtitle": "[[User:Plopesmusic|deadact aka pedro lopes]] DJ set: lounge-core-experimental-juke-freeform-hop", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "en", 
@@ -3863,7 +3863,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1186, 
+                                "id": 1189, 
                                 "guid": "7879ed11-0436-507e-920e-08b6aa60c115", 
                                 "logo": null, 
                                 "date": "2016-12-27T17:00:00+01:00", 
@@ -3917,7 +3917,34 @@
                                 ]
                             }, 
                             {
-                                "id": 1302, 
+                                "id": 1304, 
+                                "guid": "c6f52878-4d35-572f-b297-01976550b5de", 
+                                "logo": null, 
+                                "date": "2016-12-27T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:HardwareHackingArea", 
+                                "slug": "", 
+                                "title": "Surface Mount Electronics Assembly for Terrified Beginners", 
+                                "subtitle": "Day 1 - Session 3", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
+                                        "public_name": "Kliment"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners"
+                                ]
+                            }, 
+                            {
+                                "id": 1309, 
                                 "guid": "cec7ecd2-dfbb-5ca8-b171-b880ff5e03a7", 
                                 "logo": null, 
                                 "date": "2016-12-27T13:00:00+01:00", 
@@ -3944,7 +3971,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1304, 
+                                "id": 1311, 
                                 "guid": "06bcda93-fa5b-565b-bffb-ce64239bc953", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -3954,33 +3981,6 @@
                                 "slug": "", 
                                 "title": "Surface Mount Electronics Assembly for Terrified Beginners", 
                                 "subtitle": "Day 1 - Session 2", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
-                                        "public_name": "Kliment"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners"
-                                ]
-                            }, 
-                            {
-                                "id": 1307, 
-                                "guid": "c6f52878-4d35-572f-b297-01976550b5de", 
-                                "logo": null, 
-                                "date": "2016-12-27T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "1:30", 
-                                "room": "Assembly:HardwareHackingArea", 
-                                "slug": "", 
-                                "title": "Surface Mount Electronics Assembly for Terrified Beginners", 
-                                "subtitle": "Day 1 - Session 3", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "en", 
@@ -5639,7 +5639,7 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 1339, 
+                                "id": 1340, 
                                 "guid": "81ea9504-588b-5f9b-aa53-12467bd6d53e", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -6400,7 +6400,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1055, 
+                                "id": 1054, 
                                 "guid": "6130f33f-cc7d-5f98-b716-47370b95e956", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:00:00+01:00", 
@@ -6514,7 +6514,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1138, 
+                                "id": 1137, 
                                 "guid": "c40a2e65-8eaa-5c7f-a6f6-9e442d8529a9", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -6595,7 +6595,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1272, 
+                                "id": 1271, 
                                 "guid": "049177ab-2d1c-5c31-88b8-2c014c5647ea", 
                                 "logo": null, 
                                 "date": "2016-12-29T00:30:00+01:00", 
@@ -6623,7 +6623,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1270, 
+                                "id": 1272, 
                                 "guid": "8150fc5b-1586-50b3-aaf7-562def38b930", 
                                 "logo": null, 
                                 "date": "2016-12-29T01:30:00+01:00", 
@@ -6651,7 +6651,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1297, 
+                                "id": 1301, 
                                 "guid": "e1ac263c-9958-5184-b5e3-1d4a62836310", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:15:00+01:00", 
@@ -6738,7 +6738,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1091, 
+                                "id": 1088, 
                                 "guid": "a5d643c1-d4f0-5268-942f-d9b896777dbf", 
                                 "logo": null, 
                                 "date": "2016-12-28T13:00:00+01:00", 
@@ -6765,7 +6765,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1093, 
+                                "id": 1090, 
                                 "guid": "31dafe97-322c-5940-b89f-713c83b19496", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:45:00+01:00", 
@@ -6820,6 +6820,35 @@
                             }, 
                             {
                                 "id": 1362, 
+                                "guid": "70ff93cb-008d-5601-8b8f-b56b605cbca6", 
+                                "logo": null, 
+                                "date": "2016-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "3:45", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "We Fix the Net", 
+                                "subtitle": "We Fix The Net Short Talks", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
+                                        "public_name": "Jeffburdges"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://gnunet.org", 
+                                    "http://pep.foundation/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net"
+                                ]
+                            }, 
+                            {
+                                "id": 1363, 
                                 "guid": "1429882d-aed6-5393-85d2-cf374685402f", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:45:00+01:00", 
@@ -6848,7 +6877,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1363, 
+                                "id": 1364, 
                                 "guid": "3decf8d8-888d-53eb-93e1-07596b3ca4a4", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -6858,35 +6887,6 @@
                                 "slug": "", 
                                 "title": "We Fix the Net", 
                                 "subtitle": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
-                                        "public_name": "Jeffburdges"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://gnunet.org", 
-                                    "http://pep.foundation/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net"
-                                ]
-                            }, 
-                            {
-                                "id": 1364, 
-                                "guid": "70ff93cb-008d-5601-8b8f-b56b605cbca6", 
-                                "logo": null, 
-                                "date": "2016-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "3:45", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "We Fix the Net", 
-                                "subtitle": "We Fix The Net Short Talks", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "en", 
@@ -7099,7 +7099,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1253, 
+                                "id": 1255, 
                                 "guid": "2878938c-580c-53ad-bbaf-421ca27f2e7f", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
@@ -7825,7 +7825,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1132, 
+                                "id": 1131, 
                                 "guid": "438825cf-c569-56a3-b51f-ada5470a2c13", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:45:00+01:00", 
@@ -7943,34 +7943,6 @@
                             }, 
                             {
                                 "id": 1270, 
-                                "guid": "8150fc5b-1586-50b3-aaf7-562def38b930", 
-                                "logo": null, 
-                                "date": "2016-12-29T01:30:00+01:00", 
-                                "start": "01:30", 
-                                "duration": "1:00", 
-                                "room": "Hall 13-14", 
-                                "slug": "", 
-                                "title": "Skillconvention b", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "all travelers of a certain skill will be invented to join their respective session", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
-                                        "public_name": "Reisende"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://thereisnogame.de", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
-                                ]
-                            }, 
-                            {
-                                "id": 1271, 
                                 "guid": "5fabd2af-e609-5483-89cd-9601b99827b3", 
                                 "logo": null, 
                                 "date": "2016-12-29T02:30:00+01:00", 
@@ -7998,11 +7970,39 @@
                                 ]
                             }, 
                             {
-                                "id": 1272, 
+                                "id": 1271, 
                                 "guid": "049177ab-2d1c-5c31-88b8-2c014c5647ea", 
                                 "logo": null, 
                                 "date": "2016-12-29T00:30:00+01:00", 
                                 "start": "00:30", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Skillconvention b", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers of a certain skill will be invented to join their respective session", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
+                                ]
+                            }, 
+                            {
+                                "id": 1272, 
+                                "guid": "8150fc5b-1586-50b3-aaf7-562def38b930", 
+                                "logo": null, 
+                                "date": "2016-12-29T01:30:00+01:00", 
+                                "start": "01:30", 
                                 "duration": "1:00", 
                                 "room": "Hall 13-14", 
                                 "slug": "", 
@@ -8053,7 +8053,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1328, 
+                                "id": 1326, 
                                 "guid": "3d0d1193-a176-5808-a116-c899ccc022bd", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:40:00+01:00", 
@@ -8080,7 +8080,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1332, 
+                                "id": 1330, 
                                 "guid": "db87f489-da29-5747-ac26-26519bd11634", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:10:00+01:00", 
@@ -8164,7 +8164,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1174, 
+                                "id": 1171, 
                                 "guid": "ac5500fa-a531-589a-8ed8-397f47338025", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -8197,7 +8197,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1175, 
+                                "id": 1172, 
                                 "guid": "933f76c2-3313-50d5-be77-0bd12b706758", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:00:00+01:00", 
@@ -8233,87 +8233,6 @@
                         "Assembly:3D Hackspace": [
                             {
                                 "id": 1006, 
-                                "guid": "9d4976d0-43ac-50b7-9b90-673466918721", 
-                                "logo": null, 
-                                "date": "2016-12-28T14:30:00+01:00", 
-                                "start": "14:30", 
-                                "duration": "0:15", 
-                                "room": "Assembly:3D Hackspace", 
-                                "slug": "", 
-                                "title": "3D printing for kids", 
-                                "subtitle": "Group 2", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Learn how to design 3D parts and print them!", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
-                                        "public_name": "Obelix"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids"
-                                ]
-                            }, 
-                            {
-                                "id": 1007, 
-                                "guid": "a48f8cdc-f671-5cab-a2e0-bceb5227473d", 
-                                "logo": null, 
-                                "date": "2016-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "0:15", 
-                                "room": "Assembly:3D Hackspace", 
-                                "slug": "", 
-                                "title": "3D printing for kids", 
-                                "subtitle": "Group 3", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Learn how to design 3D parts and print them!", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
-                                        "public_name": "Obelix"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids"
-                                ]
-                            }, 
-                            {
-                                "id": 1008, 
-                                "guid": "6f50e915-ae95-58f2-9d92-dbec4e78fc6d", 
-                                "logo": null, 
-                                "date": "2016-12-28T15:30:00+01:00", 
-                                "start": "15:30", 
-                                "duration": "0:15", 
-                                "room": "Assembly:3D Hackspace", 
-                                "slug": "", 
-                                "title": "3D printing for kids", 
-                                "subtitle": "Group 4", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Learn how to design 3D parts and print them!", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
-                                        "public_name": "Obelix"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids"
-                                ]
-                            }, 
-                            {
-                                "id": 1009, 
                                 "guid": "857da75d-b8e2-5d8d-aebe-70f9fa0b9e6c", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -8340,7 +8259,88 @@
                                 ]
                             }, 
                             {
-                                "id": 1011, 
+                                "id": 1007, 
+                                "guid": "9d4976d0-43ac-50b7-9b90-673466918721", 
+                                "logo": null, 
+                                "date": "2016-12-28T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "0:15", 
+                                "room": "Assembly:3D Hackspace", 
+                                "slug": "", 
+                                "title": "3D printing for kids", 
+                                "subtitle": "Group 2", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Learn how to design 3D parts and print them!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                                        "public_name": "Obelix"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids"
+                                ]
+                            }, 
+                            {
+                                "id": 1008, 
+                                "guid": "a48f8cdc-f671-5cab-a2e0-bceb5227473d", 
+                                "logo": null, 
+                                "date": "2016-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "0:15", 
+                                "room": "Assembly:3D Hackspace", 
+                                "slug": "", 
+                                "title": "3D printing for kids", 
+                                "subtitle": "Group 3", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Learn how to design 3D parts and print them!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                                        "public_name": "Obelix"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids"
+                                ]
+                            }, 
+                            {
+                                "id": 1009, 
+                                "guid": "6f50e915-ae95-58f2-9d92-dbec4e78fc6d", 
+                                "logo": null, 
+                                "date": "2016-12-28T15:30:00+01:00", 
+                                "start": "15:30", 
+                                "duration": "0:15", 
+                                "room": "Assembly:3D Hackspace", 
+                                "slug": "", 
+                                "title": "3D printing for kids", 
+                                "subtitle": "Group 4", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Learn how to design 3D parts and print them!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                                        "public_name": "Obelix"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids"
+                                ]
+                            }, 
+                            {
+                                "id": 1012, 
                                 "guid": "c22a0db1-6476-5649-9aee-2f6f2adbc69c", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:00:00+01:00", 
@@ -8368,15 +8368,15 @@
                             }, 
                             {
                                 "id": 1321, 
-                                "guid": "6192d5fe-5977-5d73-9ad1-9eefd914e813", 
+                                "guid": "3ec2e53b-7a34-5572-8591-1aca05f2a2ca", 
                                 "logo": null, 
-                                "date": "2016-12-28T12:30:00+01:00", 
-                                "start": "12:30", 
+                                "date": "2016-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
                                 "duration": "0:30", 
                                 "room": "Assembly:3D Hackspace", 
                                 "slug": "", 
                                 "title": "Thermal pictures for kids", 
-                                "subtitle": "Group 2", 
+                                "subtitle": "Group 1", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "de", 
@@ -8395,15 +8395,15 @@
                             }, 
                             {
                                 "id": 1322, 
-                                "guid": "3ec2e53b-7a34-5572-8591-1aca05f2a2ca", 
+                                "guid": "6192d5fe-5977-5d73-9ad1-9eefd914e813", 
                                 "logo": null, 
-                                "date": "2016-12-28T12:00:00+01:00", 
-                                "start": "12:00", 
+                                "date": "2016-12-28T12:30:00+01:00", 
+                                "start": "12:30", 
                                 "duration": "0:30", 
                                 "room": "Assembly:3D Hackspace", 
                                 "slug": "", 
                                 "title": "Thermal pictures for kids", 
-                                "subtitle": "Group 1", 
+                                "subtitle": "Group 2", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "de", 
@@ -8602,44 +8602,6 @@
                             }, 
                             {
                                 "id": 1046, 
-                                "guid": "2f92f65d-c298-555f-a779-67ab84e35f96", 
-                                "logo": null, 
-                                "date": "2016-12-28T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "1:00", 
-                                "room": "Assembly:Jugend hackt", 
-                                "slug": "", 
-                                "title": "Coder Dojo", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert).", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                                        "public_name": "Nana berlin"
-                                    }, 
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
-                                        "public_name": "Cyber-phil"
-                                    }, 
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
-                                        "public_name": "Niccokunzmann"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://coderdojo.com", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
-                                ]
-                            }, 
-                            {
-                                "id": 1047, 
                                 "guid": "0b7c6752-81bc-5c80-aab4-76ed520fc7a0", 
                                 "logo": null, 
                                 "date": "2016-12-28T11:00:00+01:00", 
@@ -8677,11 +8639,49 @@
                                 ]
                             }, 
                             {
-                                "id": 1048, 
+                                "id": 1047, 
                                 "guid": "071520f7-fabf-5648-89bd-c9627c89e009", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
                                 "start": "12:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Jugend hackt", 
+                                "slug": "", 
+                                "title": "Coder Dojo", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Das CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen oder Vorkenntnisse: Mentoren unters\u00fctzen alle Teilnehmer. Sie entwickeln mit Dir Projekte und stehen Dir w\u00e4hrend des kompletten Workshops zur Verf\u00fcgung.\n\nInfo: Wir stellen Dir kostenlos einen Leihcomputer f\u00fcr den Workshop zur Verf\u00fcgung. Wenn Du einen eigenen hast, dann kannst du Deinen nat\u00fcrlich gerne mitbringen (dann hast du deine Projekte direkt auf deinem Computer abgespeichert).", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                                        "public_name": "Nana berlin"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Cyber-phil", 
+                                        "public_name": "Cyber-phil"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Niccokunzmann", 
+                                        "public_name": "Niccokunzmann"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://coderdojo.com", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
+                                ]
+                            }, 
+                            {
+                                "id": 1048, 
+                                "guid": "2f92f65d-c298-555f-a779-67ab84e35f96", 
+                                "logo": null, 
+                                "date": "2016-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
                                 "duration": "1:00", 
                                 "room": "Assembly:Jugend hackt", 
                                 "slug": "", 
@@ -8798,7 +8798,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1052, 
+                                "id": 1050, 
                                 "guid": "bcf812d3-e8e7-5f55-b7a4-a7745fc53d3b", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -9131,7 +9131,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1262, 
+                                "id": 1260, 
                                 "guid": "012dc44d-a3ee-534c-87ef-5e6540feaf4d", 
                                 "logo": null, 
                                 "date": "2016-12-28T17:00:00+01:00", 
@@ -9159,7 +9159,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1306, 
+                                "id": 1303, 
                                 "guid": "fb60ba56-c243-56ed-aa93-0d8915092300", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -9247,7 +9247,7 @@
                         ], 
                         "Assembly:Flunkyground": [
                             {
-                                "id": 1107, 
+                                "id": 1106, 
                                 "guid": "8e55ac78-3d83-5f85-9e1f-353fee8f07d2", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:35:00+01:00", 
@@ -9277,7 +9277,7 @@
                         ], 
                         "Assembly:TEST ASSEMBLY PLEASE IGNORE": [
                             {
-                                "id": 1117, 
+                                "id": 1118, 
                                 "guid": "461244ef-8a95-55a4-ba3b-087fc704580a", 
                                 "logo": null, 
                                 "date": "2016-12-28T06:00:00+01:00", 
@@ -9336,7 +9336,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1187, 
+                                "id": 1186, 
                                 "guid": "a6dcc7b3-185a-5536-ba40-7bc98db7a656", 
                                 "logo": null, 
                                 "date": "2016-12-28T11:00:00+01:00", 
@@ -9391,7 +9391,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1309, 
+                                "id": 1306, 
                                 "guid": "c20d4027-94fa-5c26-9119-71f4eca8319d", 
                                 "logo": null, 
                                 "date": "2016-12-28T16:30:00+01:00", 
@@ -9418,7 +9418,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1310, 
+                                "id": 1307, 
                                 "guid": "10d43df3-715e-5515-bfeb-397d616af988", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:30:00+01:00", 
@@ -11104,7 +11104,7 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 1340, 
+                                "id": 1341, 
                                 "guid": "02030dd7-3372-50fd-97df-785d9d843774", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -11866,7 +11866,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1137, 
+                                "id": 1139, 
                                 "guid": "8ad06813-88de-523f-b7ce-a73c8b91471a", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -12089,16 +12089,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1084, 
-                                "guid": "ae9df1ec-99ff-578a-86a2-b2c09debe54e", 
+                                "id": 1083, 
+                                "guid": "06ea9962-c4da-5db8-8541-0a0fa3b8712e", 
                                 "logo": null, 
-                                "date": "2016-12-29T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "1:00", 
+                                "date": "2016-12-29T19:45:00+01:00", 
+                                "start": "19:45", 
+                                "duration": "0:30", 
                                 "room": "Hall B", 
                                 "slug": "", 
                                 "title": "Engelmeeting", 
-                                "subtitle": "Angelmeeting day 3", 
+                                "subtitle": "Angel meeting day 3", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -12116,16 +12116,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1086, 
-                                "guid": "06ea9962-c4da-5db8-8541-0a0fa3b8712e", 
+                                "id": 1092, 
+                                "guid": "ae9df1ec-99ff-578a-86a2-b2c09debe54e", 
                                 "logo": null, 
-                                "date": "2016-12-29T19:45:00+01:00", 
-                                "start": "19:45", 
-                                "duration": "0:30", 
+                                "date": "2016-12-29T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
                                 "room": "Hall B", 
                                 "slug": "", 
                                 "title": "Engelmeeting", 
-                                "subtitle": "Angel meeting day 3", 
+                                "subtitle": "Angelmeeting day 3", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -12176,7 +12176,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1256, 
+                                "id": 1254, 
                                 "guid": "ad9c6d86-244a-5985-ac0d-259ecb3c6f18", 
                                 "logo": null, 
                                 "date": "2016-12-29T12:00:00+01:00", 
@@ -13251,7 +13251,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1075, 
+                                "id": 1076, 
                                 "guid": "d2ca1412-729a-5533-9d4b-1f4c1d0da999", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -13603,11 +13603,11 @@
                             }, 
                             {
                                 "id": 1207, 
-                                "guid": "5159c63e-53a9-51e3-8714-866519242bd2", 
+                                "guid": "bc3447a3-4f9d-5d8d-be5d-3a9a201a4c26", 
                                 "logo": null, 
-                                "date": "2016-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "3:00", 
+                                "date": "2016-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:15", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Movie Night", 
@@ -13624,11 +13624,11 @@
                             }, 
                             {
                                 "id": 1208, 
-                                "guid": "bc3447a3-4f9d-5d8d-be5d-3a9a201a4c26", 
+                                "guid": "5159c63e-53a9-51e3-8714-866519242bd2", 
                                 "logo": null, 
-                                "date": "2016-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "2:15", 
+                                "date": "2016-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "3:00", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Movie Night", 
@@ -13704,7 +13704,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1301, 
+                                "id": 1299, 
                                 "guid": "8abfa611-f221-5754-8a10-875e9c507771", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:15:00+01:00", 
@@ -13795,7 +13795,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1054, 
+                                "id": 1056, 
                                 "guid": "207a141c-80c4-506c-9864-3b262eb9baed", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -14017,7 +14017,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1330, 
+                                "id": 1328, 
                                 "guid": "31953ae7-980b-52af-b514-19beed920e3a", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:40:00+01:00", 
@@ -14044,7 +14044,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1333, 
+                                "id": 1331, 
                                 "guid": "65fde067-159c-5fd4-b27c-bb2d9e2c1f78", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:10:00+01:00", 
@@ -14101,7 +14101,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1012, 
+                                "id": 1010, 
                                 "guid": "d818acfb-8b35-5d8c-8f1b-2e2a205a4824", 
                                 "logo": null, 
                                 "date": "2016-12-29T18:00:00+01:00", 
@@ -14157,7 +14157,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1049, 
+                                "id": 1051, 
                                 "guid": "c0d51868-4df2-5f60-a8b6-cb67fe599939", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -14387,7 +14387,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1260, 
+                                "id": 1261, 
                                 "guid": "59c968e4-cb08-511d-b8bf-1aa9e11cdf9f", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -14531,7 +14531,7 @@
                         ], 
                         "Assembly:Chaostreff Flensburg": [
                             {
-                                "id": 1064, 
+                                "id": 1065, 
                                 "guid": "8a1b14fc-ea82-52b5-9fd8-910dc25e9362", 
                                 "logo": null, 
                                 "date": "2016-12-29T17:00:00+01:00", 
@@ -14565,7 +14565,7 @@
                         ], 
                         "Assembly:Scottish Consulate": [
                             {
-                                "id": 1076, 
+                                "id": 1075, 
                                 "guid": "c3916b55-20e6-5b51-ac74-c37e8161d49d", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:00:00+01:00", 
@@ -14686,7 +14686,7 @@
                         ], 
                         "Assembly:Flunkyground": [
                             {
-                                "id": 1108, 
+                                "id": 1107, 
                                 "guid": "9cf59c4a-3767-5ce0-a07e-61834c1dec6e", 
                                 "logo": null, 
                                 "date": "2016-12-30T01:55:00+01:00", 
@@ -14744,6 +14744,33 @@
                             }, 
                             {
                                 "id": 1156, 
+                                "guid": "0d21fc3d-0f93-5dbb-8388-569ca104d617", 
+                                "logo": null, 
+                                "date": "2016-12-29T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Anarchist Village", 
+                                "slug": "", 
+                                "title": "Instant Matrix Games", 
+                                "subtitle": "PRESENT", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Instant Matrix Games is a framework for the rapid development of an educational or analytical environment.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
+                                        "public_name": "Klemens"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Instant_Matrix_Games"
+                                ]
+                            }, 
+                            {
+                                "id": 1157, 
                                 "guid": "c76d83e4-a228-5460-ac73-91497f330619", 
                                 "logo": null, 
                                 "date": "2016-12-29T12:00:00+01:00", 
@@ -14770,7 +14797,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1157, 
+                                "id": 1158, 
                                 "guid": "da61b714-b337-5c7a-a8ed-8cd82192e940", 
                                 "logo": null, 
                                 "date": "2016-12-29T17:00:00+01:00", 
@@ -14780,33 +14807,6 @@
                                 "slug": "", 
                                 "title": "Instant Matrix Games", 
                                 "subtitle": "FUTURE", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Instant Matrix Games is a framework for the rapid development of an educational or analytical environment.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Klemens", 
-                                        "public_name": "Klemens"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Instant_Matrix_Games"
-                                ]
-                            }, 
-                            {
-                                "id": 1158, 
-                                "guid": "0d21fc3d-0f93-5dbb-8388-569ca104d617", 
-                                "logo": null, 
-                                "date": "2016-12-29T14:30:00+01:00", 
-                                "start": "14:30", 
-                                "duration": "2:00", 
-                                "room": "Assembly:Anarchist Village", 
-                                "slug": "", 
-                                "title": "Instant Matrix Games", 
-                                "subtitle": "PRESENT", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "en", 
@@ -14946,7 +14946,40 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1170, 
+                                "id": 1173, 
+                                "guid": "1a66f12c-dfec-52f8-bf0d-e0936fdce833", 
+                                "logo": null, 
+                                "date": "2016-12-30T02:00:00+01:00", 
+                                "start": "02:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:Chaos West", 
+                                "slug": "", 
+                                "title": "Klangteppich", 
+                                "subtitle": "b2ag DJ set: Drum and Bass", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                                        "public_name": "Bam"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                                        "public_name": "JayDee2202"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich"
+                                ]
+                            }, 
+                            {
+                                "id": 1176, 
                                 "guid": "5e23e52e-465a-5ae0-90d8-78311c711481", 
                                 "logo": null, 
                                 "date": "2016-12-29T23:00:00+01:00", 
@@ -14979,7 +15012,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1171, 
+                                "id": 1177, 
                                 "guid": "7e4f05b5-24ca-5ef3-b31c-1f22874ea719", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:00:00+01:00", 
@@ -14989,39 +15022,6 @@
                                 "slug": "", 
                                 "title": "Klangteppich", 
                                 "subtitle": "[[User:Tuxinaut|Tuxinaut]] DJ set: Techno", 
-                                "track": "self organized sessions", 
-                                "type": "other", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                                        "public_name": "Bam"
-                                    }, 
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                                        "public_name": "JayDee2202"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://live.ber.c3voc.de:8000/chaoswest_lounge.ogg", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich"
-                                ]
-                            }, 
-                            {
-                                "id": 1176, 
-                                "guid": "1a66f12c-dfec-52f8-bf0d-e0936fdce833", 
-                                "logo": null, 
-                                "date": "2016-12-30T02:00:00+01:00", 
-                                "start": "02:00", 
-                                "duration": "1:30", 
-                                "room": "Assembly:Chaos West", 
-                                "slug": "", 
-                                "title": "Klangteppich", 
-                                "subtitle": "b2ag DJ set: Drum and Bass", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "en", 
@@ -15075,7 +15075,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1188, 
+                                "id": 1187, 
                                 "guid": "2da966c6-a9d7-573d-bd00-4ed96a121647", 
                                 "logo": null, 
                                 "date": "2016-12-29T11:00:00+01:00", 
@@ -15102,16 +15102,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1303, 
-                                "guid": "315fe21f-40a7-53dc-80dc-ebe03f9cbb47", 
+                                "id": 1308, 
+                                "guid": "af2bf220-2a24-58e6-b30a-bbc1b07c90e5", 
                                 "logo": null, 
-                                "date": "2016-12-29T18:30:00+01:00", 
-                                "start": "18:30", 
+                                "date": "2016-12-29T16:30:00+01:00", 
+                                "start": "16:30", 
                                 "duration": "1:30", 
                                 "room": "Assembly:HardwareHackingArea", 
                                 "slug": "", 
                                 "title": "Surface Mount Electronics Assembly for Terrified Beginners", 
-                                "subtitle": "Day 3 - Session 2", 
+                                "subtitle": "Day 3 - Session 1", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "en", 
@@ -15129,16 +15129,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1311, 
-                                "guid": "af2bf220-2a24-58e6-b30a-bbc1b07c90e5", 
+                                "id": 1310, 
+                                "guid": "315fe21f-40a7-53dc-80dc-ebe03f9cbb47", 
                                 "logo": null, 
-                                "date": "2016-12-29T16:30:00+01:00", 
-                                "start": "16:30", 
+                                "date": "2016-12-29T18:30:00+01:00", 
+                                "start": "18:30", 
                                 "duration": "1:30", 
                                 "room": "Assembly:HardwareHackingArea", 
                                 "slug": "", 
                                 "title": "Surface Mount Electronics Assembly for Terrified Beginners", 
-                                "subtitle": "Day 3 - Session 1", 
+                                "subtitle": "Day 3 - Session 2", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "en", 
@@ -15390,10 +15390,10 @@
                         "Assembly:VOC": [
                             {
                                 "id": 1342, 
-                                "guid": "e386064d-ecf2-5873-8afd-88fedc9107d0", 
+                                "guid": "f968fd49-5066-586a-949f-8d878783dad0", 
                                 "logo": null, 
-                                "date": "2016-12-29T15:00:00+01:00", 
-                                "start": "15:00", 
+                                "date": "2016-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
                                 "duration": "2:00", 
                                 "room": "Assembly:VOC", 
                                 "slug": "", 
@@ -15418,10 +15418,10 @@
                             }, 
                             {
                                 "id": 1343, 
-                                "guid": "f968fd49-5066-586a-949f-8d878783dad0", 
+                                "guid": "e386064d-ecf2-5873-8afd-88fedc9107d0", 
                                 "logo": null, 
-                                "date": "2016-12-29T17:00:00+01:00", 
-                                "start": "17:00", 
+                                "date": "2016-12-29T15:00:00+01:00", 
+                                "start": "15:00", 
                                 "duration": "2:00", 
                                 "room": "Assembly:VOC", 
                                 "slug": "", 
@@ -15502,118 +15502,6 @@
                             }, 
                             {
                                 "id": 1346, 
-                                "guid": "93b4d157-4ed8-5077-9c49-506dacc02b32", 
-                                "logo": null, 
-                                "date": "2016-12-29T15:15:00+01:00", 
-                                "start": "15:15", 
-                                "duration": "0:15", 
-                                "room": "Assembly:VOC", 
-                                "slug": "", 
-                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
-                                "subtitle": "English or German hands-on", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
-                                        "public_name": "NeoFisch"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3voc.de/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
-                                ]
-                            }, 
-                            {
-                                "id": 1347, 
-                                "guid": "e82235c6-dee1-5eab-a311-507ef5f6a772", 
-                                "logo": null, 
-                                "date": "2016-12-29T15:30:00+01:00", 
-                                "start": "15:30", 
-                                "duration": "0:15", 
-                                "room": "Assembly:VOC", 
-                                "slug": "", 
-                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
-                                "subtitle": "English or German hands-on", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
-                                        "public_name": "NeoFisch"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3voc.de/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
-                                ]
-                            }, 
-                            {
-                                "id": 1348, 
-                                "guid": "96368702-f3c6-51c3-aa7e-497aa4493ea6", 
-                                "logo": null, 
-                                "date": "2016-12-29T14:15:00+01:00", 
-                                "start": "14:15", 
-                                "duration": "0:15", 
-                                "room": "Assembly:VOC", 
-                                "slug": "", 
-                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
-                                "subtitle": "English or German hands-on", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
-                                        "public_name": "NeoFisch"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3voc.de/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
-                                ]
-                            }, 
-                            {
-                                "id": 1349, 
-                                "guid": "22cb89e9-d2fa-5c8c-8e93-99af34e08adc", 
-                                "logo": null, 
-                                "date": "2016-12-29T15:45:00+01:00", 
-                                "start": "15:45", 
-                                "duration": "0:15", 
-                                "room": "Assembly:VOC", 
-                                "slug": "", 
-                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
-                                "subtitle": "English or German hands-on", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
-                                        "public_name": "NeoFisch"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3voc.de/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
-                                ]
-                            }, 
-                            {
-                                "id": 1350, 
                                 "guid": "565e43f0-823d-5029-b6d1-dcad85c9d36b", 
                                 "logo": null, 
                                 "date": "2016-12-29T14:30:00+01:00", 
@@ -15641,7 +15529,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1351, 
+                                "id": 1347, 
                                 "guid": "8647dc2d-5aa5-5c5e-b2d1-08eca541d0ec", 
                                 "logo": null, 
                                 "date": "2016-12-29T14:45:00+01:00", 
@@ -15669,7 +15557,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1352, 
+                                "id": 1348, 
                                 "guid": "6d349bcb-7c9f-58dc-a1ec-0eb5c5d45627", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -15697,7 +15585,119 @@
                                 ]
                             }, 
                             {
-                                "id": 1360, 
+                                "id": 1349, 
+                                "guid": "93b4d157-4ed8-5077-9c49-506dacc02b32", 
+                                "logo": null, 
+                                "date": "2016-12-29T15:15:00+01:00", 
+                                "start": "15:15", 
+                                "duration": "0:15", 
+                                "room": "Assembly:VOC", 
+                                "slug": "", 
+                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
+                                "subtitle": "English or German hands-on", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                                        "public_name": "NeoFisch"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
+                                ]
+                            }, 
+                            {
+                                "id": 1350, 
+                                "guid": "e82235c6-dee1-5eab-a311-507ef5f6a772", 
+                                "logo": null, 
+                                "date": "2016-12-29T15:30:00+01:00", 
+                                "start": "15:30", 
+                                "duration": "0:15", 
+                                "room": "Assembly:VOC", 
+                                "slug": "", 
+                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
+                                "subtitle": "English or German hands-on", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                                        "public_name": "NeoFisch"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
+                                ]
+                            }, 
+                            {
+                                "id": 1351, 
+                                "guid": "96368702-f3c6-51c3-aa7e-497aa4493ea6", 
+                                "logo": null, 
+                                "date": "2016-12-29T14:15:00+01:00", 
+                                "start": "14:15", 
+                                "duration": "0:15", 
+                                "room": "Assembly:VOC", 
+                                "slug": "", 
+                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
+                                "subtitle": "English or German hands-on", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                                        "public_name": "NeoFisch"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
+                                ]
+                            }, 
+                            {
+                                "id": 1352, 
+                                "guid": "22cb89e9-d2fa-5c8c-8e93-99af34e08adc", 
+                                "logo": null, 
+                                "date": "2016-12-29T15:45:00+01:00", 
+                                "start": "15:45", 
+                                "duration": "0:15", 
+                                "room": "Assembly:VOC", 
+                                "slug": "", 
+                                "title": "VOC Video Post-Processing Cutting Videos with Donuts", 
+                                "subtitle": "English or German hands-on", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We cut and post-process the recorded tracks LIVE, come by and join for discussion and small workshop panels in German or English.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NeoFisch", 
+                                        "public_name": "NeoFisch"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:VOC_Video_Post-Processing_Cutting_Videos_with_Donuts"
+                                ]
+                            }, 
+                            {
+                                "id": 1359, 
                                 "guid": "edd42715-d0b9-5932-a214-7d5329cfb8c1", 
                                 "logo": null, 
                                 "date": "2016-12-29T16:00:00+01:00", 
@@ -15725,7 +15725,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1361, 
+                                "id": 1360, 
                                 "guid": "f7bc6d3b-24c8-5d7e-9fe5-89bf2e964376", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:30:00+01:00", 
@@ -16404,7 +16404,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1341, 
+                                "id": 1339, 
                                 "guid": "040bdc37-9d98-55da-8b88-b794180c8629", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
@@ -16604,7 +16604,7 @@
                         "Hall A.2": [], 
                         "Hall B": [
                             {
-                                "id": 1088, 
+                                "id": 1085, 
                                 "guid": "09bad8a1-b1e9-5edb-9e0f-c2e73f6f284c", 
                                 "logo": null, 
                                 "date": "2016-12-30T13:00:00+01:00", 
@@ -16631,7 +16631,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1254, 
+                                "id": 1256, 
                                 "guid": "0643cf42-b551-52d2-ab75-06dc45cc6602", 
                                 "logo": null, 
                                 "date": "2016-12-30T12:00:00+01:00", 
@@ -16724,7 +16724,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1024, 
+                                "id": 1025, 
                                 "guid": "02678ce6-04aa-5f61-8f79-29c0edbe4dbb", 
                                 "logo": null, 
                                 "date": "2016-12-30T12:00:00+01:00", 
@@ -17181,7 +17181,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1131, 
+                                "id": 1132, 
                                 "guid": "8a32bbeb-170a-57bb-b822-037a7309839c", 
                                 "logo": null, 
                                 "date": "2016-12-30T18:15:00+01:00", 
@@ -17265,7 +17265,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1326, 
+                                "id": 1332, 
                                 "guid": "9a13a7bc-83ff-57cf-8211-114c9ae33196", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:10:00+01:00", 
@@ -17383,7 +17383,7 @@
                         ], 
                         "Assembly:Freifunk": [
                             {
-                                "id": 1050, 
+                                "id": 1052, 
                                 "guid": "4d630a7a-c685-53a1-b22d-c1f8dc9c1468", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
@@ -17506,7 +17506,7 @@
                         ], 
                         "Assembly:TEST ASSEMBLY PLEASE IGNORE": [
                             {
-                                "id": 1118, 
+                                "id": 1117, 
                                 "guid": "5d9085ed-702b-5cc6-ac42-4fec102f1c12", 
                                 "logo": null, 
                                 "date": "2016-12-30T13:00:00+01:00", 
@@ -17536,7 +17536,7 @@
                         ], 
                         "Assembly:Mainframe": [
                             {
-                                "id": 1128, 
+                                "id": 1127, 
                                 "guid": "e1cff5e4-c774-56b2-873b-cd38f99a9d18", 
                                 "logo": null, 
                                 "date": "2016-12-30T14:00:00+01:00", 
@@ -17565,7 +17565,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1189, 
+                                "id": 1188, 
                                 "guid": "dce1f72e-55ed-515b-b0b2-06cd5fb4a085", 
                                 "logo": null, 
                                 "date": "2016-12-30T11:00:00+01:00", 
@@ -17620,7 +17620,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1305, 
+                                "id": 1302, 
                                 "guid": "3cc33c6b-8084-521b-9253-80c44359103f", 
                                 "logo": null, 
                                 "date": "2016-12-30T13:00:00+01:00", 
@@ -17647,7 +17647,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1308, 
+                                "id": 1305, 
                                 "guid": "b34e34d9-0581-5b8c-bf59-8fea30c8514d", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
@@ -17769,15 +17769,15 @@
                         "Assembly:VOC": [
                             {
                                 "id": 1358, 
-                                "guid": "aac59eb8-b794-5c63-b8cc-e5f9d9dc6c42", 
+                                "guid": "5e991fd7-4a64-52e1-841d-4ed5a28f9f73", 
                                 "logo": null, 
-                                "date": "2016-12-30T17:15:00+01:00", 
-                                "start": "17:15", 
+                                "date": "2016-12-30T13:00:00+01:00", 
+                                "start": "13:00", 
                                 "duration": "1:00", 
                                 "room": "Assembly:VOC", 
                                 "slug": "", 
                                 "title": "Voctomix", 
-                                "subtitle": "MAYBE Meeting, depends on other tasks.", 
+                                "subtitle": "In German or English.", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
                                 "language": "de", 
@@ -17796,16 +17796,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1359, 
-                                "guid": "5e991fd7-4a64-52e1-841d-4ed5a28f9f73", 
+                                "id": 1361, 
+                                "guid": "aac59eb8-b794-5c63-b8cc-e5f9d9dc6c42", 
                                 "logo": null, 
-                                "date": "2016-12-30T13:00:00+01:00", 
-                                "start": "13:00", 
+                                "date": "2016-12-30T17:15:00+01:00", 
+                                "start": "17:15", 
                                 "duration": "1:00", 
                                 "room": "Assembly:VOC", 
                                 "slug": "", 
                                 "title": "Voctomix", 
-                                "subtitle": "In German or English.", 
+                                "subtitle": "MAYBE Meeting, depends on other tasks.", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
                                 "language": "de", 
