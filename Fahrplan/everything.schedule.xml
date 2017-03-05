@@ -1,9 +1,10 @@
 <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
 <html><head>
-<title>503 Service Temporarily Unavailable</title>
+<title>502 Proxy Error</title>
 </head><body>
-<h1>Service Temporarily Unavailable</h1>
-<p>The server is temporarily unable to service your
-request due to maintenance downtime or capacity
-problems. Please try again later.</p>
+<h1>Proxy Error</h1>
+<p>The proxy server received an invalid
+response from an upstream server.<br />
+The proxy server could not handle the request <em><a href="/33C3/everything.schedule.xml">GET&nbsp;/33C3/everything.schedule.xml</a></em>.<p>
+Reason: <strong>Error reading from remote server</strong></p></p>
 </body></html>
